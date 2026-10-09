@@ -6,3 +6,5 @@
 .product-image.reed img,.product-card:hover .reed img{transform:none;object-fit:contain;background:#fff}
 
 .product-image.candle img,.product-card:hover .candle img{transform:none;object-fit:contain;background:#fff}.gallery-count{font-size:11px;color:var(--muted);margin:25px 0 15px}.gallery-more{margin-bottom:10px}.gallery-more[hidden]{display:none}.dialog-image{object-fit:contain;background:white}
+
+.social-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}.social-links a{display:inline-flex;align-items:center;gap:20px;padding:8px 14px;border:1px solid var(--line);font-size:11px}.social-links a:hover{background:#e5e7db}
