@@ -31,3 +31,9 @@ Validation covers independent page loading, complete company copy, every product
 The homepage hero now uses `assets/lanarve-lifestyle-hero.png`, an AI-generated lifestyle composition based on three supplied Lanarve product references. It depicts candle, reed diffuser and crystal diffuser products in a warm neutral interior. This is a styled brand visual, not a documentary product photograph. The original generated image remains under `/workspace/generated_images`.
 
 `assets/lanarve-logo.svg` is the new scalable wordmark with an original L/V letter monogram. `assets/lanarve-mark.svg` provides the matching standalone mark and favicon. Colours match the website's warm brown/cream palette. Header branding is applied to every page. Banner/branding verified at 390, 768, 1024 and 1440 pixel viewport widths.
+
+## Homepage lifestyle carousel
+
+All homepage product feature images are lifestyle compositions. Three category-specific generated scenes (`lanarve-candle-scene.png`, `lanarve-reed-scene.png`, `lanarve-crystal-scene.png`) reference the user's products and retain Lanarve labels. The original combined lifestyle scene is used for Who We Are; Mission/Vision use candle/crystal scenes. Generated originals remain in `/workspace/generated_images`. These images are brand staging visuals, not catalogue specification photos.
+
+The banner rotates every 6.5 seconds, supports category dots, previous/next and pause controls, and links to the matching category. Rotation pauses on hover, keyboard focus and background tabs, and defaults to paused for reduced-motion users. Without JavaScript the first scene remains visible. Homepage headings use simple sans-serif typography. Four original SVG line illustrations identify capabilities. Closing slogan: “Beautiful scents. Meaningful moments.”

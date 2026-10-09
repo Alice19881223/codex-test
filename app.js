@@ -45,3 +45,14 @@ function closeProductMenu(){productMenu.hidden=true;productMenuToggle.setAttribu
 productMenuToggle.addEventListener('click',()=>{const open=productMenu.hidden;productMenu.hidden=!open;productMenuToggle.setAttribute('aria-expanded',String(open));});
 document.addEventListener('click',e=>{if(!e.target.closest('.product-navigation'))closeProductMenu();});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!productMenu.hidden){closeProductMenu();productMenuToggle.focus();}});
+
+const carousel=document.querySelector('.home-page .hero');
+if(carousel){
+ const slides=[...carousel.querySelectorAll('.hero-slide')];const dots=[...carousel.querySelectorAll('[data-slide]')];const pause=carousel.querySelector('#carousel-pause');const reduced=matchMedia('(prefers-reduced-motion: reduce)');let active=0;let userPaused=reduced.matches;let timer;
+ const names=['SCENTED CANDLES','REED DIFFUSERS','CRYSTAL DIFFUSERS'];const links=['products-current.html','products-reed-1.html','products-crystal-1.html'];
+ function show(index){active=(index+slides.length)%slides.length;slides.forEach((slide,i)=>{slide.classList.toggle('is-active',i===active);slide.setAttribute('aria-hidden',String(i!==active));});dots.forEach((dot,i)=>{dot.classList.toggle('is-active',i===active);dot.setAttribute('aria-pressed',String(i===active));});document.querySelector('#slide-label').textContent=`0${active+1} / 03 · ${names[active]}`;document.querySelector('#hero-collection-link').href=links[active];}
+ function stop(){clearInterval(timer);timer=undefined;}
+ function start(){stop();if(!userPaused&&!document.hidden&&!carousel.matches(':hover')&&!carousel.contains(document.activeElement))timer=setInterval(()=>show(active+1),6500);}
+ function syncPause(){pause.setAttribute('aria-pressed',String(userPaused));pause.setAttribute('aria-label',userPaused?'Start banner rotation':'Pause banner rotation');pause.textContent=userPaused?'▷':'Ⅱ';}
+ dots.forEach(dot=>dot.addEventListener('click',()=>{show(Number(dot.dataset.slide));start();}));carousel.querySelectorAll('[data-direction]').forEach(button=>button.addEventListener('click',()=>{show(active+Number(button.dataset.direction));start();}));pause.addEventListener('click',()=>{userPaused=!userPaused;syncPause();start();});carousel.addEventListener('mouseenter',stop);carousel.addEventListener('mouseleave',start);carousel.addEventListener('focusin',stop);carousel.addEventListener('focusout',()=>setTimeout(start,0));document.addEventListener('visibilitychange',start);reduced.addEventListener('change',()=>{if(reduced.matches){userPaused=true;syncPause();start();}});syncPause();start();
+}
