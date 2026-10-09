@@ -37,3 +37,10 @@ if(document.querySelector('#scent-grid')){
  function renderScents(){const query=document.querySelector('#scent-search').value.trim().toLowerCase();const matches=scents.filter(s=>(family==='All'||s.family===family)&&`${s.name} ${s.notes} ${s.family}`.toLowerCase().includes(query));document.querySelector('#scent-grid').innerHTML=matches.map(s=>`<a class="scent-card" href="#${s.id}" data-scent="${s.id}"><span class="scent-family">${s.family}</span><span class="arrow">↗</span><h3>${escapeHtml(s.name)}</h3><span class="notes">${escapeHtml(s.notes)}</span></a>`).join('');document.querySelector('#empty').hidden=matches.length>0;document.querySelectorAll('[data-scent]').forEach(link=>link.addEventListener('click',e=>{e.preventDefault();history.replaceState(null,'',link.getAttribute('href'));scentDetail(scents.find(s=>s.id===link.dataset.scent));}));}
  filters.querySelectorAll('button').forEach(button=>button.addEventListener('click',()=>{family=button.dataset.family;filters.querySelectorAll('button').forEach(b=>{b.classList.toggle('active',b===button);b.setAttribute('aria-pressed',String(b===button));});renderScents();}));document.querySelector('#scent-search').addEventListener('input',renderScents);renderScents();const initial=scents.find(s=>`#${s.id}`===location.hash);if(initial)scentDetail(initial);
 }
+
+const productMenuToggle=document.querySelector('.product-menu-toggle');
+const productMenu=document.querySelector('#product-menu');
+function closeProductMenu(){productMenu.hidden=true;productMenuToggle.setAttribute('aria-expanded','false');}
+productMenuToggle.addEventListener('click',()=>{const open=productMenu.hidden;productMenu.hidden=!open;productMenuToggle.setAttribute('aria-expanded',String(open));});
+document.addEventListener('click',e=>{if(!e.target.closest('.product-navigation'))closeProductMenu();});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!productMenu.hidden){closeProductMenu();productMenuToggle.focus();}});
