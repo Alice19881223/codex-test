@@ -20,16 +20,17 @@ const menu=document.querySelector('.menu-toggle');menu.addEventListener('click',
 document.querySelector('#year').textContent=new Date().getFullYear();
 const grid=document.querySelector('#catalogue-grid');
 if(grid){
- const isGift=location.pathname.endsWith('gifts.html');const tabs=document.querySelector('#category-tabs');let category,page;
- function readState(){const query=new URLSearchParams(location.search);category=isGift?'gift':['candle','reed','crystal'].includes(query.get('category'))?query.get('category'):'candle';const raw=Number(query.get('page'));page=Number.isSafeInteger(raw)&&raw>0?raw:1;page=Math.min(page,Math.ceil(catalogues[category].length/12));}
- function change(nextCategory,nextPage){const url=new URL(location.href);url.searchParams.set('category',nextCategory);url.searchParams.set('page',nextPage);history.pushState(null,'',url);readState();render();grid.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});document.querySelector('#pagination [aria-current="page"]').focus({preventScroll:true});}
- function render(){
-  if(tabs){tabs.innerHTML=['candle','reed','crystal'].map(key=>`<button data-category="${key}" class="${key===category?'active':''}" aria-pressed="${key===category}">${categoryNames[key]}</button>`).join('');tabs.querySelectorAll('button').forEach(button=>button.addEventListener('click',()=>change(button.dataset.category,1)));document.querySelector('#catalogue-title').textContent=categoryNames[category];}
-  const photos=catalogues[category];const start=(page-1)*12;grid.replaceChildren();photos.slice(start,start+12).forEach((photo,offset)=>{const card=document.createElement('button');card.type='button';card.className='crystal-item';card.dataset.photo=String(start+offset);card.innerHTML=`<img src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)}" loading="lazy"><span class="eyebrow">${escapeHtml(photo.series)}</span><h3>${escapeHtml(photo.name)}</h3><span class="product-link">VIEW PRODUCT <span>↗</span></span>`;card.addEventListener('click',()=>openPhoto(photo,category));grid.append(card);});
-  const total=Math.ceil(photos.length/12);document.querySelector('#catalogue-count').textContent=`Showing ${start+1}–${Math.min(start+12,photos.length)} of ${photos.length} products · Page ${page} of ${total}`;
-  const pager=document.querySelector('#pagination');pager.innerHTML=`<button data-page="${page-1}" ${page===1?'disabled':''} aria-label="Previous page">← Previous</button>${Array.from({length:total},(_,i)=>`<button data-page="${i+1}" ${page===i+1?'aria-current="page"':''} aria-label="Page ${i+1}">${i+1}</button>`).join('')}<button data-page="${page+1}" ${page===total?'disabled':''} aria-label="Next page">Next →</button>`;pager.querySelectorAll('button').forEach(button=>button.addEventListener('click',()=>change(category,Number(button.dataset.page))));
+ const category=document.body.dataset.category;
+ const photos=catalogues[category];
+ grid.querySelectorAll('[data-photo]').forEach(card=>card.addEventListener('click',event=>{event.preventDefault();openPhoto(photos[Number(card.dataset.photo)],category);}));
+ // Preserve older bookmarked category/page query links.
+ const query=new URLSearchParams(location.search);
+ if(query.has('category')||query.has('page')){
+  const cat=category==='gift'?'gift':['candle','reed','crystal'].includes(query.get('category'))?query.get('category'):category;
+  const raw=Number(query.get('page'));const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,Math.ceil(catalogues[cat].length/12));
+  const target=cat==='gift'?(page===1?'gifts.html':`gifts-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
+  location.replace(target);
  }
- readState();render();window.addEventListener('popstate',()=>{readState();render()});
 }
 const filters=document.querySelector('.filters:not(#category-tabs)');
 if(document.querySelector('#scent-grid')){
