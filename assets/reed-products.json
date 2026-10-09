@@ -223,5 +223,125 @@
     "name": "Sandalwood — 01",
     "image": "assets/reeds/reeds-130.webp",
     "series": "Sandalwood"
+  },
+  {
+    "name": "Amber Bouquet",
+    "image": "assets/reeds/reed-c188d2780401e54a.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "name": "Amber Tea",
+    "image": "assets/reeds/reed-08fc7a8f9eb9370f.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "name": "White Tea Blossom",
+    "image": "assets/reeds/reed-374f9f3b71955935.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "name": "Amber Floral Arrangement",
+    "image": "assets/reeds/reed-61ad69a502bd3498.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "name": "White Gardenia",
+    "image": "assets/reeds/reed-3646bcf197e2090c.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "name": "Four Seasons Tea",
+    "image": "assets/reeds/reed-b2f6d6a6d3e67553.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Gardenia & White Tea",
+    "image": "assets/reeds/reed-db41da38fbfc9eb9.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Osmanthus & Longjing",
+    "image": "assets/reeds/reed-f82a3208f64026bc.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Plum & Sencha",
+    "image": "assets/reeds/reed-1883f549fd4393dd.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Olive Magnolia",
+    "image": "assets/reeds/reed-0d3f3a982460ae6d.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "White Peach & Oolong",
+    "image": "assets/reeds/reed-6ffc48159c0055e0.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Jasmine Green Tea",
+    "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "name": "Seven-Day Fragrance Gift Set",
+    "image": "assets/reeds/reed-6760c2cb73451078.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Refresh",
+    "image": "assets/reeds/reed-e216d9fbfb361cfc.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Joy",
+    "image": "assets/reeds/reed-ab4ba29f23a51f7f.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Focus",
+    "image": "assets/reeds/reed-fb8173ad10d76faa.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Spark",
+    "image": "assets/reeds/reed-baddad1b04ff467e.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Wander",
+    "image": "assets/reeds/reed-7a574f3e4a4ab4e6.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Glow",
+    "image": "assets/reeds/reed-8d477d2ae4137382.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Rest",
+    "image": "assets/reeds/reed-167e5464ca5d6fc7.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "name": "Winter Bonfire",
+    "image": "assets/reeds/reed-56e38210a5f9a26d.webp",
+    "series": "Festive"
+  },
+  {
+    "name": "Christmas Amber",
+    "image": "assets/reeds/reed-b695597b0dabb53c.webp",
+    "series": "Festive"
+  },
+  {
+    "name": "Fireside Wishes",
+    "image": "assets/reeds/reed-b96dc85d16ee173c.webp",
+    "series": "Festive"
+  },
+  {
+    "name": "Cedar Cabin",
+    "image": "assets/reeds/reed-5e8b9aaf6c03a6a0.webp",
+    "series": "Festive"
   }
 ]

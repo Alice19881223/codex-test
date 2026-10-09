@@ -27,3 +27,7 @@ Added all four images from the downloadable 无火香薰3.zip, optimized as WebP
 ## Bulk photo update
 
 Processed 20 downloadable ZIP uploads, deduplicated exact source image bytes, and added 89 candle photos and 41 new reed diffuser photos. The reed gallery now contains 45 photos including the four earlier uploads. All photos are available through accessible Load More buttons, 12 at a time, with lazy loading and WebP compression. Display names are collection identifiers for review, not confirmed SKU names. Source filenames and SHA-256 hashes are recorded in `assets/photo-source-manifest.json`. Both uploaded copies of 无火香薰1.zip exceed the download limit and were not processed.
+
+## Floral, tea and festive reed update
+
+Processed the four newly split reed archives. Added 24 unique supplied photos; skipped 0 duplicates. Reed gallery total: 69. English names are translations of the source filenames, subject to brand review.

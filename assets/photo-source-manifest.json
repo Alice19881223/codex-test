@@ -1168,5 +1168,221 @@
     "name": "Sandalwood — 01",
     "image": "assets/reeds/reeds-130.webp",
     "series": "Sandalwood"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰1/1 花香薰/Lanarve琥珀扩香瓶与花束.png",
+    "file": "reed-c188d2780401e54a.webp",
+    "sha256": "c188d2780401e54a44184c0f01762c4b4af5ebd3fba7ea1af2e01ea016d1d667",
+    "name": "Amber Bouquet",
+    "image": "assets/reeds/reed-c188d2780401e54a.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰1/1 花香薰/Lanarve琥珀茶香扩香瓶.png",
+    "file": "reed-08fc7a8f9eb9370f.webp",
+    "sha256": "08fc7a8f9eb9370ffa1682099ff22685cc5026c2cce36fe68c2596cb577a69df",
+    "name": "Amber Tea",
+    "image": "assets/reeds/reed-08fc7a8f9eb9370f.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰1/1 花香薰/Lanarve白茶花香藤条扩香瓶.png",
+    "file": "reed-374f9f3b71955935.webp",
+    "sha256": "374f9f3b71955935935b9e981b2e1a3aca881f733afe71347e3442f44efd9d50",
+    "name": "White Tea Blossom",
+    "image": "assets/reeds/reed-374f9f3b71955935.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰1/1 花香薰/琥珀香薰与永生花束.png",
+    "file": "reed-61ad69a502bd3498.webp",
+    "sha256": "61ad69a502bd3498591e651f2974c2637d8e4b81f73c245c89e38956998b4fa5",
+    "name": "Amber Floral Arrangement",
+    "image": "assets/reeds/reed-61ad69a502bd3498.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰1/1 花香薰/白栀子花琥珀扩香瓶.png",
+    "file": "reed-3646bcf197e2090c.webp",
+    "sha256": "3646bcf197e2090c8dda42b35bed694a11315bf85da4fab332a4d3b6db83bcc0",
+    "name": "White Gardenia",
+    "image": "assets/reeds/reed-3646bcf197e2090c.webp",
+    "series": "Floral Bouquet"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/四季茶.png",
+    "file": "reed-b2f6d6a6d3e67553.webp",
+    "sha256": "b2f6d6a6d3e67553fbde2b5fb579fbe9809a763be322d2015ab917010a8de616",
+    "name": "Four Seasons Tea",
+    "image": "assets/reeds/reed-b2f6d6a6d3e67553.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/栀子白茶.png",
+    "file": "reed-db41da38fbfc9eb9.webp",
+    "sha256": "db41da38fbfc9eb9b321f2b213a3ee786ffe6aa2b4d46d825899ccf201d498e6",
+    "name": "Gardenia & White Tea",
+    "image": "assets/reeds/reed-db41da38fbfc9eb9.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/桂花龙井.png",
+    "file": "reed-f82a3208f64026bc.webp",
+    "sha256": "f82a3208f64026bca2756df357652a28e20f9661d7f4bc38773d2b1930d39e1c",
+    "name": "Osmanthus & Longjing",
+    "image": "assets/reeds/reed-f82a3208f64026bc.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/梅子煎茶.png",
+    "file": "reed-1883f549fd4393dd.webp",
+    "sha256": "1883f549fd4393dd10dbecb85e82288bc5fcf28f7da1db08d2c5ef9dfa81a453",
+    "name": "Plum & Sencha",
+    "image": "assets/reeds/reed-1883f549fd4393dd.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/橄榄绿木兰香薰瓶.png",
+    "file": "reed-0d3f3a982460ae6d.webp",
+    "sha256": "0d3f3a982460ae6dbf4eb50d15dedeb9a6aaa7db4a468b09f09dbefa1ec92059",
+    "name": "Olive Magnolia",
+    "image": "assets/reeds/reed-0d3f3a982460ae6d.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/白桃乌龙香薰扩香静物.png",
+    "file": "reed-6ffc48159c0055e0.webp",
+    "sha256": "6ffc48159c0055e0734b95b522cdc5dd9ae8c27a73927f44653d86c6cf1e8cc4",
+    "name": "White Peach & Oolong",
+    "image": "assets/reeds/reed-6ffc48159c0055e0.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/2 花香薰系列2/茉莉绿茶.png",
+    "file": "reed-640affaca6c8bc7e.webp",
+    "sha256": "640affaca6c8bc7ed4fa0beb6ed6d037dbad44b601a7d05e67e6aa6883e97158",
+    "name": "Jasmine Green Tea",
+    "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
+    "series": "Floral Tea"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/七日香氛礼盒标签.png",
+    "file": "reed-6760c2cb73451078.webp",
+    "sha256": "6760c2cb73451078049e8670d1b367a5d7cad4957bd0e05816a833e9a81480db",
+    "name": "Seven-Day Fragrance Gift Set",
+    "image": "assets/reeds/reed-6760c2cb73451078.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周一 鼠尾草绿   refresh.png",
+    "file": "reed-e216d9fbfb361cfc.webp",
+    "sha256": "e216d9fbfb361cfc76b4e5d695f3c5a4546c6ef2ff9c97314ea4f64adf13913f",
+    "name": "Refresh",
+    "image": "assets/reeds/reed-e216d9fbfb361cfc.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周三 奶油黄 Joy.png",
+    "file": "reed-ab4ba29f23a51f7f.webp",
+    "sha256": "ab4ba29f23a51f7f919607a737c65908c04de4be330a5e53aa76030baad27406",
+    "name": "Joy",
+    "image": "assets/reeds/reed-ab4ba29f23a51f7f.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周二 雾蓝色  FOCUS.png",
+    "file": "reed-fb8173ad10d76faa.webp",
+    "sha256": "fb8173ad10d76faa3f8bc9e9ac88058a348d2c6d357835285b19ab649cde6700",
+    "name": "Focus",
+    "image": "assets/reeds/reed-fb8173ad10d76faa.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周五 柔陶橙香氛 Spark.png",
+    "file": "reed-baddad1b04ff467e.webp",
+    "sha256": "baddad1b04ff467e5aa46cbad8ec986fdfe6b85c97aa986ea33b6e11496edf2b",
+    "name": "Spark",
+    "image": "assets/reeds/reed-baddad1b04ff467e.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周六 柔雾灰紫 Wander.png",
+    "file": "reed-7a574f3e4a4ab4e6.webp",
+    "sha256": "7a574f3e4a4ab4e61cf364e1d45ecd4765e324720111e761e5ae6759ceb1e467",
+    "name": "Wander",
+    "image": "assets/reeds/reed-7a574f3e4a4ab4e6.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周四 柔雾玫瑰色 Glow.png",
+    "file": "reed-8d477d2ae4137382.webp",
+    "sha256": "8d477d2ae413738275741e27b295188b02d7f949fa361b041ad045c2bf56ba79",
+    "name": "Glow",
+    "image": "assets/reeds/reed-8d477d2ae4137382.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰3/3 棉花系列/周日 暖杏色  rest.png",
+    "file": "reed-167e5464ca5d6fc7.webp",
+    "sha256": "167e5464ca5d6fc79b64a47045c4fa9f23cb9710dcd4e23994949ba9472e8c80",
+    "name": "Rest",
+    "image": "assets/reeds/reed-167e5464ca5d6fc7.webp",
+    "series": "Seven-Day Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/5 圣诞香薰系列/冬日篝火琥珀扩香礼盒.png",
+    "file": "reed-56e38210a5f9a26d.webp",
+    "sha256": "56e38210a5f9a26d1359b9c4a47ebab19490a0ae4460c0df9466efac2e2a7f41",
+    "name": "Winter Bonfire",
+    "image": "assets/reeds/reed-56e38210a5f9a26d.webp",
+    "series": "Festive"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/5 圣诞香薰系列/圣诞琥珀香薰礼盒.png",
+    "file": "reed-b695597b0dabb53c.webp",
+    "sha256": "b695597b0dabb53c6bbf222ce38c7fa7b468ae192b65ad68d938418a269c3d5f",
+    "name": "Christmas Amber",
+    "image": "assets/reeds/reed-b695597b0dabb53c.webp",
+    "series": "Festive"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/5 圣诞香薰系列/炉火心愿琥珀香薰.png",
+    "file": "reed-b96dc85d16ee173c.webp",
+    "sha256": "b96dc85d16ee173cad1e0c17f859b651715e6b42487dd59c613bbf34d761672c",
+    "name": "Fireside Wishes",
+    "image": "assets/reeds/reed-b96dc85d16ee173c.webp",
+    "series": "Festive"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/5 圣诞香薰系列/雪松小屋扩香礼盒.png",
+    "file": "reed-5e8b9aaf6c03a6a0.webp",
+    "sha256": "5e8b9aaf6c03a6a023cc5739793db6064dcf7527f99fbe37d5b6a09eae066097",
+    "name": "Cedar Cabin",
+    "image": "assets/reeds/reed-5e8b9aaf6c03a6a0.webp",
+    "series": "Festive"
   }
 ]
