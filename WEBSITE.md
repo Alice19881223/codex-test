@@ -13,3 +13,9 @@ The site includes Who We Are, scented candles, reed diffusers, crystal diffusers
 Brand name: Lanarve. The illustration in `assets/still-life.svg` is original placeholder artwork, not brochure photography. Replace the hero and product images with the actual brochure assets before publication. Product pairings, gift contents and brand story are concept copy for review, not confirmed manufacturing claims. Add the real contact details and product specifications before commercial use. Google Fonts is optional; local system serif and sans-serif fonts work if the font service is unavailable.
 
 The requested reference website could not be accessed from this environment (proxy returned 403), so the design is an independent interpretation of the brief.
+
+## Brochure update
+
+The crystal collection now includes 13 supplied product images, optimized as WebP, with English display names derived from the source filenames (subject to brand review). The hero, gift section and crystal details use these images. Candle and reed diffuser archives could not be downloaded because each exceeded the 32 MiB transfer limit; those categories retain illustrated placeholders.
+
+Company name, address and two telephone contacts are supplied by the user. WhatsApp QR images are newly generated from `https://wa.me/8615968902361` and `https://wa.me/8618368239527`; they are not copies of the inline QR attachments. Confirm that the numbers are registered on WhatsApp. Email and Facebook/LinkedIn destinations have not been supplied and are omitted rather than invented. The uploaded legacy Word document yielded no readable body content.

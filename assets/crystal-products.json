@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Peach Whisper",
+    "image": "assets/crystals/crystal-01.webp",
+    "series": "Glass dome"
+  },
+  {
+    "name": "Lavender Reverie",
+    "image": "assets/crystals/crystal-02.webp",
+    "series": "Glass dome"
+  },
+  {
+    "name": "Morning Mist",
+    "image": "assets/crystals/crystal-03.webp",
+    "series": "Glass dome"
+  },
+  {
+    "name": "Verdant Calm",
+    "image": "assets/crystals/crystal-04.webp",
+    "series": "Glass dome"
+  },
+  {
+    "name": "Cedar Relief",
+    "image": "assets/crystals/crystal-05.webp",
+    "series": "Sculpted bowl"
+  },
+  {
+    "name": "Ivory Texture",
+    "image": "assets/crystals/crystal-06.webp",
+    "series": "Sculpted bowl"
+  },
+  {
+    "name": "Ivory Relief",
+    "image": "assets/crystals/crystal-07.webp",
+    "series": "Sculpted bowl"
+  },
+  {
+    "name": "Amber Dusk",
+    "image": "assets/crystals/crystal-08.webp",
+    "series": "Sculpted bowl"
+  },
+  {
+    "name": "Blue Serenity",
+    "image": "assets/crystals/crystal-09.webp",
+    "series": "Botanical glass"
+  },
+  {
+    "name": "Purple Mist",
+    "image": "assets/crystals/crystal-10.webp",
+    "series": "Botanical glass"
+  },
+  {
+    "name": "Rose Mist",
+    "image": "assets/crystals/crystal-11.webp",
+    "series": "Botanical glass"
+  },
+  {
+    "name": "Botanical Light",
+    "image": "assets/crystals/crystal-12.webp",
+    "series": "Botanical glass"
+  },
+  {
+    "name": "Forest Reverie",
+    "image": "assets/crystals/crystal-13.webp",
+    "series": "Botanical glass"
+  }
+]
