@@ -48,11 +48,22 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!productMenu.hidden
 
 const carousel=document.querySelector('.home-page .hero');
 if(carousel){
- const slides=[...carousel.querySelectorAll('.hero-slide')];const dots=[...carousel.querySelectorAll('[data-slide]')];const pause=carousel.querySelector('#carousel-pause');const reduced=matchMedia('(prefers-reduced-motion: reduce)');let active=0;let userPaused=reduced.matches;let timer;
+ const slides=[...carousel.querySelectorAll('.hero-slide')];const dots=[...carousel.querySelectorAll('[data-slide]')];const pause=carousel.querySelector('#carousel-pause');const reduced=matchMedia('(prefers-reduced-motion: reduce)');let active=0;let userPaused=reduced.matches;let timer;let pointerInside=false;
  const names=['SCENTED CANDLES','REED DIFFUSERS','CRYSTAL DIFFUSERS'];const links=['products-current.html','products-reed-1.html','products-crystal-1.html'];
  function show(index){active=(index+slides.length)%slides.length;slides.forEach((slide,i)=>{slide.classList.toggle('is-active',i===active);slide.setAttribute('aria-hidden',String(i!==active));});dots.forEach((dot,i)=>{dot.classList.toggle('is-active',i===active);dot.setAttribute('aria-pressed',String(i===active));});document.querySelector('#slide-label').textContent=`0${active+1} / 03 · ${names[active]}`;document.querySelector('#hero-collection-link').href=links[active];}
  function stop(){clearInterval(timer);timer=undefined;}
- function start(){stop();if(!userPaused&&!document.hidden&&!carousel.matches(':hover')&&!carousel.contains(document.activeElement))timer=setInterval(()=>show(active+1),6500);}
+ function start(){stop();if(!userPaused&&!document.hidden&&!carousel.contains(document.activeElement))timer=setInterval(()=>show(active+1),pointerInside?3500:6500);}
  function syncPause(){pause.setAttribute('aria-pressed',String(userPaused));pause.setAttribute('aria-label',userPaused?'Start banner rotation':'Pause banner rotation');pause.textContent=userPaused?'▷':'Ⅱ';}
- dots.forEach(dot=>dot.addEventListener('click',()=>{show(Number(dot.dataset.slide));start();}));carousel.querySelectorAll('[data-direction]').forEach(button=>button.addEventListener('click',()=>{show(active+Number(button.dataset.direction));start();}));pause.addEventListener('click',()=>{userPaused=!userPaused;syncPause();start();});carousel.addEventListener('mouseenter',stop);carousel.addEventListener('mouseleave',start);carousel.addEventListener('focusin',stop);carousel.addEventListener('focusout',()=>setTimeout(start,0));document.addEventListener('visibilitychange',start);reduced.addEventListener('change',()=>{if(reduced.matches){userPaused=true;syncPause();start();}});syncPause();start();
+ dots.forEach(dot=>dot.addEventListener('click',()=>{show(Number(dot.dataset.slide));start();}));carousel.querySelectorAll('[data-direction]').forEach(button=>button.addEventListener('click',()=>{show(active+Number(button.dataset.direction));start();}));pause.addEventListener('click',()=>{userPaused=!userPaused;syncPause();start();});carousel.addEventListener('mouseenter',()=>{pointerInside=true;start();});carousel.addEventListener('mouseleave',()=>{pointerInside=false;carousel.style.setProperty('--scene-x','0px');carousel.style.setProperty('--scene-y','0px');start();});carousel.addEventListener('focusin',stop);carousel.addEventListener('focusout',()=>setTimeout(start,0));document.addEventListener('visibilitychange',start);reduced.addEventListener('change',()=>{if(reduced.matches){userPaused=true;syncPause();start();}});syncPause();start();
+}
+
+// A small pointer-driven movement adds depth while keeping text steady.
+if(carousel){
+ const reducedMotion=matchMedia('(prefers-reduced-motion: reduce)');const finePointer=matchMedia('(pointer: fine)');let frame=0;
+ carousel.addEventListener('pointermove',event=>{
+  if(reducedMotion.matches||!finePointer.matches||event.pointerType==='touch')return;
+  const rect=carousel.getBoundingClientRect();const x=((event.clientX-rect.left)/rect.width-.5)*22;const y=((event.clientY-rect.top)/rect.height-.5)*14;
+  cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{carousel.style.setProperty('--scene-x',`${x.toFixed(2)}px`);carousel.style.setProperty('--scene-y',`${y.toFixed(2)}px`);});
+ });
+ reducedMotion.addEventListener('change',()=>{if(reducedMotion.matches){cancelAnimationFrame(frame);carousel.style.setProperty('--scene-x','0px');carousel.style.setProperty('--scene-y','0px');}});
 }
