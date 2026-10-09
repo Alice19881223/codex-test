@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Colour Collection",
+    "image": "assets/reeds/reed-01.webp",
+    "series": "Reed diffuser collection"
+  },
+  {
+    "name": "Seven-Colour Gift Set",
+    "image": "assets/reeds/reed-02.webp",
+    "series": "Reed diffuser gift set"
+  },
+  {
+    "name": "Rain Forest Reed Diffuser",
+    "image": "assets/reeds/reed-03.webp",
+    "series": "Reed diffuser"
+  },
+  {
+    "name": "Rain Forest Bottle & Box",
+    "image": "assets/reeds/reed-04.webp",
+    "series": "Fragrance bottle and packaging"
+  }
+]

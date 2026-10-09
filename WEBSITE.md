@@ -19,3 +19,7 @@ The requested reference website could not be accessed from this environment (pro
 The crystal collection now includes 13 supplied product images, optimized as WebP, with English display names derived from the source filenames (subject to brand review). The hero, gift section and crystal details use these images. Candle and reed diffuser archives could not be downloaded because each exceeded the 32 MiB transfer limit; those categories retain illustrated placeholders.
 
 Company name, address and two telephone contacts are supplied by the user. WhatsApp QR images are newly generated from `https://wa.me/8615968902361` and `https://wa.me/8618368239527`; they are not copies of the inline QR attachments. Confirm that the numbers are registered on WhatsApp. Email and Facebook/LinkedIn destinations have not been supplied and are omitted rather than invented. The uploaded legacy Word document yielded no readable body content.
+
+## Reed diffuser image update
+
+Added all four images from the downloadable 无火香薰3.zip, optimized as WebP, including the colour collection, seven-colour gift set and Rain Forest bottle/packaging. The reed category and product dialog now use actual supplied artwork. The other five archives in this batch exceed the 32 MiB download limit and have not been processed. English display names are translated from filenames and are subject to review.
