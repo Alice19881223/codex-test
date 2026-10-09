@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Concrete — 01",
+    "image": "assets/candles/candles-001.webp",
+    "series": "Concrete"
+  },
+  {
+    "name": "Concrete — 02",
+    "image": "assets/candles/candles-002.webp",
+    "series": "Concrete"
+  },
+  {
+    "name": "Round Gift Box — 01",
+    "image": "assets/candles/candles-003.webp",
+    "series": "Round Gift Box"
+  },
+  {
+    "name": "Clock — 01",
+    "image": "assets/candles/candles-004.webp",
+    "series": "Clock"
+  },
+  {
+    "name": "Clock — 02",
+    "image": "assets/candles/candles-005.webp",
+    "series": "Clock"
+  },
+  {
+    "name": "Metallic Finish — 01",
+    "image": "assets/candles/candles-006.webp",
+    "series": "Metallic Finish"
+  },
+  {
+    "name": "Metallic Finish — 02",
+    "image": "assets/candles/candles-007.webp",
+    "series": "Metallic Finish"
+  },
+  {
+    "name": "Woven — 01",
+    "image": "assets/candles/candles-008.webp",
+    "series": "Woven"
+  },
+  {
+    "name": "Woven — 02",
+    "image": "assets/candles/candles-009.webp",
+    "series": "Woven"
+  },
+  {
+    "name": "Woven — 03",
+    "image": "assets/candles/candles-010.webp",
+    "series": "Woven"
+  },
+  {
+    "name": "Sunlit Rituals — 01",
+    "image": "assets/candles/candles-011.webp",
+    "series": "Sunlit Rituals"
+  },
+  {
+    "name": "Sunlit Rituals — 02",
+    "image": "assets/candles/candles-012.webp",
+    "series": "Sunlit Rituals"
+  },
+  {
+    "name": "Metallic — 01",
+    "image": "assets/candles/candles-013.webp",
+    "series": "Metallic"
+  },
+  {
+    "name": "Metallic — 02",
+    "image": "assets/candles/candles-014.webp",
+    "series": "Metallic"
+  },
+  {
+    "name": "Pet Portraits — 01",
+    "image": "assets/candles/candles-015.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "name": "Pet Portraits — 02",
+    "image": "assets/candles/candles-016.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "name": "Pet Portraits — 03",
+    "image": "assets/candles/candles-017.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "name": "Pet Portraits — 04",
+    "image": "assets/candles/candles-018.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "name": "Wild — 01",
+    "image": "assets/candles/candles-019.webp",
+    "series": "Wild"
+  },
+  {
+    "name": "Wild — 02",
+    "image": "assets/candles/candles-020.webp",
+    "series": "Wild"
+  },
+  {
+    "name": "Wild — 03",
+    "image": "assets/candles/candles-021.webp",
+    "series": "Wild"
+  },
+  {
+    "name": "Vanilla & Peony — 01",
+    "image": "assets/candles/candles-022.webp",
+    "series": "Vanilla & Peony"
+  },
+  {
+    "name": "Vanilla & Peony — 02",
+    "image": "assets/candles/candles-023.webp",
+    "series": "Vanilla & Peony"
+  },
+  {
+    "name": "Nature Poetry — 01",
+    "image": "assets/candles/candles-024.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "name": "Nature Poetry — 02",
+    "image": "assets/candles/candles-025.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "name": "Nature Poetry — 03",
+    "image": "assets/candles/candles-026.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "name": "Nature Poetry — 04",
+    "image": "assets/candles/candles-027.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "name": "Éloria — 01",
+    "image": "assets/candles/candles-028.webp",
+    "series": "Éloria"
+  },
+  {
+    "name": "Éloria — 02",
+    "image": "assets/candles/candles-029.webp",
+    "series": "Éloria"
+  },
+  {
+    "name": "Éloria — 03",
+    "image": "assets/candles/candles-030.webp",
+    "series": "Éloria"
+  },
+  {
+    "name": "Dreamscape II — 01",
+    "image": "assets/candles/candles-031.webp",
+    "series": "Dreamscape II"
+  },
+  {
+    "name": "Turquoise — 01",
+    "image": "assets/candles/candles-032.webp",
+    "series": "Turquoise"
+  },
+  {
+    "name": "Birthday — 01",
+    "image": "assets/candles/candles-033.webp",
+    "series": "Birthday"
+  },
+  {
+    "name": "Birthday — 02",
+    "image": "assets/candles/candles-034.webp",
+    "series": "Birthday"
+  },
+  {
+    "name": "Birthday — 03",
+    "image": "assets/candles/candles-035.webp",
+    "series": "Birthday"
+  },
+  {
+    "name": "Glass Dome — 01",
+    "image": "assets/candles/candles-036.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "name": "Glass Dome — 02",
+    "image": "assets/candles/candles-037.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "name": "Glass Dome — 03",
+    "image": "assets/candles/candles-038.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "name": "Glass Dome — 04",
+    "image": "assets/candles/candles-039.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "name": "Glass Dome — 05",
+    "image": "assets/candles/candles-040.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "name": "Her · Him · Us — 01",
+    "image": "assets/candles/candles-041.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "name": "Her · Him · Us — 02",
+    "image": "assets/candles/candles-042.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "name": "Her · Him · Us — 03",
+    "image": "assets/candles/candles-043.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "name": "Four Seasons Botanicals — 01",
+    "image": "assets/candles/candles-044.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "name": "Four Seasons Botanicals — 02",
+    "image": "assets/candles/candles-045.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "name": "Four Seasons Botanicals — 03",
+    "image": "assets/candles/candles-046.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "name": "Four Seasons Botanicals — 04",
+    "image": "assets/candles/candles-047.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "name": "Dreamscape — 01",
+    "image": "assets/candles/candles-048.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "name": "Dreamscape — 02",
+    "image": "assets/candles/candles-049.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "name": "Dreamscape — 03",
+    "image": "assets/candles/candles-050.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "name": "Garden — 01",
+    "image": "assets/candles/candles-051.webp",
+    "series": "Garden"
+  },
+  {
+    "name": "Garden — 02",
+    "image": "assets/candles/candles-052.webp",
+    "series": "Garden"
+  },
+  {
+    "name": "Garden — 03",
+    "image": "assets/candles/candles-053.webp",
+    "series": "Garden"
+  },
+  {
+    "name": "Garden — 04",
+    "image": "assets/candles/candles-054.webp",
+    "series": "Garden"
+  },
+  {
+    "name": "Forest Poetry — 01",
+    "image": "assets/candles/candles-055.webp",
+    "series": "Forest Poetry"
+  },
+  {
+    "name": "Forest Poetry — 02",
+    "image": "assets/candles/candles-056.webp",
+    "series": "Forest Poetry"
+  },
+  {
+    "name": "Garden Reverie — 01",
+    "image": "assets/candles/candles-057.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "name": "Garden Reverie — 02",
+    "image": "assets/candles/candles-058.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "name": "Garden Reverie — 03",
+    "image": "assets/candles/candles-059.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "name": "Floral Reverie — 01",
+    "image": "assets/candles/candles-060.webp",
+    "series": "Floral Reverie"
+  },
+  {
+    "name": "Floral Reverie — 02",
+    "image": "assets/candles/candles-061.webp",
+    "series": "Floral Reverie"
+  },
+  {
+    "name": "Botanical Fragrance — 01",
+    "image": "assets/candles/candles-062.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "name": "Botanical Fragrance — 02",
+    "image": "assets/candles/candles-063.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "name": "Botanical Fragrance — 03",
+    "image": "assets/candles/candles-064.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "name": "Botanical Fragrance — 04",
+    "image": "assets/candles/candles-065.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "name": "Bright Glass — 01",
+    "image": "assets/candles/candles-066.webp",
+    "series": "Bright Glass"
+  },
+  {
+    "name": "Bright Glass — 02",
+    "image": "assets/candles/candles-067.webp",
+    "series": "Bright Glass"
+  },
+  {
+    "name": "Amber Dream — 01",
+    "image": "assets/candles/candles-068.webp",
+    "series": "Amber Dream"
+  },
+  {
+    "name": "Colour Stories — 01",
+    "image": "assets/candles/candles-069.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "name": "Colour Stories — 02",
+    "image": "assets/candles/candles-070.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "name": "Colour Stories — 03",
+    "image": "assets/candles/candles-071.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "name": "Christmas — 01",
+    "image": "assets/candles/candles-072.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 02",
+    "image": "assets/candles/candles-073.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 03",
+    "image": "assets/candles/candles-074.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Bamboo — 01",
+    "image": "assets/candles/candles-075.webp",
+    "series": "Bamboo"
+  },
+  {
+    "name": "Bamboo — 02",
+    "image": "assets/candles/candles-076.webp",
+    "series": "Bamboo"
+  },
+  {
+    "name": "Stone — 01",
+    "image": "assets/candles/candles-077.webp",
+    "series": "Stone"
+  },
+  {
+    "name": "Stone — 02",
+    "image": "assets/candles/candles-078.webp",
+    "series": "Stone"
+  },
+  {
+    "name": "Square — 01",
+    "image": "assets/candles/candles-079.webp",
+    "series": "Square"
+  },
+  {
+    "name": "Square — 02",
+    "image": "assets/candles/candles-080.webp",
+    "series": "Square"
+  },
+  {
+    "name": "Sculpted Relief — 01",
+    "image": "assets/candles/candles-081.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "name": "Sculpted Relief — 02",
+    "image": "assets/candles/candles-082.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "name": "Sculpted Relief — 03",
+    "image": "assets/candles/candles-083.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "name": "Playful Glass Dome — 01",
+    "image": "assets/candles/candles-084.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "name": "Playful Glass Dome — 02",
+    "image": "assets/candles/candles-085.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "name": "Playful Glass Dome — 03",
+    "image": "assets/candles/candles-086.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "name": "Playful Glass Dome — 04",
+    "image": "assets/candles/candles-087.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "name": "Ivory Stone — 01",
+    "image": "assets/candles/candles-088.webp",
+    "series": "Ivory Stone"
+  },
+  {
+    "name": "Jellyfish — 01",
+    "image": "assets/candles/candles-089.webp",
+    "series": "Jellyfish"
+  }
+]

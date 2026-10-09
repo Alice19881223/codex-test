@@ -23,3 +23,7 @@ Company name, address and two telephone contacts are supplied by the user. Whats
 ## Reed diffuser image update
 
 Added all four images from the downloadable 无火香薰3.zip, optimized as WebP, including the colour collection, seven-colour gift set and Rain Forest bottle/packaging. The reed category and product dialog now use actual supplied artwork. The other five archives in this batch exceed the 32 MiB download limit and have not been processed. English display names are translated from filenames and are subject to review.
+
+## Bulk photo update
+
+Processed 20 downloadable ZIP uploads, deduplicated exact source image bytes, and added 89 candle photos and 41 new reed diffuser photos. The reed gallery now contains 45 photos including the four earlier uploads. All photos are available through accessible Load More buttons, 12 at a time, with lazy loading and WebP compression. Display names are collection identifiers for review, not confirmed SKU names. Source filenames and SHA-256 hashes are recorded in `assets/photo-source-manifest.json`. Both uploaded copies of 无火香薰1.zip exceed the download limit and were not processed.

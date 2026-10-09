@@ -18,5 +18,210 @@
     "name": "Rain Forest Bottle & Box",
     "image": "assets/reeds/reed-04.webp",
     "series": "Fragrance bottle and packaging"
+  },
+  {
+    "name": "Tea Rituals — 01",
+    "image": "assets/reeds/reeds-090.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "name": "Tea Rituals — 02",
+    "image": "assets/reeds/reeds-091.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "name": "Tea Rituals — 03",
+    "image": "assets/reeds/reeds-092.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "name": "Tea Rituals — 04",
+    "image": "assets/reeds/reeds-093.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "name": "Fresh Moments — 01",
+    "image": "assets/reeds/reeds-094.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "name": "Fresh Moments — 02",
+    "image": "assets/reeds/reeds-095.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "name": "Fresh Moments — 03",
+    "image": "assets/reeds/reeds-096.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "name": "Fresh Moments — 04",
+    "image": "assets/reeds/reeds-097.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "name": "Pastel — 01",
+    "image": "assets/reeds/reeds-098.webp",
+    "series": "Pastel"
+  },
+  {
+    "name": "Pastel — 02",
+    "image": "assets/reeds/reeds-099.webp",
+    "series": "Pastel"
+  },
+  {
+    "name": "Mountain — 01",
+    "image": "assets/reeds/reeds-100.webp",
+    "series": "Mountain"
+  },
+  {
+    "name": "Mountain — 02",
+    "image": "assets/reeds/reeds-101.webp",
+    "series": "Mountain"
+  },
+  {
+    "name": "Mountain — 03",
+    "image": "assets/reeds/reeds-102.webp",
+    "series": "Mountain"
+  },
+  {
+    "name": "Botanical — 01",
+    "image": "assets/reeds/reeds-103.webp",
+    "series": "Botanical"
+  },
+  {
+    "name": "Cylindrical — 01",
+    "image": "assets/reeds/reeds-104.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "name": "Cylindrical — 02",
+    "image": "assets/reeds/reeds-105.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "name": "Cylindrical — 03",
+    "image": "assets/reeds/reeds-106.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "name": "Cylindrical — 04",
+    "image": "assets/reeds/reeds-107.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "name": "Square Glass — 01",
+    "image": "assets/reeds/reeds-108.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 02",
+    "image": "assets/reeds/reeds-109.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 03",
+    "image": "assets/reeds/reeds-110.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 04",
+    "image": "assets/reeds/reeds-111.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 05",
+    "image": "assets/reeds/reeds-112.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 06",
+    "image": "assets/reeds/reeds-113.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 07",
+    "image": "assets/reeds/reeds-114.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Square Glass — 08",
+    "image": "assets/reeds/reeds-115.webp",
+    "series": "Square Glass"
+  },
+  {
+    "name": "Botanical Infusion — 01",
+    "image": "assets/reeds/reeds-116.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "name": "Botanical Infusion — 02",
+    "image": "assets/reeds/reeds-117.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "name": "Botanical Infusion — 03",
+    "image": "assets/reeds/reeds-118.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "name": "Minimal — 01",
+    "image": "assets/reeds/reeds-119.webp",
+    "series": "Minimal"
+  },
+  {
+    "name": "Minimal — 02",
+    "image": "assets/reeds/reeds-120.webp",
+    "series": "Minimal"
+  },
+  {
+    "name": "Sculptural — 01",
+    "image": "assets/reeds/reeds-121.webp",
+    "series": "Sculptural"
+  },
+  {
+    "name": "Metallic — 01",
+    "image": "assets/reeds/reeds-122.webp",
+    "series": "Metallic"
+  },
+  {
+    "name": "Metallic — 02",
+    "image": "assets/reeds/reeds-123.webp",
+    "series": "Metallic"
+  },
+  {
+    "name": "Blush — 01",
+    "image": "assets/reeds/reeds-124.webp",
+    "series": "Blush"
+  },
+  {
+    "name": "Spherical — 01",
+    "image": "assets/reeds/reeds-125.webp",
+    "series": "Spherical"
+  },
+  {
+    "name": "Spherical — 02",
+    "image": "assets/reeds/reeds-126.webp",
+    "series": "Spherical"
+  },
+  {
+    "name": "Spherical — 03",
+    "image": "assets/reeds/reeds-127.webp",
+    "series": "Spherical"
+  },
+  {
+    "name": "Classic Amber — 01",
+    "image": "assets/reeds/reeds-128.webp",
+    "series": "Classic Amber"
+  },
+  {
+    "name": "Classic Amber — 02",
+    "image": "assets/reeds/reeds-129.webp",
+    "series": "Classic Amber"
+  },
+  {
+    "name": "Sandalwood — 01",
+    "image": "assets/reeds/reeds-130.webp",
+    "series": "Sandalwood"
   }
 ]

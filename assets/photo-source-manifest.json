@@ -1,0 +1,1172 @@
+[
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/21 水泥瓶系列/Lanarve 松林香氛蜡烛礼盒.png",
+    "file": "candles-001.png",
+    "sha256": "cedf7e053ad5f93eb7b461e10c22cdf659740151b19fd2de1cef7ef1f2c82a14",
+    "name": "Concrete — 01",
+    "image": "assets/candles/candles-001.webp",
+    "series": "Concrete"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/21 水泥瓶系列/Lanarve象牙香薰蜡烛礼盒.png",
+    "file": "candles-002.png",
+    "sha256": "b213094e8158e49abb4b4c2272f690a8ac41dddbda518a565cc1d37367e296ff",
+    "name": "Concrete — 02",
+    "image": "assets/candles/candles-002.webp",
+    "series": "Concrete"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/22.圆形包装/橄榄绿香薰与茉莉圆筒礼盒.png",
+    "file": "candles-003.png",
+    "sha256": "1f5d7e239121e95edf75bcd446566c0e6130adce3e7b1e4007d4d952b75654c9",
+    "name": "Round Gift Box — 01",
+    "image": "assets/candles/candles-003.webp",
+    "series": "Round Gift Box"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/23 时钟蜡烛/Lanarve粉色时钟蜡烛礼盒.png",
+    "file": "candles-004.png",
+    "sha256": "164a0e12313495a368711c43bf409afec80fb13abdf9364a1c293514ed37b567",
+    "name": "Clock — 01",
+    "image": "assets/candles/candles-004.webp",
+    "series": "Clock"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/23 时钟蜡烛/冰蓝时钟蜡烛与礼盒.png",
+    "file": "candles-005.png",
+    "sha256": "3885f16b565623be3e60a6f7a927073fc9aa437064ce918603b27aaf6cd07ffb",
+    "name": "Clock — 02",
+    "image": "assets/candles/candles-005.webp",
+    "series": "Clock"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/24 金属质感杯子/Lanarve香槟金香薰蜡烛礼盒.png",
+    "file": "candles-006.png",
+    "sha256": "54480bec0b7a4978fa3a8ad99c102d01fad1f2ed3dbb088c3130a89f2ba09de1",
+    "name": "Metallic Finish — 01",
+    "image": "assets/candles/candles-006.webp",
+    "series": "Metallic Finish"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛3/24 金属质感杯子/石墨灰 Lanarve 香薰蜡烛礼盒.png",
+    "file": "candles-007.png",
+    "sha256": "bb0f9fca39d33323881c483638b60f684a39603f1c76e37cd6afa3f3defdc30d",
+    "name": "Metallic Finish — 02",
+    "image": "assets/candles/candles-007.webp",
+    "series": "Metallic Finish"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/11 藤编蜡烛/藤编系列蜡烛1.png",
+    "file": "candles-008.png",
+    "sha256": "376b41b910bb1818a34c8937d2801cc5ae897e8045514e0e1e0cf5850584d534",
+    "name": "Woven — 01",
+    "image": "assets/candles/candles-008.webp",
+    "series": "Woven"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/11 藤编蜡烛/藤编系列蜡烛2.png",
+    "file": "candles-009.png",
+    "sha256": "97ce209c060f0fe2b908829837b7d279e97074a477a0041cb2f79edace156f41",
+    "name": "Woven — 02",
+    "image": "assets/candles/candles-009.webp",
+    "series": "Woven"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/11 藤编蜡烛/藤编系列蜡烛3.png",
+    "file": "candles-010.png",
+    "sha256": "7f4bf915c06f81d2488acb4ff892610011d94df71e1903482039eade01deae17",
+    "name": "Woven — 03",
+    "image": "assets/candles/candles-010.webp",
+    "series": "Woven"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/12 阳光下的治愈系/银色牡丹香薰蜡烛.png",
+    "file": "candles-011.png",
+    "sha256": "1f65b12836b651700e20f1ced9a3f5913ce2ba30251a194ec248be5bb8c16525",
+    "name": "Sunlit Rituals — 01",
+    "image": "assets/candles/candles-011.webp",
+    "series": "Sunlit Rituals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/12 阳光下的治愈系/阳光下的治愈系.png",
+    "file": "candles-012.png",
+    "sha256": "b1302b2e3772cd26d473c50933b0008319021a5d6f31a9cad4b7144e8a3c9ec7",
+    "name": "Sunlit Rituals — 02",
+    "image": "assets/candles/candles-012.webp",
+    "series": "Sunlit Rituals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/13 金属系列蜡烛/Lanarve 金色香氛蜡烛礼盒.png",
+    "file": "candles-013.png",
+    "sha256": "466d0cbb0d74a1477084e88c3ffb2bb36ea4169dbe475f062af8cf1f73a76e02",
+    "name": "Metallic — 01",
+    "image": "assets/candles/candles-013.webp",
+    "series": "Metallic"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/13 金属系列蜡烛/石墨灰香薰蜡烛礼盒.png",
+    "file": "candles-014.png",
+    "sha256": "5a18b1f5a8d6f30f46882b3eb3d49b97eebda933412fbef409d81d0b4065afa5",
+    "name": "Metallic — 02",
+    "image": "assets/candles/candles-014.webp",
+    "series": "Metallic"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/14 pets series/手写字标宠物香薰蜡烛.png",
+    "file": "candles-015.png",
+    "sha256": "1a239adc75b818d559b082b7a65517f532243afc046cc7ec7a14be89faa119f9",
+    "name": "Pet Portraits — 01",
+    "image": "assets/candles/candles-015.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/14 pets series/手绘宠物香薰蜡烛礼盒.png",
+    "file": "candles-016.png",
+    "sha256": "a6995769aca6cf83c74c52d39ec06980103c516d1e20969eb34f9a86472b7668",
+    "name": "Pet Portraits — 02",
+    "image": "assets/candles/candles-016.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/14 pets series/蓝墨手写宠物香薰蜡烛.png",
+    "file": "candles-017.png",
+    "sha256": "d213068d3eb38dd2c82d1a56a510d20b39edb6bd143092dd9ac775eb77742cff",
+    "name": "Pet Portraits — 03",
+    "image": "assets/candles/candles-017.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛2/14 pets series/蓝调宠物香薰蜡烛与礼盒.png",
+    "file": "candles-018.png",
+    "sha256": "ec848823b97e2075effffdecf34b684c069287d998afd414b867a42b4ff1a70e",
+    "name": "Pet Portraits — 04",
+    "image": "assets/candles/candles-018.webp",
+    "series": "Pet Portraits"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/1.wild系列/wild系列 焦黄.png",
+    "file": "candles-019.png",
+    "sha256": "30bc7d6287941d83642ce2e1afb1ab4cdd4b6c45ea4362dcdbe8e44266879b66",
+    "name": "Wild — 01",
+    "image": "assets/candles/candles-019.webp",
+    "series": "Wild"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/1.wild系列/wild系列 紫色.png",
+    "file": "candles-020.png",
+    "sha256": "59ba278fae2f9e005e32628ee1ac74f4489b62da6f103e805c30b6d91d4c509d",
+    "name": "Wild — 02",
+    "image": "assets/candles/candles-020.webp",
+    "series": "Wild"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/1.wild系列/wild系列 褐色.png",
+    "file": "candles-021.png",
+    "sha256": "a3ab64d70a2b5930e5383173ba68f3ee7b671b383b89d5de1d0efe432d075c79",
+    "name": "Wild — 03",
+    "image": "assets/candles/candles-021.webp",
+    "series": "Wild"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/2.香草牡丹系列/Lanarve牡丹香薰蜡烛与礼盒.png",
+    "file": "candles-022.png",
+    "sha256": "d326a74f0d711a7ed8b83074621a6e3adf2865d8ccab212ec3c46ece8591d659",
+    "name": "Vanilla & Peony — 01",
+    "image": "assets/candles/candles-022.webp",
+    "series": "Vanilla & Peony"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/2.香草牡丹系列/Lanarve香草香薰蜡烛与礼盒.png",
+    "file": "candles-023.png",
+    "sha256": "76d20e1e33249b40b117a050c737ad63a432b281447b1866d731272292dda32d",
+    "name": "Vanilla & Peony — 02",
+    "image": "assets/candles/candles-023.webp",
+    "series": "Vanilla & Peony"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/3.Nature Poetry系列/Green tea (2).png",
+    "file": "candles-024.png",
+    "sha256": "9d6097642260c31aacd33c538e5caf5a14498d72c8001c370968390745973c6d",
+    "name": "Nature Poetry — 01",
+    "image": "assets/candles/candles-024.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/3.Nature Poetry系列/ocean (2).png",
+    "file": "candles-025.png",
+    "sha256": "b5d781fb80ddbcf9f4837eca74d4a0caba10c5946791ad521294c7ce84768ad8",
+    "name": "Nature Poetry — 02",
+    "image": "assets/candles/candles-025.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/3.Nature Poetry系列/rose.png",
+    "file": "candles-026.png",
+    "sha256": "eb1abc3e57f1d8616b6d01862cf297bc786327b2e2f936633ffea28ba7616fa3",
+    "name": "Nature Poetry — 03",
+    "image": "assets/candles/candles-026.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/3.Nature Poetry系列/vanilla.png",
+    "file": "candles-027.png",
+    "sha256": "d81c8a6552c26a68fd2336536dce4bb0f6954024939a7698af4a3b013c309fd6",
+    "name": "Nature Poetry — 04",
+    "image": "assets/candles/candles-027.webp",
+    "series": "Nature Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/4 ÉLORIA（伊洛里亚）/暖阳下的花朵.png",
+    "file": "candles-028.png",
+    "sha256": "d327067be397b464eb3bf631746139a02227d46d565706ccbad73ebdbc012418",
+    "name": "Éloria — 01",
+    "image": "assets/candles/candles-028.webp",
+    "series": "Éloria"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/4 ÉLORIA（伊洛里亚）/海盐与浪花.png",
+    "file": "candles-029.png",
+    "sha256": "ecc9d47ec8d38b8bb595750c033b0d3eb2bba88b23649e0fae6175fbb674eef7",
+    "name": "Éloria — 02",
+    "image": "assets/candles/candles-029.webp",
+    "series": "Éloria"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛1/4 ÉLORIA（伊洛里亚）/白茶佛手柑.png",
+    "file": "candles-030.png",
+    "sha256": "42f86c1a5c277c878c5f1a79296c04a4e3a57c59263d4820b444234525b0852a",
+    "name": "Éloria — 03",
+    "image": "assets/candles/candles-030.webp",
+    "series": "Éloria"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/31 梦幻系列2/雾蓝极简香薰礼盒.png",
+    "file": "candles-031.png",
+    "sha256": "b5d7d471124a5b2ecdac8a1149b1617f9672f9163eed7ddfcab906b4071b8a1a",
+    "name": "Dreamscape II — 01",
+    "image": "assets/candles/candles-031.webp",
+    "series": "Dreamscape II"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/32 Tiffany 蜡烛/Tiffani系列蜡烛.png",
+    "file": "candles-032.png",
+    "sha256": "ea088953a2bd758fea5fd18b7fb2faffecbca5474a28743c45fa0eb114d37d90",
+    "name": "Turquoise — 01",
+    "image": "assets/candles/candles-032.webp",
+    "series": "Turquoise"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/33 生日蜡烛/开盖水母礼盒与蛋形蜡烛 (1).png",
+    "file": "candles-033.png",
+    "sha256": "592d38c34539f6cde6cb0dc388cb330655665280ecb479a8ebb3532f256beae3",
+    "name": "Birthday — 01",
+    "image": "assets/candles/candles-033.webp",
+    "series": "Birthday"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/33 生日蜡烛/海蓝生日礼盒与蛋壳蜡烛.png",
+    "file": "candles-034.png",
+    "sha256": "7471c7e1dd20279ce34387fe443b4effad3f6a8214b9eb5c1e748fccb8e7ccf9",
+    "name": "Birthday — 02",
+    "image": "assets/candles/candles-034.webp",
+    "series": "Birthday"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/33 生日蜡烛/青柠水母礼盒与完整蛋形蜡烛 (1).png",
+    "file": "candles-035.png",
+    "sha256": "6efaad78d479d7a9970170680c3250daf8fa123814f4f0f1b59c1c6213456335",
+    "name": "Birthday — 03",
+    "image": "assets/candles/candles-035.webp",
+    "series": "Birthday"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/34 钟罩系列/咖啡铜茉莉檀木香氛蜡烛礼盒.png",
+    "file": "candles-036.png",
+    "sha256": "30e1a3e191beda24bc7c3eee6335a7e594e643e4a356d3b4938640b2f6f5ef87",
+    "name": "Glass Dome — 01",
+    "image": "assets/candles/candles-036.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/34 钟罩系列/春日绽放桃粉蜡烛礼盒.png",
+    "file": "candles-037.png",
+    "sha256": "6beb50aa59d17caef31896a77fc0e64713c63e111ccbbc2962cc010075901b94",
+    "name": "Glass Dome — 02",
+    "image": "assets/candles/candles-037.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/34 钟罩系列/米香玻璃钟罩香氛礼盒.png",
+    "file": "candles-038.png",
+    "sha256": "2f53c6d7996d0284bdf5e37983b8e9c8e877070b1e65b987078b444d89414f5f",
+    "name": "Glass Dome — 03",
+    "image": "assets/candles/candles-038.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/34 钟罩系列/羊绒薄雾香薰蜡烛与礼盒.png",
+    "file": "candles-039.png",
+    "sha256": "482b499b0ab69b162e4c346e3c13ba7fa2173a134ba265a880b5f39655794cdc",
+    "name": "Glass Dome — 04",
+    "image": "assets/candles/candles-039.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛4/34 钟罩系列/鼠尾草绿乌龙茶蜡烛礼盒.png",
+    "file": "candles-040.png",
+    "sha256": "6611bc7aaba5d56a5e176e1be85d1f3aa609a6819166adfe3d17d7377684d8c7",
+    "name": "Glass Dome — 05",
+    "image": "assets/candles/candles-040.webp",
+    "series": "Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/10 情人节her him us 系列/Lanarve橄榄绿男士香氛蜡烛礼盒.png",
+    "file": "candles-041.png",
+    "sha256": "2c71be2c5b0bc1800f7f2cfdbcead6587786a37ab0c21b9cb43b2e045a62e7f5",
+    "name": "Her · Him · Us — 01",
+    "image": "assets/candles/candles-041.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/10 情人节her him us 系列/宽底座玻璃罩香薰蜡烛.png",
+    "file": "candles-042.png",
+    "sha256": "9408654cdf38aef6b5d7789481496083aa3a4c304d23a839efb463d93a969bcf",
+    "name": "Her · Him · Us — 02",
+    "image": "assets/candles/candles-042.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/10 情人节her him us 系列/香槟米色 Lanarve 香薰蜡烛套装.png",
+    "file": "candles-043.png",
+    "sha256": "5f8c0a830f73039ad9246562143c2fa1696430eaf7a01de5d441e2ea8c5c0c69",
+    "name": "Her · Him · Us — 03",
+    "image": "assets/candles/candles-043.webp",
+    "series": "Her · Him · Us"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/16 中国风 四君子系列/浅珊瑚红梅花香薰蜡烛.png",
+    "file": "candles-044.png",
+    "sha256": "aeda244555c2dfbaf754bb354517b5cfed0beacf727317cb91a7a506c1e77dd5",
+    "name": "Four Seasons Botanicals — 01",
+    "image": "assets/candles/candles-044.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/16 中国风 四君子系列/浅香槟白兰花蜡烛.png",
+    "file": "candles-045.png",
+    "sha256": "f895b7e933fed4bd6f6ea2a57fd33bfbeb007fbdf75c5d1e6417e0c8ade2ef60",
+    "name": "Four Seasons Botanicals — 02",
+    "image": "assets/candles/candles-045.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/16 中国风 四君子系列/浅鼠尾草绿竹香薰蜡烛.png",
+    "file": "candles-046.png",
+    "sha256": "88ae91ece8ec5b9dfc8e84d456f0b66a0cf88e2a154588a1fff73dca969f3396",
+    "name": "Four Seasons Botanicals — 03",
+    "image": "assets/candles/candles-046.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/16 中国风 四君子系列/淡黄玻璃菊花香薰蜡烛.png",
+    "file": "candles-047.png",
+    "sha256": "ba61674aed4f9111967f3730577f31c39af89c7037cd760a05997c21664a6a07",
+    "name": "Four Seasons Botanicals — 04",
+    "image": "assets/candles/candles-047.webp",
+    "series": "Four Seasons Botanicals"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/18  梦幻系列/Lanarve梦幻薰衣草紫烛礼盒.png",
+    "file": "candles-048.png",
+    "sha256": "3a115034676cbb143a21e123b710c8d5b8ba6e8f9c464e8a81bfbac1803b6f24",
+    "name": "Dreamscape — 01",
+    "image": "assets/candles/candles-048.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/18  梦幻系列/琥珀玻璃蜡烛与奢华礼盒.png",
+    "file": "candles-049.png",
+    "sha256": "ea4dd70d159b1c2372905ce644873b0b1cb0b21639a82234272dda2901f14b83",
+    "name": "Dreamscape — 02",
+    "image": "assets/candles/candles-049.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/18  梦幻系列/粉蓝雕花香氛蜡烛礼盒.png",
+    "file": "candles-050.png",
+    "sha256": "9a6c9f4b4d154430fd5e05c60780986b3ed3997ca8c476829821ea6451c8bd20",
+    "name": "Dreamscape — 03",
+    "image": "assets/candles/candles-050.webp",
+    "series": "Dreamscape"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/9 花园系列香薰蜡烛/晨曦.png",
+    "file": "candles-051.png",
+    "sha256": "a3380a38b9b640a0e0a123ffaf44d7894eca489555e344d6b37b9dfe03cba008",
+    "name": "Garden — 01",
+    "image": "assets/candles/candles-051.webp",
+    "series": "Garden"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/9 花园系列香薰蜡烛/栀子白茶.png",
+    "file": "candles-052.png",
+    "sha256": "308bd7367fa7b07ccb7bd9fe38084a8a879186af95f143c7330db66b34d587ba",
+    "name": "Garden — 02",
+    "image": "assets/candles/candles-052.webp",
+    "series": "Garden"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/9 花园系列香薰蜡烛/樱花牡丹.png",
+    "file": "candles-053.png",
+    "sha256": "664e82db0bed396fe3c7406673f830d61865a893ea5e597502e91a6f31b4575e",
+    "name": "Garden — 03",
+    "image": "assets/candles/candles-053.webp",
+    "series": "Garden"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛6/9 花园系列香薰蜡烛/薰衣草.png",
+    "file": "candles-054.png",
+    "sha256": "bf0d30990e800e675a67dfb7034c81e3dc7e52062c28ea04a2f0610ed3db796d",
+    "name": "Garden — 04",
+    "image": "assets/candles/candles-054.webp",
+    "series": "Garden"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/5 forest poetry/SUNLIT GROVE.png",
+    "file": "candles-055.png",
+    "sha256": "1b45a8aee624dc63caa67848e9cbc6857568096d5c5f3cc21d0c634eceeaf14a",
+    "name": "Forest Poetry — 01",
+    "image": "assets/candles/candles-055.webp",
+    "series": "Forest Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/5 forest poetry/WOODLAND TALE.png",
+    "file": "candles-056.png",
+    "sha256": "bc86ff1552832be5ed60b41150be0366cc7cba455d47842358138e15b34116fe",
+    "name": "Forest Poetry — 02",
+    "image": "assets/candles/candles-056.webp",
+    "series": "Forest Poetry"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/6 Garden Reverie/Morning Citrus (2).png",
+    "file": "candles-057.png",
+    "sha256": "ac11845aa9ef2376cf6ebea645144be1b6d2700e67be255e8d4dda7af43e2d47",
+    "name": "Garden Reverie — 01",
+    "image": "assets/candles/candles-057.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/6 Garden Reverie/Rose Breeze (2).png",
+    "file": "candles-058.png",
+    "sha256": "e085490cb02178e44a4d8c1f9949af8e824e7382b236686bd3263c5d4a9e4e72",
+    "name": "Garden Reverie — 02",
+    "image": "assets/candles/candles-058.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/6 Garden Reverie/Verdant Garden (2).png",
+    "file": "candles-059.png",
+    "sha256": "0d99eb39408525909316e50f6a2e19bf13c8a7f7e875b7c5f1ba5d9eb17a09f4",
+    "name": "Garden Reverie — 03",
+    "image": "assets/candles/candles-059.webp",
+    "series": "Garden Reverie"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/7 花香梦境系列/Lanarve深青花卉香氛蜡烛套装 (2).png",
+    "file": "candles-060.png",
+    "sha256": "b0b4cefce6a4a317346c76e67bfedf836d3e9799f5aa9a0f06b59ca6f26b3152",
+    "name": "Floral Reverie — 01",
+    "image": "assets/candles/candles-060.webp",
+    "series": "Floral Reverie"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/7 花香梦境系列/Lanarve灰花香薰蜡烛礼盒 (2).png",
+    "file": "candles-061.png",
+    "sha256": "b567b565abef2e5909e57d28dc43b0b53917bacb49ad05df9186672b14cff5a3",
+    "name": "Floral Reverie — 02",
+    "image": "assets/candles/candles-061.webp",
+    "series": "Floral Reverie"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/8 花香系列/（橙香）手绘字标蜡烛礼盒.png",
+    "file": "candles-062.png",
+    "sha256": "ecf311a81892532b4292ca9852da97584ae1c22921dae20557e3b6aeeea6d85c",
+    "name": "Botanical Fragrance — 01",
+    "image": "assets/candles/candles-062.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/8 花香系列/（檀香）手绘字标蜡烛礼盒.png",
+    "file": "candles-063.png",
+    "sha256": "213e53f96a8195c4756d70182bb6a79dfcae0ad503674bdaafa6c50f29557425",
+    "name": "Botanical Fragrance — 02",
+    "image": "assets/candles/candles-063.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/8 花香系列/（茉莉花）手绘字标蜡烛礼盒.png",
+    "file": "candles-064.png",
+    "sha256": "e4eabc9ddc916ac3e870280b1153c9f752fd4654336db7fd7b32438e10c15a58",
+    "name": "Botanical Fragrance — 03",
+    "image": "assets/candles/candles-064.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛5/8 花香系列/（薰衣草）手绘字标蜡烛礼盒.png",
+    "file": "candles-065.png",
+    "sha256": "488e425a1c3644368e86329f8347f34a432970e01429efdbca56b56baa841be3",
+    "name": "Botanical Fragrance — 04",
+    "image": "assets/candles/candles-065.webp",
+    "series": "Botanical Fragrance"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛8/25 亮色杯子/Lanarve烟灰蜡烛与极简礼盒.png",
+    "file": "candles-066.png",
+    "sha256": "d2191a451f8bad691364e4f9047a2b612e850bcdc175403a9ad7cdb57b3aab23",
+    "name": "Bright Glass — 01",
+    "image": "assets/candles/candles-066.webp",
+    "series": "Bright Glass"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛8/25 亮色杯子/琥珀香氛蜡烛与定制礼盒.png",
+    "file": "candles-067.png",
+    "sha256": "69d265b3e3544ce24d36c6804bc64049fcbe05c1dadd766586ede70f9040394b",
+    "name": "Bright Glass — 02",
+    "image": "assets/candles/candles-067.webp",
+    "series": "Bright Glass"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛8/26 梦幻琥珀色/琥珀玻璃薰衣草香薰礼盒.png",
+    "file": "candles-068.png",
+    "sha256": "de352fa2549f58fb514029b6f6224725113fbb0cbbc34521e94b7a0441c989c0",
+    "name": "Amber Dream — 01",
+    "image": "assets/candles/candles-068.webp",
+    "series": "Amber Dream"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/19 红黄蓝三元色/Lanarve暖黄花香蜡烛礼盒.png",
+    "file": "candles-069.png",
+    "sha256": "89de0ed165a258687e32cce0f67eca12e9fc9ca38bfbd044258ed6b5271a8457",
+    "name": "Colour Stories — 01",
+    "image": "assets/candles/candles-069.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/19 红黄蓝三元色/兰纳维蓝色香氛蜡烛礼盒.png",
+    "file": "candles-070.png",
+    "sha256": "975b940b77ef889cd07265002fabc07011f05a3ddde809845d66185ac7525119",
+    "name": "Colour Stories — 02",
+    "image": "assets/candles/candles-070.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/19 红黄蓝三元色/桃粉花卉香氛蜡烛礼盒.png",
+    "file": "candles-071.png",
+    "sha256": "5721e106788dfbcf7db6576e7054764311a3401cecdbf5ad5a55f043937e9765",
+    "name": "Colour Stories — 03",
+    "image": "assets/candles/candles-071.webp",
+    "series": "Colour Stories"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/20. 圣诞系列/Lanarve圣诞玻璃罩香氛礼盒.png",
+    "file": "candles-072.png",
+    "sha256": "dbdd854310cec92669a431289a9899fafbce80a53b8aef041850042b2fdee295",
+    "name": "Christmas — 01",
+    "image": "assets/candles/candles-072.webp",
+    "series": "Christmas"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/20. 圣诞系列/Lanarve圣诞肉桂橙香蜡烛礼盒.png",
+    "file": "candles-073.png",
+    "sha256": "bbe3f48f7a151e98cfcc24910d61e21bb94326c7e760590f80548067b380fe16",
+    "name": "Christmas — 02",
+    "image": "assets/candles/candles-073.webp",
+    "series": "Christmas"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛7/20. 圣诞系列/Lanarve森林绿圣诞蜡烛礼盒.png",
+    "file": "candles-074.png",
+    "sha256": "f2ca6e937e08f7052d109f89dda7d508b2ba45443c28533cb56688ab5c52d58e",
+    "name": "Christmas — 03",
+    "image": "assets/candles/candles-074.webp",
+    "series": "Christmas"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛10/27  竹筒蜡烛/Lanarve香氛蜡烛与礼盒.png",
+    "file": "candles-075.png",
+    "sha256": "db91c717cbab8d1b81cd6b087a8068981fec897c8408dda7b6150694def1291d",
+    "name": "Bamboo — 01",
+    "image": "assets/candles/candles-075.webp",
+    "series": "Bamboo"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛10/27  竹筒蜡烛/鼠尾草绿 Lanarve 香薰蜡烛礼盒.png",
+    "file": "candles-076.png",
+    "sha256": "a09da01326035fd32c99fcf7447f733be61fc46bc92a5b54af856d54a65c5c4a",
+    "name": "Bamboo — 02",
+    "image": "assets/candles/candles-076.webp",
+    "series": "Bamboo"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛10/28 石头杯蜡烛/Lanarve灰烛香氛礼盒.png",
+    "file": "candles-077.png",
+    "sha256": "beaa2d916f6d0d53bfc8668203262b6f085ec10d6e1ab8598f71e72905038455",
+    "name": "Stone — 01",
+    "image": "assets/candles/candles-077.webp",
+    "series": "Stone"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛10/28 石头杯蜡烛/象牙色斑点蜡烛与礼盒.png",
+    "file": "candles-078.png",
+    "sha256": "c09dc7f11a3e4149924f3fd343c6a0e969f643af7cfa5511b634aad33dd74f17",
+    "name": "Stone — 02",
+    "image": "assets/candles/candles-078.webp",
+    "series": "Stone"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛9/29 方形蜡烛/象牙香薰蜡烛与优雅字标 (1).png",
+    "file": "candles-079.png",
+    "sha256": "dc5803af3a94675fe7f7dace0b3c32349a8b299bae14c77a4ae030ded4f9cb75",
+    "name": "Square — 01",
+    "image": "assets/candles/candles-079.webp",
+    "series": "Square"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛9/29 方形蜡烛/黑色香薰蜡烛与优雅字标 (1).png",
+    "file": "candles-080.png",
+    "sha256": "24f3e92ada1d4706b0c0bc226062d1f3352ffe13a1b8cedaa9127bf15e70ea73",
+    "name": "Square — 02",
+    "image": "assets/candles/candles-080.webp",
+    "series": "Square"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛9/30 浮雕系列/浮雕1.png",
+    "file": "candles-081.png",
+    "sha256": "8dcc83c6e3de4f360f6e6469522b734fef9d4ef9f8369e2f39ba10b2e7983b63",
+    "name": "Sculpted Relief — 01",
+    "image": "assets/candles/candles-081.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛9/30 浮雕系列/浮雕2.png",
+    "file": "candles-082.png",
+    "sha256": "1f00c5e46d55d628d8e20afc11c9e6ebaf7518ce2b1b98d48428cd549ea92683",
+    "name": "Sculpted Relief — 02",
+    "image": "assets/candles/candles-082.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛9/30 浮雕系列/浮雕3.png",
+    "file": "candles-083.png",
+    "sha256": "51fd32d04ba1f49f9c2cd4352be687ef91c2dbd344a2427083cfae4aa83ff129",
+    "name": "Sculpted Relief — 03",
+    "image": "assets/candles/candles-083.webp",
+    "series": "Sculpted Relief"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛12/37 钟罩创意系列/Lanarve小狗骨形蜡烛礼盒.png",
+    "file": "candles-084.png",
+    "sha256": "a52f68a8df88b8ae5344e5de686832d18e96c83cde627f6f6521158e4de49478",
+    "name": "Playful Glass Dome — 01",
+    "image": "assets/candles/candles-084.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛12/37 钟罩创意系列/沉睡熊猫竹香礼盒 (1).png",
+    "file": "candles-085.png",
+    "sha256": "3948705bf22d3796966beab2b2a6ed606daf0be3393dc15d2a5e0c9fb1b17c36",
+    "name": "Playful Glass Dome — 02",
+    "image": "assets/candles/candles-085.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛12/37 钟罩创意系列/胖萌幽灵南瓜玻璃罩礼盒.png",
+    "file": "candles-086.png",
+    "sha256": "1c4ca5b74398c11885cab66ea534500e606fc46754f095f20be809d2d4e5a2a3",
+    "name": "Playful Glass Dome — 03",
+    "image": "assets/candles/candles-086.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛12/37 钟罩创意系列/萌鱼猫咪香氛礼盒 (1).png",
+    "file": "candles-087.png",
+    "sha256": "697804300b532aa24dfcf7a7cfa56d7d8ec6156727273da68ecaaefcd31f8564",
+    "name": "Playful Glass Dome — 04",
+    "image": "assets/candles/candles-087.webp",
+    "series": "Playful Glass Dome"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛11/35 象牙白石头蜡烛/Lanarve 象牙手作蜡烛礼盒 (1).png",
+    "file": "candles-088.png",
+    "sha256": "51cafad0b37254c46937d512b2ed724947bf769825227eb8af07c0a32fceaefa",
+    "name": "Ivory Stone — 01",
+    "image": "assets/candles/candles-088.webp",
+    "series": "Ivory Stone"
+  },
+  {
+    "category": "candles",
+    "source": "香薰蜡烛11/36 水母套装/水母造型香薰蜡烛礼盒.png",
+    "file": "candles-089.png",
+    "sha256": "69152599ffcc7cd678b9a8660cefc3766d6b076047b21580bd37f00144406351",
+    "name": "Jellyfish — 01",
+    "image": "assets/candles/candles-089.webp",
+    "series": "Jellyfish"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/11 茶系列香薰/Lanarve冷萃茶扩香器礼盒.png",
+    "file": "reeds-090.png",
+    "sha256": "3c4422188128015b6d47b1f1d5f0f9d872225ebfc1a691cc3c2589724f426e02",
+    "name": "Tea Rituals — 01",
+    "image": "assets/reeds/reeds-090.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/11 茶系列香薰/Lanarve檀香扩香瓶与礼盒.png",
+    "file": "reeds-091.png",
+    "sha256": "1b142ad82e687b1ca93341e04e883fc171651a2ba4ded267f193366a4d2b5e44",
+    "name": "Tea Rituals — 02",
+    "image": "assets/reeds/reeds-091.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/11 茶系列香薰/Lanarve深蓝雪松藤条香薰礼盒.png",
+    "file": "reeds-092.png",
+    "sha256": "fb92ee0e08028e52d7c3a99bf95ec95d8d6764fc0270eb51e3e77d0490937489",
+    "name": "Tea Rituals — 03",
+    "image": "assets/reeds/reeds-092.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/11 茶系列香薰/Lanarve黑茶藤条香薰瓶盒.png",
+    "file": "reeds-093.png",
+    "sha256": "cd7391bdc1c8d00add1308e4c1f6e681e81797793916d95a32a5485ceac74760",
+    "name": "Tea Rituals — 04",
+    "image": "assets/reeds/reeds-093.webp",
+    "series": "Tea Rituals"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/12 小清新香薰/Lanarve乌木佛手柑扩香礼盒.png",
+    "file": "reeds-094.png",
+    "sha256": "db722d8498d87a231803ba87bb7fe7de30120e701ebfc92d69fafe2de0a21a4d",
+    "name": "Fresh Moments — 01",
+    "image": "assets/reeds/reeds-094.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/12 小清新香薰/Lanarve橙香扩香瓶与纸盒.png",
+    "file": "reeds-095.png",
+    "sha256": "f62cdcec7cfffd26c32783903c660c8a397c16fce3ef4553040d5c8e051c3fa4",
+    "name": "Fresh Moments — 02",
+    "image": "assets/reeds/reeds-095.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/12 小清新香薰/Lanarve白茶香薰与高级纸盒.png",
+    "file": "reeds-096.png",
+    "sha256": "df56e3e4de634d5af47079144e36f108afbb7e2715c3e7af4ce08c1800f55b69",
+    "name": "Fresh Moments — 03",
+    "image": "assets/reeds/reeds-096.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/12 小清新香薰/Lanarve绿茶香薰礼盒.png",
+    "file": "reeds-097.png",
+    "sha256": "6931ef5e85af188ac9f0572d415c7d0fe1025b8ad7f45dfc383734aae7322168",
+    "name": "Fresh Moments — 04",
+    "image": "assets/reeds/reeds-097.webp",
+    "series": "Fresh Moments"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/13 粉绿粉红香薰/Lanarve牡丹扩香瓶与纸盒.png",
+    "file": "reeds-098.png",
+    "sha256": "1982b07dced0c8dd28938cff3a990348736dbc1dbf6a1fa1a7c361652d51d4b8",
+    "name": "Pastel — 01",
+    "image": "assets/reeds/reeds-098.webp",
+    "series": "Pastel"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/13 粉绿粉红香薰/Lanarve白茶扩香瓶与纸盒.png",
+    "file": "reeds-099.png",
+    "sha256": "b794496da0b08245afa71e11916ab2fc23fb7f4509594683b606423f4016389c",
+    "name": "Pastel — 02",
+    "image": "assets/reeds/reeds-099.webp",
+    "series": "Pastel"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/14  富士山香薰/Lanarve晨玫山形粉色扩香套装.png",
+    "file": "reeds-100.png",
+    "sha256": "ac7304629e592bb92f15f12b580d3c7521dabf6f8cacc68f65870e57d4f82d25",
+    "name": "Mountain — 01",
+    "image": "assets/reeds/reeds-100.webp",
+    "series": "Mountain"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/14  富士山香薰/奶油黄月夜栀子扩香礼盒.png",
+    "file": "reeds-101.png",
+    "sha256": "3fe7caf64be742fb94d696745f2934de9db98895f5777ba5149daebab8759e57",
+    "name": "Mountain — 02",
+    "image": "assets/reeds/reeds-101.webp",
+    "series": "Mountain"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰2/14  富士山香薰/鲜亮青柠绿山形扩香包装.png",
+    "file": "reeds-102.png",
+    "sha256": "5fa1d777be9c675d2b60b7bb36dd7b8027c2008eda80030b34c5c6039b1e454e",
+    "name": "Mountain — 03",
+    "image": "assets/reeds/reeds-102.webp",
+    "series": "Mountain"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/6 鼠尾草/鸢尾草系列.png",
+    "file": "reeds-103.png",
+    "sha256": "17dea812af1982220c87a9075c375496903aa3532a3c6179cc0f87d0a3e6ebf4",
+    "name": "Botanical — 01",
+    "image": "assets/reeds/reeds-103.webp",
+    "series": "Botanical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/7 圆柱系列/奶油黄 蓝风铃.png",
+    "file": "reeds-104.png",
+    "sha256": "3ea1f6a83e2900a66a3609e38aaaacf1fe8b40e4b16a494b491a1380759d8a1c",
+    "name": "Cylindrical — 01",
+    "image": "assets/reeds/reeds-104.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/7 圆柱系列/暖石灰  檀木沉香.png",
+    "file": "reeds-105.png",
+    "sha256": "72ece5246467dcb5e7b8c4e9a6049573412742802fe1d86dbe5bb8824482c965",
+    "name": "Cylindrical — 02",
+    "image": "assets/reeds/reeds-105.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/7 圆柱系列/柔粉色英国梨小苍兰香薰礼盒.png",
+    "file": "reeds-106.png",
+    "sha256": "db9cc719eb0a4c5b83ea500eecf5fdbd537b083c0203924dc1800a85d3ca3b51",
+    "name": "Cylindrical — 03",
+    "image": "assets/reeds/reeds-106.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/7 圆柱系列/炭黑香薰  青柠小甘菊.png",
+    "file": "reeds-107.png",
+    "sha256": "04ff61be53c01d89b0974cf4bbe50d20011920ffa4ba05c6dde0e1266fcf2065",
+    "name": "Cylindrical — 04",
+    "image": "assets/reeds/reeds-107.webp",
+    "series": "Cylindrical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve EBONY 扩香瓶与抽屉礼盒.png",
+    "file": "reeds-108.png",
+    "sha256": "8b5f23ce7846e2f85de7b48aa4341c7baf75a307fb69be9d7dac506c8eed0f70",
+    "name": "Square Glass — 01",
+    "image": "assets/reeds/reeds-108.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve FIG香氛扩香瓶与礼盒.png",
+    "file": "reeds-109.png",
+    "sha256": "8fd77c3f1a9648486a5be5d58e4102819fe2f5e8384ccb837153b466381e7d6c",
+    "name": "Square Glass — 02",
+    "image": "assets/reeds/reeds-109.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve OCEAN 高级扩香礼盒.png",
+    "file": "reeds-110.png",
+    "sha256": "9df1b932c0073074336848d8650192a8b982c1ecf41c277f51660f6ba5a1a750",
+    "name": "Square Glass — 03",
+    "image": "assets/reeds/reeds-110.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve 大马士革玫瑰香薰与抽屉礼盒.png",
+    "file": "reeds-111.png",
+    "sha256": "7714b16a4fe48ca1bf430ef1028f1152ecdeff00754e9b523a051236a9fb52a3",
+    "name": "Square Glass — 04",
+    "image": "assets/reeds/reeds-111.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve 檀香扩香瓶与抽屉礼盒.png",
+    "file": "reeds-112.png",
+    "sha256": "367889a03f0f6d91ceba5ff5ed378789492f78eb144ab204d051c948a6f70861",
+    "name": "Square Glass — 05",
+    "image": "assets/reeds/reeds-112.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve牡丹香氛礼盒.png",
+    "file": "reeds-113.png",
+    "sha256": "7b5da8587a981adeb828c7b660cfb21718d4b9f62aa1f9864226c1489c974043",
+    "name": "Square Glass — 06",
+    "image": "assets/reeds/reeds-113.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/Lanarve白茶香薰与抽屉礼盒.png",
+    "file": "reeds-114.png",
+    "sha256": "371d27a45e9e2a36979922ea593f532351ecdf518ed87e889f31c53b92be66ef",
+    "name": "Square Glass — 07",
+    "image": "assets/reeds/reeds-114.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/8.方形香薰/茉莉扩香瓶与滑盖礼盒.png",
+    "file": "reeds-115.png",
+    "sha256": "255810a304049533d7acb225f2a2debd4a5e81b8bfc4d4af34320a61aa02199e",
+    "name": "Square Glass — 08",
+    "image": "assets/reeds/reeds-115.webp",
+    "series": "Square Glass"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/9 内置实物香薰/1.1.png",
+    "file": "reeds-116.png",
+    "sha256": "33bbbc186bc936f9af4151fdee15f34a82fe796c123b6a2a47017b7774450eb0",
+    "name": "Botanical Infusion — 01",
+    "image": "assets/reeds/reeds-116.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/9 内置实物香薰/1.2.png",
+    "file": "reeds-117.png",
+    "sha256": "bf7808d1949bf92f8bf17c3172327e6956055703edcaf9a0fec320a6fc92dd00",
+    "name": "Botanical Infusion — 02",
+    "image": "assets/reeds/reeds-117.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰4/9 内置实物香薰/1.3.jpeg",
+    "file": "reeds-118.jpeg",
+    "sha256": "a52389f755d131fd97251da4da31123e705dbb27fb7a6d3ff821539f6d482ac9",
+    "name": "Botanical Infusion — 03",
+    "image": "assets/reeds/reeds-118.webp",
+    "series": "Botanical Infusion"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/10  极简香薰/3.1.png",
+    "file": "reeds-119.png",
+    "sha256": "ff77c20ca9769e52f0d361406ea30fd2ccec45a2293021a1a9ccc72e4c073d3a",
+    "name": "Minimal — 01",
+    "image": "assets/reeds/reeds-119.webp",
+    "series": "Minimal"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/10  极简香薰/3.2.png",
+    "file": "reeds-120.png",
+    "sha256": "9ab0b15a940f6dcdd07bc85f2cd936a216b1e2110357267c045c2e0f87dc2802",
+    "name": "Minimal — 02",
+    "image": "assets/reeds/reeds-120.webp",
+    "series": "Minimal"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/15 异性高品质香薰/Lanarve琥珀香薰瓶与配套纸盒.png",
+    "file": "reeds-121.png",
+    "sha256": "c9f1ced0777ccd960e7df1793fc566b0f77e2a6abaea80515c504b20511241bd",
+    "name": "Sculptural — 01",
+    "image": "assets/reeds/reeds-121.webp",
+    "series": "Sculptural"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/16 金属质感无火香薰/Lanarve金色扩香瓶与配套礼盒.png",
+    "file": "reeds-122.png",
+    "sha256": "f9a3880fcbf741e27976bed0503f2ffb09dbebdb9204112771efb49ce8a167a8",
+    "name": "Metallic — 01",
+    "image": "assets/reeds/reeds-122.webp",
+    "series": "Metallic"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/16 金属质感无火香薰/特色金属香薰.png",
+    "file": "reeds-123.png",
+    "sha256": "1a575117d71cae5690a16a1339fe7543562ea56d20e0161686e99394f514abd4",
+    "name": "Metallic — 02",
+    "image": "assets/reeds/reeds-123.webp",
+    "series": "Metallic"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰5/17 粉色系无火香薰/Lanarve 150 ml 粉色扩香套装.png",
+    "file": "reeds-124.png",
+    "sha256": "6038ca9cd776885fae5c3b55d662b32e55ce92dac83eae7394dade7a6457f84d",
+    "name": "Blush — 01",
+    "image": "assets/reeds/reeds-124.webp",
+    "series": "Blush"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/18 球形香薰/腮红粉香氛球瓶与象牙礼盒.png",
+    "file": "reeds-125.png",
+    "sha256": "2153efb389fa5b316bed7e1a2f3f14c377828a44777898b3f2723e4a60eace72",
+    "name": "Spherical — 01",
+    "image": "assets/reeds/reeds-125.webp",
+    "series": "Spherical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/18 球形香薰/香槟金香氛与象牙礼盒.png",
+    "file": "reeds-126.png",
+    "sha256": "9b21eafbb1205cfa44cee507a21407c4fbc256bf51602147a5eff14f99924d93",
+    "name": "Spherical — 02",
+    "image": "assets/reeds/reeds-126.webp",
+    "series": "Spherical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/18 球形香薰/鼠尾草绿香氛球瓶礼盒.png",
+    "file": "reeds-127.png",
+    "sha256": "d2f6e7be384682e020972398cc276ade65156b74b578ac75ce290a2710c7957e",
+    "name": "Spherical — 03",
+    "image": "assets/reeds/reeds-127.webp",
+    "series": "Spherical"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/19 经典款香薰/Lanarve深琥珀扩香礼盒.png",
+    "file": "reeds-128.png",
+    "sha256": "61f60e932e7cdbfc8c547e6782d66a13d0132fed22947cbbe4e376682a1559e7",
+    "name": "Classic Amber — 01",
+    "image": "assets/reeds/reeds-128.webp",
+    "series": "Classic Amber"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/19 经典款香薰/Lanarve烟茶色香薰礼盒.png",
+    "file": "reeds-129.png",
+    "sha256": "dd197adc23a65bae9019d04daa561772e2733cd704025da405294d529b98803d",
+    "name": "Classic Amber — 02",
+    "image": "assets/reeds/reeds-129.webp",
+    "series": "Classic Amber"
+  },
+  {
+    "category": "reeds",
+    "source": "无火香薰6/20 檀木香薰/Lanarve檀香扩香与高级礼盒.png",
+    "file": "reeds-130.png",
+    "sha256": "0aa55d2c5e510b2c23baa293ba1d0c80c7b74cbedf3f4a6c88bea59563bb6874",
+    "name": "Sandalwood — 01",
+    "image": "assets/reeds/reeds-130.webp",
+    "series": "Sandalwood"
+  }
+]
