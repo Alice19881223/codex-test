@@ -25,3 +25,9 @@ Product images are supplied by the user and optimized as WebP. Exact duplicates 
 Company name in the latest supplied copy: Lanarve (LanXin Ningbo Technology Development Co., Ltd.). Address: Zhenhai, Ningbo, Zhejiang Province, China. Telephone: +86 159 6890 2361 and +86 183 6823 9527. WhatsApp QR codes were generated for `https://wa.me/8615968902361` and `https://wa.me/8618368239527`; confirm the numbers are registered. Facebook and LinkedIn destinations are supplied by the user. Email and Instagram destinations are not yet supplied and are omitted.
 
 Validation covers independent page loading, complete company copy, every product through pagination, final-page counts, URL persistence, mobile navigation/layout, gift details and fragrance filters/pairings. Older single-page/load-more test scripts no longer match the current design.
+
+## Lifestyle banner and visual identity
+
+The homepage hero now uses `assets/lanarve-lifestyle-hero.png`, an AI-generated lifestyle composition based on three supplied Lanarve product references. It depicts candle, reed diffuser and crystal diffuser products in a warm neutral interior. This is a styled brand visual, not a documentary product photograph. The original generated image remains under `/workspace/generated_images`.
+
+`assets/lanarve-logo.svg` is the new scalable wordmark with an original L/V letter monogram. `assets/lanarve-mark.svg` provides the matching standalone mark and favicon. Colours match the website's warm brown/cream palette. Header branding is applied to every page. Banner/branding verified at 390, 768, 1024 and 1440 pixel viewport widths.
