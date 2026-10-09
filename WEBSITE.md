@@ -1,33 +1,27 @@
-# Lanarve product showcase
+# Lanarve home fragrance website
 
-Run from `/workspace/codex-test`:
+Serve `/workspace/codex-test` using any static website host. For local development:
 
 ```sh
 python3 -m http.server 8000 --bind 0.0.0.0
 ```
 
-Open the site through your development environment's port forwarding or serve this directory with any static website host. No build or package installation is required.
+GitHub Pages uses the `gh-pages` branch and root directory. Pushing updates to that branch publishes them only if Pages is enabled in repository settings. Public deployment cannot currently be checked from this environment.
 
-The site includes Who We Are, scented candles, reed diffusers, crystal diffusers, gift sets, and 30 fragrance directions with family/search filters and linked product details. Direct fragrance links use `#fragrance-1` through `#fragrance-30`.
+## Pages
 
-Brand name: Lanarve. The illustration in `assets/still-life.svg` is original placeholder artwork, not brochure photography. Replace the hero and product images with the actual brochure assets before publication. Product pairings, gift contents and brand story are concept copy for review, not confirmed manufacturing claims. Add the real contact details and product specifications before commercial use. Google Fonts is optional; local system serif and sans-serif fonts work if the font service is unavailable.
+- `index.html`: Who We Are, Mission, Vision and OEM/ODM capabilities. Company copy is supplied by the user. Layout follows the supplied Word document's banner, image/text section, mission/vision cards and closing call to action; reference screenshots are not used as Lanarve assets.
+- `products.html`: category tabs and numbered pagination, 12 product images per page. Candles: 89 images/8 pages. Reed diffusers: 69 images/6 pages. Crystal diffusers: 13 images/2 pages. The final page shows the remaining images. Category/page are saved in query parameters, e.g. `products.html?category=reed&page=6`; reload and browser back/forward restore the selection.
+- `gifts.html`: a curated selection from supplied gift product images, also paginated at 12 per page.
+- `fragrance.html`: 30 concept fragrance directions, family/search filtering and linked product detail previews. Direct fragrance links use `fragrance.html#fragrance-1` through `#fragrance-30`. Suggested fragrance pairings are subject to catalogue confirmation.
+- `contact.html`: company contact introduction, phone links, WhatsApp QR codes, Facebook and LinkedIn. Shared contacts also appear in each page footer.
 
-The requested reference website could not be accessed from this environment (proxy returned 403), so the design is an independent interpretation of the brief.
+`catalog.js` holds category/fragrance data and image catalogues. `app.js` initializes the features present on each page. `styles.css` contains shared responsive styles. No build step or package installation is needed. Optional Google Fonts have local serif/sans-serif fallbacks.
 
-## Brochure update
+## Source assets and company details
 
-The crystal collection now includes 13 supplied product images, optimized as WebP, with English display names derived from the source filenames (subject to brand review). The hero, gift section and crystal details use these images. Candle and reed diffuser archives could not be downloaded because each exceeded the 32 MiB transfer limit; those categories retain illustrated placeholders.
+Product images are supplied by the user and optimized as WebP. Exact duplicates were removed when importing. `assets/photo-source-manifest.json` records source filenames and hashes for the bulk candle/reed imports; the initial crystal and reed imports have separate product manifests. English collection names are translations or display identifiers for review, not confirmed SKU names. Image counts refer to photographs, which may include multiple views of a product.
 
-Company name, address and two telephone contacts are supplied by the user. WhatsApp QR images are newly generated from `https://wa.me/8615968902361` and `https://wa.me/8618368239527`; they are not copies of the inline QR attachments. Confirm that the numbers are registered on WhatsApp. Email and Facebook/LinkedIn destinations have not been supplied and are omitted rather than invented. The uploaded legacy Word document yielded no readable body content.
+Company name in the latest supplied copy: Lanarve (LanXin Ningbo Technology Development Co., Ltd.). Address: Zhenhai, Ningbo, Zhejiang Province, China. Telephone: +86 159 6890 2361 and +86 183 6823 9527. WhatsApp QR codes were generated for `https://wa.me/8615968902361` and `https://wa.me/8618368239527`; confirm the numbers are registered. Facebook and LinkedIn destinations are supplied by the user. Email and Instagram destinations are not yet supplied and are omitted.
 
-## Reed diffuser image update
-
-Added all four images from the downloadable 无火香薰3.zip, optimized as WebP, including the colour collection, seven-colour gift set and Rain Forest bottle/packaging. The reed category and product dialog now use actual supplied artwork. The other five archives in this batch exceed the 32 MiB download limit and have not been processed. English display names are translated from filenames and are subject to review.
-
-## Bulk photo update
-
-Processed 20 downloadable ZIP uploads, deduplicated exact source image bytes, and added 89 candle photos and 41 new reed diffuser photos. The reed gallery now contains 45 photos including the four earlier uploads. All photos are available through accessible Load More buttons, 12 at a time, with lazy loading and WebP compression. Display names are collection identifiers for review, not confirmed SKU names. Source filenames and SHA-256 hashes are recorded in `assets/photo-source-manifest.json`. Both uploaded copies of 无火香薰1.zip exceed the download limit and were not processed.
-
-## Floral, tea and festive reed update
-
-Processed the four newly split reed archives. Added 24 unique supplied photos; skipped 0 duplicates. Reed gallery total: 69. English names are translations of the source filenames, subject to brand review.
+Validation covers independent page loading, complete company copy, every product through pagination, final-page counts, URL persistence, mobile navigation/layout, gift details and fragrance filters/pairings. Older single-page/load-more test scripts no longer match the current design.
