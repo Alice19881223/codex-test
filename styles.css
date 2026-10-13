@@ -101,3 +101,9 @@ footer .contact-row:focus-visible .contact-icon{transform:rotate(-8deg) scale(1.
 }
 @media(max-width:650px){.home-page .capability-grid article{padding:22px 10px 12px}.home-page .capability-grid h3{font-size:21px}.capability-icon{width:70px;height:70px}footer p,footer>div>a:not(.logo){font-size:14px}footer .company-contact h3{font-size:15px}footer .company-contact .contact-row{font-size:14px}}
 @media(prefers-reduced-motion:reduce){.capability-icon,.home-page .capability-grid article,footer a,footer .contact-icon{transition:none!important}.home-page .capability-grid article:hover,.home-page .capability-grid article:hover .capability-icon,footer a:hover,footer .contact-row:hover .contact-icon,footer .contact-row:focus-visible .contact-icon{transform:none!important}}
+
+/* Five capabilities, with room for the environmental design focus. */
+@media(min-width:1280px){.home-page .capability-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:20px}.home-page .capability-grid h3{font-size:22px}}
+@media(min-width:1001px) and (max-width:1279px){.home-page .capability-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:1000px){.home-page .capability-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.home-page .capability-grid article:last-child{grid-column:1/-1;max-width:calc((100% - 30px)/2);width:100%;justify-self:center}}
+@media(max-width:650px){.home-page .capability-grid article:last-child{max-width:calc((100% - 20px)/2)}}
