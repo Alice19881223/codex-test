@@ -89,3 +89,7 @@ The five new 打包 archives add 25 complete product pairs (50 unique source ima
 ## Updated logo
 
 assets/lanarve-logo-green.svg is a transparent vector reconstruction based on the user's supplied forest/sage flowing-symbol and uppercase LANARVE reference, rather than an extraction of the original raster artwork. It replaces the previous LV mark in all page headers/footers and the film player heading. assets/lanarve-mark-green.svg supplies the corresponding favicon. Letterforms use a serif fallback; exact original typography requires the original logo file. Header and footer sizes adapt to desktop/mobile and are checked alongside deployment staging.
+
+## Illustrated direct navigation
+
+The Products dropdown is replaced by three direct links: Scented candles, Reed diffusers and Crystal diffusers. Header entries pair readable labels with shared forest/sage SVG illustrations; Christmas uses a tree. Pagination previous/next links use the current category illustration alongside their direction label, and homepage carousel arrows update their product illustration with the current slide. Hover effects respect reduced-motion preferences. Desktop navigation occupies a separate row; tablet/mobile menus use an illustrated grid. scripts/update-navigation.py refreshes shared markup and current-page states automatically when scripts/version-site-assets.py runs, so later catalogue imports keep the new navigation.

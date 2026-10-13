@@ -173,3 +173,20 @@ footer .logo:hover{letter-spacing:0}
 @media(min-width:1201px) and (max-width:1450px){header .brand-wordmark{width:265px}}
 @media(max-width:1200px){header .brand-wordmark{width:265px}}
 @media(max-width:650px){header .brand-wordmark{width:220px}footer .footer-wordmark{width:235px}}
+
+/* Direct category navigation with playful, accessible illustrations. */
+header{height:auto;flex-wrap:wrap;justify-content:center;gap:12px;padding:14px 6% 18px}
+header nav{display:grid;grid-template-columns:repeat(9,minmax(0,1fr));width:100%;flex-basis:100%;gap:8px;font-size:12px}
+header nav .nav-picture{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;text-align:center;line-height:1.4;border:1px solid transparent;border-radius:14px;padding:7px 4px;color:#486347;min-height:76px;transition:background .25s ease,border-color .25s ease}
+.nav-picture img{display:block;transition:transform .3s ease;width:38px;height:38px}
+header nav .nav-picture.active{background:#e8eee0;border-color:#ccd9bf}
+header nav .nav-picture:hover,header nav .nav-picture:focus-visible{background:#edf2e6;border-color:#cad7bd}
+header nav .nav-picture:hover img,header nav .nav-picture:focus-visible img{transform:rotate(-7deg) scale(1.1)}
+.pagination a,.pagination .disabled{display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.page-picture{display:block;object-fit:contain;transition:transform .25s ease}
+.pagination a:hover .page-picture{transform:rotate(8deg) scale(1.1)}
+.carousel-controls .carousel-arrow{width:48px;min-width:48px;gap:2px}
+.carousel-arrow img{display:block}
+@media(max-width:1200px){header{justify-content:space-between;flex-wrap:nowrap;padding:12px 6%}header nav{display:none;position:absolute;top:100%;left:0;right:0;padding:18px;background:var(--paper);z-index:20;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}header nav.open{display:grid}.nav-picture img{width:34px;height:34px}header nav .nav-picture{font-size:12px}}
+@media(max-width:650px){header{height:88px}header nav{grid-template-columns:repeat(3,minmax(0,1fr))}header nav .nav-picture{min-height:85px}.carousel-controls .carousel-arrow{width:40px;min-width:40px}.carousel-arrow img{width:18px;height:18px}}
+@media(prefers-reduced-motion:reduce){.nav-picture img,.page-picture{transition:none}.nav-picture:hover img,.nav-picture:focus-visible img,.pagination a:hover .page-picture{transform:none!important}}
