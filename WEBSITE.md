@@ -71,3 +71,7 @@ The supplemental Christmas archives 打包1/2/6/7 add 22 paired products (44 pho
 ## Tablets and sachets
 
 The Tablets & Sachets theme button links to sachets.html. The supplied two archives add ten reviewed pairs (20 optimized photographs): botanical/floral wax tablets, fabric fragrance sachets and a rose fragrance tablet. Each product defaults to standalone view, crossfades to packaging on hover and supports a touch toggle; detail galleries retain standalone-above-packaging order. The panda gift-set photo is deferred until its standalone photo is supplied. Catalogue data: assets/sachets-products.json; reviewed source pairing: assets/paired-sachets-source-manifest.json; recipe: scripts/import-paired-sachets.py. Navigation collapses on narrower screens to accommodate the expanded themes.
+
+## Current Christmas entry and cache-safe assets
+
+The current Christmas navigation and pagination use christmas-collection.html, christmas-collection-2.html and christmas-collection-3.html (35 paired products; 12/12/11). The introductory label explicitly states 35 designs to distinguish it from the legacy 13-product page cached by the user's browser or hosting layer. HTML now references immutable app/catalog/style filenames rather than relying on query-string versions. After any catalogue, script or CSS change, run `python3 scripts/version-site-assets.py` before publishing; otherwise an older immutable script could remain linked. These local and remote branch checks do not establish that a GitHub Pages build has completed.

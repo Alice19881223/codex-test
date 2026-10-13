@@ -32,7 +32,7 @@ base=base.replace('href="products-current.html" aria-current="page" class="activ
 base=base.replace('class="nav-christmas"','class="nav-christmas active" aria-current="page"')
 total=math.ceil(len(allproducts)/12)
 
-def filename(n):return 'christmas.html' if n==1 else f'christmas-{n}.html'
+def filename(n):return 'christmas-collection.html' if n==1 else f'christmas-collection-{n}.html'
 def esc(t):return html.escape(t,quote=True)
 def card(p,index):
  name=esc(p['name']);paired=bool(p.get('packagingImage'));imgs=f'<img class="photo-single" src="{p["image"]}" alt="Lanarve {name} — product" loading="lazy">'
