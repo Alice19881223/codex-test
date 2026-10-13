@@ -85,3 +85,7 @@ The deployment staging check verifies the 35-product Christmas catalogue, 49 exi
 ## October 14 reed diffuser collection
 
 The five new 打包 archives add 25 complete product pairs (50 unique source images) at the beginning of the reed catalogue. The 69 existing products and all their companion views are retained; reeds now total 94 products across eight pages (12 per page, 10 on the final page). Default/card/detail ordering remains standalone then packaging; hover and touch previews use the shared component. Source pairings and hashes are recorded in assets/paired-reed-oct14-source-manifest.json. Recipe: scripts/import-paired-reeds.py, then scripts/version-site-assets.py and scripts/prepare-pages.py. Existing companion match indexes have been updated, and its replay recipe now resolves products by reviewed name so prepending products does not corrupt earlier pairings.
+
+## Updated logo
+
+assets/lanarve-logo-green.svg is a transparent vector reconstruction based on the user's supplied forest/sage flowing-symbol and uppercase LANARVE reference, rather than an extraction of the original raster artwork. It replaces the previous LV mark in all page headers/footers and the film player heading. assets/lanarve-mark-green.svg supplies the corresponding favicon. Letterforms use a serif fallback; exact original typography requires the original logo file. Header and footer sizes adapt to desktop/mobile and are checked alongside deployment staging.
