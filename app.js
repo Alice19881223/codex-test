@@ -34,7 +34,7 @@ if(grid){
  if(query.has('category')||query.has('page')){
   const cat=category==='gift'?'gift':['candle','reed','crystal'].includes(query.get('category'))?query.get('category'):category;
   const raw=Number(query.get('page'));const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,Math.ceil(catalogues[cat].length/12));
-  const target=cat==='gift'?(page===1?'gifts.html':`gifts-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
+  const target=cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
   location.replace(target);
  }
 }

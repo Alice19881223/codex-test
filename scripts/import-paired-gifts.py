@@ -23,10 +23,10 @@ else:s+='\n'+block+'\n'
 p.write_text(s)
 crystals=json.loads((ROOT/'assets/crystal-products.json').read_text());reeds=json.loads((ROOT/'assets/reed-products.json').read_text());candles=json.loads((ROOT/'assets/candle-products.json').read_text())
 allproducts=products
-base=(ROOT/'gifts.html').read_text();total=math.ceil(len(allproducts)/12)
+base=(ROOT/'gift-collection.html').read_text();total=math.ceil(len(allproducts)/12)
 base=re.sub(r'(<div class="gift-art"><img )[^>]*>', lambda m:m[1]+f'src="{products[0]["packagingImage"]}" alt="Lanarve Emerald Duo candle and diffuser gift set">', base, count=1)
 base=base.replace('crystal and home fragrance gift collections','candle and home fragrance gift collections')
-def filename(n):return 'gifts.html' if n==1 else f'gifts-{n}.html'
+def filename(n):return 'gift-collection.html' if n==1 else f'gift-collection-{n}.html'
 def esc(t):return html.escape(t,quote=True)
 def card(p,index):
  name=esc(p['name']);paired=bool(p.get('packagingImage'));imgs=f'<img class="photo-single" src="{p["image"]}" alt="Lanarve {name} — product" loading="lazy">'
