@@ -3,7 +3,7 @@ const products = {
  candle: { title: 'Scented candle', description: 'A warm glow, a gentle scent, a moment just for you. Explore a candle ritual for slow evenings and everyday pauses.', label: 'The art of slowing down.' },
  reed: { title: 'Reed diffuser', description: 'A quiet, continuous presence. Discover fragrances designed to bring a welcoming feeling to living rooms, entryways and personal spaces.', label: 'A beautiful, lasting presence.' },
  crystal: { title: 'Crystal diffuser', description: 'A sculptural scent ritual. Pair decorative crystals with your preferred fragrance to create a personal accent for a desk, bedside or reading corner.', label: 'Scent, in a different light.' },
- gift: { title: 'The ritual gift set', description: 'Explore beautifully presented crystal diffuser gift sets, including glass dome, sculpted bowl and botanical glass designs. Contact us to discuss your preferred collection and fragrance.', label: 'Beautiful to give. Lovely to keep.' }
+ gift: { title: 'The ritual gift set', description: 'Explore thoughtfully paired candles, diffusers and fragrance accessories. Contact us to discuss your preferred collection and fragrance.', label: 'Beautiful to give. Lovely to keep.' }
 };
 const scents = [
  ['Santal & Amber','Woody','Sandalwood · amber · musk'],['Cedar & Fig','Woody','Cedar · fig leaf · green woods'],['Hinoki Forest','Woody','Hinoki · cypress · moss'],['Oud & Saffron','Woody','Oud · saffron · dry woods'],['Vetiver & Moss','Woody','Vetiver · oakmoss · earth'],

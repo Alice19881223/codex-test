@@ -22,8 +22,10 @@ if 'const giftProducts =' in s:s=re.sub(r'const giftProducts = \[.*?\n\];',lambd
 else:s+='\n'+block+'\n'
 p.write_text(s)
 crystals=json.loads((ROOT/'assets/crystal-products.json').read_text());reeds=json.loads((ROOT/'assets/reed-products.json').read_text());candles=json.loads((ROOT/'assets/candle-products.json').read_text())
-allproducts=products+crystals+[p for p in reeds if 'Gift Set' in p['name']]+[p for p in candles if p['series'] in ['Her · Him · Us','Floral Reverie','Christmas']]
+allproducts=products
 base=(ROOT/'gifts.html').read_text();total=math.ceil(len(allproducts)/12)
+base=re.sub(r'(<div class="gift-art"><img )[^>]*>', lambda m:m[1]+f'src="{products[0]["packagingImage"]}" alt="Lanarve Emerald Duo candle and diffuser gift set">', base, count=1)
+base=base.replace('crystal and home fragrance gift collections','candle and home fragrance gift collections')
 def filename(n):return 'gifts.html' if n==1 else f'gifts-{n}.html'
 def esc(t):return html.escape(t,quote=True)
 def card(p,index):
@@ -42,3 +44,10 @@ for page in range(1,total+1):
  s=re.sub(r'(<nav id="pagination"[^>]*>).*?(</nav>)',lambda m:m[1]+previous+nums+nxt+m[2],s)
  (ROOT/filename(page)).write_text(s)
 print(f'{len(products)} pairs, {len(allproducts)} total gift products, {total} pages')
+
+# Retire old gift pages without leaving legacy product imagery accessible at their old URLs.
+for path in ROOT.glob('gifts-*.html'):
+ match=re.fullmatch(r'gifts-(\d+)\.html',path.name)
+ if match and int(match[1])>total:
+  target=filename(total)
+  path.write_text(f'<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0;url={target}"><link rel="canonical" href="{target}"><title>Gift Setting — Lanarve</title></head><body><p><a href="{target}">Explore the current Lanarve gift collection</a></p></body></html>')
