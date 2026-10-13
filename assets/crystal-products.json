@@ -1,67 +1,132 @@
 [
   {
     "name": "Peach Whisper",
-    "image": "assets/crystals/crystal-01.webp",
-    "series": "Glass dome"
+    "image": "assets/companions/040856927401c5aa9fe5.webp",
+    "series": "Glass dome",
+    "packagingImage": "assets/crystals/crystal-01.webp",
+    "images": [
+      "assets/companions/040856927401c5aa9fe5.webp",
+      "assets/crystals/crystal-01.webp"
+    ]
   },
   {
     "name": "Lavender Reverie",
-    "image": "assets/crystals/crystal-02.webp",
-    "series": "Glass dome"
+    "image": "assets/companions/475614e9e2d215c64a93.webp",
+    "series": "Glass dome",
+    "packagingImage": "assets/crystals/crystal-02.webp",
+    "images": [
+      "assets/companions/475614e9e2d215c64a93.webp",
+      "assets/crystals/crystal-02.webp"
+    ]
   },
   {
     "name": "Morning Mist",
-    "image": "assets/crystals/crystal-03.webp",
-    "series": "Glass dome"
+    "image": "assets/companions/6ee1d58cc46162d5a542.webp",
+    "series": "Glass dome",
+    "packagingImage": "assets/crystals/crystal-03.webp",
+    "images": [
+      "assets/companions/6ee1d58cc46162d5a542.webp",
+      "assets/crystals/crystal-03.webp"
+    ]
   },
   {
     "name": "Verdant Calm",
-    "image": "assets/crystals/crystal-04.webp",
-    "series": "Glass dome"
+    "image": "assets/companions/c135302863be554b69df.webp",
+    "series": "Glass dome",
+    "packagingImage": "assets/crystals/crystal-04.webp",
+    "images": [
+      "assets/companions/c135302863be554b69df.webp",
+      "assets/crystals/crystal-04.webp"
+    ]
   },
   {
     "name": "Cedar Relief",
-    "image": "assets/crystals/crystal-05.webp",
-    "series": "Sculpted bowl"
+    "image": "assets/companions/480e8ea00e1b76202c86.webp",
+    "series": "Sculpted bowl",
+    "packagingImage": "assets/crystals/crystal-05.webp",
+    "images": [
+      "assets/companions/480e8ea00e1b76202c86.webp",
+      "assets/crystals/crystal-05.webp"
+    ]
   },
   {
     "name": "Ivory Texture",
-    "image": "assets/crystals/crystal-06.webp",
-    "series": "Sculpted bowl"
+    "image": "assets/companions/39ead58bc6ca45512276.webp",
+    "series": "Sculpted bowl",
+    "packagingImage": "assets/crystals/crystal-06.webp",
+    "images": [
+      "assets/companions/39ead58bc6ca45512276.webp",
+      "assets/crystals/crystal-06.webp"
+    ]
   },
   {
     "name": "Ivory Relief",
-    "image": "assets/crystals/crystal-07.webp",
-    "series": "Sculpted bowl"
+    "image": "assets/companions/725149dff6d9af2e3e50.webp",
+    "series": "Sculpted bowl",
+    "packagingImage": "assets/crystals/crystal-07.webp",
+    "images": [
+      "assets/companions/725149dff6d9af2e3e50.webp",
+      "assets/crystals/crystal-07.webp"
+    ]
   },
   {
     "name": "Amber Dusk",
-    "image": "assets/crystals/crystal-08.webp",
-    "series": "Sculpted bowl"
+    "image": "assets/companions/0cfedbd356005d4c2754.webp",
+    "series": "Sculpted bowl",
+    "packagingImage": "assets/crystals/crystal-08.webp",
+    "images": [
+      "assets/companions/0cfedbd356005d4c2754.webp",
+      "assets/crystals/crystal-08.webp"
+    ]
   },
   {
     "name": "Blue Serenity",
-    "image": "assets/crystals/crystal-09.webp",
-    "series": "Botanical glass"
+    "image": "assets/companions/64e857d6f3b7717040c8.webp",
+    "series": "Botanical glass",
+    "packagingImage": "assets/crystals/crystal-09.webp",
+    "images": [
+      "assets/companions/64e857d6f3b7717040c8.webp",
+      "assets/crystals/crystal-09.webp"
+    ]
   },
   {
     "name": "Purple Mist",
-    "image": "assets/crystals/crystal-10.webp",
-    "series": "Botanical glass"
+    "image": "assets/companions/a59b5af2bc9cfd7b724a.webp",
+    "series": "Botanical glass",
+    "packagingImage": "assets/crystals/crystal-10.webp",
+    "images": [
+      "assets/companions/a59b5af2bc9cfd7b724a.webp",
+      "assets/crystals/crystal-10.webp"
+    ]
   },
   {
     "name": "Rose Mist",
-    "image": "assets/crystals/crystal-11.webp",
-    "series": "Botanical glass"
+    "image": "assets/companions/7f866c903bcf75344101.webp",
+    "series": "Botanical glass",
+    "packagingImage": "assets/crystals/crystal-11.webp",
+    "images": [
+      "assets/companions/7f866c903bcf75344101.webp",
+      "assets/crystals/crystal-11.webp"
+    ]
   },
   {
     "name": "Botanical Light",
-    "image": "assets/crystals/crystal-12.webp",
-    "series": "Botanical glass"
+    "image": "assets/companions/7d04b24755dabebec6e7.webp",
+    "series": "Botanical glass",
+    "packagingImage": "assets/crystals/crystal-12.webp",
+    "images": [
+      "assets/companions/7d04b24755dabebec6e7.webp",
+      "assets/crystals/crystal-12.webp"
+    ]
   },
   {
     "name": "Forest Reverie",
-    "image": "assets/crystals/crystal-13.webp",
-    "series": "Botanical glass"
+    "image": "assets/companions/a35269a079593416887d.webp",
+    "series": "Botanical glass",
+    "packagingImage": "assets/crystals/crystal-13.webp",
+    "images": [
+      "assets/companions/a35269a079593416887d.webp",
+      "assets/crystals/crystal-13.webp"
+    ]
   }
 ]

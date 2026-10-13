@@ -86,33 +86,63 @@
   },
   {
     "name": "Botanical — 01",
-    "image": "assets/reeds/reeds-103.webp",
-    "series": "Botanical"
+    "image": "assets/companions/d254438f943ca1177135.webp",
+    "series": "Botanical",
+    "packagingImage": "assets/reeds/reeds-103.webp",
+    "images": [
+      "assets/companions/d254438f943ca1177135.webp",
+      "assets/reeds/reeds-103.webp"
+    ]
   },
   {
     "name": "Cylindrical — 01",
-    "image": "assets/reeds/reeds-104.webp",
-    "series": "Cylindrical"
+    "image": "assets/companions/7f5bb0b72c302656cc3e.webp",
+    "series": "Cylindrical",
+    "packagingImage": "assets/reeds/reeds-104.webp",
+    "images": [
+      "assets/companions/7f5bb0b72c302656cc3e.webp",
+      "assets/reeds/reeds-104.webp"
+    ]
   },
   {
     "name": "Cylindrical — 02",
-    "image": "assets/reeds/reeds-105.webp",
-    "series": "Cylindrical"
+    "image": "assets/companions/57fc12ec0de57fe4822f.webp",
+    "series": "Cylindrical",
+    "packagingImage": "assets/reeds/reeds-105.webp",
+    "images": [
+      "assets/companions/57fc12ec0de57fe4822f.webp",
+      "assets/reeds/reeds-105.webp"
+    ]
   },
   {
     "name": "Cylindrical — 03",
-    "image": "assets/reeds/reeds-106.webp",
-    "series": "Cylindrical"
+    "image": "assets/companions/eb66283958ad1067c60b.webp",
+    "series": "Cylindrical",
+    "packagingImage": "assets/reeds/reeds-106.webp",
+    "images": [
+      "assets/companions/eb66283958ad1067c60b.webp",
+      "assets/reeds/reeds-106.webp"
+    ]
   },
   {
     "name": "Cylindrical — 04",
-    "image": "assets/reeds/reeds-107.webp",
-    "series": "Cylindrical"
+    "image": "assets/companions/7ca9a742e8adc548081d.webp",
+    "series": "Cylindrical",
+    "packagingImage": "assets/reeds/reeds-107.webp",
+    "images": [
+      "assets/companions/7ca9a742e8adc548081d.webp",
+      "assets/reeds/reeds-107.webp"
+    ]
   },
   {
     "name": "Square Glass — 01",
-    "image": "assets/reeds/reeds-108.webp",
-    "series": "Square Glass"
+    "image": "assets/companions/47d5d503511846e0926c.webp",
+    "series": "Square Glass",
+    "packagingImage": "assets/reeds/reeds-108.webp",
+    "images": [
+      "assets/companions/47d5d503511846e0926c.webp",
+      "assets/reeds/reeds-108.webp"
+    ]
   },
   {
     "name": "Square Glass — 02",
@@ -121,8 +151,13 @@
   },
   {
     "name": "Square Glass — 03",
-    "image": "assets/reeds/reeds-110.webp",
-    "series": "Square Glass"
+    "image": "assets/companions/1b5ead3137dec1267c9b.webp",
+    "series": "Square Glass",
+    "packagingImage": "assets/reeds/reeds-110.webp",
+    "images": [
+      "assets/companions/1b5ead3137dec1267c9b.webp",
+      "assets/reeds/reeds-110.webp"
+    ]
   },
   {
     "name": "Square Glass — 04",
@@ -131,8 +166,13 @@
   },
   {
     "name": "Square Glass — 05",
-    "image": "assets/reeds/reeds-112.webp",
-    "series": "Square Glass"
+    "image": "assets/companions/f034578ed7703c8e8eda.webp",
+    "series": "Square Glass",
+    "packagingImage": "assets/reeds/reeds-112.webp",
+    "images": [
+      "assets/companions/f034578ed7703c8e8eda.webp",
+      "assets/reeds/reeds-112.webp"
+    ]
   },
   {
     "name": "Square Glass — 06",
@@ -141,8 +181,13 @@
   },
   {
     "name": "Square Glass — 07",
-    "image": "assets/reeds/reeds-114.webp",
-    "series": "Square Glass"
+    "image": "assets/companions/97b297ac3d3b797368fa.webp",
+    "series": "Square Glass",
+    "packagingImage": "assets/reeds/reeds-114.webp",
+    "images": [
+      "assets/companions/97b297ac3d3b797368fa.webp",
+      "assets/reeds/reeds-114.webp"
+    ]
   },
   {
     "name": "Square Glass — 08",
@@ -151,8 +196,13 @@
   },
   {
     "name": "Botanical Infusion — 01",
-    "image": "assets/reeds/reeds-116.webp",
-    "series": "Botanical Infusion"
+    "image": "assets/companions/231a21cbbc3f7b033780.webp",
+    "series": "Botanical Infusion",
+    "packagingImage": "assets/reeds/reeds-116.webp",
+    "images": [
+      "assets/companions/231a21cbbc3f7b033780.webp",
+      "assets/reeds/reeds-116.webp"
+    ]
   },
   {
     "name": "Botanical Infusion — 02",
@@ -161,18 +211,33 @@
   },
   {
     "name": "Botanical Infusion — 03",
-    "image": "assets/reeds/reeds-118.webp",
-    "series": "Botanical Infusion"
+    "image": "assets/companions/9a2ccca3988e0e6b8bbb.webp",
+    "series": "Botanical Infusion",
+    "packagingImage": "assets/reeds/reeds-118.webp",
+    "images": [
+      "assets/companions/9a2ccca3988e0e6b8bbb.webp",
+      "assets/reeds/reeds-118.webp"
+    ]
   },
   {
     "name": "Minimal — 01",
-    "image": "assets/reeds/reeds-119.webp",
-    "series": "Minimal"
+    "image": "assets/companions/27e4b122a9b559ae799d.webp",
+    "series": "Minimal",
+    "packagingImage": "assets/reeds/reeds-119.webp",
+    "images": [
+      "assets/companions/27e4b122a9b559ae799d.webp",
+      "assets/reeds/reeds-119.webp"
+    ]
   },
   {
     "name": "Minimal — 02",
-    "image": "assets/reeds/reeds-120.webp",
-    "series": "Minimal"
+    "image": "assets/companions/d83b888e65240d5a7203.webp",
+    "series": "Minimal",
+    "packagingImage": "assets/reeds/reeds-120.webp",
+    "images": [
+      "assets/companions/d83b888e65240d5a7203.webp",
+      "assets/reeds/reeds-120.webp"
+    ]
   },
   {
     "name": "Sculptural — 01",
@@ -227,62 +292,122 @@
   {
     "name": "Amber Bouquet",
     "image": "assets/reeds/reed-c188d2780401e54a.webp",
-    "series": "Floral Bouquet"
+    "series": "Floral Bouquet",
+    "packagingImage": "assets/companions/0b2b75949c773fdd63c9.webp",
+    "images": [
+      "assets/reeds/reed-c188d2780401e54a.webp",
+      "assets/companions/0b2b75949c773fdd63c9.webp"
+    ]
   },
   {
     "name": "Amber Tea",
     "image": "assets/reeds/reed-08fc7a8f9eb9370f.webp",
-    "series": "Floral Bouquet"
+    "series": "Floral Bouquet",
+    "packagingImage": "assets/companions/3b2785fbc15d460a3cb8.webp",
+    "images": [
+      "assets/reeds/reed-08fc7a8f9eb9370f.webp",
+      "assets/companions/3b2785fbc15d460a3cb8.webp"
+    ]
   },
   {
     "name": "White Tea Blossom",
     "image": "assets/reeds/reed-374f9f3b71955935.webp",
-    "series": "Floral Bouquet"
+    "series": "Floral Bouquet",
+    "packagingImage": "assets/companions/1dfece1a6696b4db558e.webp",
+    "images": [
+      "assets/reeds/reed-374f9f3b71955935.webp",
+      "assets/companions/1dfece1a6696b4db558e.webp"
+    ]
   },
   {
     "name": "Amber Floral Arrangement",
     "image": "assets/reeds/reed-61ad69a502bd3498.webp",
-    "series": "Floral Bouquet"
+    "series": "Floral Bouquet",
+    "packagingImage": "assets/companions/d24690d967a11265e0f1.webp",
+    "images": [
+      "assets/reeds/reed-61ad69a502bd3498.webp",
+      "assets/companions/d24690d967a11265e0f1.webp"
+    ]
   },
   {
     "name": "White Gardenia",
     "image": "assets/reeds/reed-3646bcf197e2090c.webp",
-    "series": "Floral Bouquet"
+    "series": "Floral Bouquet",
+    "packagingImage": "assets/companions/e89ef935f20eed455e72.webp",
+    "images": [
+      "assets/reeds/reed-3646bcf197e2090c.webp",
+      "assets/companions/e89ef935f20eed455e72.webp"
+    ]
   },
   {
     "name": "Four Seasons Tea",
     "image": "assets/reeds/reed-b2f6d6a6d3e67553.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/cb1ffa93cfdffdb49bef.webp",
+    "images": [
+      "assets/reeds/reed-b2f6d6a6d3e67553.webp",
+      "assets/companions/cb1ffa93cfdffdb49bef.webp"
+    ]
   },
   {
     "name": "Gardenia & White Tea",
     "image": "assets/reeds/reed-db41da38fbfc9eb9.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/89effacce8fe75a0b949.webp",
+    "images": [
+      "assets/reeds/reed-db41da38fbfc9eb9.webp",
+      "assets/companions/89effacce8fe75a0b949.webp"
+    ]
   },
   {
     "name": "Osmanthus & Longjing",
     "image": "assets/reeds/reed-f82a3208f64026bc.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/8b1b06e2bb959e756507.webp",
+    "images": [
+      "assets/reeds/reed-f82a3208f64026bc.webp",
+      "assets/companions/8b1b06e2bb959e756507.webp"
+    ]
   },
   {
     "name": "Plum & Sencha",
     "image": "assets/reeds/reed-1883f549fd4393dd.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/b5ad16c966009065c302.webp",
+    "images": [
+      "assets/reeds/reed-1883f549fd4393dd.webp",
+      "assets/companions/b5ad16c966009065c302.webp"
+    ]
   },
   {
     "name": "Olive Magnolia",
     "image": "assets/reeds/reed-0d3f3a982460ae6d.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/4b62e0de0833c546d196.webp",
+    "images": [
+      "assets/reeds/reed-0d3f3a982460ae6d.webp",
+      "assets/companions/4b62e0de0833c546d196.webp"
+    ]
   },
   {
     "name": "White Peach & Oolong",
     "image": "assets/reeds/reed-6ffc48159c0055e0.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/60070777153ce638f37d.webp",
+    "images": [
+      "assets/reeds/reed-6ffc48159c0055e0.webp",
+      "assets/companions/60070777153ce638f37d.webp"
+    ]
   },
   {
     "name": "Jasmine Green Tea",
     "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
-    "series": "Floral Tea"
+    "series": "Floral Tea",
+    "packagingImage": "assets/companions/6e17b7bbc1d4383c96e5.webp",
+    "images": [
+      "assets/reeds/reed-640affaca6c8bc7e.webp",
+      "assets/companions/6e17b7bbc1d4383c96e5.webp"
+    ]
   },
   {
     "name": "Seven-Day Fragrance Gift Set",
@@ -291,57 +416,112 @@
   },
   {
     "name": "Refresh",
-    "image": "assets/reeds/reed-e216d9fbfb361cfc.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/6bb45b8d3cadf69b519f.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-e216d9fbfb361cfc.webp",
+    "images": [
+      "assets/companions/6bb45b8d3cadf69b519f.webp",
+      "assets/reeds/reed-e216d9fbfb361cfc.webp"
+    ]
   },
   {
     "name": "Joy",
-    "image": "assets/reeds/reed-ab4ba29f23a51f7f.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/e1974e206548b944acc1.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-ab4ba29f23a51f7f.webp",
+    "images": [
+      "assets/companions/e1974e206548b944acc1.webp",
+      "assets/reeds/reed-ab4ba29f23a51f7f.webp"
+    ]
   },
   {
     "name": "Focus",
-    "image": "assets/reeds/reed-fb8173ad10d76faa.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/5ad03d9fc0154ad26216.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-fb8173ad10d76faa.webp",
+    "images": [
+      "assets/companions/5ad03d9fc0154ad26216.webp",
+      "assets/reeds/reed-fb8173ad10d76faa.webp"
+    ]
   },
   {
     "name": "Spark",
-    "image": "assets/reeds/reed-baddad1b04ff467e.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/c7a31362439fcd8e52cd.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-baddad1b04ff467e.webp",
+    "images": [
+      "assets/companions/c7a31362439fcd8e52cd.webp",
+      "assets/reeds/reed-baddad1b04ff467e.webp"
+    ]
   },
   {
     "name": "Wander",
-    "image": "assets/reeds/reed-7a574f3e4a4ab4e6.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/143ea721b89f464528da.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-7a574f3e4a4ab4e6.webp",
+    "images": [
+      "assets/companions/143ea721b89f464528da.webp",
+      "assets/reeds/reed-7a574f3e4a4ab4e6.webp"
+    ]
   },
   {
     "name": "Glow",
-    "image": "assets/reeds/reed-8d477d2ae4137382.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/776c5824d6f8c3e348a0.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-8d477d2ae4137382.webp",
+    "images": [
+      "assets/companions/776c5824d6f8c3e348a0.webp",
+      "assets/reeds/reed-8d477d2ae4137382.webp"
+    ]
   },
   {
     "name": "Rest",
-    "image": "assets/reeds/reed-167e5464ca5d6fc7.webp",
-    "series": "Seven-Day Rituals"
+    "image": "assets/companions/20aea59b3de55988cfcb.webp",
+    "series": "Seven-Day Rituals",
+    "packagingImage": "assets/reeds/reed-167e5464ca5d6fc7.webp",
+    "images": [
+      "assets/companions/20aea59b3de55988cfcb.webp",
+      "assets/reeds/reed-167e5464ca5d6fc7.webp"
+    ]
   },
   {
     "name": "Winter Bonfire",
-    "image": "assets/reeds/reed-56e38210a5f9a26d.webp",
-    "series": "Festive"
+    "image": "assets/companions/78919717797a963dc844.webp",
+    "series": "Festive",
+    "packagingImage": "assets/reeds/reed-56e38210a5f9a26d.webp",
+    "images": [
+      "assets/companions/78919717797a963dc844.webp",
+      "assets/reeds/reed-56e38210a5f9a26d.webp"
+    ]
   },
   {
     "name": "Christmas Amber",
-    "image": "assets/reeds/reed-b695597b0dabb53c.webp",
-    "series": "Festive"
+    "image": "assets/companions/cc0696772d15e3acdb9d.webp",
+    "series": "Festive",
+    "packagingImage": "assets/reeds/reed-b695597b0dabb53c.webp",
+    "images": [
+      "assets/companions/cc0696772d15e3acdb9d.webp",
+      "assets/reeds/reed-b695597b0dabb53c.webp"
+    ]
   },
   {
     "name": "Fireside Wishes",
-    "image": "assets/reeds/reed-b96dc85d16ee173c.webp",
-    "series": "Festive"
+    "image": "assets/companions/33ac66bd00830bdaa036.webp",
+    "series": "Festive",
+    "packagingImage": "assets/reeds/reed-b96dc85d16ee173c.webp",
+    "images": [
+      "assets/companions/33ac66bd00830bdaa036.webp",
+      "assets/reeds/reed-b96dc85d16ee173c.webp"
+    ]
   },
   {
     "name": "Cedar Cabin",
-    "image": "assets/reeds/reed-5e8b9aaf6c03a6a0.webp",
-    "series": "Festive"
+    "image": "assets/companions/b2b8111bb9e29b42d8ed.webp",
+    "series": "Festive",
+    "packagingImage": "assets/reeds/reed-5e8b9aaf6c03a6a0.webp",
+    "images": [
+      "assets/companions/b2b8111bb9e29b42d8ed.webp",
+      "assets/reeds/reed-5e8b9aaf6c03a6a0.webp"
+    ]
   }
 ]
