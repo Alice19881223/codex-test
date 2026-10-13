@@ -6,7 +6,7 @@ Serve `/workspace/codex-test` using any static website host. For local developme
 python3 -m http.server 8000 --bind 0.0.0.0
 ```
 
-GitHub Pages uses the `gh-pages` branch and root directory. Pushing updates to that branch publishes them only if Pages is enabled in repository settings. Public deployment cannot currently be checked from this environment.
+The repository includes `.github/workflows/deploy-pages.yml`, which stages the public files and deploys updates from main to GitHub Pages. GitHub Settings → Pages → Source should be GitHub Actions. The Actions run provides an explicit deployment result. The gh-pages branch is also kept synchronized for compatibility. Public deployment cannot currently be checked from this environment.
 
 ## Pages
 
@@ -79,3 +79,5 @@ The current Christmas navigation and pagination use christmas-collection.html, c
 ## Existing product companion photographs
 
 The six supplemental archives match 49 existing product entries: all 13 crystal diffusers and 36 reeds (5 amber floral, 7 olive floral, 4 Christmas amber bottles, 7 weekday cotton bottles and 13 classic bottle designs). Matched packaging views and standalone views replace only the corresponding view field; no new products are added and ordering remains unchanged. Crystal counts remain 13 and reed counts remain 69. All eight crystal/reed pages render paired hover/touch cards where companions exist, and dialogs display standalone above packaging. assets/companion-pairing-manifest.json records each reviewed source-to-product match. Recipe: scripts/pair-existing-products.py, followed by scripts/version-site-assets.py.
+
+The deployment staging check verifies the 35-product Christmas catalogue, 49 existing product companion pairs and public file links before uploading an artifact. Publishing errors are visible in the Publish Lanarve website Actions run; Git push success alone does not verify publication.
