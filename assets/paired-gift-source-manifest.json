@@ -1,0 +1,338 @@
+{
+  "pairs": [
+    {
+      "single": 0,
+      "packaging": 1,
+      "name": "Emerald Duo",
+      "series": "Colourful Rituals"
+    },
+    {
+      "single": 7,
+      "packaging": 2,
+      "name": "Cobalt Duo",
+      "series": "Colourful Rituals"
+    },
+    {
+      "single": 5,
+      "packaging": 3,
+      "name": "Sunshine Duo",
+      "series": "Colourful Rituals"
+    },
+    {
+      "single": 6,
+      "packaging": 4,
+      "name": "Amber Orange Duo",
+      "series": "Colourful Rituals"
+    },
+    {
+      "single": 9,
+      "packaging": 8,
+      "name": "Five Colour Fragrance Set",
+      "series": "Colourful Rituals"
+    },
+    {
+      "single": 10,
+      "packaging": 12,
+      "name": "Mystical Woods Duo",
+      "series": "Quiet Rituals"
+    },
+    {
+      "single": 11,
+      "packaging": 13,
+      "name": "Red Wine & Rose Duo",
+      "series": "Quiet Rituals"
+    },
+    {
+      "single": 14,
+      "packaging": 15,
+      "name": "Sage Green Duo",
+      "series": "Quiet Rituals"
+    },
+    {
+      "single": 16,
+      "packaging": 17,
+      "name": "Fragrance Ritual Trio",
+      "series": "Fragrance & Lifestyle"
+    },
+    {
+      "single": 19,
+      "packaging": 18,
+      "name": "Ruby Fragrance Trio",
+      "series": "Fragrance & Lifestyle"
+    },
+    {
+      "single": 21,
+      "packaging": 20,
+      "name": "Amber Tray Collection",
+      "series": "Warm Living"
+    },
+    {
+      "single": 23,
+      "packaging": 22,
+      "name": "Botanical Sage Duo",
+      "series": "Botanical Gifts"
+    },
+    {
+      "single": 24,
+      "packaging": 25,
+      "name": "Blush Glass Dome Duo",
+      "series": "Blush Moments"
+    },
+    {
+      "single": 32,
+      "packaging": 31,
+      "name": "Midnight Blue Duo",
+      "series": "Quiet Rituals"
+    },
+    {
+      "single": 33,
+      "packaging": 30,
+      "name": "Soft Blush Duo",
+      "series": "Quiet Rituals"
+    },
+    {
+      "single": 27,
+      "packaging": 26,
+      "name": "Wild Rose & Oud Duo",
+      "series": "Square Glass"
+    }
+  ],
+  "deferred": [
+    {
+      "index": 28,
+      "source": "包装4/11 圣诞礼物套装/紫色双烛圣诞礼盒.png",
+      "reason": "No standalone product photograph supplied"
+    },
+    {
+      "index": 29,
+      "source": "包装4/12 七彩棉花系列/七日香氛礼盒标签.png",
+      "reason": "No standalone product photograph supplied"
+    }
+  ],
+  "sources": [
+    {
+      "index": 0,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/Lanarve矮宽蜡烛与扩香瓶.png",
+      "hash": "f6a3b3425eee85def0c04477260c37795e86e9713742998808a3669492f88277",
+      "image": "assets/gifts/paired/f6a3b3425eee85def0c0.webp"
+    },
+    {
+      "index": 1,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/亮绿香薰蜡烛与扩香礼盒.png",
+      "hash": "abd979b1f248e6237729ebbd7612da65167769e9d3627a543b3440bf0c235a3a",
+      "image": "assets/gifts/paired/abd979b1f248e6237729.webp"
+    },
+    {
+      "index": 7,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/矮胖宽体蜡烛与扩香瓶.png",
+      "hash": "fdf9a8279d9f87f3df91b9016b3241601709b2bc3bbb1cd09dc8ccccbcad41bc",
+      "image": "assets/gifts/paired/fdf9a8279d9f87f3df91.webp"
+    },
+    {
+      "index": 2,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/亮蓝玻璃蜡烛扩香礼盒.png",
+      "hash": "c5ced5e21f4654b241a93cf5213a5b593cb48c084ce15a22a93eecd1518f236f",
+      "image": "assets/gifts/paired/c5ced5e21f4654b241a9.webp"
+    },
+    {
+      "index": 5,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/矮宽蜡烛与扩香器双人组.png",
+      "hash": "905159d5184ce017c1a2378c47c88cde0eae5a427d3a7e44aac234b483f8efcf",
+      "image": "assets/gifts/paired/905159d5184ce017c1a2.webp"
+    },
+    {
+      "index": 3,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/明黄色香氛蜡烛与扩香礼盒.png",
+      "hash": "7ed1989a46c5c62daa9d20253cff2726135489a76a71d33986009b0120e088a0",
+      "image": "assets/gifts/paired/7ed1989a46c5c62daa9d.webp"
+    },
+    {
+      "index": 6,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/矮款橙色香薰蜡烛与扩香瓶.png",
+      "hash": "ffb8c60ea39c5109148a334d63116c140e5e15d89addc000d38ac70eec6f6c98",
+      "image": "assets/gifts/paired/ffb8c60ea39c5109148a.webp"
+    },
+    {
+      "index": 4,
+      "archive": "包装1.zip",
+      "name": "包装1/1 彩色香薰蜡烛组合/橙色香氛蜡烛扩香礼盒.png",
+      "hash": "9f04a45af00601d93e48fba9ce4389f50788bffffb7aed9b05386c7861a4d701",
+      "image": "assets/gifts/paired/9f04a45af00601d93e48.webp"
+    },
+    {
+      "index": 9,
+      "archive": "包装1.zip",
+      "name": "包装1/2 五色香薰组合/五彩迷你香氛瓶系列.png",
+      "hash": "90b1f7205529d6c92bf0198b7469bbac37f5dd8683c072fc26eb350cbe0fda89",
+      "image": "assets/gifts/paired/90b1f7205529d6c92bf0.webp"
+    },
+    {
+      "index": 8,
+      "archive": "包装1.zip",
+      "name": "包装1/2 五色香薰组合/Lanarve五瓶香氛礼盒.png",
+      "hash": "578f9b3efd7eb88cbc346145b3e9c4351e7453f41a6aaed54b2215ad183937be",
+      "image": "assets/gifts/paired/578f9b3efd7eb88cbc34.webp"
+    },
+    {
+      "index": 10,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/Lanarve炭黑蜡烛与藤条香薰.png",
+      "hash": "148cecd4fd72c958a34cefb3b24151fa0e21d0251185316b99eff3b6cdea37d5",
+      "image": "assets/gifts/paired/148cecd4fd72c958a34c.webp"
+    },
+    {
+      "index": 12,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/神秘森林黑色香薰礼盒.png",
+      "hash": "956fb52f0db7a138c33e928831ac683bc8ebaec82589bdb2a263249d6f22f47a",
+      "image": "assets/gifts/paired/956fb52f0db7a138c33e.webp"
+    },
+    {
+      "index": 11,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/深酒红香薰蜡烛与藤条扩香.png",
+      "hash": "b782592d405151c5df31d145a6ce231b659d11ff03c6ce60e0118acbbafb1216",
+      "image": "assets/gifts/paired/b782592d405151c5df31.webp"
+    },
+    {
+      "index": 13,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/酒红蜡烛扩香礼盒.png",
+      "hash": "f5d1598539cf48dcdd5fc5f0c98942807c48fc8efc2115cb3a039fb00fb24910",
+      "image": "assets/gifts/paired/f5d1598539cf48dcdd5f.webp"
+    },
+    {
+      "index": 14,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/鼠尾草绿蜡烛与藤条扩香.png",
+      "hash": "66dc6cb0548823f9cb12e66fe5d04d96d89bcf5e3cfcd6507c4aa5cc928e4ffd",
+      "image": "assets/gifts/paired/66dc6cb0548823f9cb12.webp"
+    },
+    {
+      "index": 15,
+      "archive": "包装2.zip",
+      "name": "包装2/3 三色香薰蜡烛套装/鼠尾草绿蜡烛扩香双件礼盒.png",
+      "hash": "a5c85039efd394dbd1f919bb4c9afb4db1584b3bc4bd2ce0bab167d8529ec2fe",
+      "image": "assets/gifts/paired/a5c85039efd394dbd1f9.webp"
+    },
+    {
+      "index": 16,
+      "archive": "包装2.zip",
+      "name": "包装2/4 喷雾组合/Lanarve香氛三件套.png",
+      "hash": "5cd23250a05e889b2fc580ebe190ff049a2ac0cee6b6d3919ffc366fb501a15a",
+      "image": "assets/gifts/paired/5cd23250a05e889b2fc5.webp"
+    },
+    {
+      "index": 17,
+      "archive": "包装2.zip",
+      "name": "包装2/4 喷雾组合/兰纳维香氛礼盒开盖展示.png",
+      "hash": "458ed4a3559580ec34497f95e8f8679da7a1f06b24c2370de15b20c31b7de797",
+      "image": "assets/gifts/paired/458ed4a3559580ec3449.webp"
+    },
+    {
+      "index": 19,
+      "archive": "包装3.zip",
+      "name": "包装3/5 大红色产品组合/红色香氛三件套 (1).png",
+      "hash": "71eb10fb2f75421ad40aad86c4e89b567b41643cd77428f325e8a27dff554c2c",
+      "image": "assets/gifts/paired/71eb10fb2f75421ad40a.webp"
+    },
+    {
+      "index": 18,
+      "archive": "包装3.zip",
+      "name": "包装3/5 大红色产品组合/Lanarve红色香氛礼盒.png",
+      "hash": "f12a59596201a8ee1a665f7d5b55081b3c7993113226f5c42d5fb4126ecaf5f9",
+      "image": "assets/gifts/paired/f12a59596201a8ee1a66.webp"
+    },
+    {
+      "index": 21,
+      "archive": "包装3.zip",
+      "name": "包装3/6 琥珀色礼盒套装/木托盘前沿的黑色芦苇束.png",
+      "hash": "20fd1335cbc93f2e83a34bd0d29c697a764a4dc85cba9b854640c1904115be47",
+      "image": "assets/gifts/paired/20fd1335cbc93f2e83a3.webp"
+    },
+    {
+      "index": 20,
+      "archive": "包装3.zip",
+      "name": "包装3/6 琥珀色礼盒套装/托盘前沿的黑芦苇束.png",
+      "hash": "7d461f3544b7c54058cced0e4768834f611bdfd02d0dbf39d10196f36c7c86ca",
+      "image": "assets/gifts/paired/7d461f3544b7c54058cc.webp"
+    },
+    {
+      "index": 23,
+      "archive": "包装3.zip",
+      "name": "包装3/7 浅绿色礼品套装/鼠尾草扩香与木盖香薰蜡烛.png",
+      "hash": "79dda4dedcfa715ec1d126a9930a356919fa5f43be01a500f1fb7c1fd4946798",
+      "image": "assets/gifts/paired/79dda4dedcfa715ec1d1.webp"
+    },
+    {
+      "index": 22,
+      "archive": "包装3.zip",
+      "name": "包装3/7 浅绿色礼品套装/浅鼠尾草绿香薰礼盒.png",
+      "hash": "202c0b7361219a32ce021a8d98ef5de313cc6ff87542ad74e2365f80637a89c5",
+      "image": "assets/gifts/paired/202c0b7361219a32ce02.webp"
+    },
+    {
+      "index": 24,
+      "archive": "包装3.zip",
+      "name": "包装3/8 粉色礼品套装/Lanarve桃香乌龙香氛组合.png",
+      "hash": "a7da1073bd57b2db2336b5c53d6313cb9c6a863310cb6385d735dde26f92be87",
+      "image": "assets/gifts/paired/a7da1073bd57b2db2336.webp"
+    },
+    {
+      "index": 25,
+      "archive": "包装3.zip",
+      "name": "包装3/8 粉色礼品套装/粉色浮雕礼盒与白色烛芯.png",
+      "hash": "079043d5bf2a142d67348077c782b7765faaeab2287c1243f647490b8d218069",
+      "image": "assets/gifts/paired/079043d5bf2a142d6734.webp"
+    },
+    {
+      "index": 32,
+      "archive": "包装4.zip",
+      "name": "包装4/9 蓝色礼品套装（2色）/午夜蓝蜡烛与藤条香薰.png",
+      "hash": "7d038471456f5c8922077a6a9f5ad096731a21fb15cdda1a0ea64ddf04c359d9",
+      "image": "assets/gifts/paired/7d038471456f5c892207.webp"
+    },
+    {
+      "index": 31,
+      "archive": "包装4.zip",
+      "name": "包装4/9 蓝色礼品套装（2色）/Lanarve深海蓝香氛礼盒.png",
+      "hash": "8bcda3a798604bb5f04643854cd134c43453205e88f992ec4934c8846f7d0c5a",
+      "image": "assets/gifts/paired/8bcda3a798604bb5f046.webp"
+    },
+    {
+      "index": 33,
+      "archive": "包装4.zip",
+      "name": "包装4/9 蓝色礼品套装（2色）/淡粉蜡烛与藤条扩香.png",
+      "hash": "8efb79e6978aa255e72cf70232bc11c204d5cfee0707463af208b7b5520edc77",
+      "image": "assets/gifts/paired/8efb79e6978aa255e72c.webp"
+    },
+    {
+      "index": 30,
+      "archive": "包装4.zip",
+      "name": "包装4/9 蓝色礼品套装（2色）/Lanarve浅粉香氛蜡烛扩香礼盒.png",
+      "hash": "71c00d9780c9a4654cbf0f8fc653d230bc4900e7f90be856616a72d980af531c",
+      "image": "assets/gifts/paired/71c00d9780c9a4654cbf.webp"
+    },
+    {
+      "index": 27,
+      "archive": "包装4.zip",
+      "name": "包装4/10 方形礼品套装/琥珀香薰与立放胡桃木盖.png",
+      "hash": "f316b932be71fe3aaf8813339e9fc595e08264d2a9dc335b009fad863e4912b4",
+      "image": "assets/gifts/paired/f316b932be71fe3aaf88.webp"
+    },
+    {
+      "index": 26,
+      "archive": "包装4.zip",
+      "name": "包装4/10 方形礼品套装/Lanarve野玫瑰乌木礼盒展示.png",
+      "hash": "b5f5268a95926288466bf3f0217b4fad691ad62fdba1fa63ce5227c42fa0af5a",
+      "image": "assets/gifts/paired/b5f5268a95926288466b.webp"
+    }
+  ]
+}

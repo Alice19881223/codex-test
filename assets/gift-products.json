@@ -1,0 +1,178 @@
+[
+  {
+    "id": "gift-pair-f6a3b3425eee",
+    "name": "Emerald Duo",
+    "series": "Colourful Rituals",
+    "image": "assets/gifts/paired/f6a3b3425eee85def0c0.webp",
+    "packagingImage": "assets/gifts/paired/abd979b1f248e6237729.webp",
+    "images": [
+      "assets/gifts/paired/f6a3b3425eee85def0c0.webp",
+      "assets/gifts/paired/abd979b1f248e6237729.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-fdf9a8279d9f",
+    "name": "Cobalt Duo",
+    "series": "Colourful Rituals",
+    "image": "assets/gifts/paired/fdf9a8279d9f87f3df91.webp",
+    "packagingImage": "assets/gifts/paired/c5ced5e21f4654b241a9.webp",
+    "images": [
+      "assets/gifts/paired/fdf9a8279d9f87f3df91.webp",
+      "assets/gifts/paired/c5ced5e21f4654b241a9.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-905159d5184c",
+    "name": "Sunshine Duo",
+    "series": "Colourful Rituals",
+    "image": "assets/gifts/paired/905159d5184ce017c1a2.webp",
+    "packagingImage": "assets/gifts/paired/7ed1989a46c5c62daa9d.webp",
+    "images": [
+      "assets/gifts/paired/905159d5184ce017c1a2.webp",
+      "assets/gifts/paired/7ed1989a46c5c62daa9d.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-ffb8c60ea39c",
+    "name": "Amber Orange Duo",
+    "series": "Colourful Rituals",
+    "image": "assets/gifts/paired/ffb8c60ea39c5109148a.webp",
+    "packagingImage": "assets/gifts/paired/9f04a45af00601d93e48.webp",
+    "images": [
+      "assets/gifts/paired/ffb8c60ea39c5109148a.webp",
+      "assets/gifts/paired/9f04a45af00601d93e48.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-90b1f7205529",
+    "name": "Five Colour Fragrance Set",
+    "series": "Colourful Rituals",
+    "image": "assets/gifts/paired/90b1f7205529d6c92bf0.webp",
+    "packagingImage": "assets/gifts/paired/578f9b3efd7eb88cbc34.webp",
+    "images": [
+      "assets/gifts/paired/90b1f7205529d6c92bf0.webp",
+      "assets/gifts/paired/578f9b3efd7eb88cbc34.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-148cecd4fd72",
+    "name": "Mystical Woods Duo",
+    "series": "Quiet Rituals",
+    "image": "assets/gifts/paired/148cecd4fd72c958a34c.webp",
+    "packagingImage": "assets/gifts/paired/956fb52f0db7a138c33e.webp",
+    "images": [
+      "assets/gifts/paired/148cecd4fd72c958a34c.webp",
+      "assets/gifts/paired/956fb52f0db7a138c33e.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-b782592d4051",
+    "name": "Red Wine & Rose Duo",
+    "series": "Quiet Rituals",
+    "image": "assets/gifts/paired/b782592d405151c5df31.webp",
+    "packagingImage": "assets/gifts/paired/f5d1598539cf48dcdd5f.webp",
+    "images": [
+      "assets/gifts/paired/b782592d405151c5df31.webp",
+      "assets/gifts/paired/f5d1598539cf48dcdd5f.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-66dc6cb05488",
+    "name": "Sage Green Duo",
+    "series": "Quiet Rituals",
+    "image": "assets/gifts/paired/66dc6cb0548823f9cb12.webp",
+    "packagingImage": "assets/gifts/paired/a5c85039efd394dbd1f9.webp",
+    "images": [
+      "assets/gifts/paired/66dc6cb0548823f9cb12.webp",
+      "assets/gifts/paired/a5c85039efd394dbd1f9.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-5cd23250a05e",
+    "name": "Fragrance Ritual Trio",
+    "series": "Fragrance & Lifestyle",
+    "image": "assets/gifts/paired/5cd23250a05e889b2fc5.webp",
+    "packagingImage": "assets/gifts/paired/458ed4a3559580ec3449.webp",
+    "images": [
+      "assets/gifts/paired/5cd23250a05e889b2fc5.webp",
+      "assets/gifts/paired/458ed4a3559580ec3449.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-71eb10fb2f75",
+    "name": "Ruby Fragrance Trio",
+    "series": "Fragrance & Lifestyle",
+    "image": "assets/gifts/paired/71eb10fb2f75421ad40a.webp",
+    "packagingImage": "assets/gifts/paired/f12a59596201a8ee1a66.webp",
+    "images": [
+      "assets/gifts/paired/71eb10fb2f75421ad40a.webp",
+      "assets/gifts/paired/f12a59596201a8ee1a66.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-20fd1335cbc9",
+    "name": "Amber Tray Collection",
+    "series": "Warm Living",
+    "image": "assets/gifts/paired/20fd1335cbc93f2e83a3.webp",
+    "packagingImage": "assets/gifts/paired/7d461f3544b7c54058cc.webp",
+    "images": [
+      "assets/gifts/paired/20fd1335cbc93f2e83a3.webp",
+      "assets/gifts/paired/7d461f3544b7c54058cc.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-79dda4dedcfa",
+    "name": "Botanical Sage Duo",
+    "series": "Botanical Gifts",
+    "image": "assets/gifts/paired/79dda4dedcfa715ec1d1.webp",
+    "packagingImage": "assets/gifts/paired/202c0b7361219a32ce02.webp",
+    "images": [
+      "assets/gifts/paired/79dda4dedcfa715ec1d1.webp",
+      "assets/gifts/paired/202c0b7361219a32ce02.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-a7da1073bd57",
+    "name": "Blush Glass Dome Duo",
+    "series": "Blush Moments",
+    "image": "assets/gifts/paired/a7da1073bd57b2db2336.webp",
+    "packagingImage": "assets/gifts/paired/079043d5bf2a142d6734.webp",
+    "images": [
+      "assets/gifts/paired/a7da1073bd57b2db2336.webp",
+      "assets/gifts/paired/079043d5bf2a142d6734.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-7d038471456f",
+    "name": "Midnight Blue Duo",
+    "series": "Quiet Rituals",
+    "image": "assets/gifts/paired/7d038471456f5c892207.webp",
+    "packagingImage": "assets/gifts/paired/8bcda3a798604bb5f046.webp",
+    "images": [
+      "assets/gifts/paired/7d038471456f5c892207.webp",
+      "assets/gifts/paired/8bcda3a798604bb5f046.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-8efb79e6978a",
+    "name": "Soft Blush Duo",
+    "series": "Quiet Rituals",
+    "image": "assets/gifts/paired/8efb79e6978aa255e72c.webp",
+    "packagingImage": "assets/gifts/paired/71c00d9780c9a4654cbf.webp",
+    "images": [
+      "assets/gifts/paired/8efb79e6978aa255e72c.webp",
+      "assets/gifts/paired/71c00d9780c9a4654cbf.webp"
+    ]
+  },
+  {
+    "id": "gift-pair-f316b932be71",
+    "name": "Wild Rose & Oud Duo",
+    "series": "Square Glass",
+    "image": "assets/gifts/paired/f316b932be71fe3aaf88.webp",
+    "packagingImage": "assets/gifts/paired/b5f5268a95926288466b.webp",
+    "images": [
+      "assets/gifts/paired/f316b932be71fe3aaf88.webp",
+      "assets/gifts/paired/b5f5268a95926288466b.webp"
+    ]
+  }
+]
