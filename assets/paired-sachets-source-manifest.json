@@ -1,0 +1,213 @@
+{
+  "pairs": [
+    {
+      "single": 0,
+      "packaging": 1,
+      "name": "Moonlit Gardenia",
+      "series": "Botanical Wax Tablets"
+    },
+    {
+      "single": 2,
+      "packaging": 5,
+      "name": "Citrus Fern",
+      "series": "Botanical Wax Tablets"
+    },
+    {
+      "single": 8,
+      "packaging": 3,
+      "name": "Plum Blossoms",
+      "series": "Botanical Wax Tablets"
+    },
+    {
+      "single": 9,
+      "packaging": 4,
+      "name": "Ivory Floral Wreath",
+      "series": "Floral Wax Tablets"
+    },
+    {
+      "single": 7,
+      "packaging": 6,
+      "name": "Apricot Floral Wreath",
+      "series": "Floral Wax Tablets"
+    },
+    {
+      "single": 18,
+      "packaging": 11,
+      "name": "Moss Sachet",
+      "series": "Fabric Fragrance Sachets"
+    },
+    {
+      "single": 17,
+      "packaging": 12,
+      "name": "Peach Moments Sachet",
+      "series": "Fabric Fragrance Sachets"
+    },
+    {
+      "single": 15,
+      "packaging": 13,
+      "name": "Bergamot Sachet",
+      "series": "Fabric Fragrance Sachets"
+    },
+    {
+      "single": 16,
+      "packaging": 14,
+      "name": "Iris Sachet",
+      "series": "Fabric Fragrance Sachets"
+    },
+    {
+      "single": 20,
+      "packaging": 19,
+      "name": "Pink Rose Tablet",
+      "series": "Rose Fragrance Tablets"
+    }
+  ],
+  "deferred": [
+    {
+      "index": 10,
+      "source": "打包1/2 熊猫香包/萌趣熊猫竹香香囊礼盒.png",
+      "reason": "Standalone panda sachet photograph not supplied"
+    }
+  ],
+  "sources": [
+    {
+      "index": 0,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/Lanarve 象牙花饰香薰蜡片.png",
+      "hash": "2e09dbec67e3048635e793f8cefb08a713ae960a7b240fa050f49f22ace290d8",
+      "image": "assets/sachets/paired/2e09dbec67e3048635e7.webp"
+    },
+    {
+      "index": 1,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/Lanarve月夜栀子香氛礼盒.png",
+      "hash": "8ba9e6aa6446d6d57d116749beb9632289f5a5900e4a14469873b56107ad8e64",
+      "image": "assets/sachets/paired/8ba9e6aa6446d6d57d11.webp"
+    },
+    {
+      "index": 2,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/Lanarve橙香蕨叶蜡片.png",
+      "hash": "301de746753e02d728ce34b59f80b17c5f5236112aff01b3641276e5fb318e1a",
+      "image": "assets/sachets/paired/301de746753e02d728ce.webp"
+    },
+    {
+      "index": 5,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/柑橘香氛蜡牌与礼盒.png",
+      "hash": "3447bc3222ac7083b64a02aefccb9f5fcc8af11188751763acd8385cb5a9a202",
+      "image": "assets/sachets/paired/3447bc3222ac7083b64a.webp"
+    },
+    {
+      "index": 8,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/紫梅干花香蜡片.png",
+      "hash": "5ee9cd54d8b68955fb004ace4443633928c6922e03c139129064cc02ef05ab7c",
+      "image": "assets/sachets/paired/5ee9cd54d8b68955fb00.webp"
+    },
+    {
+      "index": 3,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/Lanarve香氛蜡片与礼盒.png",
+      "hash": "2a7f2f7c3e8dadd879b80e65f04089a89b4d16e33ebc914ddfa3291ff3eed570",
+      "image": "assets/sachets/paired/2a7f2f7c3e8dadd879b8.webp"
+    },
+    {
+      "index": 9,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/香槟米色缎带香氛蜡牌.png",
+      "hash": "14eefcbb28cb40378e95cdfc4651b7c3f40af5d07f69343ead32c4b2690eeef0",
+      "image": "assets/sachets/paired/14eefcbb28cb40378e95.webp"
+    },
+    {
+      "index": 4,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/奶油米色缎带香氛蜡片.png",
+      "hash": "fcfd75d55dc941d49dade43868981b878957ad196a58de18b01d511a38b0a3ec",
+      "image": "assets/sachets/paired/fcfd75d55dc941d49dad.webp"
+    },
+    {
+      "index": 7,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/柔杏色缎带香薰蜡片.png",
+      "hash": "b232e0c6ef6a01e2730e269e1cde5f22cbc04c052c16d79a2ef26b6b4a6d59a5",
+      "image": "assets/sachets/paired/b232e0c6ef6a01e2730e.webp"
+    },
+    {
+      "index": 6,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花类/柔杏色缎带花卉香薰蜡片.png",
+      "hash": "281ba272038aedad420d956151692cc8b689f011955eecec84d464620f167bdc",
+      "image": "assets/sachets/paired/281ba272038aedad420d.webp"
+    },
+    {
+      "index": 18,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/米白背景上的香氛布香包.png",
+      "hash": "d2a2c13cb519e3a3e386b3d6d79d50947a83f4d279b147dc4d2073ccdac00ff7",
+      "image": "assets/sachets/paired/d2a2c13cb519e3a3e386.webp"
+    },
+    {
+      "index": 11,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/Lanarve 苔藓香囊方礼盒.png",
+      "hash": "805005b2cedf8842b51bff716c64bb359cfa0042ffef4c23093d478b3d12d059",
+      "image": "assets/sachets/paired/805005b2cedf8842b51b.webp"
+    },
+    {
+      "index": 17,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/桃香布艺香囊静物照.png",
+      "hash": "ead03b28dd75d66e5fbcf10fbe32730ce6e701ae0ad7cff9aa3cf5c7a13737e8",
+      "image": "assets/sachets/paired/ead03b28dd75d66e5fbc.webp"
+    },
+    {
+      "index": 12,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/Lanarve桃香香囊礼盒.png",
+      "hash": "bc657b807d7bfe5c03f2e8852f04832430d2b8ed669cda652980ce35efb602d9",
+      "image": "assets/sachets/paired/bc657b807d7bfe5c03f2.webp"
+    },
+    {
+      "index": 15,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/佛手柑布艺香囊.png",
+      "hash": "b70e7617bf5fafac62ee1663c76d8863a06bc80f7d7c3fbe2b8765a16162b6f0",
+      "image": "assets/sachets/paired/b70e7617bf5fafac62ee.webp"
+    },
+    {
+      "index": 13,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/Lanarve香柑香囊与方盒.png",
+      "hash": "923646f8a534ac3bf884b99e42da84fdf8f2a18b191a6c0679c3b23c816722b6",
+      "image": "assets/sachets/paired/923646f8a534ac3bf884.webp"
+    },
+    {
+      "index": 16,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/暖象牙背景的鸢尾香囊.png",
+      "hash": "c9f48cb1e1688995b7f58cbf686fc0fafb559a15738d9e65f7d16c6e4518f280",
+      "image": "assets/sachets/paired/c9f48cb1e1688995b7f5.webp"
+    },
+    {
+      "index": 14,
+      "archive": "打包2.zip",
+      "name": "打包2/3 彩色系列香包/Lanarve鸢尾香囊与方形礼盒.png",
+      "hash": "baf0805f158dba163e80df149cf723cfa9c0b015e2fc477d794c03fb7174c3b6",
+      "image": "assets/sachets/paired/baf0805f158dba163e80.webp"
+    },
+    {
+      "index": 20,
+      "archive": "打包2.zip",
+      "name": "打包2/4 粉色香牌/粉色玫瑰香氛牌.png",
+      "hash": "799aa3dbeae7975a972b5e466c9c111c04985777a0f6330f9ac18298ceec1970",
+      "image": "assets/sachets/paired/799aa3dbeae7975a972b.webp"
+    },
+    {
+      "index": 19,
+      "archive": "打包2.zip",
+      "name": "打包2/4 粉色香牌/粉玫瑰香氛挂饰与礼盒.png",
+      "hash": "7762e18f4bb097fa455d5adfd6289e0487fb88b573b049c7e3c1390d97e5bd93",
+      "image": "assets/sachets/paired/7762e18f4bb097fa455d.webp"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sachets-pair-2e09dbec67e3",
+    "name": "Moonlit Gardenia",
+    "series": "Botanical Wax Tablets",
+    "image": "assets/sachets/paired/2e09dbec67e3048635e7.webp",
+    "packagingImage": "assets/sachets/paired/8ba9e6aa6446d6d57d11.webp",
+    "images": [
+      "assets/sachets/paired/2e09dbec67e3048635e7.webp",
+      "assets/sachets/paired/8ba9e6aa6446d6d57d11.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-301de746753e",
+    "name": "Citrus Fern",
+    "series": "Botanical Wax Tablets",
+    "image": "assets/sachets/paired/301de746753e02d728ce.webp",
+    "packagingImage": "assets/sachets/paired/3447bc3222ac7083b64a.webp",
+    "images": [
+      "assets/sachets/paired/301de746753e02d728ce.webp",
+      "assets/sachets/paired/3447bc3222ac7083b64a.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-5ee9cd54d8b6",
+    "name": "Plum Blossoms",
+    "series": "Botanical Wax Tablets",
+    "image": "assets/sachets/paired/5ee9cd54d8b68955fb00.webp",
+    "packagingImage": "assets/sachets/paired/2a7f2f7c3e8dadd879b8.webp",
+    "images": [
+      "assets/sachets/paired/5ee9cd54d8b68955fb00.webp",
+      "assets/sachets/paired/2a7f2f7c3e8dadd879b8.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-14eefcbb28cb",
+    "name": "Ivory Floral Wreath",
+    "series": "Floral Wax Tablets",
+    "image": "assets/sachets/paired/14eefcbb28cb40378e95.webp",
+    "packagingImage": "assets/sachets/paired/fcfd75d55dc941d49dad.webp",
+    "images": [
+      "assets/sachets/paired/14eefcbb28cb40378e95.webp",
+      "assets/sachets/paired/fcfd75d55dc941d49dad.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-b232e0c6ef6a",
+    "name": "Apricot Floral Wreath",
+    "series": "Floral Wax Tablets",
+    "image": "assets/sachets/paired/b232e0c6ef6a01e2730e.webp",
+    "packagingImage": "assets/sachets/paired/281ba272038aedad420d.webp",
+    "images": [
+      "assets/sachets/paired/b232e0c6ef6a01e2730e.webp",
+      "assets/sachets/paired/281ba272038aedad420d.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-d2a2c13cb519",
+    "name": "Moss Sachet",
+    "series": "Fabric Fragrance Sachets",
+    "image": "assets/sachets/paired/d2a2c13cb519e3a3e386.webp",
+    "packagingImage": "assets/sachets/paired/805005b2cedf8842b51b.webp",
+    "images": [
+      "assets/sachets/paired/d2a2c13cb519e3a3e386.webp",
+      "assets/sachets/paired/805005b2cedf8842b51b.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-ead03b28dd75",
+    "name": "Peach Moments Sachet",
+    "series": "Fabric Fragrance Sachets",
+    "image": "assets/sachets/paired/ead03b28dd75d66e5fbc.webp",
+    "packagingImage": "assets/sachets/paired/bc657b807d7bfe5c03f2.webp",
+    "images": [
+      "assets/sachets/paired/ead03b28dd75d66e5fbc.webp",
+      "assets/sachets/paired/bc657b807d7bfe5c03f2.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-b70e7617bf5f",
+    "name": "Bergamot Sachet",
+    "series": "Fabric Fragrance Sachets",
+    "image": "assets/sachets/paired/b70e7617bf5fafac62ee.webp",
+    "packagingImage": "assets/sachets/paired/923646f8a534ac3bf884.webp",
+    "images": [
+      "assets/sachets/paired/b70e7617bf5fafac62ee.webp",
+      "assets/sachets/paired/923646f8a534ac3bf884.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-c9f48cb1e168",
+    "name": "Iris Sachet",
+    "series": "Fabric Fragrance Sachets",
+    "image": "assets/sachets/paired/c9f48cb1e1688995b7f5.webp",
+    "packagingImage": "assets/sachets/paired/baf0805f158dba163e80.webp",
+    "images": [
+      "assets/sachets/paired/c9f48cb1e1688995b7f5.webp",
+      "assets/sachets/paired/baf0805f158dba163e80.webp"
+    ]
+  },
+  {
+    "id": "sachets-pair-799aa3dbeae7",
+    "name": "Pink Rose Tablet",
+    "series": "Rose Fragrance Tablets",
+    "image": "assets/sachets/paired/799aa3dbeae7975a972b.webp",
+    "packagingImage": "assets/sachets/paired/7762e18f4bb097fa455d.webp",
+    "images": [
+      "assets/sachets/paired/799aa3dbeae7975a972b.webp",
+      "assets/sachets/paired/7762e18f4bb097fa455d.webp"
+    ]
+  }
+]
