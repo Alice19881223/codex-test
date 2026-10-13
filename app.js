@@ -5,7 +5,7 @@ const escapeHtml=str=>str.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections'};
 const catalogues={candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:[...crystalProducts,...reedProducts.filter(p=>p.name.includes('Gift Set')),...candleProducts.filter(p=>['Her · Him · Us','Floral Reverie','Christmas'].includes(p.series))]};
 function openPhoto(photo,category,scent){
- content.innerHTML=`<p class="eyebrow">LANARVE · ${escapeHtml(photo.series)}</p><img class="crystal-detail-image" src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)}"><h2 class="dialog-heading">${escapeHtml(photo.name)}</h2><p class="dialog-description">${categoryNames[category]}. Contact our team for fragrance options, product specifications and ordering information.</p>${scent?`<p><strong>${escapeHtml(scent.name)}</strong><br>${escapeHtml(scent.notes)}</p><p class="catalog-note">Suggested fragrance pairing. Final product availability to be confirmed.</p>`:''}<a class="text-link" href="contact.html">Product enquiries ↗</a>`;
+ content.innerHTML=`<p class="eyebrow">LANARVE · ${escapeHtml(photo.series)}</p>${photo.packagingImage?`<div class="detail-photo-pair"><figure><img class="crystal-detail-image" src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)} — product"><figcaption>THE CANDLE</figcaption></figure><figure><img class="crystal-detail-image" src="${photo.packagingImage}" alt="Lanarve ${escapeHtml(photo.name)} — product with packaging"><figcaption>WITH PACKAGING</figcaption></figure></div>`:`<img class="crystal-detail-image" src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)}">`}<h2 class="dialog-heading">${escapeHtml(photo.name)}</h2><p class="dialog-description">${categoryNames[category]}. Contact our team for fragrance options, product specifications and ordering information.</p>${scent?`<p><strong>${escapeHtml(scent.name)}</strong><br>${escapeHtml(scent.notes)}</p><p class="catalog-note">Suggested fragrance pairing. Final product availability to be confirmed.</p>`:''}<a class="text-link" href="contact.html">Product enquiries ↗</a>`;
  if(!dialog.open)dialog.showModal();
 }
 function productDetail(key,scent){openPhoto(catalogues[key][0],key,scent)}
@@ -23,6 +23,12 @@ if(grid){
  const category=document.body.dataset.category;
  const photos=catalogues[category];
  grid.querySelectorAll('[data-photo]').forEach(card=>card.addEventListener('click',event=>{event.preventDefault();openPhoto(photos[Number(card.dataset.photo)],category);}));
+ grid.querySelectorAll('.photo-toggle').forEach(button=>button.addEventListener('click',()=>{
+  const card=button.closest('.paired-product');const packaged=card.classList.toggle('is-packaging');
+  button.setAttribute('aria-pressed',String(packaged));button.textContent=packaged?'View candle':'View packaging';
+  const name=photos[Number(card.querySelector('[data-photo]').dataset.photo)].name;
+  button.setAttribute('aria-label',`Show ${packaged?'candle':'packaging'} for ${name}`);
+ }));
  // Preserve older bookmarked category/page query links.
  const query=new URLSearchParams(location.search);
  if(query.has('category')||query.has('page')){

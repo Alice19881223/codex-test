@@ -107,3 +107,20 @@ footer .contact-row:focus-visible .contact-icon{transform:rotate(-8deg) scale(1.
 @media(min-width:1001px) and (max-width:1279px){.home-page .capability-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:1000px){.home-page .capability-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.home-page .capability-grid article:last-child{grid-column:1/-1;max-width:calc((100% - 30px)/2);width:100%;justify-self:center}}
 @media(max-width:650px){.home-page .capability-grid article:last-child{max-width:calc((100% - 20px)/2)}}
+
+/* One candle, two views: standalone first and its packaging underneath. */
+.paired-product{min-width:0}
+.paired-product .crystal-item{display:block}
+.paired-photo{display:block;position:relative;width:100%;aspect-ratio:1;overflow:hidden;background:#fff}
+.paired-product .paired-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;transition:opacity .4s ease}
+.paired-product .paired-photo .photo-single{opacity:1}
+.paired-product .paired-photo .photo-packaging{opacity:0}
+.paired-product.is-packaging .paired-photo .photo-single,.paired-product .crystal-item:focus-visible .photo-single{opacity:0}
+.paired-product.is-packaging .paired-photo .photo-packaging,.paired-product .crystal-item:focus-visible .photo-packaging{opacity:1}
+.photo-toggle{display:block;min-height:44px;padding:8px 14px;margin-top:12px;border:1px solid #c4d0bc;border-radius:22px;background:#edf0e8;color:#344638;font-size:12px}
+.photo-toggle[aria-pressed="true"]{background:#dee7d5;border-color:#708767}
+.detail-photo-pair figure{margin:20px 0 28px}
+.detail-photo-pair .crystal-detail-image{display:block;background:white;max-height:55vh}
+.detail-photo-pair figcaption{font-size:10px;letter-spacing:1.8px;text-align:center;color:#61715a;margin-top:8px}
+@media(hover:hover){.paired-product .crystal-item:hover .photo-single{opacity:0}.paired-product .crystal-item:hover .photo-packaging{opacity:1}.photo-toggle:hover{background:#dee7d5}}
+@media(prefers-reduced-motion:reduce){.paired-product .paired-photo img{transition:none!important}}

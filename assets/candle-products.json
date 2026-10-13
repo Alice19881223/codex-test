@@ -1,5 +1,379 @@
 [
   {
+    "id": "candle-pair-706a9cb934df",
+    "name": "Gardenia",
+    "series": "Vintage Florals",
+    "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
+    "packagingImage": "assets/candles/paired/a2e5095ea428772230e4.webp",
+    "images": [
+      "assets/candles/paired/706a9cb934df23f1ce96.webp",
+      "assets/candles/paired/a2e5095ea428772230e4.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-10d7297ec4e2",
+    "name": "Bluebell",
+    "series": "Vintage Florals",
+    "image": "assets/candles/paired/10d7297ec4e2e39c4df6.webp",
+    "packagingImage": "assets/candles/paired/f269bd4932b34f76054f.webp",
+    "images": [
+      "assets/candles/paired/10d7297ec4e2e39c4df6.webp",
+      "assets/candles/paired/f269bd4932b34f76054f.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-73e3d5c1bd30",
+    "name": "Amber Glass",
+    "series": "Classic Amber",
+    "image": "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp",
+    "packagingImage": "assets/candles/paired/c66deb8739623b19f52b.webp",
+    "images": [
+      "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp",
+      "assets/candles/paired/c66deb8739623b19f52b.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-3ae397f5d9f6",
+    "name": "Lucky No. 6",
+    "series": "Lucky Numbers",
+    "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
+    "packagingImage": "assets/candles/paired/d3b115bb2804bfbd8b3b.webp",
+    "images": [
+      "assets/candles/paired/3ae397f5d9f617bbf348.webp",
+      "assets/candles/paired/d3b115bb2804bfbd8b3b.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-07944550f1fc",
+    "name": "Lucky No. 2",
+    "series": "Lucky Numbers",
+    "image": "assets/candles/paired/07944550f1fc2592d815.webp",
+    "packagingImage": "assets/candles/paired/1110e2e926713baf03d6.webp",
+    "images": [
+      "assets/candles/paired/07944550f1fc2592d815.webp",
+      "assets/candles/paired/1110e2e926713baf03d6.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-c1025ec341c6",
+    "name": "Lucky No. 8",
+    "series": "Lucky Numbers",
+    "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
+    "packagingImage": "assets/candles/paired/4d07ee5940491e00b5f8.webp",
+    "images": [
+      "assets/candles/paired/c1025ec341c6a7b60413.webp",
+      "assets/candles/paired/4d07ee5940491e00b5f8.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-7be1aa85d017",
+    "name": "Ruby Bow",
+    "series": "Lolita",
+    "image": "assets/candles/paired/7be1aa85d0170c284922.webp",
+    "packagingImage": "assets/candles/paired/9e696612e82bc93aa01b.webp",
+    "images": [
+      "assets/candles/paired/7be1aa85d0170c284922.webp",
+      "assets/candles/paired/9e696612e82bc93aa01b.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-14b03567b9e1",
+    "name": "Blush Bow",
+    "series": "Lolita",
+    "image": "assets/candles/paired/14b03567b9e1d531039d.webp",
+    "packagingImage": "assets/candles/paired/16e3c5bbc6ba450f1b8d.webp",
+    "images": [
+      "assets/candles/paired/14b03567b9e1d531039d.webp",
+      "assets/candles/paired/16e3c5bbc6ba450f1b8d.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-b1a337722ec5",
+    "name": "Dark Woods",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/b1a337722ec53404ae09.webp",
+    "packagingImage": "assets/candles/paired/2dc32de313a8e84fcf59.webp",
+    "images": [
+      "assets/candles/paired/b1a337722ec53404ae09.webp",
+      "assets/candles/paired/2dc32de313a8e84fcf59.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-d9feede215a3",
+    "name": "Baltic Amber",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/d9feede215a30484aa79.webp",
+    "packagingImage": "assets/candles/paired/9abe0bfd62ce490f1fed.webp",
+    "images": [
+      "assets/candles/paired/d9feede215a30484aa79.webp",
+      "assets/candles/paired/9abe0bfd62ce490f1fed.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-cdc473daed5f",
+    "name": "White Peach Oolong",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/cdc473daed5f344ade64.webp",
+    "packagingImage": "assets/candles/paired/693b598247312f2d6f9d.webp",
+    "images": [
+      "assets/candles/paired/cdc473daed5f344ade64.webp",
+      "assets/candles/paired/693b598247312f2d6f9d.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-d6e65e02000c",
+    "name": "Blood Orange",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
+    "packagingImage": "assets/candles/paired/7aaf53f3e8bba6621716.webp",
+    "images": [
+      "assets/candles/paired/d6e65e02000c1649cfca.webp",
+      "assets/candles/paired/7aaf53f3e8bba6621716.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-b2a6e2ce97db",
+    "name": "White Florals",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
+    "packagingImage": "assets/candles/paired/dc3f55e7c387f686ab57.webp",
+    "images": [
+      "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
+      "assets/candles/paired/dc3f55e7c387f686ab57.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-287d23366d4c",
+    "name": "Provence Lavender",
+    "series": "Lace Glass",
+    "image": "assets/candles/paired/287d23366d4c063f04f9.webp",
+    "packagingImage": "assets/candles/paired/c312bc78bf1b43b0d8dd.webp",
+    "images": [
+      "assets/candles/paired/287d23366d4c063f04f9.webp",
+      "assets/candles/paired/c312bc78bf1b43b0d8dd.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-4fbc33c9500b",
+    "name": "Ivory Porcelain",
+    "series": "Minimal Relief",
+    "image": "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
+    "packagingImage": "assets/candles/paired/106d2fc4935b4b7b2cc4.webp",
+    "images": [
+      "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
+      "assets/candles/paired/106d2fc4935b4b7b2cc4.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-5489f55a8056",
+    "name": "Gardenia",
+    "series": "Gradient Glass",
+    "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
+    "packagingImage": "assets/candles/paired/b0855ecbddc2adcdcf30.webp",
+    "images": [
+      "assets/candles/paired/5489f55a80565a8ad3b2.webp",
+      "assets/candles/paired/b0855ecbddc2adcdcf30.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-f62beb39ab18",
+    "name": "Lavender",
+    "series": "Gradient Glass",
+    "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
+    "packagingImage": "assets/candles/paired/ae3112e954834affa0dd.webp",
+    "images": [
+      "assets/candles/paired/f62beb39ab1806d66782.webp",
+      "assets/candles/paired/ae3112e954834affa0dd.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-b09baac75da0",
+    "name": "Vanilla",
+    "series": "Gradient Glass",
+    "image": "assets/candles/paired/b09baac75da0893acee3.webp",
+    "packagingImage": "assets/candles/paired/ae7ebd2a2b6d58486da2.webp",
+    "images": [
+      "assets/candles/paired/b09baac75da0893acee3.webp",
+      "assets/candles/paired/ae7ebd2a2b6d58486da2.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-7af4fa22a012",
+    "name": "Osmanthus",
+    "series": "Postbox",
+    "image": "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
+    "packagingImage": "assets/candles/paired/67ebc54f4c26fd7d7c4f.webp",
+    "images": [
+      "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
+      "assets/candles/paired/67ebc54f4c26fd7d7c4f.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-20c64492ea43",
+    "name": "Lavender",
+    "series": "Postbox",
+    "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
+    "packagingImage": "assets/candles/paired/bb066868239f215d9791.webp",
+    "images": [
+      "assets/candles/paired/20c64492ea431b4ad239.webp",
+      "assets/candles/paired/bb066868239f215d9791.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-986d2edec086",
+    "name": "Peach Oolong",
+    "series": "Postbox",
+    "image": "assets/candles/paired/986d2edec0865818a739.webp",
+    "packagingImage": "assets/candles/paired/344cc96301badbf5193c.webp",
+    "images": [
+      "assets/candles/paired/986d2edec0865818a739.webp",
+      "assets/candles/paired/344cc96301badbf5193c.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-e2419ac62b56",
+    "name": "Lime Basil",
+    "series": "Postbox",
+    "image": "assets/candles/paired/e2419ac62b562d3b0520.webp",
+    "packagingImage": "assets/candles/paired/55e6b22f7e789ed6870f.webp",
+    "images": [
+      "assets/candles/paired/e2419ac62b562d3b0520.webp",
+      "assets/candles/paired/55e6b22f7e789ed6870f.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-9dbd2373b514",
+    "name": "Island Cotton",
+    "series": "Postbox",
+    "image": "assets/candles/paired/9dbd2373b514ef18213d.webp",
+    "packagingImage": "assets/candles/paired/fcd88f6d07b78575664d.webp",
+    "images": [
+      "assets/candles/paired/9dbd2373b514ef18213d.webp",
+      "assets/candles/paired/fcd88f6d07b78575664d.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-522eb2b41054",
+    "name": "Ivory Oval",
+    "series": "Oval Relief",
+    "image": "assets/candles/paired/522eb2b410541447b0fc.webp",
+    "packagingImage": "assets/candles/paired/8a70871381303efce209.webp",
+    "images": [
+      "assets/candles/paired/522eb2b410541447b0fc.webp",
+      "assets/candles/paired/8a70871381303efce209.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-ef573ef4b49c",
+    "name": "Pearl Ivory",
+    "series": "Iridescent",
+    "image": "assets/candles/paired/ef573ef4b49c1af85848.webp",
+    "packagingImage": "assets/candles/paired/6656addaa2c24bdf1028.webp",
+    "images": [
+      "assets/candles/paired/ef573ef4b49c1af85848.webp",
+      "assets/candles/paired/6656addaa2c24bdf1028.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-947cbc1d98de",
+    "name": "Obsidian",
+    "series": "Iridescent",
+    "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",
+    "packagingImage": "assets/candles/paired/54011dbbaaf2210a2aae.webp",
+    "images": [
+      "assets/candles/paired/947cbc1d98dee6da5d51.webp",
+      "assets/candles/paired/54011dbbaaf2210a2aae.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-a890e2a4dac9",
+    "name": "Ivory Sunflower",
+    "series": "Sunflower",
+    "image": "assets/candles/paired/a890e2a4dac981243da3.webp",
+    "packagingImage": "assets/candles/paired/c7a0b25b8a3f49c19bd0.webp",
+    "images": [
+      "assets/candles/paired/a890e2a4dac981243da3.webp",
+      "assets/candles/paired/c7a0b25b8a3f49c19bd0.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-2d960ad5048d",
+    "name": "Golden Sunflower",
+    "series": "Sunflower",
+    "image": "assets/candles/paired/2d960ad5048dc6d12875.webp",
+    "packagingImage": "assets/candles/paired/3e76ed4ff03598873fcc.webp",
+    "images": [
+      "assets/candles/paired/2d960ad5048dc6d12875.webp",
+      "assets/candles/paired/3e76ed4ff03598873fcc.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-e6a379ea95e7",
+    "name": "Iced Patchouli",
+    "series": "Organic Glass",
+    "image": "assets/candles/paired/e6a379ea95e7f1408253.webp",
+    "packagingImage": "assets/candles/paired/f841e8ccae48704eac5b.webp",
+    "images": [
+      "assets/candles/paired/e6a379ea95e7f1408253.webp",
+      "assets/candles/paired/f841e8ccae48704eac5b.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-1f1fd2e0ca38",
+    "name": "Desert Rose",
+    "series": "Organic Glass",
+    "image": "assets/candles/paired/1f1fd2e0ca388db40ca3.webp",
+    "packagingImage": "assets/candles/paired/e825cd690be6d303c884.webp",
+    "images": [
+      "assets/candles/paired/1f1fd2e0ca388db40ca3.webp",
+      "assets/candles/paired/e825cd690be6d303c884.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-e9583a062cd6",
+    "name": "Ivory Deer",
+    "series": "Deer Collection",
+    "image": "assets/candles/paired/e9583a062cd69e708bb4.webp",
+    "packagingImage": "assets/candles/paired/cd4259b2f7df021f41bf.webp",
+    "images": [
+      "assets/candles/paired/e9583a062cd69e708bb4.webp",
+      "assets/candles/paired/cd4259b2f7df021f41bf.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-6557fed21b15",
+    "name": "Smoky Deer",
+    "series": "Deer Collection",
+    "image": "assets/candles/paired/6557fed21b15dacbccfa.webp",
+    "packagingImage": "assets/candles/paired/b7f54f3e9c2cb871ec9d.webp",
+    "images": [
+      "assets/candles/paired/6557fed21b15dacbccfa.webp",
+      "assets/candles/paired/b7f54f3e9c2cb871ec9d.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-b053837f0428",
+    "name": "Birthday Celebration",
+    "series": "Playful Birthday",
+    "image": "assets/candles/paired/b053837f042853978ab8.webp",
+    "packagingImage": "assets/candles/paired/82b416ab42c6f7b94661.webp",
+    "images": [
+      "assets/candles/paired/b053837f042853978ab8.webp",
+      "assets/candles/paired/82b416ab42c6f7b94661.webp"
+    ]
+  },
+  {
+    "id": "candle-pair-257c6ea41af4",
+    "name": "Pumpkin & Ghost",
+    "series": "Halloween",
+    "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
+    "packagingImage": "assets/candles/paired/c33e601c26cf2548040e.webp",
+    "images": [
+      "assets/candles/paired/257c6ea41af465989ab3.webp",
+      "assets/candles/paired/c33e601c26cf2548040e.webp"
+    ]
+  },
+  {
     "name": "Concrete — 01",
     "image": "assets/candles/candles-001.webp",
     "series": "Concrete"

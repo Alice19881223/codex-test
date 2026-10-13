@@ -1,0 +1,699 @@
+{
+  "pairs": [
+    {
+      "single": 0,
+      "packaging": 1,
+      "name": "Gardenia",
+      "series": "Vintage Florals"
+    },
+    {
+      "single": 2,
+      "packaging": 3,
+      "name": "Bluebell",
+      "series": "Vintage Florals"
+    },
+    {
+      "single": 4,
+      "packaging": 5,
+      "name": "Amber Glass",
+      "series": "Classic Amber"
+    },
+    {
+      "single": 8,
+      "packaging": 6,
+      "name": "Lucky No. 6",
+      "series": "Lucky Numbers"
+    },
+    {
+      "single": 9,
+      "packaging": 7,
+      "name": "Lucky No. 2",
+      "series": "Lucky Numbers"
+    },
+    {
+      "single": 10,
+      "packaging": 11,
+      "name": "Lucky No. 8",
+      "series": "Lucky Numbers"
+    },
+    {
+      "single": 13,
+      "packaging": 12,
+      "name": "Ruby Bow",
+      "series": "Lolita"
+    },
+    {
+      "single": 15,
+      "packaging": 14,
+      "name": "Blush Bow",
+      "series": "Lolita"
+    },
+    {
+      "single": 16,
+      "packaging": 17,
+      "name": "Dark Woods",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 18,
+      "packaging": 19,
+      "name": "Baltic Amber",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 20,
+      "packaging": 21,
+      "name": "White Peach Oolong",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 22,
+      "packaging": 23,
+      "name": "Blood Orange",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 24,
+      "packaging": 25,
+      "name": "White Florals",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 26,
+      "packaging": 27,
+      "name": "Provence Lavender",
+      "series": "Lace Glass"
+    },
+    {
+      "single": 29,
+      "packaging": 28,
+      "name": "Ivory Porcelain",
+      "series": "Minimal Relief"
+    },
+    {
+      "single": 30,
+      "packaging": 31,
+      "name": "Gardenia",
+      "series": "Gradient Glass"
+    },
+    {
+      "single": 32,
+      "packaging": 33,
+      "name": "Lavender",
+      "series": "Gradient Glass"
+    },
+    {
+      "single": 34,
+      "packaging": 35,
+      "name": "Vanilla",
+      "series": "Gradient Glass"
+    },
+    {
+      "single": 43,
+      "packaging": 36,
+      "name": "Osmanthus",
+      "series": "Postbox"
+    },
+    {
+      "single": 42,
+      "packaging": 37,
+      "name": "Lavender",
+      "series": "Postbox"
+    },
+    {
+      "single": 44,
+      "packaging": 38,
+      "name": "Peach Oolong",
+      "series": "Postbox"
+    },
+    {
+      "single": 39,
+      "packaging": 45,
+      "name": "Lime Basil",
+      "series": "Postbox"
+    },
+    {
+      "single": 40,
+      "packaging": 41,
+      "name": "Island Cotton",
+      "series": "Postbox"
+    },
+    {
+      "single": 58,
+      "packaging": 59,
+      "name": "Ivory Oval",
+      "series": "Oval Relief"
+    },
+    {
+      "single": 46,
+      "packaging": 47,
+      "name": "Pearl Ivory",
+      "series": "Iridescent"
+    },
+    {
+      "single": 49,
+      "packaging": 48,
+      "name": "Obsidian",
+      "series": "Iridescent"
+    },
+    {
+      "single": 51,
+      "packaging": 50,
+      "name": "Ivory Sunflower",
+      "series": "Sunflower"
+    },
+    {
+      "single": 53,
+      "packaging": 52,
+      "name": "Golden Sunflower",
+      "series": "Sunflower"
+    },
+    {
+      "single": 54,
+      "packaging": 56,
+      "name": "Iced Patchouli",
+      "series": "Organic Glass"
+    },
+    {
+      "single": 57,
+      "packaging": 55,
+      "name": "Desert Rose",
+      "series": "Organic Glass"
+    },
+    {
+      "single": 63,
+      "packaging": 60,
+      "name": "Ivory Deer",
+      "series": "Deer Collection"
+    },
+    {
+      "single": 61,
+      "packaging": 62,
+      "name": "Smoky Deer",
+      "series": "Deer Collection"
+    },
+    {
+      "single": 64,
+      "packaging": 65,
+      "name": "Birthday Celebration",
+      "series": "Playful Birthday"
+    },
+    {
+      "single": 68,
+      "packaging": 67,
+      "name": "Pumpkin & Ghost",
+      "series": "Halloween"
+    }
+  ],
+  "missingStandalone": [
+    66,
+    69,
+    70,
+    71,
+    73,
+    74,
+    75
+  ],
+  "excludedDuplicate": {
+    "index": 72,
+    "sameAs": 71
+  },
+  "sources": [
+    {
+      "index": 0,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花香复古系列/100克栀子花香氛蜡烛.png",
+      "hash": "706a9cb934df23f1ce96197a608bcbc03f9ce012e173e954c828396433c509c0",
+      "image": "assets/candles/paired/706a9cb934df23f1ce96.webp"
+    },
+    {
+      "index": 1,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花香复古系列/100克栀子花香薰蜡烛礼盒.png",
+      "hash": "a2e5095ea428772230e4e6ebde7de85ce0c40448cfb3f8f3c5bec018f6d8f0a2",
+      "image": "assets/candles/paired/a2e5095ea428772230e4.webp"
+    },
+    {
+      "index": 2,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花香复古系列/蓝风铃蜡烛.png",
+      "hash": "10d7297ec4e2e39c4df6d54c3b35340a4b793fb289576ae715caba2a4840738a",
+      "image": "assets/candles/paired/10d7297ec4e2e39c4df6.webp"
+    },
+    {
+      "index": 3,
+      "archive": "打包1.zip",
+      "name": "打包1/1 花香复古系列/蓝风铃香薰蜡烛与精品礼盒.png",
+      "hash": "f269bd4932b34f76054f2443140e01d68def51bbc26c4835fe3fc2ff15ff75a1",
+      "image": "assets/candles/paired/f269bd4932b34f76054f.webp"
+    },
+    {
+      "index": 4,
+      "archive": "打包1.zip",
+      "name": "打包1/2.琥珀玻璃瓶系列/琥珀玻璃香薰蜡烛.png",
+      "hash": "73e3d5c1bd304f9fbfb5b5ed9d5b1c8eb61b0f9f60c8a98d16a3d001a0009e9e",
+      "image": "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp"
+    },
+    {
+      "index": 5,
+      "archive": "打包1.zip",
+      "name": "打包1/2.琥珀玻璃瓶系列/琥珀香薰蜡烛与高级礼盒.png",
+      "hash": "c66deb8739623b19f52beb06617483b22f7f79005d3de05757f19e9dff818066",
+      "image": "assets/candles/paired/c66deb8739623b19f52b.webp"
+    },
+    {
+      "index": 8,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/柔黄幸运数字6玻璃蜡烛.png",
+      "hash": "3ae397f5d9f617bbf3489880aed3ddd8228ac0921dac71c04db1fe1069b7972d",
+      "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp"
+    },
+    {
+      "index": 6,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/奶油黄幸运数字6蜡烛礼盒.png",
+      "hash": "d3b115bb2804bfbd8b3b1dc6fb72964720a5175a3788b9ac816997a82a4db273",
+      "image": "assets/candles/paired/d3b115bb2804bfbd8b3b.webp"
+    },
+    {
+      "index": 9,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/珊瑚粉幸运数字2蜡烛.png",
+      "hash": "07944550f1fc2592d8159653e9e31260a220f60ce087743383496a224c79a238",
+      "image": "assets/candles/paired/07944550f1fc2592d815.webp"
+    },
+    {
+      "index": 7,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/幸运数字2珊瑚粉蜡烛礼盒.png",
+      "hash": "1110e2e926713baf03d6802d407ea4bd5812582a869b087517d1a77942a23a9e",
+      "image": "assets/candles/paired/1110e2e926713baf03d6.webp"
+    },
+    {
+      "index": 10,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/紫罗兰幸运数字8蜡烛.png",
+      "hash": "c1025ec341c6a7b6041312568ffd666ee0c6ff42a7cb549092eb90da33768d4e",
+      "image": "assets/candles/paired/c1025ec341c6a7b60413.webp"
+    },
+    {
+      "index": 11,
+      "archive": "打包1.zip",
+      "name": "打包1/3 幸运数字系列/薰衣草幸运数字8蜡烛礼盒.png",
+      "hash": "4d07ee5940491e00b5f85ed495f0c05731115389f270ea9d97e77136dfa54616",
+      "image": "assets/candles/paired/4d07ee5940491e00b5f8.webp"
+    },
+    {
+      "index": 13,
+      "archive": "打包1.zip",
+      "name": "打包1/4  洛丽塔系列/红色金牌香薰蜡烛.png",
+      "hash": "7be1aa85d0170c284922de788fb8b8602f9236151045cb35f6adbf8ed66199ae",
+      "image": "assets/candles/paired/7be1aa85d0170c284922.webp"
+    },
+    {
+      "index": 12,
+      "archive": "打包1.zip",
+      "name": "打包1/4  洛丽塔系列/去除字样的红色雕花香薰蜡烛.png",
+      "hash": "9e696612e82bc93aa01b9bb6a2b47fc842f554769bb68565462ede56a3b9d98e",
+      "image": "assets/candles/paired/9e696612e82bc93aa01b.webp"
+    },
+    {
+      "index": 15,
+      "archive": "打包1.zip",
+      "name": "打包1/4  洛丽塔系列/金色铭牌深棕文字修正.png",
+      "hash": "14b03567b9e1d531039d6b693450db6842e17064fc03d2da744da94be1773a7d",
+      "image": "assets/candles/paired/14b03567b9e1d531039d.webp"
+    },
+    {
+      "index": 14,
+      "archive": "打包1.zip",
+      "name": "打包1/4  洛丽塔系列/金色蜡烛包装上的棕色铭牌文字.png",
+      "hash": "16e3c5bbc6ba450f1b8d76250e2e4b371821a1d721a877672da77c463ccc560a",
+      "image": "assets/candles/paired/16e3c5bbc6ba450f1b8d.webp"
+    },
+    {
+      "index": 16,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/圣地亚哥黑果木.png",
+      "hash": "b1a337722ec53404ae0929074d5ebaa0eea619f4a20a65568bc5738451f0641f",
+      "image": "assets/candles/paired/b1a337722ec53404ae09.webp"
+    },
+    {
+      "index": 17,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/圣地亚哥黑果木包装.png",
+      "hash": "2dc32de313a8e84fcf592e2d79c3778171d85b9b367623bacb292ddbc3ec60b5",
+      "image": "assets/candles/paired/2dc32de313a8e84fcf59.webp"
+    },
+    {
+      "index": 18,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/橘黄色.png",
+      "hash": "d9feede215a30484aa792a6a36e4f4820639165a78bc268902ce098ee119c04d",
+      "image": "assets/candles/paired/d9feede215a30484aa79.webp"
+    },
+    {
+      "index": 19,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/橘黄色包装.png",
+      "hash": "9abe0bfd62ce490f1fed704a7847e75d185e52b7715af97d863059c4255aaa52",
+      "image": "assets/candles/paired/9abe0bfd62ce490f1fed.webp"
+    },
+    {
+      "index": 20,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/白桃乌龙.png",
+      "hash": "cdc473daed5f344ade64bcd3108b82dcf7bc4b2256fef3a4368e64f2097e95ff",
+      "image": "assets/candles/paired/cdc473daed5f344ade64.webp"
+    },
+    {
+      "index": 21,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/白桃乌龙包装.png",
+      "hash": "693b598247312f2d6f9df524fb7d1b6e2356249b033c1dedd9ff6ad29336d553",
+      "image": "assets/candles/paired/693b598247312f2d6f9d.webp"
+    },
+    {
+      "index": 22,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/红色.png",
+      "hash": "d6e65e02000c1649cfca9fcb90a0461145b378c81e3e1c2c0051b43839ecd5c6",
+      "image": "assets/candles/paired/d6e65e02000c1649cfca.webp"
+    },
+    {
+      "index": 23,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/红色包装.png",
+      "hash": "7aaf53f3e8bba66217160f6d9c4ed69588c4cedf39dca58d455bd292791357ad",
+      "image": "assets/candles/paired/7aaf53f3e8bba6621716.webp"
+    },
+    {
+      "index": 24,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/莫氏兰.png",
+      "hash": "b2a6e2ce97db70ea6f8a9b25c2fccb108435d31c0dc04a7702791931056f867b",
+      "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp"
+    },
+    {
+      "index": 25,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/莫氏兰包装.png",
+      "hash": "dc3f55e7c387f686ab57917a8a6f60ed800e824dc6e7dde2cadc2db515e1fdd9",
+      "image": "assets/candles/paired/dc3f55e7c387f686ab57.webp"
+    },
+    {
+      "index": 26,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/薰衣草.png",
+      "hash": "287d23366d4c063f04f98eb0afa37ed73dcceb75ec60c8ad3eab88f40c2bd25f",
+      "image": "assets/candles/paired/287d23366d4c063f04f9.webp"
+    },
+    {
+      "index": 27,
+      "archive": "打包2.zip",
+      "name": "打包2/5 蕾丝花纹系列/薰衣草包装.png",
+      "hash": "c312bc78bf1b43b0d8dd5b0e2ebdd33e0210e7a835ab2ba691b7bd0eb9873cf3",
+      "image": "assets/candles/paired/c312bc78bf1b43b0d8dd.webp"
+    },
+    {
+      "index": 29,
+      "archive": "打包2.zip",
+      "name": "打包2/6 简约浮雕系列/LANARVE象牙瓷蜡烛.png",
+      "hash": "4fbc33c9500b11ca9a9b4153a7fa75918064d4d7533110e68afe2d5cd79ac15c",
+      "image": "assets/candles/paired/4fbc33c9500b11ca9a9b.webp"
+    },
+    {
+      "index": 28,
+      "archive": "打包2.zip",
+      "name": "打包2/6 简约浮雕系列/3557ceb9-9c62-4184-b76b-69f916b9d780.png",
+      "hash": "106d2fc4935b4b7b2cc4d3600599342a941523cd1f8733894974387bf37051ef",
+      "image": "assets/candles/paired/106d2fc4935b4b7b2cc4.webp"
+    },
+    {
+      "index": 30,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/栀子花.png",
+      "hash": "5489f55a80565a8ad3b2fb31793878b80e45514cc977e920989ed4bc86566bfa",
+      "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp"
+    },
+    {
+      "index": 31,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/栀子花包装.png",
+      "hash": "b0855ecbddc2adcdcf30bea9db9a70b051a854f4b7deef73757297fdd9fe83fd",
+      "image": "assets/candles/paired/b0855ecbddc2adcdcf30.webp"
+    },
+    {
+      "index": 32,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/薰衣草.png",
+      "hash": "f62beb39ab1806d667829b19979e5389aa16c995e7dfdf9cbdf964ad4aff038d",
+      "image": "assets/candles/paired/f62beb39ab1806d66782.webp"
+    },
+    {
+      "index": 33,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/薰衣草包装.png",
+      "hash": "ae3112e954834affa0ddb1273d267050bc014c50389ec8cab0f2ebb1badddd14",
+      "image": "assets/candles/paired/ae3112e954834affa0dd.webp"
+    },
+    {
+      "index": 34,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/香子兰.png",
+      "hash": "b09baac75da0893acee31f8948e73faed31a1bf1102c87a7badb1b7e5804a9f2",
+      "image": "assets/candles/paired/b09baac75da0893acee3.webp"
+    },
+    {
+      "index": 35,
+      "archive": "打包3.zip",
+      "name": "打包3/7 渐变调蜡烛/香子兰包装.png",
+      "hash": "ae7ebd2a2b6d58486da2bd5dd4349cb5efee65ecb4cae49e131084385554e70b",
+      "image": "assets/candles/paired/ae7ebd2a2b6d58486da2.webp"
+    },
+    {
+      "index": 43,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/蜂蜜金色桂花香氛蜡烛.png",
+      "hash": "7af4fa22a012b5c0ef4001d0f05cd6dc948688224c8a4c445eed7c15e4c42487",
+      "image": "assets/candles/paired/7af4fa22a012b5c0ef40.webp"
+    },
+    {
+      "index": 36,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/Lanarve 桂花黄蜡烛礼盒.png",
+      "hash": "67ebc54f4c26fd7d7c4f0155981d90fffa90d9d3b3b120e19f787717447f20d2",
+      "image": "assets/candles/paired/67ebc54f4c26fd7d7c4f.webp"
+    },
+    {
+      "index": 42,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/紫色兰纳维薰衣草蜡烛.png",
+      "hash": "20c64492ea431b4ad2397882ddda04c9109070d975e2661be2c4dfcd55e0608e",
+      "image": "assets/candles/paired/20c64492ea431b4ad239.webp"
+    },
+    {
+      "index": 37,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/Lanarve薰衣草紫蜡烛.png",
+      "hash": "bb066868239f215d979168fc459c51a66bfd368e35c4a09f7c674030325cd3b2",
+      "image": "assets/candles/paired/bb066868239f215d9791.webp"
+    },
+    {
+      "index": 44,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/蜜桃乌龙香氛蜡烛.png",
+      "hash": "986d2edec0865818a739d3eeeeedbdf9eaad0420500cbbc3c2cb6d4bf7a7f544",
+      "image": "assets/candles/paired/986d2edec0865818a739.webp"
+    },
+    {
+      "index": 38,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/Lanarve蜜桃乌龙香薰蜡烛.png",
+      "hash": "344cc96301badbf5193cd7b087e5e6b3d2f3ac4be52012bceffb323a1414a822",
+      "image": "assets/candles/paired/344cc96301badbf5193c.webp"
+    },
+    {
+      "index": 39,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/Lanarve青柠罗勒绿色香薰蜡烛.png",
+      "hash": "e2419ac62b562d3b0520b6f7e9912e0fbd76086761ea85ee4379cc6fee3229df",
+      "image": "assets/candles/paired/e2419ac62b562d3b0520.webp"
+    },
+    {
+      "index": 45,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/青柠罗勒香薰蜡烛礼盒.png",
+      "hash": "55e6b22f7e789ed6870fbf4093f966de515cbdaced09e1cf38abfe95ee89babc",
+      "image": "assets/candles/paired/55e6b22f7e789ed6870f.webp"
+    },
+    {
+      "index": 40,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/天蓝色Lanarve香薰蜡烛.png",
+      "hash": "9dbd2373b514ef18213dac4fb1406f220a83f5500a3cccb09efeb4b9db22d972",
+      "image": "assets/candles/paired/9dbd2373b514ef18213d.webp"
+    },
+    {
+      "index": 41,
+      "archive": "打包3.zip",
+      "name": "打包3/8 邮筒系列/岛屿棉香氛蜡烛与精致礼盒.png",
+      "hash": "fcd88f6d07b78575664dcfe87b420eb29357fa9db93bb3a1bca1c7a40c83f4b4",
+      "image": "assets/candles/paired/fcd88f6d07b78575664d.webp"
+    },
+    {
+      "index": 58,
+      "archive": "打包4.zip",
+      "name": "打包4/9 浮雕椭圆系列/Lanarve象牙浮雕香氛蜡烛.png",
+      "hash": "522eb2b410541447b0fc7c542af6eaeda509aa0cba97ed891c70cbc4b21ca977",
+      "image": "assets/candles/paired/522eb2b410541447b0fc.webp"
+    },
+    {
+      "index": 59,
+      "archive": "打包4.zip",
+      "name": "打包4/9 浮雕椭圆系列/象牙色香氛蜡烛与配套礼盒.png",
+      "hash": "8a70871381303efce2099b5418556cb9219c4573fabcdd18b8ce134247579288",
+      "image": "assets/candles/paired/8a70871381303efce209.webp"
+    },
+    {
+      "index": 46,
+      "archive": "打包4.zip",
+      "name": "打包4/10 鎏金色蜡烛/白色.png",
+      "hash": "ef573ef4b49c1af858480bc76b02eceda085d686eec04102144b853cb639c491",
+      "image": "assets/candles/paired/ef573ef4b49c1af85848.webp"
+    },
+    {
+      "index": 47,
+      "archive": "打包4.zip",
+      "name": "打包4/10 鎏金色蜡烛/象牙白蜡烛盒的珠光浮雕标志.png",
+      "hash": "6656addaa2c24bdf1028ccb450dd5ee14a276b0b49c7f57cce1fe3f5910f8acc",
+      "image": "assets/candles/paired/6656addaa2c24bdf1028.webp"
+    },
+    {
+      "index": 49,
+      "archive": "打包4.zip",
+      "name": "打包4/10 鎏金色蜡烛/黑色.png",
+      "hash": "947cbc1d98dee6da5d51669583b84dafde0255dc63946ce843f7d782ef2b4375",
+      "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp"
+    },
+    {
+      "index": 48,
+      "archive": "打包4.zip",
+      "name": "打包4/10 鎏金色蜡烛/黑曜虹彩香氛套装.png",
+      "hash": "54011dbbaaf2210a2aaed5426d58754d12e684608490d279e3acfde06dd2d59c",
+      "image": "assets/candles/paired/54011dbbaaf2210a2aae.webp"
+    },
+    {
+      "index": 51,
+      "archive": "打包4.zip",
+      "name": "打包4/11 向日葵蜡烛/Lanarve白色雏菊香氛蜡烛-1.png",
+      "hash": "a890e2a4dac981243da3355008338bcf4880c7778344a2315755d7a06f2e109d",
+      "image": "assets/candles/paired/a890e2a4dac981243da3.webp"
+    },
+    {
+      "index": 50,
+      "archive": "打包4.zip",
+      "name": "打包4/11 向日葵蜡烛/Lanarve白色花朵蜡烛礼盒.png",
+      "hash": "c7a0b25b8a3f49c19bd0db2aa658bd481400a435b8b81a3adaf665e6e4397fc6",
+      "image": "assets/candles/paired/c7a0b25b8a3f49c19bd0.webp"
+    },
+    {
+      "index": 53,
+      "archive": "打包4.zip",
+      "name": "打包4/11 向日葵蜡烛/Lanarve黄雏菊香薰蜡烛.png",
+      "hash": "2d960ad5048dc6d128758aac8ff6494257d7fbfc221a327c6b04e13cef6e5811",
+      "image": "assets/candles/paired/2d960ad5048dc6d12875.webp"
+    },
+    {
+      "index": 52,
+      "archive": "打包4.zip",
+      "name": "打包4/11 向日葵蜡烛/Lanarve白雏菊黄蜡烛礼盒-4.png",
+      "hash": "3e76ed4ff03598873fcc2a6dcef2d502d7e9e8a73dda5c38fb5c29df92d67723",
+      "image": "assets/candles/paired/3e76ed4ff03598873fcc.webp"
+    },
+    {
+      "index": 54,
+      "archive": "打包4.zip",
+      "name": "打包4/12 不规则杯子/不规则珍珠光玻璃香薰蜡烛.png",
+      "hash": "e6a379ea95e7f1408253d2d0d479523c01a18b14a7d8193d26c92685c5d711b8",
+      "image": "assets/candles/paired/e6a379ea95e7f1408253.webp"
+    },
+    {
+      "index": 56,
+      "archive": "打包4.zip",
+      "name": "打包4/12 不规则杯子/兰纳薇冰镇广藿香蜡烛礼盒.png",
+      "hash": "f841e8ccae48704eac5b465398fe2e90042381c115e079bd2b6f18f5bd202895",
+      "image": "assets/candles/paired/f841e8ccae48704eac5b.webp"
+    },
+    {
+      "index": 57,
+      "archive": "打包4.zip",
+      "name": "打包4/12 不规则杯子/沙漠玫瑰粉玻璃香薰蜡烛.png",
+      "hash": "1f1fd2e0ca388db40ca34fef63e3f5350ec32c6edac0c2c829c8a34c8384b3e6",
+      "image": "assets/candles/paired/1f1fd2e0ca388db40ca3.webp"
+    },
+    {
+      "index": 55,
+      "archive": "打包4.zip",
+      "name": "打包4/12 不规则杯子/兰纳维沙漠玫瑰香薰蜡烛礼盒.png",
+      "hash": "e825cd690be6d303c8842aa775e2629be758a908cd5dc64337abb5be0d366c81",
+      "image": "assets/candles/paired/e825cd690be6d303c884.webp"
+    },
+    {
+      "index": 63,
+      "archive": "打包5.zip",
+      "name": "打包5/13 小鹿蜡烛/象牙陶瓷金鹿香薰蜡烛.png",
+      "hash": "e9583a062cd69e708bb40f8dd29e4f043f8e9a7dd4ee397a73103b9c79b45131",
+      "image": "assets/candles/paired/e9583a062cd69e708bb4.webp"
+    },
+    {
+      "index": 60,
+      "archive": "打包5.zip",
+      "name": "打包5/13 小鹿蜡烛/暖象牙白陶瓷鹿饰香薰礼盒.png",
+      "hash": "cd4259b2f7df021f41bf2749abb65e8e3f532e4fce3dcfd6d69c87df47a4cc8d",
+      "image": "assets/candles/paired/cd4259b2f7df021f41bf.webp"
+    },
+    {
+      "index": 61,
+      "archive": "打包5.zip",
+      "name": "打包5/13 小鹿蜡烛/棕色鹿饰香氛蜡烛.png",
+      "hash": "6557fed21b15dacbccfab5ff0593a9b9918e36198bd8befc447635782a982dbd",
+      "image": "assets/candles/paired/6557fed21b15dacbccfa.webp"
+    },
+    {
+      "index": 62,
+      "archive": "打包5.zip",
+      "name": "打包5/13 小鹿蜡烛/烟棕色棱纹玻璃蜡烛礼盒.png",
+      "hash": "b7f54f3e9c2cb871ec9d0b25fa8bd34283671893641549d01230f748db3c6a10",
+      "image": "assets/candles/paired/b7f54f3e9c2cb871ec9d.webp"
+    },
+    {
+      "index": 64,
+      "archive": "打包5.zip",
+      "name": "打包5/15 宠物波点蜡烛/Lanarve奶油象牙生日蜡烛.png",
+      "hash": "b053837f042853978ab82bd76b680eb67c817ca987c806e4b98209e1e72c220a",
+      "image": "assets/candles/paired/b053837f042853978ab8.webp"
+    },
+    {
+      "index": 65,
+      "archive": "打包5.zip",
+      "name": "打包5/15 宠物波点蜡烛/Lanarve生日蜡烛与高级礼盒.png",
+      "hash": "82b416ab42c6f7b946617e5b8f02a97a34523646c9975f832450570eef1a0260",
+      "image": "assets/candles/paired/82b416ab42c6f7b94661.webp"
+    },
+    {
+      "index": 68,
+      "archive": "打包5.zip",
+      "name": "打包5/16 万圣节南瓜蜡烛/Lanarve南瓜橙幽灵南瓜蜡烛.png",
+      "hash": "257c6ea41af465989ab3d7f2ccdeae22eeb14a7d0c77a5fa10ab79d42fdb7887",
+      "image": "assets/candles/paired/257c6ea41af465989ab3.webp"
+    },
+    {
+      "index": 67,
+      "archive": "打包5.zip",
+      "name": "打包5/16 万圣节南瓜蜡烛/Lanarve万圣节南瓜萌宠蜡烛礼盒.png",
+      "hash": "c33e601c26cf2548040e804e794807bf1211261cf17b81c8347a30335cf84d54",
+      "image": "assets/candles/paired/c33e601c26cf2548040e.webp"
+    }
+  ]
+}

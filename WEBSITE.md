@@ -49,3 +49,9 @@ Site typography is unified using Manrope with Arial fallback, retaining the logo
 The three banner scenes now use `lanarve-candle-warm.png`, `lanarve-reed-warm.png`, and `lanarve-crystal-warm.png`, with ivory, beige, travertine, amber and walnut styling to coordinate with the website. They replace the green editorial banner backgrounds. The distinct lower-page compositions remain.
 
 Latest behaviour supersedes the earlier pointer-driven description: banners automatically crossfade every 6.5 seconds and gently zoom/drift using CSS. Hover does not stop or accelerate rotation, and pointer movement is no longer required. The pause control stops both rotation and image drift. Keyboard focus/background-tab rotation pausing and reduced-motion defaults remain. Verified autoplay without pointer interaction, continued playback on hover, pause, reduced motion and responsive layout.
+
+## Paired candle collection
+
+The five 打包 archives add 34 visually reviewed pairs (68 optimized images) to the beginning of the candle catalogue. Each pair is one product: standalone image first, packaging image second. Cards crossfade on hover and support a touch/keyboard toggle; the product dialog displays both photographs in that order. The candle catalogue now contains 123 products across 11 pages, with 12 per page except the final page.
+
+Seven supplied Halloween packaging views have no matching standalone image and are withheld at the user's request. One exact duplicate (source indexes 71/72) is recorded and excluded. Source names, hashes, pairing decisions and deferred indexes are retained in assets/paired-candle-source-manifest.json. Import recipe: scripts/import-paired-candles.py (requires the extracted source manifest).
