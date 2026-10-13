@@ -145,3 +145,14 @@ footer .contact-row:focus-visible .contact-icon{transform:rotate(-8deg) scale(1.
 @media(prefers-reduced-motion:reduce){.gift-banner-image{animation:none}.gift-banner-actions .button:hover{transform:none}}
 
 @media(max-width:650px){nav.pagination{position:static;top:auto;left:auto;right:auto;padding:0;background:transparent;z-index:auto;align-items:center}}
+
+/* Seasonal entry, in the same quiet forest and ivory palette. */
+header .nav-christmas{display:inline-flex;align-items:center;gap:8px;border:1px solid #a3b394;border-radius:24px;padding:7px 13px;color:#294b31;font-size:12px;white-space:nowrap;transition:background .2s ease,transform .2s ease}
+header .nav-christmas:hover,header .nav-christmas.active{background:#e3ebda;border-color:#708767}
+.christmas-intro{padding:70px 8%;background:linear-gradient(110deg,#e5eadc,#f4f2e8);border-bottom:1px solid #d5dec9}
+.christmas-intro .eyebrow{color:#486347}
+.christmas-intro h1{font-size:clamp(40px,4.5vw,64px);line-height:1.2;letter-spacing:-1.2px;color:#294b31}
+.christmas-intro>p:not(.eyebrow){font-size:15px;color:#62705c;margin:22px 0 28px}
+#christmas-products{scroll-margin-top:24px}
+@media(min-width:1001px) and (max-width:1450px){header nav{gap:18px;font-size:13px}.nav-contact{margin-left:12px}}
+@media(max-width:650px){.christmas-intro{padding:50px 7%}.christmas-intro h1{font-size:39px}header .nav-christmas{font-size:14px}}

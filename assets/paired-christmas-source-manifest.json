@@ -1,0 +1,270 @@
+{
+  "pairs": [
+    {
+      "single": 1,
+      "packaging": 0,
+      "name": "Warm Ivory Candle Trio",
+      "series": "Christmas Pillars"
+    },
+    {
+      "single": 3,
+      "packaging": 2,
+      "name": "Forest Green Candle Trio",
+      "series": "Christmas Pillars"
+    },
+    {
+      "single": 7,
+      "packaging": 4,
+      "name": "Gingerbread, Tree & Reindeer",
+      "series": "Festive Wax Ornaments"
+    },
+    {
+      "single": 8,
+      "packaging": 5,
+      "name": "Ivory Tree, Snowflake & Reindeer",
+      "series": "Festive Wax Ornaments"
+    },
+    {
+      "single": 9,
+      "packaging": 6,
+      "name": "Snowflake, Cottage & Reindeer",
+      "series": "Festive Wax Ornaments"
+    },
+    {
+      "single": 11,
+      "packaging": 10,
+      "name": "Acorn Candle",
+      "series": "Woodland Christmas"
+    },
+    {
+      "single": 13,
+      "packaging": 17,
+      "name": "Christmas Tree Candle",
+      "series": "Christmas Characters"
+    },
+    {
+      "single": 15,
+      "packaging": 14,
+      "name": "Santa Candle",
+      "series": "Christmas Characters"
+    },
+    {
+      "single": 12,
+      "packaging": 16,
+      "name": "Santa & Tree Candle Duo",
+      "series": "Christmas Characters"
+    },
+    {
+      "single": 19,
+      "packaging": 18,
+      "name": "Snowy Tree Glass Candle",
+      "series": "Winter Botanicals"
+    },
+    {
+      "single": 21,
+      "packaging": 20,
+      "name": "Gingerbread Fragrance Gift Set",
+      "series": "Christmas Rituals"
+    },
+    {
+      "single": 22,
+      "packaging": 23,
+      "name": "Smiling Gingerbread Candle",
+      "series": "Playful Christmas"
+    },
+    {
+      "single": 24,
+      "packaging": 25,
+      "name": "Christmas Pets Candle",
+      "series": "Playful Christmas"
+    }
+  ],
+  "unavailableArchives": [
+    "打包1.zip",
+    "打包2.zip"
+  ],
+  "sources": [
+    {
+      "index": 1,
+      "archive": "打包3.zip",
+      "name": "打包3/5 圣诞柱状蜡烛系列/暖沙色香氛蜡烛.png",
+      "hash": "d2035366cd0dcfcc2393ebf364246a51259cd1a4729fad81f3eeed6fb3075807",
+      "image": "assets/christmas/paired/d2035366cd0dcfcc2393.webp"
+    },
+    {
+      "index": 0,
+      "archive": "打包3.zip",
+      "name": "打包3/5 圣诞柱状蜡烛系列/兰纳薇暖象牙圣诞香薰礼盒.png",
+      "hash": "113ea729af5640e36c0d2720ed11108002d948e2eeafc673ac2c68d1d3129007",
+      "image": "assets/christmas/paired/113ea729af5640e36c0d.webp"
+    },
+    {
+      "index": 3,
+      "archive": "打包3.zip",
+      "name": "打包3/5 圣诞柱状蜡烛系列/苔绿香氛蜡烛静物.png",
+      "hash": "b654bd843ac4c8041f8c0e09e0efa2fb38972f4a46de2f56dff11b26b0b1d805",
+      "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp"
+    },
+    {
+      "index": 2,
+      "archive": "打包3.zip",
+      "name": "打包3/5 圣诞柱状蜡烛系列/森林绿香薰蜡烛圣诞礼盒.png",
+      "hash": "0dfb0aa19196bf6ad02ac05da32aba130f8cd0cc3fcd2ec34766807d194d6519",
+      "image": "assets/christmas/paired/0dfb0aa19196bf6ad02a.webp"
+    },
+    {
+      "index": 7,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve姜饼人、雪树与驯鹿蜡饰.png",
+      "hash": "fc5ea0dccfc61f30e459f3ac79dd7aba7e6faab3d635196319a5de7a920e1ecd",
+      "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp"
+    },
+    {
+      "index": 4,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve圣诞香氛蜡片礼盒.png",
+      "hash": "ddf1f06202e6a2919f7b4ce5e1e8aea8b4869e4e960ddc8753c57e1b6858759f",
+      "image": "assets/christmas/paired/ddf1f06202e6a2919f7b.webp"
+    },
+    {
+      "index": 8,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve象牙白圣诞蜡饰三件套.png",
+      "hash": "538f9f0b02ba68c5c5dd06dccca0ce369a889d4e02741770e8ebed59e1390a4a",
+      "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp"
+    },
+    {
+      "index": 5,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve圣诞香氛蜡饰礼盒 (1).png",
+      "hash": "c595d29f8d790a231f2fa3e4327976a7eb9e86ded20faed1db42a58e73c7e302",
+      "image": "assets/christmas/paired/c595d29f8d790a231f2f.webp"
+    },
+    {
+      "index": 9,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve雪花小屋驯鹿蜡饰.png",
+      "hash": "4a7ace3c9ca9f11e146c161ffbfc92d9c44edd65980bcf3000c4d88d3ebba68c",
+      "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp"
+    },
+    {
+      "index": 6,
+      "archive": "打包3.zip",
+      "name": "打包3/6 圣诞小鹿系列/Lanarve圣诞香氛蜡饰礼盒.png",
+      "hash": "a221a0de6774b755901ef973350a54a9f2441d0e1454c2a4feb0b972c6d03df9",
+      "image": "assets/christmas/paired/a221a0de6774b755901e.webp"
+    },
+    {
+      "index": 11,
+      "archive": "打包3.zip",
+      "name": "打包3/7 圣诞松果系列/暖白背景下的香薰蜡烛与橡果盖.png",
+      "hash": "c082e2bf728f7ad74860c90df8ea0a4150594e3fd957d52d4aa4d1e5da8a85b3",
+      "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp"
+    },
+    {
+      "index": 10,
+      "archive": "打包3.zip",
+      "name": "打包3/7 圣诞松果系列/居中棕色挂环的橡果礼盒.png",
+      "hash": "daa8dffa171d0c19dd8fe233bf8dd54aa6b79bb1922024340199a8772d9a6001",
+      "image": "assets/christmas/paired/daa8dffa171d0c19dd8f.webp"
+    },
+    {
+      "index": 13,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/圣诞树香薰蜡烛.png",
+      "hash": "61253e2d71812a5a6496128d232f4fd287d8ad3e9016186ea303c609168ef595",
+      "image": "assets/christmas/paired/61253e2d71812a5a6496.webp"
+    },
+    {
+      "index": 17,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/森林绿圣诞树蜡烛与单品礼盒.png",
+      "hash": "4fc8f29479f378a5e8230d90b54ff42cd455210c0ac4fd2add2d96727b7f38a3",
+      "image": "assets/christmas/paired/4fc8f29479f378a5e823.webp"
+    },
+    {
+      "index": 15,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/圣诞老人香薰蜡烛.png",
+      "hash": "6bd0508a71ef54288424c75bf7f83eaae21b221a26413cb865f54eda3c999163",
+      "image": "assets/christmas/paired/6bd0508a71ef54288424.webp"
+    },
+    {
+      "index": 14,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/圣诞老人蜡烛与精品礼盒.png",
+      "hash": "b97e961bdf8a096b4593b1483e6e858e1a33b8671983e627114f1e6a377143a7",
+      "image": "assets/christmas/paired/b97e961bdf8a096b4593.webp"
+    },
+    {
+      "index": 12,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/双款圣诞蜡烛木座展示.png",
+      "hash": "df14c67cacea5845b4949148522ff1ac18f84ad043d3f622a384b28c4dfea76b",
+      "image": "assets/christmas/paired/df14c67cacea5845b494.webp"
+    },
+    {
+      "index": 16,
+      "archive": "打包4.zip",
+      "name": "打包4/8 圣诞树系列/奢华圣诞双蜡烛礼盒.png",
+      "hash": "e96e80dae51260e4efe16f3ede47ab37704dd578ad7835e21a4c9408abbee847",
+      "image": "assets/christmas/paired/e96e80dae51260e4efe1.webp"
+    },
+    {
+      "index": 19,
+      "archive": "打包4.zip",
+      "name": "打包4/9 圣诞树蜡烛系列/雪枝圣诞树玻璃蜡烛.png",
+      "hash": "ba0c524d4b0c2f4e968021ea1813c232564c685cb9e50be15fcd8ff312330dff",
+      "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp"
+    },
+    {
+      "index": 18,
+      "archive": "打包4.zip",
+      "name": "打包4/9 圣诞树蜡烛系列/松树造型圣诞香薰蜡烛礼盒.png",
+      "hash": "e1e1554ca40fdfa700b9236fec9413a282cc9588a0c169078d6c5b5cb6c0491f",
+      "image": "assets/christmas/paired/e1e1554ca40fdfa700b9.webp"
+    },
+    {
+      "index": 21,
+      "archive": "打包5.zip",
+      "name": "打包5/10 圣诞雪人套装/姜饼人香薰挂饰-2.png",
+      "hash": "6d52f0817361816118b73abb3f1bcc9626e77cfbaf74c10bcd687536bfc918c6",
+      "image": "assets/christmas/paired/6d52f0817361816118b7.webp"
+    },
+    {
+      "index": 20,
+      "archive": "打包5.zip",
+      "name": "打包5/10 圣诞雪人套装/姜饼人香氛挂饰礼盒-1.png",
+      "hash": "ffee49b7c9998d38d95c77adc47fb8e5636f2a1a7ff80cdadc88e58cab395ee7",
+      "image": "assets/christmas/paired/ffee49b7c9998d38d95c.webp"
+    },
+    {
+      "index": 22,
+      "archive": "打包5.zip",
+      "name": "打包5/17 圣诞系姜饼人/圣诞红杯蜡烛笑脸.png",
+      "hash": "1383bf46ac80e1d62944c7a15da5d4caa8ddf12a4da8a2d14aa834f992f3f64a",
+      "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp"
+    },
+    {
+      "index": 23,
+      "archive": "打包5.zip",
+      "name": "打包5/17 圣诞系姜饼人/微笑蜡烛与圣诞红杯.png",
+      "hash": "6c30d8c34d7599d574069724a069026623fcb1ff587e8e913bdf6fb21dcee562",
+      "image": "assets/christmas/paired/6c30d8c34d7599d57406.webp"
+    },
+    {
+      "index": 24,
+      "archive": "打包5.zip",
+      "name": "打包5/18 圣诞狗狗系列/Lanarve圣诞猫狗香氛蜡烛.png",
+      "hash": "5702fcfafd2123c3f93e9c5b574058599bd14ace3aa98e9abf92937a68b971ef",
+      "image": "assets/christmas/paired/5702fcfafd2123c3f93e.webp"
+    },
+    {
+      "index": 25,
+      "archive": "打包5.zip",
+      "name": "打包5/18 圣诞狗狗系列/Lanarve精品圣诞蜡烛礼盒.png",
+      "hash": "5ffa3721c1c014ddae15ddbfabdaac6bfe4decf5506b5ce6617ac6b88c793c19",
+      "image": "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
+    }
+  ]
+}

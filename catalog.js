@@ -1428,3 +1428,149 @@ const giftProducts = [
     ]
   }
 ];
+
+const christmasProducts = [
+  {
+    "id": "christmas-pair-d2035366cd0d",
+    "name": "Warm Ivory Candle Trio",
+    "series": "Christmas Pillars",
+    "image": "assets/christmas/paired/d2035366cd0dcfcc2393.webp",
+    "packagingImage": "assets/christmas/paired/113ea729af5640e36c0d.webp",
+    "images": [
+      "assets/christmas/paired/d2035366cd0dcfcc2393.webp",
+      "assets/christmas/paired/113ea729af5640e36c0d.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-b654bd843ac4",
+    "name": "Forest Green Candle Trio",
+    "series": "Christmas Pillars",
+    "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
+    "packagingImage": "assets/christmas/paired/0dfb0aa19196bf6ad02a.webp",
+    "images": [
+      "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
+      "assets/christmas/paired/0dfb0aa19196bf6ad02a.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-fc5ea0dccfc6",
+    "name": "Gingerbread, Tree & Reindeer",
+    "series": "Festive Wax Ornaments",
+    "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
+    "packagingImage": "assets/christmas/paired/ddf1f06202e6a2919f7b.webp",
+    "images": [
+      "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
+      "assets/christmas/paired/ddf1f06202e6a2919f7b.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-538f9f0b02ba",
+    "name": "Ivory Tree, Snowflake & Reindeer",
+    "series": "Festive Wax Ornaments",
+    "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
+    "packagingImage": "assets/christmas/paired/c595d29f8d790a231f2f.webp",
+    "images": [
+      "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
+      "assets/christmas/paired/c595d29f8d790a231f2f.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-4a7ace3c9ca9",
+    "name": "Snowflake, Cottage & Reindeer",
+    "series": "Festive Wax Ornaments",
+    "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
+    "packagingImage": "assets/christmas/paired/a221a0de6774b755901e.webp",
+    "images": [
+      "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
+      "assets/christmas/paired/a221a0de6774b755901e.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-c082e2bf728f",
+    "name": "Acorn Candle",
+    "series": "Woodland Christmas",
+    "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
+    "packagingImage": "assets/christmas/paired/daa8dffa171d0c19dd8f.webp",
+    "images": [
+      "assets/christmas/paired/c082e2bf728f7ad74860.webp",
+      "assets/christmas/paired/daa8dffa171d0c19dd8f.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-61253e2d7181",
+    "name": "Christmas Tree Candle",
+    "series": "Christmas Characters",
+    "image": "assets/christmas/paired/61253e2d71812a5a6496.webp",
+    "packagingImage": "assets/christmas/paired/4fc8f29479f378a5e823.webp",
+    "images": [
+      "assets/christmas/paired/61253e2d71812a5a6496.webp",
+      "assets/christmas/paired/4fc8f29479f378a5e823.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-6bd0508a71ef",
+    "name": "Santa Candle",
+    "series": "Christmas Characters",
+    "image": "assets/christmas/paired/6bd0508a71ef54288424.webp",
+    "packagingImage": "assets/christmas/paired/b97e961bdf8a096b4593.webp",
+    "images": [
+      "assets/christmas/paired/6bd0508a71ef54288424.webp",
+      "assets/christmas/paired/b97e961bdf8a096b4593.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-df14c67cacea",
+    "name": "Santa & Tree Candle Duo",
+    "series": "Christmas Characters",
+    "image": "assets/christmas/paired/df14c67cacea5845b494.webp",
+    "packagingImage": "assets/christmas/paired/e96e80dae51260e4efe1.webp",
+    "images": [
+      "assets/christmas/paired/df14c67cacea5845b494.webp",
+      "assets/christmas/paired/e96e80dae51260e4efe1.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-ba0c524d4b0c",
+    "name": "Snowy Tree Glass Candle",
+    "series": "Winter Botanicals",
+    "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
+    "packagingImage": "assets/christmas/paired/e1e1554ca40fdfa700b9.webp",
+    "images": [
+      "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
+      "assets/christmas/paired/e1e1554ca40fdfa700b9.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-6d52f0817361",
+    "name": "Gingerbread Fragrance Gift Set",
+    "series": "Christmas Rituals",
+    "image": "assets/christmas/paired/6d52f0817361816118b7.webp",
+    "packagingImage": "assets/christmas/paired/ffee49b7c9998d38d95c.webp",
+    "images": [
+      "assets/christmas/paired/6d52f0817361816118b7.webp",
+      "assets/christmas/paired/ffee49b7c9998d38d95c.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-1383bf46ac80",
+    "name": "Smiling Gingerbread Candle",
+    "series": "Playful Christmas",
+    "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
+    "packagingImage": "assets/christmas/paired/6c30d8c34d7599d57406.webp",
+    "images": [
+      "assets/christmas/paired/1383bf46ac80e1d62944.webp",
+      "assets/christmas/paired/6c30d8c34d7599d57406.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-5702fcfafd21",
+    "name": "Christmas Pets Candle",
+    "series": "Playful Christmas",
+    "image": "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
+    "packagingImage": "assets/christmas/paired/5ffa3721c1c014ddae15.webp",
+    "images": [
+      "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
+      "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
+    ]
+  }
+];

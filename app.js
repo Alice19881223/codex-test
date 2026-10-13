@@ -2,8 +2,8 @@
 const dialog=document.querySelector('#product-dialog');
 const content=document.querySelector('#dialog-content');
 const escapeHtml=str=>str.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections'};
-const catalogues={candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts};
+const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections',christmas:'Christmas collection'};
+const catalogues={candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts,christmas:christmasProducts};
 function openPhoto(photo,category,scent){
  content.innerHTML=`<p class="eyebrow">LANARVE · ${escapeHtml(photo.series)}</p>${photo.packagingImage?`<div class="detail-photo-pair"><figure><img class="crystal-detail-image" src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)} — product"><figcaption>THE PRODUCT</figcaption></figure><figure><img class="crystal-detail-image" src="${photo.packagingImage}" alt="Lanarve ${escapeHtml(photo.name)} — product with packaging"><figcaption>WITH PACKAGING</figcaption></figure></div>`:`<img class="crystal-detail-image" src="${photo.image}" alt="Lanarve ${escapeHtml(photo.name)}">`}<h2 class="dialog-heading">${escapeHtml(photo.name)}</h2><p class="dialog-description">${categoryNames[category]}. Contact our team for fragrance options, product specifications and ordering information.</p>${scent?`<p><strong>${escapeHtml(scent.name)}</strong><br>${escapeHtml(scent.notes)}</p><p class="catalog-note">Suggested fragrance pairing. Final product availability to be confirmed.</p>`:''}<a class="text-link" href="contact.html">Product enquiries ↗</a>`;
  if(!dialog.open)dialog.showModal();
@@ -32,9 +32,9 @@ if(grid){
  // Preserve older bookmarked category/page query links.
  const query=new URLSearchParams(location.search);
  if(query.has('category')||query.has('page')){
-  const cat=category==='gift'?'gift':['candle','reed','crystal'].includes(query.get('category'))?query.get('category'):category;
+  const cat=category==='gift'?'gift':['candle','reed','crystal','christmas'].includes(query.get('category'))?query.get('category'):category;
   const raw=Number(query.get('page'));const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,Math.ceil(catalogues[cat].length/12));
-  const target=cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
+  const target=cat==='christmas'?(page===1?'christmas.html':`christmas-${page}.html`):cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
   location.replace(target);
  }
 }
