@@ -7,11 +7,15 @@ sources=json.loads(Path('/workspace/companion-import/sources.json').read_text())
 crystal={0:10,1:6,2:2,3:12,4:3,5:11,6:1,7:7,8:9,9:8,10:0,11:5,12:4}
 reed_packaging={13:49,14:48,15:46,16:47,17:45,18:50,19:53,20:51,21:52,22:54,23:55,24:56}
 reed_single={25:65,26:68,27:66,28:67,29:58,30:59,31:62,32:61,33:60,34:64,35:63,36:24,37:30,38:28,39:34,40:20,41:33,42:32,43:21,44:18,45:26,46:19,47:17,48:22}
+previous_matches=json.loads((ROOT/'assets/companion-pairing-manifest.json').read_text())
+match_names={(r['category'],r['source']):r['productName'] for r in previous_matches}
 folder=ROOT/'assets/companions';folder.mkdir(exist_ok=True);manifest=[]
 for category,mapping,newview in [('crystal',crystal,'single'),('reed',reed_packaging,'packaging'),('reed',reed_single,'single')]:
  p=ROOT/f'assets/{category}-products.json';products=json.loads(p.read_text())
  for src,idx in mapping.items():
-  record=lookup[src];dest=folder/(record['sha256'][:20]+'.webp')
+  record=lookup[src];target_name=match_names.get((category,record['name']))
+  if target_name:idx=next(i for i,x in enumerate(products) if x['name']==target_name)
+  dest=folder/(record['sha256'][:20]+'.webp')
   if not dest.exists():
    im=ImageOps.exif_transpose(Image.open(record['path']));im.thumbnail((1400,1400));im.convert('RGB').save(dest,'WEBP',quality=88,method=6)
   photo=str(dest.relative_to(ROOT));item=products[idx];original=item.get('packagingImage',item['image']) if newview=='single' else item['image']

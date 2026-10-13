@@ -1,0 +1,506 @@
+{
+  "pairs": [
+    {
+      "single": 5,
+      "packaging": 0,
+      "name": "First Encounter",
+      "series": "Ribbon Glass"
+    },
+    {
+      "single": 6,
+      "packaging": 1,
+      "name": "French Neighbourhood",
+      "series": "Ribbon Glass"
+    },
+    {
+      "single": 3,
+      "packaging": 2,
+      "name": "Brilliant Love",
+      "series": "Ribbon Glass"
+    },
+    {
+      "single": 4,
+      "packaging": 7,
+      "name": "Zen Tea",
+      "series": "Ribbon Glass"
+    },
+    {
+      "single": 8,
+      "packaging": 9,
+      "name": "Moonlit Gardenia — Tall",
+      "series": "Ribbed Ceramic"
+    },
+    {
+      "single": 12,
+      "packaging": 10,
+      "name": "Moonlit Gardenia — Rounded",
+      "series": "Ribbed Ceramic"
+    },
+    {
+      "single": 13,
+      "packaging": 11,
+      "name": "Sage & Sandalwood — Rounded",
+      "series": "Ribbed Ceramic"
+    },
+    {
+      "single": 14,
+      "packaging": 15,
+      "name": "Sage & Sandalwood — Tall",
+      "series": "Ribbed Ceramic"
+    },
+    {
+      "single": 17,
+      "packaging": 16,
+      "name": "Ebony & Rose Infusion",
+      "series": "Botanical Glass"
+    },
+    {
+      "single": 18,
+      "packaging": 19,
+      "name": "Graphite Jasmine",
+      "series": "Matte Glass"
+    },
+    {
+      "single": 21,
+      "packaging": 20,
+      "name": "Mountain Rain",
+      "series": "Colour Glass"
+    },
+    {
+      "single": 22,
+      "packaging": 23,
+      "name": "Cloud Pine",
+      "series": "Colour Glass"
+    },
+    {
+      "single": 24,
+      "packaging": 25,
+      "name": "Golden Osmanthus",
+      "series": "Colour Glass"
+    },
+    {
+      "single": 26,
+      "packaging": 31,
+      "name": "Osmanthus Blossom",
+      "series": "Floral Glass"
+    },
+    {
+      "single": 29,
+      "packaging": 27,
+      "name": "Peach Blossom — Branches",
+      "series": "Floral Glass"
+    },
+    {
+      "single": 30,
+      "packaging": 28,
+      "name": "Peach Blossom — Petals",
+      "series": "Floral Glass"
+    },
+    {
+      "single": 32,
+      "packaging": 33,
+      "name": "Black Daisy",
+      "series": "Sculpted Floral"
+    },
+    {
+      "single": 34,
+      "packaging": 37,
+      "name": "Sage Daisy",
+      "series": "Sculpted Floral"
+    },
+    {
+      "single": 36,
+      "packaging": 35,
+      "name": "Ivory Daisy",
+      "series": "Sculpted Floral"
+    },
+    {
+      "single": 38,
+      "packaging": 39,
+      "name": "White Musk Stone",
+      "series": "Stone Diffuser"
+    },
+    {
+      "single": 41,
+      "packaging": 40,
+      "name": "Deep Brown Oval",
+      "series": "Oval Diffuser"
+    },
+    {
+      "single": 42,
+      "packaging": 43,
+      "name": "Warm Brown Oval",
+      "series": "Oval Diffuser"
+    },
+    {
+      "single": 45,
+      "packaging": 44,
+      "name": "Curved Reeds",
+      "series": "Double Glass"
+    },
+    {
+      "single": 46,
+      "packaging": 48,
+      "name": "Peony Blossom",
+      "series": "Triangular Glass"
+    },
+    {
+      "single": 49,
+      "packaging": 47,
+      "name": "English Pear & Freesia",
+      "series": "Triangular Glass"
+    }
+  ],
+  "sources": [
+    {
+      "index": 5,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/独立藤条香薰瓶产品照.png",
+      "hash": "8e262fb59fe07014998745c71a4bc6cc85d79b76f46ce270fa31055d5a7db828",
+      "image": "assets/reeds/paired/8e262fb59fe070149987.webp"
+    },
+    {
+      "index": 0,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/初遇粉彩香薰礼盒.png",
+      "hash": "482e60d0c69c7e8eca3b70828c3c07edbd1ec1f07ae864731f94a7037ecd7b64",
+      "image": "assets/reeds/paired/482e60d0c69c7e8eca3b.webp"
+    },
+    {
+      "index": 6,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/独立香薰瓶产品照.png",
+      "hash": "0a8c637f10e3e435ded449c38bbd5559053278c0ecb7ecb5d2c44decd0e281d0",
+      "image": "assets/reeds/paired/0a8c637f10e3e435ded4.webp"
+    },
+    {
+      "index": 1,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/法式邻里淡金扩香礼盒.png",
+      "hash": "20d374242f1f4c7932d3c9c25857433b5999d78e8b632da670e4d9e52a1e6cea",
+      "image": "assets/reeds/paired/20d374242f1f4c7932d3.webp"
+    },
+    {
+      "index": 3,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/独立藤条香薰瓶 (1).png",
+      "hash": "784f4e7e2722b90cad34656c1855a951790fbef28862287167014a4e8b834977",
+      "image": "assets/reeds/paired/784f4e7e2722b90cad34.webp"
+    },
+    {
+      "index": 2,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/深酒红色璀璨爱恋香氛礼盒.png",
+      "hash": "9ff179c641b679e79eeaa6edcb049e01b48562ed22c2a0d29942afc70c3d2dde",
+      "image": "assets/reeds/paired/9ff179c641b679e79eea.webp"
+    },
+    {
+      "index": 4,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/独立藤条香薰瓶.png",
+      "hash": "201427d60f110f84530cc5af6320688f6ec5d2c76a3d8edb5d0fdcad3d86f97f",
+      "image": "assets/reeds/paired/201427d60f110f84530c.webp"
+    },
+    {
+      "index": 7,
+      "archive": "打包1.zip",
+      "name": "打包1/1 彩色系小瓶子/琥珀禅茶香薰礼盒.png",
+      "hash": "861e4e43ef4f70861da95625208152204378449cb35fb1e3959b802bd3cbc640",
+      "image": "assets/reeds/paired/861e4e43ef4f70861da9.webp"
+    },
+    {
+      "index": 8,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/月光栀子象牙扩香瓶.png",
+      "hash": "5f3d2fbfc68b486eeb50c6e8c09004fe76a8a50459d830c15f5afc2fe2a9dcf7",
+      "image": "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp"
+    },
+    {
+      "index": 9,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/月光栀子香薰礼盒 (1).png",
+      "hash": "eb34d6dd86acdef306366f71ea4afe914888541fd9c0123ec4034e1390b71be3",
+      "image": "assets/reeds/paired/eb34d6dd86acdef30636.webp"
+    },
+    {
+      "index": 12,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/象牙色月光栀子扩香瓶.png",
+      "hash": "89098584f61f10212aea92a07afb12b51b4a201dd9091fdd483cbb8b68617ac7",
+      "image": "assets/reeds/paired/89098584f61f10212aea.webp"
+    },
+    {
+      "index": 10,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/月光栀子香薰礼盒.png",
+      "hash": "c7311dae17ba9cda276db090d81801a560d78981a1e3ef274023d52a17538481",
+      "image": "assets/reeds/paired/c7311dae17ba9cda276d.webp"
+    },
+    {
+      "index": 13,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/鼠尾草绿藤条扩香瓶.png",
+      "hash": "0cd03e5f4aa361a2de7f87bfa528d8f6cf29874a85f25a2d4953f1795c525ba2",
+      "image": "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp"
+    },
+    {
+      "index": 11,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/浅鼠尾草绿香氛瓶与礼盒.png",
+      "hash": "0b1040bd3c53c99b3b5ab2de98ace3c19df736fa97bf1928d670737eed1354c5",
+      "image": "assets/reeds/paired/0b1040bd3c53c99b3b5a.webp"
+    },
+    {
+      "index": 14,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/鼠尾草绿金标藤条香薰.png",
+      "hash": "add3d2fe642716e15fb563b9b6ff938d9e9df356b9e391f9f8e8240d7f1f9bcb",
+      "image": "assets/reeds/paired/add3d2fe642716e15fb5.webp"
+    },
+    {
+      "index": 15,
+      "archive": "打包1.zip",
+      "name": "打包1/2 磁瓶香薰/鼠尾草绿香氛瓶礼盒.png",
+      "hash": "4706d4375b32d06ae7bfb24062b339e4ca917fe7edc750070d9eb0b3513596d9",
+      "image": "assets/reeds/paired/4706d4375b32d06ae7bf.webp"
+    },
+    {
+      "index": 17,
+      "archive": "打包2.zip",
+      "name": "打包2/3 实物香薰/琥珀玫瑰扩香瓶.png",
+      "hash": "cea8db64b1b62b86670e06f07382c74f1aa4e093d15cafe6c92b3897bd475a30",
+      "image": "assets/reeds/paired/cea8db64b1b62b86670e.webp"
+    },
+    {
+      "index": 16,
+      "archive": "打包2.zip",
+      "name": "打包2/3 实物香薰/Lanarve 黑檀玫瑰香薰礼盒.png",
+      "hash": "8fb53670ee21b6b434284b634a8a740577c72b6a18e60f17ee01b1a5771e7ef1",
+      "image": "assets/reeds/paired/8fb53670ee21b6b43428.webp"
+    },
+    {
+      "index": 18,
+      "archive": "打包2.zip",
+      "name": "打包2/4 黑色瓶子香薰/深石墨香薰藤条瓶.png",
+      "hash": "4d646c939a3be7d88aef161a9e253bfc41e4cd2bb056580d3615d6593ee68a47",
+      "image": "assets/reeds/paired/4d646c939a3be7d88aef.webp"
+    },
+    {
+      "index": 19,
+      "archive": "打包2.zip",
+      "name": "打包2/4 黑色瓶子香薰/石墨黑茉莉香薰礼盒.png",
+      "hash": "5c95d937f824322c45baa8d068766d478acd83531cc2572d35027a8272df95b4",
+      "image": "assets/reeds/paired/5c95d937f824322c45ba.webp"
+    },
+    {
+      "index": 21,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/淡绿色山雨藤条扩香瓶 (1).png",
+      "hash": "64d6d060ce2595ff90708c390ac217aa8cca19511c234fd5eded7ef2fd36211e",
+      "image": "assets/reeds/paired/64d6d060ce2595ff9070.webp"
+    },
+    {
+      "index": 20,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/山雨香薰瓶与礼盒 (1).png",
+      "hash": "526eb2448933f14c6a3bf1ba361d0b2c3b6288529b94b2f7c1c5f34fdb554787",
+      "image": "assets/reeds/paired/526eb2448933f14c6a3b.webp"
+    },
+    {
+      "index": 22,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/红宝石红云松藤条香薰瓶 (1).png",
+      "hash": "bf42dc79d33a16875f58a3777ea37fb40ee6db3239eecb868d346bf0ca8a66fe",
+      "image": "assets/reeds/paired/bf42dc79d33a16875f58.webp"
+    },
+    {
+      "index": 23,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/红色云松扩香礼盒 (1).png",
+      "hash": "8c4248ccbd09393b153521c8056efd3b2744795a6b38ee59e3a5e38e9649de7f",
+      "image": "assets/reeds/paired/8c4248ccbd09393b1535.webp"
+    },
+    {
+      "index": 24,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/香槟黄桂花扩香瓶 (1).png",
+      "hash": "3c06b51cf59cbf4d481dc3d21a164ba2728928107daa1d0474569b67d4bdfb87",
+      "image": "assets/reeds/paired/3c06b51cf59cbf4d481d.webp"
+    },
+    {
+      "index": 25,
+      "archive": "打包2.zip",
+      "name": "打包2/5 彩色玻璃瓶香薰/香槟黄桂花香薰礼盒 (1).png",
+      "hash": "9569a214eae3d7e31c6b83733e9d73b8665f786ecad7a2a4a62c259c14698bcf",
+      "image": "assets/reeds/paired/9569a214eae3d7e31c6b.webp"
+    },
+    {
+      "index": 26,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/Lanarve 桂花香氛扩香瓶.png",
+      "hash": "31d02f3668b75883be890d49bb6bdfccfa0a75d820e9ba37ca6fec006374208d",
+      "image": "assets/reeds/paired/31d02f3668b75883be89.webp"
+    },
+    {
+      "index": 31,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/淡金桂花扩香瓶.png",
+      "hash": "8afe77f6b1fb43997c12d3474c3530bc19fd083719b1fc67a6e334119e076a54",
+      "image": "assets/reeds/paired/8afe77f6b1fb43997c12.webp"
+    },
+    {
+      "index": 29,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/兰纳维蜜桃花香氛扩香瓶.png",
+      "hash": "811b4bb9a24f8006326a6567aedaacc90f29e82636246372f60d063f18e057a8",
+      "image": "assets/reeds/paired/811b4bb9a24f8006326a.webp"
+    },
+    {
+      "index": 27,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/Lanarve桃花扩香礼盒.png",
+      "hash": "6373398f71aa6e313bfdf67cce9b6ee5f9e586310656e0e3594f9128ff6dbe7a",
+      "image": "assets/reeds/paired/6373398f71aa6e313bfd.webp"
+    },
+    {
+      "index": 30,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/柔粉桃花扩香瓶.png",
+      "hash": "42174ebd1ef8f2421c128ab07b44b55cca3aa7e2bb6e6660b869e87d86a55e98",
+      "image": "assets/reeds/paired/42174ebd1ef8f2421c12.webp"
+    },
+    {
+      "index": 28,
+      "archive": "打包3.zip",
+      "name": "打包3/6 桃花桂花香薰/Lanarve桃花香氛礼盒.png",
+      "hash": "2f4c041b8722e5412fb61a1003f9d7f772104a584631c5c3012530c14cdd18a7",
+      "image": "assets/reeds/paired/2f4c041b8722e5412fb6.webp"
+    },
+    {
+      "index": 32,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/Lanarve哑光黑雏菊香薰.png",
+      "hash": "7cd70493905ebfe2764ce0df980daea428d5be973a10ed5bde2434ccad8b709a",
+      "image": "assets/reeds/paired/7cd70493905ebfe2764c.webp"
+    },
+    {
+      "index": 33,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/哑光黑兰芙香薰礼盒.png",
+      "hash": "cffe497738ab11179dc2f6bbc1a146468f614c8d2b442de94b80ed018fecdf11",
+      "image": "assets/reeds/paired/cffe497738ab11179dc2.webp"
+    },
+    {
+      "index": 34,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/暖光鼠尾草绿雏菊扩香瓶.png",
+      "hash": "9317be016ed63d39b67c1a847a928291f1437d29db7b26b3369c135e84e7a92f",
+      "image": "assets/reeds/paired/9317be016ed63d39b67c.webp"
+    },
+    {
+      "index": 37,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/鼠尾草绿瓶上的统一Lanarve字标.png",
+      "hash": "48694731de4994d1c5b833b3f2ac930891f827a7562578f20e797ff300541719",
+      "image": "assets/reeds/paired/48694731de4994d1c5b8.webp"
+    },
+    {
+      "index": 36,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/花枝环绕的Lanarve香氛瓶.png",
+      "hash": "7bd1f3d29f5f641ddd3dc2eb5d63be1051faf5c3d1114a41486be9d00a76bc72",
+      "image": "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp"
+    },
+    {
+      "index": 35,
+      "archive": "打包3.zip",
+      "name": "打包3/7 瓷瓶花 香薰/花卉映衬的 Lanarve 香氛瓶.png",
+      "hash": "4bd8595e06d4c4f7b1eca1131c3cb27ca5222de0209eedeeee0518a3a5e6fcf3",
+      "image": "assets/reeds/paired/4bd8595e06d4c4f7b1ec.webp"
+    },
+    {
+      "index": 38,
+      "archive": "打包4.zip",
+      "name": "打包4/8 不规则矿石香薰/极简岩石扩香组合.png",
+      "hash": "7e95a9fee680e36d69cf4657989544b6f440566e6cfedd023b36d43ae744699a",
+      "image": "assets/reeds/paired/7e95a9fee680e36d69cf.webp"
+    },
+    {
+      "index": 39,
+      "archive": "打包4.zip",
+      "name": "打包4/8 不规则矿石香薰/白麝香岩纹扩香礼盒.png",
+      "hash": "bfa0a2be7901451d185e8c73f87b1fb9b748bab7a3d37936ed907ccccd0ca66b",
+      "image": "assets/reeds/paired/bfa0a2be7901451d185e.webp"
+    },
+    {
+      "index": 41,
+      "archive": "打包4.zip",
+      "name": "打包4/9 小椭圆香薰/Lanarve瓶身标志精准校正.png",
+      "hash": "f66c22d087051b33f32d6a46516f69246e5dd6edd63796820a4221287d5fd27a",
+      "image": "assets/reeds/paired/f66c22d087051b33f32d.webp"
+    },
+    {
+      "index": 40,
+      "archive": "打包4.zip",
+      "name": "打包4/9 小椭圆香薰/Lanarve扩香瓶包装标志精准校正.png",
+      "hash": "89738c79044d1ac638a48bde7403e6cc3b6f5f5be01256c3b1823a2587fab01f",
+      "image": "assets/reeds/paired/89738c79044d1ac638a4.webp"
+    },
+    {
+      "index": 42,
+      "archive": "打包4.zip",
+      "name": "打包4/9 小椭圆香薰/香薰瓶标志精准校正.png",
+      "hash": "0506f93bffb5a0774f90c1960b09eb81a24c72d3ffe685d98b41a57a9ad26b3d",
+      "image": "assets/reeds/paired/0506f93bffb5a0774f90.webp"
+    },
+    {
+      "index": 43,
+      "archive": "打包4.zip",
+      "name": "打包4/9 小椭圆香薰/香薰瓶礼盒标识精准校正.png",
+      "hash": "3736c6ed944007effe1e3ff8ad663368e0a0502d9171ae0efca6718880e5ff39",
+      "image": "assets/reeds/paired/3736c6ed944007effe1e.webp"
+    },
+    {
+      "index": 45,
+      "archive": "打包5.zip",
+      "name": "打包5/10 弯曲藤条/双层玻璃香氛扩香器.png",
+      "hash": "87f8057288c690b4cb2b6aea2a8801ee6059e2e72312d600e5f1435579c86269",
+      "image": "assets/reeds/paired/87f8057288c690b4cb2b.webp"
+    },
+    {
+      "index": 44,
+      "archive": "打包5.zip",
+      "name": "打包5/10 弯曲藤条/Lanarve扩香器与象牙白礼盒.png",
+      "hash": "88edd9f073f5354e31ffa1a235d5dae6b372675dbaadf08772b15042c9b33b92",
+      "image": "assets/reeds/paired/88edd9f073f5354e31ff.webp"
+    },
+    {
+      "index": 46,
+      "archive": "打包5.zip",
+      "name": "打包5/11 三角形香薰/三角玻璃香氛瓶与木质瓶盖.png",
+      "hash": "27cc25f4936db9e927d97ad2c23144792e8d1e7cb1ebc0b635d5778399843c5c",
+      "image": "assets/reeds/paired/27cc25f4936db9e927d9.webp"
+    },
+    {
+      "index": 48,
+      "archive": "打包5.zip",
+      "name": "打包5/11 三角形香薰/端正的三角香薰礼盒.png",
+      "hash": "a3348261c13a5e72c11ffd6bcaf494814e6b391910be8a5a620c8f64a37be7a5",
+      "image": "assets/reeds/paired/a3348261c13a5e72c11f.webp"
+    },
+    {
+      "index": 49,
+      "archive": "打包5.zip",
+      "name": "打包5/11 三角形香薰/透明三角木盖香氛瓶 (1).png",
+      "hash": "3d49e14d13a50bc979c63cf2c3be663251563e060247673098871d16693b6047",
+      "image": "assets/reeds/paired/3d49e14d13a50bc979c6.webp"
+    },
+    {
+      "index": 47,
+      "archive": "打包5.zip",
+      "name": "打包5/11 三角形香薰/挺拔的三角香薰礼盒.png",
+      "hash": "5ef174681d462db23b5f4cff9aae491d4163020954765502628e0de96c1d06b9",
+      "image": "assets/reeds/paired/5ef174681d462db23b5f.webp"
+    }
+  ]
+}

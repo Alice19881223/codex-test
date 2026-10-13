@@ -837,6 +837,281 @@ const candleProducts = [
 ];
 const reedProducts = [
   {
+    "id": "reed-pair-8e262fb59fe0",
+    "name": "First Encounter",
+    "series": "Ribbon Glass",
+    "image": "assets/reeds/paired/8e262fb59fe070149987.webp",
+    "packagingImage": "assets/reeds/paired/482e60d0c69c7e8eca3b.webp",
+    "images": [
+      "assets/reeds/paired/8e262fb59fe070149987.webp",
+      "assets/reeds/paired/482e60d0c69c7e8eca3b.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-0a8c637f10e3",
+    "name": "French Neighbourhood",
+    "series": "Ribbon Glass",
+    "image": "assets/reeds/paired/0a8c637f10e3e435ded4.webp",
+    "packagingImage": "assets/reeds/paired/20d374242f1f4c7932d3.webp",
+    "images": [
+      "assets/reeds/paired/0a8c637f10e3e435ded4.webp",
+      "assets/reeds/paired/20d374242f1f4c7932d3.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-784f4e7e2722",
+    "name": "Brilliant Love",
+    "series": "Ribbon Glass",
+    "image": "assets/reeds/paired/784f4e7e2722b90cad34.webp",
+    "packagingImage": "assets/reeds/paired/9ff179c641b679e79eea.webp",
+    "images": [
+      "assets/reeds/paired/784f4e7e2722b90cad34.webp",
+      "assets/reeds/paired/9ff179c641b679e79eea.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-201427d60f11",
+    "name": "Zen Tea",
+    "series": "Ribbon Glass",
+    "image": "assets/reeds/paired/201427d60f110f84530c.webp",
+    "packagingImage": "assets/reeds/paired/861e4e43ef4f70861da9.webp",
+    "images": [
+      "assets/reeds/paired/201427d60f110f84530c.webp",
+      "assets/reeds/paired/861e4e43ef4f70861da9.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-5f3d2fbfc68b",
+    "name": "Moonlit Gardenia — Tall",
+    "series": "Ribbed Ceramic",
+    "image": "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp",
+    "packagingImage": "assets/reeds/paired/eb34d6dd86acdef30636.webp",
+    "images": [
+      "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp",
+      "assets/reeds/paired/eb34d6dd86acdef30636.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-89098584f61f",
+    "name": "Moonlit Gardenia — Rounded",
+    "series": "Ribbed Ceramic",
+    "image": "assets/reeds/paired/89098584f61f10212aea.webp",
+    "packagingImage": "assets/reeds/paired/c7311dae17ba9cda276d.webp",
+    "images": [
+      "assets/reeds/paired/89098584f61f10212aea.webp",
+      "assets/reeds/paired/c7311dae17ba9cda276d.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-0cd03e5f4aa3",
+    "name": "Sage & Sandalwood — Rounded",
+    "series": "Ribbed Ceramic",
+    "image": "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp",
+    "packagingImage": "assets/reeds/paired/0b1040bd3c53c99b3b5a.webp",
+    "images": [
+      "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp",
+      "assets/reeds/paired/0b1040bd3c53c99b3b5a.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-add3d2fe6427",
+    "name": "Sage & Sandalwood — Tall",
+    "series": "Ribbed Ceramic",
+    "image": "assets/reeds/paired/add3d2fe642716e15fb5.webp",
+    "packagingImage": "assets/reeds/paired/4706d4375b32d06ae7bf.webp",
+    "images": [
+      "assets/reeds/paired/add3d2fe642716e15fb5.webp",
+      "assets/reeds/paired/4706d4375b32d06ae7bf.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-cea8db64b1b6",
+    "name": "Ebony & Rose Infusion",
+    "series": "Botanical Glass",
+    "image": "assets/reeds/paired/cea8db64b1b62b86670e.webp",
+    "packagingImage": "assets/reeds/paired/8fb53670ee21b6b43428.webp",
+    "images": [
+      "assets/reeds/paired/cea8db64b1b62b86670e.webp",
+      "assets/reeds/paired/8fb53670ee21b6b43428.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-4d646c939a3b",
+    "name": "Graphite Jasmine",
+    "series": "Matte Glass",
+    "image": "assets/reeds/paired/4d646c939a3be7d88aef.webp",
+    "packagingImage": "assets/reeds/paired/5c95d937f824322c45ba.webp",
+    "images": [
+      "assets/reeds/paired/4d646c939a3be7d88aef.webp",
+      "assets/reeds/paired/5c95d937f824322c45ba.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-64d6d060ce25",
+    "name": "Mountain Rain",
+    "series": "Colour Glass",
+    "image": "assets/reeds/paired/64d6d060ce2595ff9070.webp",
+    "packagingImage": "assets/reeds/paired/526eb2448933f14c6a3b.webp",
+    "images": [
+      "assets/reeds/paired/64d6d060ce2595ff9070.webp",
+      "assets/reeds/paired/526eb2448933f14c6a3b.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-bf42dc79d33a",
+    "name": "Cloud Pine",
+    "series": "Colour Glass",
+    "image": "assets/reeds/paired/bf42dc79d33a16875f58.webp",
+    "packagingImage": "assets/reeds/paired/8c4248ccbd09393b1535.webp",
+    "images": [
+      "assets/reeds/paired/bf42dc79d33a16875f58.webp",
+      "assets/reeds/paired/8c4248ccbd09393b1535.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-3c06b51cf59c",
+    "name": "Golden Osmanthus",
+    "series": "Colour Glass",
+    "image": "assets/reeds/paired/3c06b51cf59cbf4d481d.webp",
+    "packagingImage": "assets/reeds/paired/9569a214eae3d7e31c6b.webp",
+    "images": [
+      "assets/reeds/paired/3c06b51cf59cbf4d481d.webp",
+      "assets/reeds/paired/9569a214eae3d7e31c6b.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-31d02f3668b7",
+    "name": "Osmanthus Blossom",
+    "series": "Floral Glass",
+    "image": "assets/reeds/paired/31d02f3668b75883be89.webp",
+    "packagingImage": "assets/reeds/paired/8afe77f6b1fb43997c12.webp",
+    "images": [
+      "assets/reeds/paired/31d02f3668b75883be89.webp",
+      "assets/reeds/paired/8afe77f6b1fb43997c12.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-811b4bb9a24f",
+    "name": "Peach Blossom — Branches",
+    "series": "Floral Glass",
+    "image": "assets/reeds/paired/811b4bb9a24f8006326a.webp",
+    "packagingImage": "assets/reeds/paired/6373398f71aa6e313bfd.webp",
+    "images": [
+      "assets/reeds/paired/811b4bb9a24f8006326a.webp",
+      "assets/reeds/paired/6373398f71aa6e313bfd.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-42174ebd1ef8",
+    "name": "Peach Blossom — Petals",
+    "series": "Floral Glass",
+    "image": "assets/reeds/paired/42174ebd1ef8f2421c12.webp",
+    "packagingImage": "assets/reeds/paired/2f4c041b8722e5412fb6.webp",
+    "images": [
+      "assets/reeds/paired/42174ebd1ef8f2421c12.webp",
+      "assets/reeds/paired/2f4c041b8722e5412fb6.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-7cd70493905e",
+    "name": "Black Daisy",
+    "series": "Sculpted Floral",
+    "image": "assets/reeds/paired/7cd70493905ebfe2764c.webp",
+    "packagingImage": "assets/reeds/paired/cffe497738ab11179dc2.webp",
+    "images": [
+      "assets/reeds/paired/7cd70493905ebfe2764c.webp",
+      "assets/reeds/paired/cffe497738ab11179dc2.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-9317be016ed6",
+    "name": "Sage Daisy",
+    "series": "Sculpted Floral",
+    "image": "assets/reeds/paired/9317be016ed63d39b67c.webp",
+    "packagingImage": "assets/reeds/paired/48694731de4994d1c5b8.webp",
+    "images": [
+      "assets/reeds/paired/9317be016ed63d39b67c.webp",
+      "assets/reeds/paired/48694731de4994d1c5b8.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-7bd1f3d29f5f",
+    "name": "Ivory Daisy",
+    "series": "Sculpted Floral",
+    "image": "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp",
+    "packagingImage": "assets/reeds/paired/4bd8595e06d4c4f7b1ec.webp",
+    "images": [
+      "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp",
+      "assets/reeds/paired/4bd8595e06d4c4f7b1ec.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-7e95a9fee680",
+    "name": "White Musk Stone",
+    "series": "Stone Diffuser",
+    "image": "assets/reeds/paired/7e95a9fee680e36d69cf.webp",
+    "packagingImage": "assets/reeds/paired/bfa0a2be7901451d185e.webp",
+    "images": [
+      "assets/reeds/paired/7e95a9fee680e36d69cf.webp",
+      "assets/reeds/paired/bfa0a2be7901451d185e.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-f66c22d08705",
+    "name": "Deep Brown Oval",
+    "series": "Oval Diffuser",
+    "image": "assets/reeds/paired/f66c22d087051b33f32d.webp",
+    "packagingImage": "assets/reeds/paired/89738c79044d1ac638a4.webp",
+    "images": [
+      "assets/reeds/paired/f66c22d087051b33f32d.webp",
+      "assets/reeds/paired/89738c79044d1ac638a4.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-0506f93bffb5",
+    "name": "Warm Brown Oval",
+    "series": "Oval Diffuser",
+    "image": "assets/reeds/paired/0506f93bffb5a0774f90.webp",
+    "packagingImage": "assets/reeds/paired/3736c6ed944007effe1e.webp",
+    "images": [
+      "assets/reeds/paired/0506f93bffb5a0774f90.webp",
+      "assets/reeds/paired/3736c6ed944007effe1e.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-87f8057288c6",
+    "name": "Curved Reeds",
+    "series": "Double Glass",
+    "image": "assets/reeds/paired/87f8057288c690b4cb2b.webp",
+    "packagingImage": "assets/reeds/paired/88edd9f073f5354e31ff.webp",
+    "images": [
+      "assets/reeds/paired/87f8057288c690b4cb2b.webp",
+      "assets/reeds/paired/88edd9f073f5354e31ff.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-27cc25f4936d",
+    "name": "Peony Blossom",
+    "series": "Triangular Glass",
+    "image": "assets/reeds/paired/27cc25f4936db9e927d9.webp",
+    "packagingImage": "assets/reeds/paired/a3348261c13a5e72c11f.webp",
+    "images": [
+      "assets/reeds/paired/27cc25f4936db9e927d9.webp",
+      "assets/reeds/paired/a3348261c13a5e72c11f.webp"
+    ]
+  },
+  {
+    "id": "reed-pair-3d49e14d13a5",
+    "name": "English Pear & Freesia",
+    "series": "Triangular Glass",
+    "image": "assets/reeds/paired/3d49e14d13a50bc979c6.webp",
+    "packagingImage": "assets/reeds/paired/5ef174681d462db23b5f.webp",
+    "images": [
+      "assets/reeds/paired/3d49e14d13a50bc979c6.webp",
+      "assets/reeds/paired/5ef174681d462db23b5f.webp"
+    ]
+  },
+  {
     "name": "Colour Collection",
     "image": "assets/reeds/reed-01.webp",
     "series": "Reed diffuser collection"
