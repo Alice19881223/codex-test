@@ -79,10 +79,7 @@
       "series": "Playful Christmas"
     }
   ],
-  "unavailableArchives": [
-    "打包1.zip",
-    "打包2.zip"
-  ],
+  "unavailableArchives": [],
   "sources": [
     {
       "index": 1,
@@ -266,5 +263,9 @@
       "hash": "5ffa3721c1c014ddae15ddbfabdaac6bfe4decf5506b5ce6617ac6b88c793c19",
       "image": "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
     }
+  ],
+  "resolvedArchives": [
+    "打包1.zip",
+    "打包2.zip"
   ]
 }

@@ -1,0 +1,465 @@
+{
+  "pairs": [
+    {
+      "single": 0,
+      "packaging": 8,
+      "name": "Cedar Kiss",
+      "series": "Christmas Sand Art"
+    },
+    {
+      "single": 1,
+      "packaging": 2,
+      "name": "Christmas Tree Sand Candle",
+      "series": "Christmas Sand Art"
+    },
+    {
+      "single": 9,
+      "packaging": 3,
+      "name": "Coastal Lime",
+      "series": "Christmas Sand Art"
+    },
+    {
+      "single": 4,
+      "packaging": 5,
+      "name": "Sea Salt & Sage",
+      "series": "Christmas Sand Art"
+    },
+    {
+      "single": 7,
+      "packaging": 6,
+      "name": "English Pear & Freesia",
+      "series": "Christmas Sand Art"
+    },
+    {
+      "single": 10,
+      "packaging": 11,
+      "name": "Forest Green Cone Candle",
+      "series": "Botanical Christmas Trees"
+    },
+    {
+      "single": 12,
+      "packaging": 13,
+      "name": "Rose Pink Cone Candle",
+      "series": "Botanical Christmas Trees"
+    },
+    {
+      "single": 22,
+      "packaging": 14,
+      "name": "Ivory Silver Trees",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 19,
+      "packaging": 15,
+      "name": "Forest Green Silver Trees",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 16,
+      "packaging": 21,
+      "name": "Charcoal Golden Reindeer",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 17,
+      "packaging": 37,
+      "name": "Champagne Winter Forest",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 18,
+      "packaging": 20,
+      "name": "Amber Christmas Cookies",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 39,
+      "packaging": 23,
+      "name": "Silver Winter Forest",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 24,
+      "packaging": 25,
+      "name": "Silver Snowflakes",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 38,
+      "packaging": 40,
+      "name": "Olive Christmas Wishes",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 41,
+      "packaging": 42,
+      "name": "Violet Christmas Village",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 43,
+      "packaging": 44,
+      "name": "Ruby Winter Forest",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 46,
+      "packaging": 45,
+      "name": "Blue Winter Forest",
+      "series": "Winter Glass"
+    },
+    {
+      "single": 26,
+      "packaging": 33,
+      "name": "Ivory Botanical Tree Ornament",
+      "series": "Botanical Wax Ornaments"
+    },
+    {
+      "single": 30,
+      "packaging": 35,
+      "name": "Forest Tree Ornament",
+      "series": "Botanical Wax Ornaments"
+    },
+    {
+      "single": 31,
+      "packaging": 34,
+      "name": "Olive Tree Ornament",
+      "series": "Botanical Wax Ornaments"
+    },
+    {
+      "single": 32,
+      "packaging": 36,
+      "name": "Burgundy Botanical Ornament",
+      "series": "Botanical Wax Ornaments"
+    }
+  ],
+  "deferred": [
+    {
+      "index": 27,
+      "source": "打包6/2 圣诞挂件/Lanarve三色圣诞树香氛挂饰.png",
+      "reason": "Product-plus-packaging photograph not supplied"
+    },
+    {
+      "index": 29,
+      "source": "打包6/2 圣诞挂件/Lanarve深绿三件套礼盒.png",
+      "reason": "Closed packaging only"
+    }
+  ],
+  "alternatePackaging": [
+    {
+      "index": 28,
+      "source": "打包6/2 圣诞挂件/Lanarve圣诞树香氛蜡片礼盒.png",
+      "productSingle": 26
+    }
+  ],
+  "sources": [
+    {
+      "index": 0,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/CEDAR KISS 透明玻璃砂蜡蜡烛.png",
+      "hash": "fa0a43337a95d05c5727c843ea98da7205a96ee5ee5ed60e637633dba9d724a0",
+      "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp"
+    },
+    {
+      "index": 8,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/雪松之吻香氛蜡烛礼盒.png",
+      "hash": "71e714253c89c7e7786c5c7ab0f384cd4003598a1a2e4adfbabcbac04dee79cb",
+      "image": "assets/christmas/paired/71e714253c89c7e7786c.webp"
+    },
+    {
+      "index": 1,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/圣诞树艺术蜡烛.png",
+      "hash": "d9c6cf216c67a77a99fd14b48d56cfee9835ffe80591f2d20c4067e59d1189ef",
+      "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp"
+    },
+    {
+      "index": 2,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/圣诞树香氛蜡烛礼盒.png",
+      "hash": "2fed47734ee44c6c4ec00e1d184c611420d820a2ff5a761a960e350d80ba8bc5",
+      "image": "assets/christmas/paired/2fed47734ee44c6c4ec0.webp"
+    },
+    {
+      "index": 9,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/青柠海岸颗粒艺术蜡烛.png",
+      "hash": "1480094b012dbf961dae3f94a37c160556ee80583f65397b6d1865032df8119e",
+      "image": "assets/christmas/paired/1480094b012dbf961dae.webp"
+    },
+    {
+      "index": 3,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/海岸青柠砂绘香薰礼盒.png",
+      "hash": "eccf2ee341cb83306b832e814c92b606426ab1a72dbc28a08634c5fb6b84c9f0",
+      "image": "assets/christmas/paired/eccf2ee341cb83306b83.webp"
+    },
+    {
+      "index": 4,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/海盐鼠尾草砂蜡艺术蜡烛.png",
+      "hash": "f77399a59a07a9b8e1ada42cacf1b6b28504c958402b01df5edd77d78402bb18",
+      "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp"
+    },
+    {
+      "index": 5,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/海盐鼠尾草蜡烛礼盒.png",
+      "hash": "570f4e135e6b0a6c61329960d8d7035ab2dfcaf7eddbc42f3c21349de9c972c2",
+      "image": "assets/christmas/paired/570f4e135e6b0a6c6132.webp"
+    },
+    {
+      "index": 7,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/英梨小苍兰颗粒沙蜡烛.png",
+      "hash": "e710e9777530e1a2f07e76faf2447b07f9e5383550946fa01dd2d64759b6e041",
+      "image": "assets/christmas/paired/e710e9777530e1a2f07e.webp"
+    },
+    {
+      "index": 6,
+      "archive": "打包1.zip",
+      "name": "打包1/1 圣诞沙画系列/红心砂绘香薰礼盒.png",
+      "hash": "7b492072712538049b1775659def04d1863467e9661dc63d65244e6bcf46146c",
+      "image": "assets/christmas/paired/7b492072712538049b17.webp"
+    },
+    {
+      "index": 10,
+      "archive": "打包1.zip",
+      "name": "打包1/3 圣诞树系列/深林绿圣诞锥形香薰蜡烛.png",
+      "hash": "7f1e156495b0a459e0d6db5a3e94a9c00082a06eaf0148533577e9ad567bc749",
+      "image": "assets/christmas/paired/7f1e156495b0a459e0d6.webp"
+    },
+    {
+      "index": 11,
+      "archive": "打包1.zip",
+      "name": "打包1/3 圣诞树系列/深林绿圣诞香薰蜡烛礼盒.png",
+      "hash": "c7f611f49551bafe682943675664d5e52fb6daeb5e39ed9e59bf96d9b1951d81",
+      "image": "assets/christmas/paired/c7f611f49551bafe6829.webp"
+    },
+    {
+      "index": 12,
+      "archive": "打包1.zip",
+      "name": "打包1/3 圣诞树系列/粉色圣诞松枝锥形香薰蜡烛.png",
+      "hash": "9df584ca1e1685589d46debc902cb5cea91147e92a892196697ea7d0f11a030a",
+      "image": "assets/christmas/paired/9df584ca1e1685589d46.webp"
+    },
+    {
+      "index": 13,
+      "archive": "打包1.zip",
+      "name": "打包1/3 圣诞树系列/蔷薇粉圣诞锥形香氛蜡烛礼盒.png",
+      "hash": "d836a7179e1d09085b4544c4a0fadc184c2a9f905698ecbe5137decd2f69ad86",
+      "image": "assets/christmas/paired/d836a7179e1d09085b45.webp"
+    },
+    {
+      "index": 22,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/银树金星圣诞蜡烛.png",
+      "hash": "437b85b84ad977d9adc1571e21a8a930b9db5e17130c53546cf78f3d010608c7",
+      "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp"
+    },
+    {
+      "index": 14,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/Lanarve圣诞银树香薰蜡烛礼盒.png",
+      "hash": "c7069927399f75f519c71aad0a71d2d06febe4c8ec7d622a3f1f760f4814b48f",
+      "image": "assets/christmas/paired/c7069927399f75f519c7.webp"
+    },
+    {
+      "index": 19,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/绿银冬林香氛蜡烛.png",
+      "hash": "a8a04f250be1545aa1c34d24070dd8b7bffcb1db7c5235cd93ff628fbbdf766c",
+      "image": "assets/christmas/paired/a8a04f250be1545aa1c3.webp"
+    },
+    {
+      "index": 15,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/Lanarve森林绿圣诞香薰礼盒.png",
+      "hash": "4eac7b5adced66f7218dcd37eebc7140fde511db3f5ac59b3d1c66c1a30dda67",
+      "image": "assets/christmas/paired/4eac7b5adced66f7218d.webp"
+    },
+    {
+      "index": 16,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/Lanarve金色驯鹿烟灰镜面香薰蜡烛.png",
+      "hash": "35a8205a0dcc5801c828dc91b31029addca0dc1e5f005864ce92024c7e66f5b4",
+      "image": "assets/christmas/paired/35a8205a0dcc5801c828.webp"
+    },
+    {
+      "index": 21,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/金鹿炭灰香薰蜡烛礼盒.png",
+      "hash": "01ff7b30cf151c74443913642561b379d79556041c1b7b4cfd7eb58166c77b2b",
+      "image": "assets/christmas/paired/01ff7b30cf151c744439.webp"
+    },
+    {
+      "index": 17,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/Lanarve香槟金冬林圣诞蜡烛.png",
+      "hash": "39e039fb54a6b60d7eeb331b8e28c2a990c49236dfc73079fe879fb3f6e7e33e",
+      "image": "assets/christmas/paired/39e039fb54a6b60d7eeb.webp"
+    },
+    {
+      "index": 37,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/Lanarve 香槟金冬林香薰蜡烛礼盒.png",
+      "hash": "1fb11fc0f0deb0e5b3ba2a4b057c90a2bdbfa62cf6485ea21fb4da940e0e984b",
+      "image": "assets/christmas/paired/1fb11fc0f0deb0e5b3ba.webp"
+    },
+    {
+      "index": 18,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/琥珀圣诞曲奇香氛蜡烛.png",
+      "hash": "aa4efc0a88d60dfb26a0a2fef454fa19821f5e7d21bdfbe52e2f806e82d4c04d",
+      "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp"
+    },
+    {
+      "index": 20,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/肉桂琥珀圣诞蜡烛礼盒.png",
+      "hash": "ff24fbf384c827e30e87c5e2c30cf7696613cb569033c1a5eb3a5c17c59299ee",
+      "image": "assets/christmas/paired/ff24fbf384c827e30e87.webp"
+    },
+    {
+      "index": 39,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/Lanarve银白冬林香氛蜡烛.png",
+      "hash": "7244c0a1884379c3fc461f5eba46a611c7102b612a9d6dff217ea7f8b7649be2",
+      "image": "assets/christmas/paired/7244c0a1884379c3fc46.webp"
+    },
+    {
+      "index": 23,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/银白冬林香氛蜡烛礼盒.png",
+      "hash": "0590b957fcac7787961f9eef2b3939db6246c7d10de4e595cad48e2af2f7fe72",
+      "image": "assets/christmas/paired/0590b957fcac7787961f.webp"
+    },
+    {
+      "index": 24,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/银色雪花圣诞香氛蜡烛.png",
+      "hash": "6db267b2806699718c15477769395561894fc50ea92c1b426a22bdd8910eae89",
+      "image": "assets/christmas/paired/6db267b2806699718c15.webp"
+    },
+    {
+      "index": 25,
+      "archive": "打包2.zip",
+      "name": "打包2/4 圣诞杯子系列/银雪花圣诞蜡烛礼盒.png",
+      "hash": "b77d8ff89e08a5d3a392e131505708b94094fda102e06f1ed7396c55b11c92ae",
+      "image": "assets/christmas/paired/b77d8ff89e08a5d3a392.webp"
+    },
+    {
+      "index": 38,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/Lanarve橄榄绿圣诞香薰蜡烛.png",
+      "hash": "ff765036bc45dff2513b29344cc002a5b7edef2b38eacd606e41d5a0b9ab0425",
+      "image": "assets/christmas/paired/ff765036bc45dff2513b.webp"
+    },
+    {
+      "index": 40,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/橄榄绿圣诞蜡烛礼盒.png",
+      "hash": "d7c2dd20c1d30c0e9a83c2ab9a4ce6b21fd1203c17e62ae141618ce27ec34989",
+      "image": "assets/christmas/paired/d7c2dd20c1d30c0e9a83.webp"
+    },
+    {
+      "index": 41,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/紫色圣诞雪景香薰蜡烛.png",
+      "hash": "e5c69a3391c36ae30d8098bcdcb877f88e9f9044e079c7609e27f6d69ba35524",
+      "image": "assets/christmas/paired/e5c69a3391c36ae30d80.webp"
+    },
+    {
+      "index": 42,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/紫色圣诞香薰蜡烛与礼盒.png",
+      "hash": "3416f8f9dea2ddf6d0512981a330faa1782266258a262fb39baba221214393a9",
+      "image": "assets/christmas/paired/3416f8f9dea2ddf6d051.webp"
+    },
+    {
+      "index": 43,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/红宝石冬林香薰蜡烛.png",
+      "hash": "7964d0a4e143e4c26426fd3487bd487e4f395d8c532e2710b80ffd9e59aa7c5b",
+      "image": "assets/christmas/paired/7964d0a4e143e4c26426.webp"
+    },
+    {
+      "index": 44,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/红色冬林圣诞蜡烛礼盒.png",
+      "hash": "29ef8160006bc8f69d6cbf8c620be7d28a7e3a58cd0b06247794997b6e4f9591",
+      "image": "assets/christmas/paired/29ef8160006bc8f69d6c.webp"
+    },
+    {
+      "index": 46,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/蓝色银斑冬林圣诞蜡烛.png",
+      "hash": "e40a6c47b33c64f54ee47baca5a31bc4e24908a50bd6d760f37b61af3cc70474",
+      "image": "assets/christmas/paired/e40a6c47b33c64f54ee4.webp"
+    },
+    {
+      "index": 45,
+      "archive": "打包7.zip",
+      "name": "打包7/新建文件夹/蓝色冬境圣诞香薰蜡烛礼盒.png",
+      "hash": "2be6dc35c5d7a05bd4ca24c2a3899d3f3b0932886e71aa26d2c0477563a0c0cc",
+      "image": "assets/christmas/paired/2be6dc35c5d7a05bd4ca.webp"
+    },
+    {
+      "index": 26,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/Lanarve 象牙圣诞树香氛蜡片-1.png",
+      "hash": "b22e9bf1bb681718f5a420f6559a6a9488f164c92606700b81b38d3c1b5ceb33",
+      "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp"
+    },
+    {
+      "index": 33,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/暖象牙白香氛蜡片礼盒.png",
+      "hash": "f7d749aae4ffebc569af52cc9c00758c0fcc5a9c1921f80890c0aa3ada3a4fa9",
+      "image": "assets/christmas/paired/f7d749aae4ffebc569af.webp"
+    },
+    {
+      "index": 30,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/Lanarve深绿圣诞树香薰蜡片.png",
+      "hash": "a59a1441e620ff59549467aa918c3b6081f67e9fa11daf1f312939a7bcb75f1e",
+      "image": "assets/christmas/paired/a59a1441e620ff595494.webp"
+    },
+    {
+      "index": 35,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/深林绿圣诞树香氛蜡片礼盒.png",
+      "hash": "1d48b94cdff9ca0cdd6148ac35a8176b700bc9cba8cc6e06de9381911e3a1144",
+      "image": "assets/christmas/paired/1d48b94cdff9ca0cdd61.webp"
+    },
+    {
+      "index": 31,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/兰纳维圣诞树植物香氛蜡片.png",
+      "hash": "208837f07b39c307c4fe99cf79670ecc82082f14d97e9862f8fc822c4727efa3",
+      "image": "assets/christmas/paired/208837f07b39c307c4fe.webp"
+    },
+    {
+      "index": 34,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/橄榄绿香氛蜡片礼盒.png",
+      "hash": "b34cd3c23b4c69dfe18fef49edb4f107a012663454e6254ddf0171fb9bb56b3e",
+      "image": "assets/christmas/paired/b34cd3c23b4c69dfe18f.webp"
+    },
+    {
+      "index": 32,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/兰纳维酒红香薰蜡挂饰.png",
+      "hash": "58479c85aca5612cf8f46f0b85f5c0f6f1f6efc4999e71db42ae9282adcb524c",
+      "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp"
+    },
+    {
+      "index": 36,
+      "archive": "打包6.zip",
+      "name": "打包6/2 圣诞挂件/酒红蜡香挂饰礼盒.png",
+      "hash": "fab30f74e004d31e288b87cf267e84548310b9095a7023af7918ec3eb8903309",
+      "image": "assets/christmas/paired/fab30f74e004d31e288b.webp"
+    }
+  ]
+}

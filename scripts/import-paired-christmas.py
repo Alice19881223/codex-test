@@ -15,6 +15,9 @@ products=[]
 for a,b,name,series in pairs:
  single=asset(a);packaging=asset(b)
  products.append(dict(id='christmas-pair-'+lookup[a]['hash'][:12],name=name,series=series,image=single,packagingImage=packaging,images=[single,packaging]))
+existing=json.loads((ROOT/'assets/christmas-products.json').read_text())
+new_ids={p['id'] for p in products}
+products+=[p for p in existing if p.get('id') not in new_ids]
 (ROOT/'assets/christmas-products.json').write_text(json.dumps(products,ensure_ascii=False,indent=2))
 (ROOT/'assets/paired-christmas-source-manifest.json').write_text(json.dumps({'pairs':[dict(single=a,packaging=b,name=n,series=s) for a,b,n,s in pairs],'unavailableArchives':['打包1.zip','打包2.zip'],'sources':manifest},ensure_ascii=False,indent=2))
 p=ROOT/'catalog.js';s=p.read_text();block='const christmasProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';'

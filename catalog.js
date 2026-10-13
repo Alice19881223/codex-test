@@ -1431,6 +1431,248 @@ const giftProducts = [
 
 const christmasProducts = [
   {
+    "id": "christmas-pair-fa0a43337a95",
+    "name": "Cedar Kiss",
+    "series": "Christmas Sand Art",
+    "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
+    "packagingImage": "assets/christmas/paired/71e714253c89c7e7786c.webp",
+    "images": [
+      "assets/christmas/paired/fa0a43337a95d05c5727.webp",
+      "assets/christmas/paired/71e714253c89c7e7786c.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-d9c6cf216c67",
+    "name": "Christmas Tree Sand Candle",
+    "series": "Christmas Sand Art",
+    "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
+    "packagingImage": "assets/christmas/paired/2fed47734ee44c6c4ec0.webp",
+    "images": [
+      "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
+      "assets/christmas/paired/2fed47734ee44c6c4ec0.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-1480094b012d",
+    "name": "Coastal Lime",
+    "series": "Christmas Sand Art",
+    "image": "assets/christmas/paired/1480094b012dbf961dae.webp",
+    "packagingImage": "assets/christmas/paired/eccf2ee341cb83306b83.webp",
+    "images": [
+      "assets/christmas/paired/1480094b012dbf961dae.webp",
+      "assets/christmas/paired/eccf2ee341cb83306b83.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-f77399a59a07",
+    "name": "Sea Salt & Sage",
+    "series": "Christmas Sand Art",
+    "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
+    "packagingImage": "assets/christmas/paired/570f4e135e6b0a6c6132.webp",
+    "images": [
+      "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
+      "assets/christmas/paired/570f4e135e6b0a6c6132.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-e710e9777530",
+    "name": "English Pear & Freesia",
+    "series": "Christmas Sand Art",
+    "image": "assets/christmas/paired/e710e9777530e1a2f07e.webp",
+    "packagingImage": "assets/christmas/paired/7b492072712538049b17.webp",
+    "images": [
+      "assets/christmas/paired/e710e9777530e1a2f07e.webp",
+      "assets/christmas/paired/7b492072712538049b17.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-7f1e156495b0",
+    "name": "Forest Green Cone Candle",
+    "series": "Botanical Christmas Trees",
+    "image": "assets/christmas/paired/7f1e156495b0a459e0d6.webp",
+    "packagingImage": "assets/christmas/paired/c7f611f49551bafe6829.webp",
+    "images": [
+      "assets/christmas/paired/7f1e156495b0a459e0d6.webp",
+      "assets/christmas/paired/c7f611f49551bafe6829.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-9df584ca1e16",
+    "name": "Rose Pink Cone Candle",
+    "series": "Botanical Christmas Trees",
+    "image": "assets/christmas/paired/9df584ca1e1685589d46.webp",
+    "packagingImage": "assets/christmas/paired/d836a7179e1d09085b45.webp",
+    "images": [
+      "assets/christmas/paired/9df584ca1e1685589d46.webp",
+      "assets/christmas/paired/d836a7179e1d09085b45.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-437b85b84ad9",
+    "name": "Ivory Silver Trees",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp",
+    "packagingImage": "assets/christmas/paired/c7069927399f75f519c7.webp",
+    "images": [
+      "assets/christmas/paired/437b85b84ad977d9adc1.webp",
+      "assets/christmas/paired/c7069927399f75f519c7.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-a8a04f250be1",
+    "name": "Forest Green Silver Trees",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/a8a04f250be1545aa1c3.webp",
+    "packagingImage": "assets/christmas/paired/4eac7b5adced66f7218d.webp",
+    "images": [
+      "assets/christmas/paired/a8a04f250be1545aa1c3.webp",
+      "assets/christmas/paired/4eac7b5adced66f7218d.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-35a8205a0dcc",
+    "name": "Charcoal Golden Reindeer",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/35a8205a0dcc5801c828.webp",
+    "packagingImage": "assets/christmas/paired/01ff7b30cf151c744439.webp",
+    "images": [
+      "assets/christmas/paired/35a8205a0dcc5801c828.webp",
+      "assets/christmas/paired/01ff7b30cf151c744439.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-39e039fb54a6",
+    "name": "Champagne Winter Forest",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
+    "packagingImage": "assets/christmas/paired/1fb11fc0f0deb0e5b3ba.webp",
+    "images": [
+      "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
+      "assets/christmas/paired/1fb11fc0f0deb0e5b3ba.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-aa4efc0a88d6",
+    "name": "Amber Christmas Cookies",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
+    "packagingImage": "assets/christmas/paired/ff24fbf384c827e30e87.webp",
+    "images": [
+      "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
+      "assets/christmas/paired/ff24fbf384c827e30e87.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-7244c0a18843",
+    "name": "Silver Winter Forest",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/7244c0a1884379c3fc46.webp",
+    "packagingImage": "assets/christmas/paired/0590b957fcac7787961f.webp",
+    "images": [
+      "assets/christmas/paired/7244c0a1884379c3fc46.webp",
+      "assets/christmas/paired/0590b957fcac7787961f.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-6db267b28066",
+    "name": "Silver Snowflakes",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/6db267b2806699718c15.webp",
+    "packagingImage": "assets/christmas/paired/b77d8ff89e08a5d3a392.webp",
+    "images": [
+      "assets/christmas/paired/6db267b2806699718c15.webp",
+      "assets/christmas/paired/b77d8ff89e08a5d3a392.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-ff765036bc45",
+    "name": "Olive Christmas Wishes",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/ff765036bc45dff2513b.webp",
+    "packagingImage": "assets/christmas/paired/d7c2dd20c1d30c0e9a83.webp",
+    "images": [
+      "assets/christmas/paired/ff765036bc45dff2513b.webp",
+      "assets/christmas/paired/d7c2dd20c1d30c0e9a83.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-e5c69a3391c3",
+    "name": "Violet Christmas Village",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
+    "packagingImage": "assets/christmas/paired/3416f8f9dea2ddf6d051.webp",
+    "images": [
+      "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
+      "assets/christmas/paired/3416f8f9dea2ddf6d051.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-7964d0a4e143",
+    "name": "Ruby Winter Forest",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/7964d0a4e143e4c26426.webp",
+    "packagingImage": "assets/christmas/paired/29ef8160006bc8f69d6c.webp",
+    "images": [
+      "assets/christmas/paired/7964d0a4e143e4c26426.webp",
+      "assets/christmas/paired/29ef8160006bc8f69d6c.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-e40a6c47b33c",
+    "name": "Blue Winter Forest",
+    "series": "Winter Glass",
+    "image": "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
+    "packagingImage": "assets/christmas/paired/2be6dc35c5d7a05bd4ca.webp",
+    "images": [
+      "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
+      "assets/christmas/paired/2be6dc35c5d7a05bd4ca.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-b22e9bf1bb68",
+    "name": "Ivory Botanical Tree Ornament",
+    "series": "Botanical Wax Ornaments",
+    "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
+    "packagingImage": "assets/christmas/paired/f7d749aae4ffebc569af.webp",
+    "images": [
+      "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
+      "assets/christmas/paired/f7d749aae4ffebc569af.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-a59a1441e620",
+    "name": "Forest Tree Ornament",
+    "series": "Botanical Wax Ornaments",
+    "image": "assets/christmas/paired/a59a1441e620ff595494.webp",
+    "packagingImage": "assets/christmas/paired/1d48b94cdff9ca0cdd61.webp",
+    "images": [
+      "assets/christmas/paired/a59a1441e620ff595494.webp",
+      "assets/christmas/paired/1d48b94cdff9ca0cdd61.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-208837f07b39",
+    "name": "Olive Tree Ornament",
+    "series": "Botanical Wax Ornaments",
+    "image": "assets/christmas/paired/208837f07b39c307c4fe.webp",
+    "packagingImage": "assets/christmas/paired/b34cd3c23b4c69dfe18f.webp",
+    "images": [
+      "assets/christmas/paired/208837f07b39c307c4fe.webp",
+      "assets/christmas/paired/b34cd3c23b4c69dfe18f.webp"
+    ]
+  },
+  {
+    "id": "christmas-pair-58479c85aca5",
+    "name": "Burgundy Botanical Ornament",
+    "series": "Botanical Wax Ornaments",
+    "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
+    "packagingImage": "assets/christmas/paired/fab30f74e004d31e288b.webp",
+    "images": [
+      "assets/christmas/paired/58479c85aca5612cf8f4.webp",
+      "assets/christmas/paired/fab30f74e004d31e288b.webp"
+    ]
+  },
+  {
     "id": "christmas-pair-d2035366cd0d",
     "name": "Warm Ivory Candle Trio",
     "series": "Christmas Pillars",
