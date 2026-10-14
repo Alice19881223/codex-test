@@ -14,12 +14,12 @@ icons={
 'contact':'<rect x="8" y="19" width="48" height="34" rx="7"/><path d="m10 22 22 17 22-17M11 49l14-12m28 12L39 37M32 11c-8-9-17 2 0 10 17-8 8-19 0-10Z"/>'}
 for key,paths in icons.items():
  Path(f'assets/nav-{key}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#e5ecd9" stroke="#486347" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">{paths}</g></svg>')
-items=[('home','Who we are','index.html'),('candle','Scented candles','products-current.html'),('reed','Reed diffusers','products-reed-1.html'),('crystal','Crystal diffusers','products-crystal-1.html'),('gift','Gift setting','gift-collection.html'),('christmas','Christmas','christmas-collection.html'),('sachets','Tablets &amp; Sachets','sachets.html'),('fragrance','Fragrance','fragrance.html'),('contact','Let’s connect','contact.html')]
+items=[('home','Who we are','index.html'),('candle','Scented candles','products-current.html'),('reed','Reed diffusers','reed-collections.html'),('crystal','Crystal diffusers','products-crystal-1.html'),('gift','Gift setting','gift-collection.html'),('christmas','Christmas','christmas-collection.html'),('sachets','Tablets &amp; Sachets','sachets.html'),('fragrance','Fragrance','fragrance.html'),('contact','Let’s connect','contact.html')]
 for p in Path('.').glob('*.html'):
  s=p.read_text()
  if '<header>' not in s:continue
  cat=re.search(r'data-category="([^"]+)"',s)
- active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name=='products-reed-1.html' else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
+ active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
  nav='<nav aria-label="Main navigation">'+''.join(f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>' for k,label,href in items)+'</nav>'
  s=re.sub(r'<nav aria-label="Main navigation">.*?</nav>',lambda m:nav,s,count=1,flags=re.S)
  icon=active if active in icons else 'candle'

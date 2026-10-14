@@ -26,12 +26,13 @@ overview='<main class="section candle-theme-landing"><section class="candle-mood
 landing=re.sub(r'<main\b[^>]*>.*?</main>',lambda m:overview,base,flags=re.S)
 landing=landing.replace(' data-category="reed" data-page="1"','')
 (ROOT/'products-reed-1.html').write_text(landing)
+(ROOT/'reed-collections.html').write_text(landing)
 for c in collections:
  rows=[bykey[k] for k in c['productKeys']];total=math.ceil(len(rows)/12)
  for page in range(1,total+1):
   start=(page-1)*12
   s=base.replace('data-category="reed" data-page="1"',f'data-category="reed" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(rows)}"')
-  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="products-reed-1.html">Reed diffuser collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} reed diffusers · Page {page} of {total}</p>'
+  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="reed-collections.html">Reed diffuser collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} reed diffusers · Page {page} of {total}</p>'
   links=f'<a href="{filename(c["slug"],page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
   links+=''.join(f'<a href="{filename(c["slug"],n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
   links+=f'<a href="{filename(c["slug"],page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>'
