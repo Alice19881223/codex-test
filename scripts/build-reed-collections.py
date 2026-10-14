@@ -41,3 +41,11 @@ for c in collections:
   s=re.sub(r'<title>.*?</title>',lambda m:f'<title>{esc(c["name"])} — Lanarve Reed Diffusers</title>',s)
   (ROOT/filename(c['slug'],page)).write_text(s)
 print('Reed collections:',{c['name']:len(c['productKeys']) for c in collections})
+
+for path in ROOT.glob('products-reed-*.html'):
+ match=re.search(r'-(\d+)\.html$',path.name)
+ if not match or int(match[1])==1:continue
+ page=int(match[1]);start=(page-1)*12;text=path.read_text()
+ text=re.sub(r'(<div id="catalogue-grid"[^>]*>).*?(</div>\s*<p id="catalogue-count")',lambda m:m[1]+''.join(card(p,start+i) for i,p in enumerate(products[start:start+12]))+m[2],text,flags=re.S)
+ text=re.sub(r'(<p id="catalogue-count"[^>]*>).*?(</p>)',lambda m:m[1]+f'Showing {start+1}–{min(start+12,len(products))} of {len(products)} products · Page {page} of {math.ceil(len(products)/12)}'+m[2],text)
+ path.write_text(text)

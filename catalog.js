@@ -1102,14 +1102,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Colour Collection",
-    "image": "assets/reeds/reed-01.webp",
-    "series": "Reed diffuser collection"
-  },
-  {
     "name": "Seven-Colour Gift Set",
-    "image": "assets/reeds/reed-02.webp",
-    "series": "Reed diffuser gift set"
+    "image": "assets/reeds/reed-01.webp",
+    "series": "Colour Collection",
+    "packagingImage": "assets/reeds/reed-02.webp",
+    "images": [
+      "assets/reeds/reed-01.webp",
+      "assets/reeds/reed-02.webp"
+    ]
   },
   {
     "name": "Rain Forest Reed Diffuser",
