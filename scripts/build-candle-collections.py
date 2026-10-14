@@ -4,17 +4,19 @@ import json,re,html,math
 ROOT=Path(__file__).resolve().parents[1]
 products=json.loads((ROOT/'assets/candle-products.json').read_text())
 key=lambda p:p['series']+' | '+p['name']
-# Reviewed against source filenames and product contact sheets, not inferred scent claims.
-morning=[108,109,77,78,79,80,57,58,62,63,84,85,90,92,95,0,1,10,11,12,15,18,20,21,22,26,27,34,36,41,42,43,65,88,89,97,102,103]
-quiet=[81,83,72,71,69,87,98,13,16,19,17,8,9,2,14,23,24,25,28,30,31,35,39,40,46,47,52,53,54,56,60,64,73,82,96,99,100,101,110,111,112,113,115,116,121]
-close=[74,75,76,55,59,61,70,86,91,93,94,104,6,7,29,37,38,44,45,114]
-joys=[i for i in range(len(products)) if i not in set(morning+quiet+close)]
-configs=[('morning-light','晨光之间','Morning Light','Fresh scents for everyday rituals.',morning,'sun'),('a-moment-of-quiet','独享片刻','A Moment of Quiet','Soft scents for slow, quiet moments.',quiet,'quiet'),('close-to-you','温柔相伴','Close to You','Warm scents for moments shared.',close,'heart'),('little-joys','日常小欢喜','Little Joys','Playful candles to brighten the everyday.',joys,'joy')]
-path=ROOT/'assets/candle-collections.json'
-if path.exists():collections=json.loads(path.read_text())
-else:
- collections=[dict(slug=s,zh=zh,name=n,description=d,productKeys=[key(products[i]) for i in indexes],icon=icon) for s,zh,n,d,indexes,icon in configs]
- path.write_text(json.dumps(collections,ensure_ascii=False,indent=2))
+# Keep first-appearance series order while making each series one continuous block.
+from collections import OrderedDict
+grouped=OrderedDict()
+for product in products:grouped.setdefault(product['series'],[]).append(product)
+products=[p for group in grouped.values() for p in group]
+(ROOT/'assets/candle-products.json').write_text(json.dumps(products,ensure_ascii=False,indent=2))
+path=ROOT/'assets/candle-collections.json';collections=json.loads(path.read_text())
+for collection in collections:
+ grouped=OrderedDict()
+ for product_key in collection['productKeys']:grouped.setdefault(product_key.split(' | ')[0],[]).append(product_key)
+ collection['productKeys']=[k for group in grouped.values() for k in group]
+path.write_text(json.dumps(collections,ensure_ascii=False,indent=2))
+p=ROOT/'catalog.js';source=p.read_text();source=re.sub(r'const candleProducts = \[.*?\n\];',lambda m:'const candleProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';',source,count=1,flags=re.S);p.write_text(source)
 bykey={key(p):(i,p) for i,p in enumerate(products)}
 icons={
  'sun':'<circle cx="32" cy="28" r="11"/><path d="M32 7V3M13 11l4 4M6 28h5m42 0h5M47 15l4-4M18 44h28M12 52h40M24 27h.1m15 0h.1M28 33q4 4 8 0"/>',
@@ -36,10 +38,26 @@ for p in [ROOT/'products-current.html',ROOT/'products.html',*ROOT.glob('products
  p.write_text(s)
 def card(p,index):
  name=esc(p['name']);paired=bool(p.get('packagingImage'));imgs=f'<img class="photo-single" src="{p["image"]}" alt="Lanarve {name} — product" loading="lazy">'
- if paired:imgs+=f'<img class="photo-packaging" src="{p["packagingImage"]}" alt="Lanarve {name} — product with packaging" loading="lazy">'
+ if paired:
+  caption='alternate view' if p.get('alternateView') else 'product with packaging'
+  imgs+=f'<img class="photo-packaging" src="{p["packagingImage"]}" alt="Lanarve {name} — {caption}" loading="lazy">'
  visual=f'<span class="paired-photo">{imgs}</span>' if paired else imgs
  link=f'<a class="crystal-item" data-photo="{index}" href="{p["image"]}" aria-label="View {name}">{visual}<span class="eyebrow">{esc(p["series"])}</span><h3>{name}</h3><span class="product-link">VIEW PRODUCT <span>↗</span></span></a>'
- return f'<div class="paired-product">{link}<button type="button" class="photo-toggle" aria-pressed="false" aria-label="Show packaging for {name}">View packaging</button></div>' if paired else link
+ label='View another angle' if p.get('alternateView') else 'View packaging'
+ return f'<div class="paired-product">{link}<button type="button" class="photo-toggle" aria-pressed="false" aria-label="{label} for {name}">{label}</button></div>' if paired else link
+base=(ROOT/'products-current.html').read_text()
+def allfile(n):return 'products-current.html' if n==1 else f'products-candle-{n}.html'
+alltotal=math.ceil(len(products)/12)
+for page in range(1,alltotal+1):
+ start=(page-1)*12;s=re.sub(r'data-page="\d+"',f'data-page="{page}"',base)
+ s=re.sub(r'(<div id="catalogue-grid"[^>]*>).*?(</div>\s*<p id="catalogue-count")',lambda m:m[1]+''.join(card(p,start+i) for i,p in enumerate(products[start:start+12]))+m[2],s,flags=re.S)
+ s=re.sub(r'(<p id="catalogue-count"[^>]*>).*?(</p>)',lambda m:m[1]+f'Showing {start+1}–{min(start+12,len(products))} of {len(products)} products · Page {page} of {alltotal}'+m[2],s)
+ previous=f'<a href="{allfile(page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
+ nxt=f'<a href="{allfile(page+1)}" aria-label="Next page">Next →</a>' if page<alltotal else '<span class="disabled">Next →</span>'
+ numbers=''.join(f'<a href="{allfile(n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,alltotal+1))
+ s=re.sub(r'(<nav id="pagination"[^>]*>).*?(</nav>)',lambda m:m[1]+previous+numbers+nxt+m[2],s)
+ (ROOT/allfile(page)).write_text(s)
+ if page==1:(ROOT/'products.html').write_text(s)
 base=(ROOT/'products-current.html').read_text()
 for c in collections:
  rows=[bykey[k] for k in c['productKeys']];total=math.ceil(len(rows)/12)
@@ -52,3 +70,12 @@ for c in collections:
   main+='<nav id="pagination" class="pagination" aria-label="Candle collection pages">'+previous+numbers+nxt+'</nav></section></main>'
   s=re.sub(r'<main>.*?</main>',lambda m:main,s,flags=re.S);s=s.replace('<title>Products — Lanarve Home Fragrance</title>',f'<title>{esc(c["name"])} — Lanarve Candles</title>');(ROOT/filename(c['slug'],page)).write_text(s)
 print('Collection counts:',{c['name']:len(c['productKeys']) for c in collections})
+
+# A smaller collection may no longer need its former final page.
+for c in collections:
+ total=math.ceil(len(c['productKeys'])/12)
+ for path in ROOT.glob(f'candles-{c["slug"]}-*.html'):
+  match=re.search(r'-(\d+)\.html$',path.name)
+  if match and int(match[1])>total:
+   target=filename(c['slug'],total)
+   path.write_text(f'<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0;url={target}"><link rel="canonical" href="{target}"><title>Lanarve candle collection</title></head><body><a href="{target}">Explore the current candle collection</a></body></html>')

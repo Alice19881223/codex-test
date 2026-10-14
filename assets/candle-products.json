@@ -411,17 +411,17 @@
   {
     "name": "Woven — 01",
     "image": "assets/candles/candles-008.webp",
-    "series": "Woven"
-  },
-  {
-    "name": "Woven — 02",
-    "image": "assets/candles/candles-009.webp",
-    "series": "Woven"
-  },
-  {
-    "name": "Woven — 03",
-    "image": "assets/candles/candles-010.webp",
-    "series": "Woven"
+    "series": "Woven",
+    "packagingImage": "assets/candles/candles-009.webp",
+    "images": [
+      "assets/candles/candles-008.webp",
+      "assets/candles/candles-009.webp"
+    ],
+    "alternateView": true,
+    "viewLabels": [
+      "WOVEN CANDLE",
+      "GLASS CANDLE & WOVEN COVER"
+    ]
   },
   {
     "name": "Sunlit Rituals — 01",
