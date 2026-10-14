@@ -19,7 +19,7 @@ for p in Path('.').glob('*.html'):
  s=p.read_text()
  if '<header>' not in s:continue
  cat=re.search(r'data-category="([^"]+)"',s)
- active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
+ active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name=='products-reed-1.html' else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
  nav='<nav aria-label="Main navigation">'+''.join(f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>' for k,label,href in items)+'</nav>'
  s=re.sub(r'<nav aria-label="Main navigation">.*?</nav>',lambda m:nav,s,count=1,flags=re.S)
  icon=active if active in icons else 'candle'

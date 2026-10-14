@@ -33,8 +33,8 @@ if(grid){
  const query=new URLSearchParams(location.search);
  if(query.has('category')||query.has('page')){
   const cat=category==='gift'?'gift':['candle','reed','crystal','christmas','sachets'].includes(query.get('category'))?query.get('category'):category;
-  const raw=Number(query.get('page'));const collection=document.body.dataset.collection;const total=collection&&cat==='candle'?Number(document.body.dataset.collectionCount):catalogues[cat].length;const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,Math.ceil(total/12));
-  const target=collection&&cat==='candle'?`candles-${collection}${page===1?'':`-${page}`}.html`:cat==='sachets'?(page===1?'sachets.html':`sachets-${page}.html`):cat==='christmas'?(page===1?'christmas-collection.html':`christmas-collection-${page}.html`):cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
+  const raw=Number(query.get('page'));const collection=document.body.dataset.collection;const total=collection&&cat===category?Number(document.body.dataset.collectionCount):catalogues[cat].length;const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,Math.ceil(total/12));
+  const target=collection&&cat===category?`${cat==='reed'?'reeds':'candles'}-${collection}${page===1?'':`-${page}`}.html`:cat==='sachets'?(page===1?'sachets.html':`sachets-${page}.html`):cat==='christmas'?(page===1?'christmas-collection.html':`christmas-collection-${page}.html`):cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
   location.replace(target);
  }
 }
