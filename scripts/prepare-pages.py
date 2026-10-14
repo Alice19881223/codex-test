@@ -22,7 +22,11 @@ for path in stage.glob('*.html'):
  category=re.search(r'data-category="([^"]+)"',text)
  if category:
   rows=catalogues[category[1]];page=int(re.search(r'data-page="(\d+)"',text)[1]);indexes=[int(x) for x in re.findall(r'data-photo="(\d+)"',text)]
-  assert indexes==list(range((page-1)*12,min(page*12,len(rows)))),f'{path.name}: catalogue pagination does not match data'
+  collection=re.search(r'data-collection="([^"]+)"',text)
+  if collection:
+   configs=json.loads((stage/'assets/candle-collections.json').read_text());config=next(c for c in configs if c['slug']==collection[1]);lookup={x['series']+' | '+x['name']:i for i,x in enumerate(rows)};ordered=[lookup[k] for k in config['productKeys']];expected=ordered[(page-1)*12:page*12]
+  else:expected=list(range((page-1)*12,min(page*12,len(rows))))
+  assert indexes==expected,f'{path.name}: catalogue pagination does not match data'
  for url in re.findall(r'(?:src|href)="([^"#]+)"',path.read_text()):
   if re.match(r'^[a-z]+:',url):continue
   file=url.split('#')[0].split('?')[0]
