@@ -27,15 +27,8 @@ for name,shape in icons.items():(ROOT/f'assets/mood-{name}.svg').write_text(f'<s
 def esc(t):return html.escape(t,quote=True)
 def filename(slug,page=1):return f'candles-{slug}'+(f'-{page}' if page>1 else '')+'.html'
 def navigation(active=''):
- return '<nav class="candle-mood-nav" aria-label="Candle collections"><a href="products-current.html"'+(' aria-current="page"' if not active else '')+'>All candles</a>'+''.join(f'<a href="{filename(c["slug"])}"'+(' aria-current="page"' if active==c['slug'] else '')+f'>{esc(c["name"])}</a>' for c in collections)+'</nav>'
-overview='<section id="candle-collections" class="candle-mood-overview"><p class="eyebrow">FIND YOUR EVERYDAY MOMENT</p><h2>A scent for the way you feel.</h2><div class="candle-mood-grid">'+''.join(f'<a class="candle-mood-card" href="{filename(c["slug"])}"><img src="assets/mood-{c["icon"]}.svg" alt="" width="54" height="54"><span class="mood-chinese" lang="zh-CN">{c["zh"]}</span><h3>{esc(c["name"])}</h3><p>{esc(c["description"])}</p><span class="mood-count">{len(c["productKeys"])} candles <span aria-hidden="true">&#8599;</span></span></a>' for c in collections)+'</div></section>'
-# Insert once; refresh these elements when the collection data is edited.
-for p in [ROOT/'products-current.html',ROOT/'products.html',*ROOT.glob('products-candle-*.html')]:
- s=p.read_text();s=re.sub(r'<section id="candle-collections".*?</section>','',s,flags=re.S);s=re.sub(r'<nav class="candle-mood-nav".*?</nav>','',s,flags=re.S)
- pos=s.index('<div id="catalogue-grid"');s=s[:pos]+navigation()+s[pos:]
- if p.name in ['products-current.html','products.html']:
-  pos=s.index('<h2 id="catalogue-title"');s=s[:pos]+overview+s[pos:]
- p.write_text(s)
+ return '<nav class="candle-mood-nav" aria-label="Candle collections">'+''.join(f'<a href="{filename(c["slug"])}"'+(' aria-current="page"' if active==c['slug'] else '')+f'>{esc(c["name"])}</a>' for c in collections)+'</nav>'
+overview='<section id="candle-collections" class="candle-mood-overview"><div class="candle-mood-grid">'+''.join(f'<a class="candle-mood-card" href="{filename(c["slug"])}"><img src="assets/mood-{c["icon"]}.svg" alt="" width="54" height="54"><h2>{esc(c["name"])}</h2><p>{esc(c["description"])}</p><span class="mood-count">{len(c["productKeys"])} candles <span aria-hidden="true">&#8599;</span></span></a>' for c in collections)+'</div></section>'
 def card(p,index):
  name=esc(p['name']);paired=bool(p.get('packagingImage'));imgs=f'<img class="photo-single" src="{p["image"]}" alt="Lanarve {name} — product" loading="lazy">'
  if paired:
@@ -46,29 +39,23 @@ def card(p,index):
  label='View another angle' if p.get('alternateView') else 'View packaging'
  return f'<div class="paired-product">{link}<button type="button" class="photo-toggle" aria-pressed="false" aria-label="{label} for {name}">{label}</button></div>' if paired else link
 base=(ROOT/'products-current.html').read_text()
-def allfile(n):return 'products-current.html' if n==1 else f'products-candle-{n}.html'
-alltotal=math.ceil(len(products)/12)
-for page in range(1,alltotal+1):
- start=(page-1)*12;s=re.sub(r'data-page="\d+"',f'data-page="{page}"',base)
- s=re.sub(r'(<div id="catalogue-grid"[^>]*>).*?(</div>\s*<p id="catalogue-count")',lambda m:m[1]+''.join(card(p,start+i) for i,p in enumerate(products[start:start+12]))+m[2],s,flags=re.S)
- s=re.sub(r'(<p id="catalogue-count"[^>]*>).*?(</p>)',lambda m:m[1]+f'Showing {start+1}–{min(start+12,len(products))} of {len(products)} products · Page {page} of {alltotal}'+m[2],s)
- previous=f'<a href="{allfile(page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
- nxt=f'<a href="{allfile(page+1)}" aria-label="Next page">Next →</a>' if page<alltotal else '<span class="disabled">Next →</span>'
- numbers=''.join(f'<a href="{allfile(n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,alltotal+1))
- s=re.sub(r'(<nav id="pagination"[^>]*>).*?(</nav>)',lambda m:m[1]+previous+numbers+nxt+m[2],s)
- (ROOT/allfile(page)).write_text(s)
- if page==1:(ROOT/'products.html').write_text(s)
-base=(ROOT/'products-current.html').read_text()
+base=re.sub(r'<body[^>]*>', '<body data-category="candle" data-page="1">',base)
+# The candle entrance shows only the four collections; old all-product pages redirect here.
+landing=re.sub(r'<main\b[^>]*>.*?</main>',lambda m:'<main class="section candle-theme-landing">'+overview+'</main>',base,flags=re.S)
+landing=re.sub(r' data-category="candle" data-page="\d+"','',landing)
+for name in ['products-current.html','products.html']:(ROOT/name).write_text(landing)
+for path in ROOT.glob('products-candle-*.html'):
+ path.write_text('<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=products-current.html"><title>Lanarve Candle Collections</title></head><body><a href="products-current.html">Explore candle collections</a></body></html>')
 for c in collections:
  rows=[bykey[k] for k in c['productKeys']];total=math.ceil(len(rows)/12)
  for page in range(1,total+1):
   start=(page-1)*12;s=re.sub(r'data-category="candle" data-page="\d+"',f'data-category="candle" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(c["productKeys"])}"',base)
-  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="products-current.html">Scented candles /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><p class="eyebrow" lang="zh-CN">{c["zh"]}</p><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} candles · Page {page} of {total}</p>'
+  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="products-current.html">Candle collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} candles · Page {page} of {total}</p>'
   previous=f'<a href="{filename(c["slug"],page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
   nxt=f'<a href="{filename(c["slug"],page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>'
   numbers=''.join(f'<a href="{filename(c["slug"],n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
   main+='<nav id="pagination" class="pagination" aria-label="Candle collection pages">'+previous+numbers+nxt+'</nav></section></main>'
-  s=re.sub(r'<main>.*?</main>',lambda m:main,s,flags=re.S);s=s.replace('<title>Products — Lanarve Home Fragrance</title>',f'<title>{esc(c["name"])} — Lanarve Candles</title>');(ROOT/filename(c['slug'],page)).write_text(s)
+  s=re.sub(r'<main\b[^>]*>.*?</main>',lambda m:main,s,flags=re.S);s=s.replace('<title>Products — Lanarve Home Fragrance</title>',f'<title>{esc(c["name"])} — Lanarve Candles</title>');(ROOT/filename(c['slug'],page)).write_text(s)
 print('Collection counts:',{c['name']:len(c['productKeys']) for c in collections})
 
 # A smaller collection may no longer need its former final page.

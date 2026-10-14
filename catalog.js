@@ -550,18 +550,28 @@ const candleProducts = [
     "series": "Turquoise"
   },
   {
-    "name": "Birthday — 01",
+    "name": "Jellyfish Egg Candle",
     "image": "assets/candles/candles-033.webp",
-    "series": "Birthday"
+    "series": "Jellyfish",
+    "packagingImage": "assets/candles/candles-035.webp",
+    "alternateView": true,
+    "viewLabels": [
+      "OPEN EGG CANDLE",
+      "CLOSED EGG CANDLE"
+    ],
+    "images": [
+      "assets/candles/candles-033.webp",
+      "assets/candles/candles-035.webp"
+    ]
+  },
+  {
+    "name": "Jellyfish Glass Candle",
+    "image": "assets/candles/candles-089.webp",
+    "series": "Jellyfish"
   },
   {
     "name": "Birthday — 02",
     "image": "assets/candles/candles-034.webp",
-    "series": "Birthday"
-  },
-  {
-    "name": "Birthday — 03",
-    "image": "assets/candles/candles-035.webp",
     "series": "Birthday"
   },
   {
@@ -745,21 +755,6 @@ const candleProducts = [
     "series": "Colour Stories"
   },
   {
-    "name": "Christmas — 01",
-    "image": "assets/candles/candles-072.webp",
-    "series": "Christmas"
-  },
-  {
-    "name": "Christmas — 02",
-    "image": "assets/candles/candles-073.webp",
-    "series": "Christmas"
-  },
-  {
-    "name": "Christmas — 03",
-    "image": "assets/candles/candles-074.webp",
-    "series": "Christmas"
-  },
-  {
     "name": "Bamboo — 01",
     "image": "assets/candles/candles-075.webp",
     "series": "Bamboo"
@@ -828,11 +823,6 @@ const candleProducts = [
     "name": "Ivory Stone — 01",
     "image": "assets/candles/candles-088.webp",
     "series": "Ivory Stone"
-  },
-  {
-    "name": "Jellyfish — 01",
-    "image": "assets/candles/candles-089.webp",
-    "series": "Jellyfish"
   }
 ];
 const reedProducts = [
@@ -2334,6 +2324,21 @@ const christmasProducts = [
       "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
       "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
     ]
+  },
+  {
+    "name": "Christmas — 01",
+    "image": "assets/candles/candles-072.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 02",
+    "image": "assets/candles/candles-073.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 03",
+    "image": "assets/candles/candles-074.webp",
+    "series": "Christmas"
   }
 ];
 

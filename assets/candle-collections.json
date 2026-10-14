@@ -1,7 +1,6 @@
 [
   {
     "slug": "morning-light",
-    "zh": "晨光之间",
     "name": "Morning Light",
     "description": "Fresh scents for everyday rituals.",
     "productKeys": [
@@ -46,7 +45,6 @@
   },
   {
     "slug": "a-moment-of-quiet",
-    "zh": "独享片刻",
     "name": "A Moment of Quiet",
     "description": "Soft scents for slow, quiet moments.",
     "productKeys": [
@@ -100,7 +98,6 @@
   },
   {
     "slug": "close-to-you",
-    "zh": "温柔相伴",
     "name": "Close to You",
     "description": "Warm scents for moments shared.",
     "productKeys": [
@@ -129,7 +126,6 @@
   },
   {
     "slug": "little-joys",
-    "zh": "日常小欢喜",
     "name": "Little Joys",
     "description": "Playful candles to brighten the everyday.",
     "productKeys": [
@@ -142,17 +138,13 @@
       "Pet Portraits | Pet Portraits — 02",
       "Pet Portraits | Pet Portraits — 03",
       "Pet Portraits | Pet Portraits — 04",
-      "Birthday | Birthday — 01",
+      "Jellyfish | Jellyfish Egg Candle",
+      "Jellyfish | Jellyfish Glass Candle",
       "Birthday | Birthday — 02",
-      "Birthday | Birthday — 03",
-      "Christmas | Christmas — 01",
-      "Christmas | Christmas — 02",
-      "Christmas | Christmas — 03",
       "Playful Glass Dome | Playful Glass Dome — 01",
       "Playful Glass Dome | Playful Glass Dome — 02",
       "Playful Glass Dome | Playful Glass Dome — 03",
-      "Playful Glass Dome | Playful Glass Dome — 04",
-      "Jellyfish | Jellyfish — 01"
+      "Playful Glass Dome | Playful Glass Dome — 04"
     ],
     "icon": "joy"
   }

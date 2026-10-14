@@ -5,6 +5,7 @@ from pathlib import Path
 import hashlib,re,runpy
 root=Path(__file__).resolve().parents[1]
 if (root/'assets/candle-collections.json').exists():runpy.run_path(str(root/'scripts/build-candle-collections.py'))
+runpy.run_path(str(root/'scripts/build-christmas-pages.py'))
 runpy.run_path(str(root/'scripts/update-navigation.py'))
 for original in ['app.js','catalog.js','styles.css']:
  data=(root/original).read_bytes();stem,suffix=original.rsplit('.',1);v=hashlib.sha256(data).hexdigest()[:12];filename=f'{stem}-{v}.{suffix}';(root/filename).write_bytes(data)
