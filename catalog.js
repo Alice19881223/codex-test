@@ -1941,6 +1941,21 @@ const giftProducts = [
 
 const christmasProducts = [
   {
+    "name": "Christmas — 01",
+    "image": "assets/candles/candles-072.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 02",
+    "image": "assets/candles/candles-073.webp",
+    "series": "Christmas"
+  },
+  {
+    "name": "Christmas — 03",
+    "image": "assets/candles/candles-074.webp",
+    "series": "Christmas"
+  },
+  {
     "id": "christmas-pair-fa0a43337a95",
     "name": "Cedar Kiss",
     "series": "Christmas Sand Art",
@@ -2324,21 +2339,6 @@ const christmasProducts = [
       "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
       "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
     ]
-  },
-  {
-    "name": "Christmas — 01",
-    "image": "assets/candles/candles-072.webp",
-    "series": "Christmas"
-  },
-  {
-    "name": "Christmas — 02",
-    "image": "assets/candles/candles-073.webp",
-    "series": "Christmas"
-  },
-  {
-    "name": "Christmas — 03",
-    "image": "assets/candles/candles-074.webp",
-    "series": "Christmas"
   }
 ];
 
