@@ -1039,5 +1039,65 @@
   },
   "assets/candles/standalone/b802d8b0a302fa106390.png": {
     "palette": "sand"
+  },
+  "assets/candles/standalone/b2082322ade0e92da2d5.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/791bce03c4b84ac8fd06.png": {
+    "palette": "blue"
+  },
+  "assets/candles/standalone/540de41607775da6cc17.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/44620cdda8657d5cbbbe.png": {
+    "palette": "amber"
+  },
+  "assets/candles/standalone/e0d8ad358028f3def806.png": {
+    "palette": "amber"
+  },
+  "assets/candles/standalone/82ae20f3c3594477d4c6.png": {
+    "palette": "walnut"
+  },
+  "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png": {
+    "palette": "amber"
+  },
+  "assets/candles/standalone/0d8e7c66e2de2314e052.png": {
+    "palette": "blush"
+  },
+  "assets/candles/standalone/0abab97241dfa7d3dcc3.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/98484ea0daa2ca7437d6.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/701c10bbdc77fc3599c0.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/9d23779d7859e33e8715.png": {
+    "palette": "gold"
+  },
+  "assets/candles/standalone/db617a3b004dd8b0deb3.png": {
+    "palette": "blush"
+  },
+  "assets/candles/standalone/2a96946b435ed6a9554c.png": {
+    "palette": "blue"
+  },
+  "assets/candles/standalone/d5ec5c9baca023c3e62b.png": {
+    "palette": "blush"
+  },
+  "assets/candles/standalone/8617f461c1f2ffa6df10.png": {
+    "palette": "gold"
+  },
+  "assets/candles/standalone/23dc77e24ddcda7b94b3.png": {
+    "palette": "blue"
+  },
+  "assets/christmas/standalone/4fee0c8b694b3a6cac99.png": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/standalone/d562217af6c6dcb7d806.png": {
+    "palette": "sand"
+  },
+  "assets/christmas/standalone/b7c2f963b441ad3ea550.png": {
+    "palette": "sand"
   }
 }

@@ -375,28 +375,68 @@
   },
   {
     "name": "Sage Stillness",
-    "image": "assets/candles/candles-001.webp",
-    "series": "Stone & Stillness"
+    "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
+    "series": "Stone & Stillness",
+    "legacyImages": [
+      "assets/candles/candles-001.webp"
+    ],
+    "packagingImage": "assets/candles/candles-001.webp",
+    "images": [
+      "assets/candles/standalone/701c10bbdc77fc3599c0.png",
+      "assets/candles/candles-001.webp"
+    ]
   },
   {
     "name": "Ivory Stillness",
-    "image": "assets/candles/candles-002.webp",
-    "series": "Stone & Stillness"
+    "image": "assets/candles/standalone/98484ea0daa2ca7437d6.png",
+    "series": "Stone & Stillness",
+    "legacyImages": [
+      "assets/candles/candles-002.webp"
+    ],
+    "packagingImage": "assets/candles/candles-002.webp",
+    "images": [
+      "assets/candles/standalone/98484ea0daa2ca7437d6.png",
+      "assets/candles/candles-002.webp"
+    ]
   },
   {
     "name": "Olive Botanical Keepsake",
-    "image": "assets/candles/candles-003.webp",
-    "series": "Botanical Cylinder"
+    "image": "assets/candles/standalone/8617f461c1f2ffa6df10.png",
+    "series": "Botanical Cylinder",
+    "legacyImages": [
+      "assets/candles/candles-003.webp"
+    ],
+    "packagingImage": "assets/candles/candles-003.webp",
+    "images": [
+      "assets/candles/standalone/8617f461c1f2ffa6df10.png",
+      "assets/candles/candles-003.webp"
+    ]
   },
   {
     "name": "Blush Hour",
-    "image": "assets/candles/candles-004.webp",
-    "series": "Passing Hours"
+    "image": "assets/candles/standalone/d5ec5c9baca023c3e62b.png",
+    "series": "Passing Hours",
+    "legacyImages": [
+      "assets/candles/candles-004.webp"
+    ],
+    "packagingImage": "assets/candles/candles-004.webp",
+    "images": [
+      "assets/candles/standalone/d5ec5c9baca023c3e62b.png",
+      "assets/candles/candles-004.webp"
+    ]
   },
   {
     "name": "Sky Hour",
-    "image": "assets/candles/candles-005.webp",
-    "series": "Passing Hours"
+    "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
+    "series": "Passing Hours",
+    "legacyImages": [
+      "assets/candles/candles-005.webp"
+    ],
+    "packagingImage": "assets/candles/candles-005.webp",
+    "images": [
+      "assets/candles/standalone/2a96946b435ed6a9554c.png",
+      "assets/candles/candles-005.webp"
+    ]
   },
   {
     "name": "Champagne Lustre",
@@ -477,13 +517,29 @@
   },
   {
     "name": "Golden Companion",
-    "image": "assets/candles/candles-015.webp",
-    "series": "Little Companions"
+    "image": "assets/candles/standalone/44620cdda8657d5cbbbe.png",
+    "series": "Little Companions",
+    "legacyImages": [
+      "assets/candles/candles-015.webp"
+    ],
+    "packagingImage": "assets/candles/candles-015.webp",
+    "images": [
+      "assets/candles/standalone/44620cdda8657d5cbbbe.png",
+      "assets/candles/candles-015.webp"
+    ]
   },
   {
     "name": "Corgi Cuddles",
-    "image": "assets/candles/candles-016.webp",
-    "series": "Little Companions"
+    "image": "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png",
+    "series": "Little Companions",
+    "legacyImages": [
+      "assets/candles/candles-016.webp"
+    ],
+    "packagingImage": "assets/candles/candles-016.webp",
+    "images": [
+      "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png",
+      "assets/candles/candles-016.webp"
+    ]
   },
   {
     "name": "Ginger Kitten",
@@ -768,38 +824,94 @@
   },
   {
     "name": "Plum Blossom Teacup",
-    "image": "assets/candles/candles-044.webp",
-    "series": "Botanical Teacups"
+    "image": "assets/candles/standalone/0d8e7c66e2de2314e052.png",
+    "series": "Botanical Teacups",
+    "legacyImages": [
+      "assets/candles/candles-044.webp"
+    ],
+    "packagingImage": "assets/candles/candles-044.webp",
+    "images": [
+      "assets/candles/standalone/0d8e7c66e2de2314e052.png",
+      "assets/candles/candles-044.webp"
+    ]
   },
   {
     "name": "Orchid Teacup",
-    "image": "assets/candles/candles-045.webp",
-    "series": "Botanical Teacups"
+    "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
+    "series": "Botanical Teacups",
+    "legacyImages": [
+      "assets/candles/candles-045.webp"
+    ],
+    "packagingImage": "assets/candles/candles-045.webp",
+    "images": [
+      "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
+      "assets/candles/candles-045.webp"
+    ]
   },
   {
     "name": "Bamboo Teacup",
-    "image": "assets/candles/candles-046.webp",
-    "series": "Botanical Teacups"
+    "image": "assets/candles/standalone/540de41607775da6cc17.png",
+    "series": "Botanical Teacups",
+    "legacyImages": [
+      "assets/candles/candles-046.webp"
+    ],
+    "packagingImage": "assets/candles/candles-046.webp",
+    "images": [
+      "assets/candles/standalone/540de41607775da6cc17.png",
+      "assets/candles/candles-046.webp"
+    ]
   },
   {
     "name": "Chrysanthemum Teacup",
-    "image": "assets/candles/candles-047.webp",
-    "series": "Botanical Teacups"
+    "image": "assets/candles/standalone/b2082322ade0e92da2d5.png",
+    "series": "Botanical Teacups",
+    "legacyImages": [
+      "assets/candles/candles-047.webp"
+    ],
+    "packagingImage": "assets/candles/candles-047.webp",
+    "images": [
+      "assets/candles/standalone/b2082322ade0e92da2d5.png",
+      "assets/candles/candles-047.webp"
+    ]
   },
   {
     "name": "Lavender Ribbon",
-    "image": "assets/candles/candles-048.webp",
-    "series": "Ribbon & Glow"
+    "image": "assets/candles/standalone/e0d8ad358028f3def806.png",
+    "series": "Ribbon & Glow",
+    "legacyImages": [
+      "assets/candles/candles-048.webp"
+    ],
+    "packagingImage": "assets/candles/candles-048.webp",
+    "images": [
+      "assets/candles/standalone/e0d8ad358028f3def806.png",
+      "assets/candles/candles-048.webp"
+    ]
   },
   {
     "name": "Amber Ribbon",
-    "image": "assets/candles/candles-049.webp",
-    "series": "Ribbon & Glow"
+    "image": "assets/candles/standalone/82ae20f3c3594477d4c6.png",
+    "series": "Ribbon & Glow",
+    "legacyImages": [
+      "assets/candles/candles-049.webp"
+    ],
+    "packagingImage": "assets/candles/candles-049.webp",
+    "images": [
+      "assets/candles/standalone/82ae20f3c3594477d4c6.png",
+      "assets/candles/candles-049.webp"
+    ]
   },
   {
     "name": "Sky Ribbon",
-    "image": "assets/candles/candles-050.webp",
-    "series": "Ribbon & Glow"
+    "image": "assets/candles/standalone/791bce03c4b84ac8fd06.png",
+    "series": "Ribbon & Glow",
+    "legacyImages": [
+      "assets/candles/candles-050.webp"
+    ],
+    "packagingImage": "assets/candles/candles-050.webp",
+    "images": [
+      "assets/candles/standalone/791bce03c4b84ac8fd06.png",
+      "assets/candles/candles-050.webp"
+    ]
   },
   {
     "name": "Morning Garden",
@@ -1013,18 +1125,42 @@
   },
   {
     "name": "Golden Blossom",
-    "image": "assets/candles/candles-069.webp",
-    "series": "Chromatic Bloom"
+    "image": "assets/candles/standalone/9d23779d7859e33e8715.png",
+    "series": "Chromatic Bloom",
+    "legacyImages": [
+      "assets/candles/candles-069.webp"
+    ],
+    "packagingImage": "assets/candles/candles-069.webp",
+    "images": [
+      "assets/candles/standalone/9d23779d7859e33e8715.png",
+      "assets/candles/candles-069.webp"
+    ]
   },
   {
     "name": "Blue Blossom",
-    "image": "assets/candles/candles-070.webp",
-    "series": "Chromatic Bloom"
+    "image": "assets/candles/standalone/23dc77e24ddcda7b94b3.png",
+    "series": "Chromatic Bloom",
+    "legacyImages": [
+      "assets/candles/candles-070.webp"
+    ],
+    "packagingImage": "assets/candles/candles-070.webp",
+    "images": [
+      "assets/candles/standalone/23dc77e24ddcda7b94b3.png",
+      "assets/candles/candles-070.webp"
+    ]
   },
   {
     "name": "Blush Blossom",
-    "image": "assets/candles/candles-071.webp",
-    "series": "Chromatic Bloom"
+    "image": "assets/candles/standalone/db617a3b004dd8b0deb3.png",
+    "series": "Chromatic Bloom",
+    "legacyImages": [
+      "assets/candles/candles-071.webp"
+    ],
+    "packagingImage": "assets/candles/candles-071.webp",
+    "images": [
+      "assets/candles/standalone/db617a3b004dd8b0deb3.png",
+      "assets/candles/candles-071.webp"
+    ]
   },
   {
     "name": "Golden Bamboo Ripple",

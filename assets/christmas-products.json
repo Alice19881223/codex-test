@@ -1,18 +1,42 @@
 [
   {
     "name": "Winter Berry Dome",
-    "image": "assets/candles/candles-072.webp",
-    "series": "Festive Glass Domes"
+    "image": "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
+    "series": "Festive Glass Domes",
+    "legacyImages": [
+      "assets/candles/candles-072.webp"
+    ],
+    "packagingImage": "assets/candles/candles-072.webp",
+    "images": [
+      "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
+      "assets/candles/candles-072.webp"
+    ]
   },
   {
     "name": "Cinnamon Orange Dome",
-    "image": "assets/candles/candles-073.webp",
-    "series": "Festive Glass Domes"
+    "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
+    "series": "Festive Glass Domes",
+    "legacyImages": [
+      "assets/candles/candles-073.webp"
+    ],
+    "packagingImage": "assets/candles/candles-073.webp",
+    "images": [
+      "assets/christmas/standalone/d562217af6c6dcb7d806.png",
+      "assets/candles/candles-073.webp"
+    ]
   },
   {
     "name": "Forest Garland Dome",
-    "image": "assets/candles/candles-074.webp",
-    "series": "Festive Glass Domes"
+    "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
+    "series": "Festive Glass Domes",
+    "legacyImages": [
+      "assets/candles/candles-074.webp"
+    ],
+    "packagingImage": "assets/candles/candles-074.webp",
+    "images": [
+      "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
+      "assets/candles/candles-074.webp"
+    ]
   },
   {
     "id": "christmas-pair-fa0a43337a95",

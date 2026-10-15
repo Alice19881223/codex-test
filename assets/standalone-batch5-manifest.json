@@ -1,0 +1,222 @@
+[
+  {
+    "category": "candle",
+    "name": "Chrysanthemum Teacup",
+    "itemNo": "LNV-CND-1E624F9C",
+    "image": "assets/candles/standalone/b2082322ade0e92da2d5.png",
+    "packagingImage": "assets/candles/candles-047.webp",
+    "previousImage": "assets/candles/candles-047.webp",
+    "sourceFile": "1.png",
+    "sha256": "b2082322ade0e92da2d5196103c7342306dc8674a2754816c84fce3deda175fd",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Sky Ribbon",
+    "itemNo": "LNV-CND-34110715",
+    "image": "assets/candles/standalone/791bce03c4b84ac8fd06.png",
+    "packagingImage": "assets/candles/candles-050.webp",
+    "previousImage": "assets/candles/candles-050.webp",
+    "sourceFile": "2.png",
+    "sha256": "791bce03c4b84ac8fd062597ff2a1eaa93120cc3288a54ac29c63a358307a2f9",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Bamboo Teacup",
+    "itemNo": "LNV-CND-69918D3A",
+    "image": "assets/candles/standalone/540de41607775da6cc17.png",
+    "packagingImage": "assets/candles/candles-046.webp",
+    "previousImage": "assets/candles/candles-046.webp",
+    "sourceFile": "3.png",
+    "sha256": "540de41607775da6cc17efffa398fc9ec925ea59eb38348298522a6b2a462a13",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Golden Companion",
+    "itemNo": "LNV-CND-6FA4BCD6",
+    "image": "assets/candles/standalone/44620cdda8657d5cbbbe.png",
+    "packagingImage": "assets/candles/candles-015.webp",
+    "previousImage": "assets/candles/candles-015.webp",
+    "sourceFile": "4.png",
+    "sha256": "44620cdda8657d5cbbbe87427fb30b3b884283b7077da709dcf2528317228b0e",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Lavender Ribbon",
+    "itemNo": "LNV-CND-719F4E3B",
+    "image": "assets/candles/standalone/e0d8ad358028f3def806.png",
+    "packagingImage": "assets/candles/candles-048.webp",
+    "previousImage": "assets/candles/candles-048.webp",
+    "sourceFile": "5.png",
+    "sha256": "e0d8ad358028f3def806b0ac3022d31fad9d3536dbbd2766adbd0c86671c8876",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Amber Ribbon",
+    "itemNo": "LNV-CND-FB2CBEB1",
+    "image": "assets/candles/standalone/82ae20f3c3594477d4c6.png",
+    "packagingImage": "assets/candles/candles-049.webp",
+    "previousImage": "assets/candles/candles-049.webp",
+    "sourceFile": "6.png",
+    "sha256": "82ae20f3c3594477d4c6bb5eb806adac5c0f363d3ca9a5307524a494966dc92f",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Corgi Cuddles",
+    "itemNo": "LNV-CND-6187E5A2",
+    "image": "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png",
+    "packagingImage": "assets/candles/candles-016.webp",
+    "previousImage": "assets/candles/candles-016.webp",
+    "sourceFile": "7.png",
+    "sha256": "f11dbf0fa13d06e2dcfe85340f7137e5eaab55e4fc04301ae0e1fb0e868e5603",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Plum Blossom Teacup",
+    "itemNo": "LNV-CND-FE56A1C8",
+    "image": "assets/candles/standalone/0d8e7c66e2de2314e052.png",
+    "packagingImage": "assets/candles/candles-044.webp",
+    "previousImage": "assets/candles/candles-044.webp",
+    "sourceFile": "8.png",
+    "sha256": "0d8e7c66e2de2314e052674175caafca6154cba49d83321d9520d67d1a8c0ab6",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Orchid Teacup",
+    "itemNo": "LNV-CND-126C54C6",
+    "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
+    "packagingImage": "assets/candles/candles-045.webp",
+    "previousImage": "assets/candles/candles-045.webp",
+    "sourceFile": "9.png",
+    "sha256": "0abab97241dfa7d3dcc363e2be89c9c55311ddb4115daf491c37c9901eceb2a0",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Stillness",
+    "itemNo": "LNV-CND-4529F2C7",
+    "image": "assets/candles/standalone/98484ea0daa2ca7437d6.png",
+    "packagingImage": "assets/candles/candles-002.webp",
+    "previousImage": "assets/candles/candles-002.webp",
+    "sourceFile": "10.png",
+    "sha256": "98484ea0daa2ca7437d689cdee6ee39ac1716334ef1397d58c83bfcd03f22452",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Sage Stillness",
+    "itemNo": "LNV-CND-51EBCE22",
+    "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
+    "packagingImage": "assets/candles/candles-001.webp",
+    "previousImage": "assets/candles/candles-001.webp",
+    "sourceFile": "12.png",
+    "sha256": "701c10bbdc77fc3599c0eafe3de6622df3546ff3432a7b8d9a790f256e1d0fd9",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Golden Blossom",
+    "itemNo": "LNV-CND-799210C7",
+    "image": "assets/candles/standalone/9d23779d7859e33e8715.png",
+    "packagingImage": "assets/candles/candles-069.webp",
+    "previousImage": "assets/candles/candles-069.webp",
+    "sourceFile": "13.png",
+    "sha256": "9d23779d7859e33e8715ceb8daf9a4eaace18501ab6116ce3a15822150a1a972",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Blush Blossom",
+    "itemNo": "LNV-CND-E05BCC53",
+    "image": "assets/candles/standalone/db617a3b004dd8b0deb3.png",
+    "packagingImage": "assets/candles/candles-071.webp",
+    "previousImage": "assets/candles/candles-071.webp",
+    "sourceFile": "14.png",
+    "sha256": "db617a3b004dd8b0deb3fc2ba0f86a5f64eceed0fc969503460ea9babf6b52cf",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Sky Hour",
+    "itemNo": "LNV-CND-85838A61",
+    "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
+    "packagingImage": "assets/candles/candles-005.webp",
+    "previousImage": "assets/candles/candles-005.webp",
+    "sourceFile": "15.png",
+    "sha256": "2a96946b435ed6a9554ce533cb4f938f86938858147f8223efa39dba9054873f",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Blush Hour",
+    "itemNo": "LNV-CND-D99DDD5D",
+    "image": "assets/candles/standalone/d5ec5c9baca023c3e62b.png",
+    "packagingImage": "assets/candles/candles-004.webp",
+    "previousImage": "assets/candles/candles-004.webp",
+    "sourceFile": "16.png",
+    "sha256": "d5ec5c9baca023c3e62bafb8ebb9e6c387c78dbbca0070b0135f013ecd89362f",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Olive Botanical Keepsake",
+    "itemNo": "LNV-CND-E96D2F2B",
+    "image": "assets/candles/standalone/8617f461c1f2ffa6df10.png",
+    "packagingImage": "assets/candles/candles-003.webp",
+    "previousImage": "assets/candles/candles-003.webp",
+    "sourceFile": "17.png",
+    "sha256": "8617f461c1f2ffa6df101c5f44e9d7b2fe2f98d39cba982d8d7a82d2a7f11c67",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "candle",
+    "name": "Blue Blossom",
+    "itemNo": "LNV-CND-8A77BFF7",
+    "image": "assets/candles/standalone/23dc77e24ddcda7b94b3.png",
+    "packagingImage": "assets/candles/candles-070.webp",
+    "previousImage": "assets/candles/candles-070.webp",
+    "sourceFile": "19.png",
+    "sha256": "23dc77e24ddcda7b94b3d3f3a4dfa68be0993646cd522e203aba52e295a043bb",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "christmas",
+    "name": "Winter Berry Dome",
+    "itemNo": "LNV-XMS-80C34B43",
+    "image": "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
+    "packagingImage": "assets/candles/candles-072.webp",
+    "previousImage": "assets/candles/candles-072.webp",
+    "sourceFile": "11.png",
+    "sha256": "4fee0c8b694b3a6cac99e7b2f318aa8ce02c208c614b576b710ae32ae83ec7ab",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "christmas",
+    "name": "Cinnamon Orange Dome",
+    "itemNo": "LNV-XMS-499CC25C",
+    "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
+    "packagingImage": "assets/candles/candles-073.webp",
+    "previousImage": "assets/candles/candles-073.webp",
+    "sourceFile": "18.png",
+    "sha256": "d562217af6c6dcb7d8062d6f3f90f5b1b0acd366cb156150397b7a046bb54d3b",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  },
+  {
+    "category": "christmas",
+    "name": "Forest Garland Dome",
+    "itemNo": "LNV-XMS-B26959C2",
+    "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
+    "packagingImage": "assets/candles/candles-074.webp",
+    "previousImage": "assets/candles/candles-074.webp",
+    "sourceFile": "20.png",
+    "sha256": "b7c2f963b441ad3ea5504ca6aaa600817c75ea0063041b4e1eff67823a25bb4b",
+    "upload": "file_00000000698481f5bede6981d8791265"
+  }
+]
