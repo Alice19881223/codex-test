@@ -203,7 +203,7 @@ header nav .nav-picture:hover img,header nav .nav-picture:focus-visible img{tran
 header{position:relative;z-index:30}
 .fragrance-navigation{position:relative;align-self:stretch;min-width:0}
 .fragrance-navigation>.nav-picture{height:100%}
- .fragrance-dropdown{position:absolute;top:100%;right:0;width:640px;padding:12px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;background:#faf7f0;border:1px solid #d9dfcf;border-radius:16px;box-shadow:0 16px 40px #243d2b24;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .22s ease,transform .22s ease,visibility .22s;z-index:40;text-align:left}
+ .fragrance-dropdown{position:absolute;top:100%;right:0;width:900px;padding:12px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;background:#faf7f0;border:1px solid #d9dfcf;border-radius:16px;box-shadow:0 16px 40px #243d2b24;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .22s ease,transform .22s ease,visibility .22s;z-index:40;text-align:left}
 .fragrance-navigation:hover .fragrance-dropdown,.fragrance-navigation:focus-within .fragrance-dropdown{opacity:1;visibility:visible;transform:translateY(0)}
 .fragrance-preview{display:block;min-width:0;border-radius:10px;transition:background .2s ease}
 .fragrance-preview:hover,.fragrance-preview:focus-visible{background:#eef1e7}
