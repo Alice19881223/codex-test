@@ -23,8 +23,6 @@ for scent in rows:
 (root/'assets/fragrances.json').write_text(json.dumps(rows,indent=2))
 p=root/'catalog.js';text=re.sub(r'^const fragranceThemes = .*?;\n','',p.read_text(),flags=re.M);a=text.index('const scents = ');b=text.index('const candleProducts = ',a)
 p.write_text(text[:a]+'const fragranceThemes = '+json.dumps(['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'])+';\nconst scents = '+json.dumps(rows,indent=2)+';\n\n'+text[b:])
-p=root/'fragrance.html';text=p.read_text().replace('Explore 30 fragrance directions.<br>Select a scent to discover its collection.',f'{len(rows)} fragrance directions across five themes.<br>Discover the notes and find your perfect pairing.')
-text=re.sub(r'\d+ fragrance directions across five themes\.',f'{len(rows)} fragrance directions across five themes.',text)
-text=text.replace('Concept collection: fragrance pairings and product availability are illustrative and will be confirmed with the final product catalogue.','Suggested fragrance profiles and product pairings. Contact us to confirm formulations and availability.')
-p.write_text(text)
+# Preserve bookmarked URLs while opening the inline menu instead of a separate library view.
+(root/'fragrance.html').write_text('<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=index.html?fragrances=open"><title>Fragrance — Lanarve</title><link rel="canonical" href="index.html?fragrances=open"></head><body><p><a href="index.html?fragrances=open">Explore fragrances by theme</a></p></body></html>')
 print(f'Fragrance library: {len(rows)} profiles; '+str(sum(len(s['matches']) for s in rows))+' specific product links verified')

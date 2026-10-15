@@ -45,5 +45,13 @@ for scent in fragrances:
   rows=catalogues[match['category']];index=next(i for i,p in enumerate(rows) if p['image']==match['image'])
   page=(stage/target.path).read_text()
   assert f'data-category="{match["category"]}"' in page and f'data-photo="{index}"' in page,match['href']
+from html import unescape
+expected_menu_links=[match['matches'][0]['href'] for theme in ['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'] for match in fragrances if theme in match['themes']]
+for path in stage.glob('*.html'):
+ text=path.read_text()
+ if '<header>' in text:
+  links=[unescape(url) for url in re.findall(r'class="fragrance-scent-link" href="([^"]+)"',text)]
+  assert links==expected_menu_links,f'{path.name}: compact fragrance links are incomplete'
+  assert 'id="scent-grid"' not in text,'The retired fragrance-card view must not be published'
 print(f'Verified {len(fragrances)} fragrance profiles and {sum(len(s["matches"]) for s in fragrances)} specific product links.')
 print('Prepared public website; product photos, paired-view order, catalogue pagination and public links verified.')
