@@ -1,0 +1,222 @@
+[
+  {
+    "category": "candle",
+    "name": "Rose Poetry",
+    "itemNo": "LNV-CND-D9B4EE7C",
+    "image": "assets/candles/standalone/df082b833c999a07cd26.png",
+    "packagingImage": "assets/candles/candles-026.webp",
+    "previousImage": "assets/candles/candles-026.webp",
+    "sourceFile": "1.png",
+    "sha256": "df082b833c999a07cd264bed31fb649435f6baffa5fa69dbfa61f0b51b656b3e",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Vanilla Poetry",
+    "itemNo": "LNV-CND-46CE9DCD",
+    "image": "assets/candles/standalone/3165b9331fe5bf173ecc.png",
+    "packagingImage": "assets/candles/candles-027.webp",
+    "previousImage": "assets/candles/candles-027.webp",
+    "sourceFile": "2.png",
+    "sha256": "3165b9331fe5bf173eccc0746b75f6c6ed0f6b17f9cf41cb7cf6759ab3c3e6d8",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Morning Citrus Garden",
+    "itemNo": "LNV-CND-7ACE2C64",
+    "image": "assets/candles/standalone/ce5925a4e4cce0c3a0be.png",
+    "packagingImage": "assets/candles/candles-057.webp",
+    "previousImage": "assets/candles/candles-057.webp",
+    "sourceFile": "3.png",
+    "sha256": "ce5925a4e4cce0c3a0be73603f4197a0f421acda7a923369e1d0e1964201862f",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Mauve Wild",
+    "itemNo": "LNV-CND-401266A5",
+    "image": "assets/candles/standalone/99abaed16aca13894dc1.png",
+    "packagingImage": "assets/candles/candles-020.webp",
+    "previousImage": "assets/candles/candles-020.webp",
+    "sourceFile": "4.png",
+    "sha256": "99abaed16aca13894dc16aef961573b37c019cc11fa9458739cdbb612529eae4",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "reed",
+    "name": "Honey Orb",
+    "itemNo": "LNV-RD-510E8CA9",
+    "image": "assets/reeds/standalone/0918174ebdbf24e5e7ed.png",
+    "packagingImage": "assets/reeds/reeds-126.webp",
+    "previousImage": "assets/reeds/reeds-126.webp",
+    "sourceFile": "5.png",
+    "sha256": "0918174ebdbf24e5e7ed88f6af09687d57d3a1d02b634a289e38b10d3a825b49",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Peony Ember",
+    "itemNo": "LNV-CND-A552EAE4",
+    "image": "assets/candles/standalone/29e83e528bd9cf8994c1.png",
+    "packagingImage": "assets/candles/candles-022.webp",
+    "previousImage": "assets/candles/candles-022.webp",
+    "sourceFile": "6.png",
+    "sha256": "29e83e528bd9cf8994c103ff11c4bd2ef44b75e70d0fa782845a2049e0c56249",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "reed",
+    "name": "Smoked Tea Classic",
+    "itemNo": "LNV-RD-9FB7B57F",
+    "image": "assets/reeds/standalone/d3982648db5a7b0b97b2.png",
+    "packagingImage": "assets/reeds/reeds-129.webp",
+    "previousImage": "assets/reeds/reeds-129.webp",
+    "sourceFile": "7.png",
+    "sha256": "d3982648db5a7b0b97b28ef97e796639446594e8345ddb554826408e90a74f31",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Ocean Poetry",
+    "itemNo": "LNV-CND-26103F10",
+    "image": "assets/candles/standalone/48975371a77ec68b8df5.png",
+    "packagingImage": "assets/candles/candles-025.webp",
+    "previousImage": "assets/candles/candles-025.webp",
+    "sourceFile": "8.png",
+    "sha256": "48975371a77ec68b8df559b21ba302c991e6d86be0ecef3cddb5bc26f2f84d48",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Sunlit Petals",
+    "itemNo": "LNV-CND-62D9DFFC",
+    "image": "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
+    "packagingImage": "assets/candles/candles-028.webp",
+    "previousImage": "assets/candles/candles-028.webp",
+    "sourceFile": "9.png",
+    "sha256": "f9fa2d8a3fb0810dae3f7f3966008928cb2f1af57b1f5e5b3f4e76858023fca3",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Ochre Wild",
+    "itemNo": "LNV-CND-024ABDB4",
+    "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
+    "packagingImage": "assets/candles/candles-019.webp",
+    "previousImage": "assets/candles/candles-019.webp",
+    "sourceFile": "10.png",
+    "sha256": "c0a082d97a20f207e6ced940f5e0202098d3b954994766b1bb6fa6273eb44b62",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Sunlit Grove",
+    "itemNo": "LNV-CND-7BD30B48",
+    "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
+    "packagingImage": "assets/candles/candles-055.webp",
+    "previousImage": "assets/candles/candles-055.webp",
+    "sourceFile": "11.png",
+    "sha256": "b35477ecc4b3afa624459f27c8a166796d0f75d6059446895c8e64a71f5a2f68",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "White Tea Sketch",
+    "itemNo": "LNV-CND-1C58C28D",
+    "image": "assets/candles/standalone/5f5b6808d37fdf2d0f13.png",
+    "packagingImage": "assets/candles/candles-030.webp",
+    "previousImage": "assets/candles/candles-030.webp",
+    "sourceFile": "12.png",
+    "sha256": "5f5b6808d37fdf2d0f13c31a8b27d4cb5335eb4cb217fb2e9ed8fbd985410ed6",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Vanilla Grove",
+    "itemNo": "LNV-CND-1F173FC3",
+    "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
+    "packagingImage": "assets/candles/candles-023.webp",
+    "previousImage": "assets/candles/candles-023.webp",
+    "sourceFile": "13.png",
+    "sha256": "3e6c7d3bd32ae38d8a9215e9f2c76c16da9a94b1658d0ac5e5dea96f6e66ae86",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "reed",
+    "name": "Sandalwood Hearth",
+    "itemNo": "LNV-RD-15AA5D48",
+    "image": "assets/reeds/standalone/2075772fabe318f6ee41.png",
+    "packagingImage": "assets/reeds/reeds-130.webp",
+    "previousImage": "assets/reeds/reeds-130.webp",
+    "sourceFile": "14.png",
+    "sha256": "2075772fabe318f6ee4151932c426ab529dd54d07e904d32a45c4d70150fa712",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "reed",
+    "name": "Deep Amber Classic",
+    "itemNo": "LNV-RD-AD3C36BE",
+    "image": "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
+    "packagingImage": "assets/reeds/reeds-128.webp",
+    "previousImage": "assets/reeds/reeds-128.webp",
+    "sourceFile": "15.png",
+    "sha256": "9bc380e0630d04eb7ce7d35ac06b9a21c395e21505cd320a7a708e43f61c4cc7",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Rose Breeze Garden",
+    "itemNo": "LNV-CND-52A81CC5",
+    "image": "assets/candles/standalone/019a491870bb30c2f313.png",
+    "packagingImage": "assets/candles/candles-058.webp",
+    "previousImage": "assets/candles/candles-058.webp",
+    "sourceFile": "16.png",
+    "sha256": "019a491870bb30c2f313ab2ca578c726c7e2f8b1dcbd943642354e9097061ec3",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Sea Salt Sketch",
+    "itemNo": "LNV-CND-D2A9322A",
+    "image": "assets/candles/standalone/bbb7c7beab06bb5d6239.png",
+    "packagingImage": "assets/candles/candles-029.webp",
+    "previousImage": "assets/candles/candles-029.webp",
+    "sourceFile": "17.png",
+    "sha256": "bbb7c7beab06bb5d623969f90b10199f5c1ace585f1d3af42c9202c2054c13e4",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Woodland Tale",
+    "itemNo": "LNV-CND-C0F0AACF",
+    "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
+    "packagingImage": "assets/candles/candles-056.webp",
+    "previousImage": "assets/candles/candles-056.webp",
+    "sourceFile": "18.png",
+    "sha256": "ca78f49f63c3984fe232a51c70caefbe5751732c75969ff595504611eb6b5dc2",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Cocoa Wild",
+    "itemNo": "LNV-CND-54C26556",
+    "image": "assets/candles/standalone/e7d024f3f8ff3706bcee.png",
+    "packagingImage": "assets/candles/candles-021.webp",
+    "previousImage": "assets/candles/candles-021.webp",
+    "sourceFile": "19.png",
+    "sha256": "e7d024f3f8ff3706bceedec6b257f1db3cfe98901b5217c6a92b023723e35093",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  },
+  {
+    "category": "candle",
+    "name": "Green Tea Poetry",
+    "itemNo": "LNV-CND-D63B27C8",
+    "image": "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
+    "packagingImage": "assets/candles/candles-024.webp",
+    "previousImage": "assets/candles/candles-024.webp",
+    "sourceFile": "20.png",
+    "sha256": "18e0a2baf489e98f7b5cc0834e88bc999866033a3e08f5527609a5a078aa0356",
+    "upload": "file_00000000767081f58db823a0085dd30b"
+  }
+]

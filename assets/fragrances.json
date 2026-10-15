@@ -176,7 +176,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-023.webp",
+        "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
         "name": "Vanilla Grove",
         "series": "Botanical Warmth",
         "href": "product-lnv-cnd-1f173fc3.html?scent=peony-lychee",
@@ -184,7 +184,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-022.webp",
+        "image": "assets/candles/standalone/29e83e528bd9cf8994c1.png",
         "name": "Peony Ember",
         "series": "Botanical Warmth",
         "href": "product-lnv-cnd-a552eae4.html?scent=peony-lychee",
@@ -858,7 +858,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-128.webp",
+        "image": "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
         "name": "Deep Amber Classic",
         "series": "Amber Classics",
         "href": "product-lnv-rd-ad3c36be.html?scent=pomegranate-amber",
@@ -1302,7 +1302,7 @@
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-129.webp",
+        "image": "assets/reeds/standalone/d3982648db5a7b0b97b2.png",
         "name": "Smoked Tea Classic",
         "series": "Amber Classics",
         "href": "product-lnv-rd-9fb7b57f.html?scent=black-tea-cedarwood",
@@ -1779,7 +1779,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-130.webp",
+        "image": "assets/reeds/standalone/2075772fabe318f6ee41.png",
         "name": "Sandalwood Hearth",
         "series": "Woodland Amber",
         "href": "product-lnv-rd-15aa5d48.html?scent=sandalwood-cashmere",
@@ -1854,7 +1854,7 @@
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-056.webp",
+        "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
         "name": "Woodland Tale",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=cedarwood-vetiver",
@@ -1862,7 +1862,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-055.webp",
+        "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=cedarwood-vetiver",
@@ -2052,7 +2052,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-128.webp",
+        "image": "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
         "name": "Deep Amber Classic",
         "series": "Amber Classics",
         "href": "product-lnv-rd-ad3c36be.html?scent=amber-vanilla",
@@ -2126,7 +2126,7 @@
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-023.webp",
+        "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
         "name": "Vanilla Grove",
         "series": "Botanical Warmth",
         "href": "product-lnv-cnd-1f173fc3.html?scent=vanilla-tonka",
@@ -2134,7 +2134,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-022.webp",
+        "image": "assets/candles/standalone/29e83e528bd9cf8994c1.png",
         "name": "Peony Ember",
         "series": "Botanical Warmth",
         "href": "product-lnv-cnd-a552eae4.html?scent=vanilla-tonka",
@@ -2450,7 +2450,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-056.webp",
+        "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
         "name": "Woodland Tale",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=fir-cedarwood",
@@ -2458,7 +2458,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-055.webp",
+        "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=fir-cedarwood",
@@ -2708,7 +2708,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-024.webp",
+        "image": "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
         "name": "Green Tea Poetry",
         "series": "Everyday Botanicals",
         "href": "product-lnv-cnd-d63b27c8.html?scent=mugwort-incense",
@@ -2783,7 +2783,7 @@
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-024.webp",
+        "image": "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
         "name": "Green Tea Poetry",
         "series": "Everyday Botanicals",
         "href": "product-lnv-cnd-d63b27c8.html?scent=green-tea-cedarwood",
@@ -3114,7 +3114,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-056.webp",
+        "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
         "name": "Woodland Tale",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=pine-cedarwood",
@@ -3122,7 +3122,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-055.webp",
+        "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
         "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=pine-cedarwood",

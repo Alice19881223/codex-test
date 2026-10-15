@@ -465,63 +465,159 @@
   },
   {
     "name": "Ochre Wild",
-    "image": "assets/candles/candles-019.webp",
-    "series": "Earth Tones"
+    "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
+    "series": "Earth Tones",
+    "legacyImages": [
+      "assets/candles/candles-019.webp"
+    ],
+    "packagingImage": "assets/candles/candles-019.webp",
+    "images": [
+      "assets/candles/standalone/c0a082d97a20f207e6ce.png",
+      "assets/candles/candles-019.webp"
+    ]
   },
   {
     "name": "Mauve Wild",
-    "image": "assets/candles/candles-020.webp",
-    "series": "Earth Tones"
+    "image": "assets/candles/standalone/99abaed16aca13894dc1.png",
+    "series": "Earth Tones",
+    "legacyImages": [
+      "assets/candles/candles-020.webp"
+    ],
+    "packagingImage": "assets/candles/candles-020.webp",
+    "images": [
+      "assets/candles/standalone/99abaed16aca13894dc1.png",
+      "assets/candles/candles-020.webp"
+    ]
   },
   {
     "name": "Cocoa Wild",
-    "image": "assets/candles/candles-021.webp",
-    "series": "Earth Tones"
+    "image": "assets/candles/standalone/e7d024f3f8ff3706bcee.png",
+    "series": "Earth Tones",
+    "legacyImages": [
+      "assets/candles/candles-021.webp"
+    ],
+    "packagingImage": "assets/candles/candles-021.webp",
+    "images": [
+      "assets/candles/standalone/e7d024f3f8ff3706bcee.png",
+      "assets/candles/candles-021.webp"
+    ]
   },
   {
     "name": "Peony Ember",
-    "image": "assets/candles/candles-022.webp",
-    "series": "Botanical Warmth"
+    "image": "assets/candles/standalone/29e83e528bd9cf8994c1.png",
+    "series": "Botanical Warmth",
+    "legacyImages": [
+      "assets/candles/candles-022.webp"
+    ],
+    "packagingImage": "assets/candles/candles-022.webp",
+    "images": [
+      "assets/candles/standalone/29e83e528bd9cf8994c1.png",
+      "assets/candles/candles-022.webp"
+    ]
   },
   {
     "name": "Vanilla Grove",
-    "image": "assets/candles/candles-023.webp",
-    "series": "Botanical Warmth"
+    "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
+    "series": "Botanical Warmth",
+    "legacyImages": [
+      "assets/candles/candles-023.webp"
+    ],
+    "packagingImage": "assets/candles/candles-023.webp",
+    "images": [
+      "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
+      "assets/candles/candles-023.webp"
+    ]
   },
   {
     "name": "Green Tea Poetry",
-    "image": "assets/candles/candles-024.webp",
-    "series": "Everyday Botanicals"
+    "image": "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
+    "series": "Everyday Botanicals",
+    "legacyImages": [
+      "assets/candles/candles-024.webp"
+    ],
+    "packagingImage": "assets/candles/candles-024.webp",
+    "images": [
+      "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
+      "assets/candles/candles-024.webp"
+    ]
   },
   {
     "name": "Ocean Poetry",
-    "image": "assets/candles/candles-025.webp",
-    "series": "Everyday Botanicals"
+    "image": "assets/candles/standalone/48975371a77ec68b8df5.png",
+    "series": "Everyday Botanicals",
+    "legacyImages": [
+      "assets/candles/candles-025.webp"
+    ],
+    "packagingImage": "assets/candles/candles-025.webp",
+    "images": [
+      "assets/candles/standalone/48975371a77ec68b8df5.png",
+      "assets/candles/candles-025.webp"
+    ]
   },
   {
     "name": "Rose Poetry",
-    "image": "assets/candles/candles-026.webp",
-    "series": "Everyday Botanicals"
+    "image": "assets/candles/standalone/df082b833c999a07cd26.png",
+    "series": "Everyday Botanicals",
+    "legacyImages": [
+      "assets/candles/candles-026.webp"
+    ],
+    "packagingImage": "assets/candles/candles-026.webp",
+    "images": [
+      "assets/candles/standalone/df082b833c999a07cd26.png",
+      "assets/candles/candles-026.webp"
+    ]
   },
   {
     "name": "Vanilla Poetry",
-    "image": "assets/candles/candles-027.webp",
-    "series": "Everyday Botanicals"
+    "image": "assets/candles/standalone/3165b9331fe5bf173ecc.png",
+    "series": "Everyday Botanicals",
+    "legacyImages": [
+      "assets/candles/candles-027.webp"
+    ],
+    "packagingImage": "assets/candles/candles-027.webp",
+    "images": [
+      "assets/candles/standalone/3165b9331fe5bf173ecc.png",
+      "assets/candles/candles-027.webp"
+    ]
   },
   {
     "name": "Sunlit Petals",
-    "image": "assets/candles/candles-028.webp",
-    "series": "Botanical Sketches"
+    "image": "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
+    "series": "Botanical Sketches",
+    "legacyImages": [
+      "assets/candles/candles-028.webp"
+    ],
+    "packagingImage": "assets/candles/candles-028.webp",
+    "images": [
+      "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
+      "assets/candles/candles-028.webp"
+    ]
   },
   {
     "name": "Sea Salt Sketch",
-    "image": "assets/candles/candles-029.webp",
-    "series": "Botanical Sketches"
+    "image": "assets/candles/standalone/bbb7c7beab06bb5d6239.png",
+    "series": "Botanical Sketches",
+    "legacyImages": [
+      "assets/candles/candles-029.webp"
+    ],
+    "packagingImage": "assets/candles/candles-029.webp",
+    "images": [
+      "assets/candles/standalone/bbb7c7beab06bb5d6239.png",
+      "assets/candles/candles-029.webp"
+    ]
   },
   {
     "name": "White Tea Sketch",
-    "image": "assets/candles/candles-030.webp",
-    "series": "Botanical Sketches"
+    "image": "assets/candles/standalone/5f5b6808d37fdf2d0f13.png",
+    "series": "Botanical Sketches",
+    "legacyImages": [
+      "assets/candles/candles-030.webp"
+    ],
+    "packagingImage": "assets/candles/candles-030.webp",
+    "images": [
+      "assets/candles/standalone/5f5b6808d37fdf2d0f13.png",
+      "assets/candles/candles-030.webp"
+    ]
   },
   {
     "name": "Gilded Azure",
@@ -655,23 +751,55 @@
   },
   {
     "name": "Sunlit Grove",
-    "image": "assets/candles/candles-055.webp",
-    "series": "Woodland Stories"
+    "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
+    "series": "Woodland Stories",
+    "legacyImages": [
+      "assets/candles/candles-055.webp"
+    ],
+    "packagingImage": "assets/candles/candles-055.webp",
+    "images": [
+      "assets/candles/standalone/b35477ecc4b3afa62445.png",
+      "assets/candles/candles-055.webp"
+    ]
   },
   {
     "name": "Woodland Tale",
-    "image": "assets/candles/candles-056.webp",
-    "series": "Woodland Stories"
+    "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
+    "series": "Woodland Stories",
+    "legacyImages": [
+      "assets/candles/candles-056.webp"
+    ],
+    "packagingImage": "assets/candles/candles-056.webp",
+    "images": [
+      "assets/candles/standalone/ca78f49f63c3984fe232.png",
+      "assets/candles/candles-056.webp"
+    ]
   },
   {
     "name": "Morning Citrus Garden",
-    "image": "assets/candles/candles-057.webp",
-    "series": "Painted Gardens"
+    "image": "assets/candles/standalone/ce5925a4e4cce0c3a0be.png",
+    "series": "Painted Gardens",
+    "legacyImages": [
+      "assets/candles/candles-057.webp"
+    ],
+    "packagingImage": "assets/candles/candles-057.webp",
+    "images": [
+      "assets/candles/standalone/ce5925a4e4cce0c3a0be.png",
+      "assets/candles/candles-057.webp"
+    ]
   },
   {
     "name": "Rose Breeze Garden",
-    "image": "assets/candles/candles-058.webp",
-    "series": "Painted Gardens"
+    "image": "assets/candles/standalone/019a491870bb30c2f313.png",
+    "series": "Painted Gardens",
+    "legacyImages": [
+      "assets/candles/candles-058.webp"
+    ],
+    "packagingImage": "assets/candles/candles-058.webp",
+    "images": [
+      "assets/candles/standalone/019a491870bb30c2f313.png",
+      "assets/candles/candles-058.webp"
+    ]
   },
   {
     "name": "Verdant Garden",

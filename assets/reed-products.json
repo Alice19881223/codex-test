@@ -692,8 +692,16 @@
   },
   {
     "name": "Honey Orb",
-    "image": "assets/reeds/reeds-126.webp",
-    "series": "Glass Orbs"
+    "image": "assets/reeds/standalone/0918174ebdbf24e5e7ed.png",
+    "series": "Glass Orbs",
+    "legacyImages": [
+      "assets/reeds/reeds-126.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-126.webp",
+    "images": [
+      "assets/reeds/standalone/0918174ebdbf24e5e7ed.png",
+      "assets/reeds/reeds-126.webp"
+    ]
   },
   {
     "name": "Sage Orb",
@@ -710,18 +718,42 @@
   },
   {
     "name": "Deep Amber Classic",
-    "image": "assets/reeds/reeds-128.webp",
-    "series": "Amber Classics"
+    "image": "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
+    "series": "Amber Classics",
+    "legacyImages": [
+      "assets/reeds/reeds-128.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-128.webp",
+    "images": [
+      "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
+      "assets/reeds/reeds-128.webp"
+    ]
   },
   {
     "name": "Smoked Tea Classic",
-    "image": "assets/reeds/reeds-129.webp",
-    "series": "Amber Classics"
+    "image": "assets/reeds/standalone/d3982648db5a7b0b97b2.png",
+    "series": "Amber Classics",
+    "legacyImages": [
+      "assets/reeds/reeds-129.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-129.webp",
+    "images": [
+      "assets/reeds/standalone/d3982648db5a7b0b97b2.png",
+      "assets/reeds/reeds-129.webp"
+    ]
   },
   {
     "name": "Sandalwood Hearth",
-    "image": "assets/reeds/reeds-130.webp",
-    "series": "Woodland Amber"
+    "image": "assets/reeds/standalone/2075772fabe318f6ee41.png",
+    "series": "Woodland Amber",
+    "legacyImages": [
+      "assets/reeds/reeds-130.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-130.webp",
+    "images": [
+      "assets/reeds/standalone/2075772fabe318f6ee41.png",
+      "assets/reeds/reeds-130.webp"
+    ]
   },
   {
     "name": "Amber Bouquet",

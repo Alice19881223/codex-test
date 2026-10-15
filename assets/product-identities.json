@@ -19,6 +19,28 @@
     "assets/reeds/standalone/1897a7c919cef24794ab.png": "LNV-RD-47BA0B4A",
     "assets/reeds/standalone/b1d286b3aff7d72c474b.png": "LNV-RD-C112C38F",
     "assets/reeds/standalone/0ce20953b7f31b486366.png": "LNV-RD-2AD91044",
-    "assets/reeds/standalone/1bcfcddeea70ed693d4c.png": "LNV-RD-4D8D9CC7"
+    "assets/reeds/standalone/1bcfcddeea70ed693d4c.png": "LNV-RD-4D8D9CC7",
+    "assets/reeds/standalone/0918174ebdbf24e5e7ed.png": "LNV-RD-510E8CA9",
+    "assets/reeds/standalone/d3982648db5a7b0b97b2.png": "LNV-RD-9FB7B57F",
+    "assets/reeds/standalone/2075772fabe318f6ee41.png": "LNV-RD-15AA5D48",
+    "assets/reeds/standalone/9bc380e0630d04eb7ce7.png": "LNV-RD-AD3C36BE"
+  },
+  "candle": {
+    "assets/candles/standalone/df082b833c999a07cd26.png": "LNV-CND-D9B4EE7C",
+    "assets/candles/standalone/3165b9331fe5bf173ecc.png": "LNV-CND-46CE9DCD",
+    "assets/candles/standalone/ce5925a4e4cce0c3a0be.png": "LNV-CND-7ACE2C64",
+    "assets/candles/standalone/99abaed16aca13894dc1.png": "LNV-CND-401266A5",
+    "assets/candles/standalone/29e83e528bd9cf8994c1.png": "LNV-CND-A552EAE4",
+    "assets/candles/standalone/48975371a77ec68b8df5.png": "LNV-CND-26103F10",
+    "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png": "LNV-CND-62D9DFFC",
+    "assets/candles/standalone/c0a082d97a20f207e6ce.png": "LNV-CND-024ABDB4",
+    "assets/candles/standalone/b35477ecc4b3afa62445.png": "LNV-CND-7BD30B48",
+    "assets/candles/standalone/5f5b6808d37fdf2d0f13.png": "LNV-CND-1C58C28D",
+    "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png": "LNV-CND-1F173FC3",
+    "assets/candles/standalone/019a491870bb30c2f313.png": "LNV-CND-52A81CC5",
+    "assets/candles/standalone/bbb7c7beab06bb5d6239.png": "LNV-CND-D2A9322A",
+    "assets/candles/standalone/ca78f49f63c3984fe232.png": "LNV-CND-C0F0AACF",
+    "assets/candles/standalone/e7d024f3f8ff3706bcee.png": "LNV-CND-54C26556",
+    "assets/candles/standalone/18e0a2baf489e98f7b5c.png": "LNV-CND-D63B27C8"
   }
 }
