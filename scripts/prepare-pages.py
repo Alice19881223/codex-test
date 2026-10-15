@@ -24,13 +24,39 @@ for path in stage.glob('*.html'):
   rows=catalogues[category[1]];page=int(re.search(r'data-page="(\d+)"',text)[1]);indexes=[int(x) for x in re.findall(r'data-photo="(\d+)"',text)]
   collection=re.search(r'data-collection="([^"]+)"',text)
   if collection:
-   configs=json.loads((stage/f'assets/{category[1]}-collections.json').read_text());config=next(c for c in configs if c['slug']==collection[1]);lookup={x['series']+' | '+x['name']:i for i,x in enumerate(rows)};ordered=[lookup[k] for k in config['productKeys']];expected=ordered[(page-1)*12:page*12]
+   configs=json.loads((stage/f'assets/{category[1]}-collections.json').read_text());config=next(c for c in configs if c['slug']==collection[1]);lookup={x['series']+' | '+x['name']:i for i,x in enumerate(rows)};expected=[lookup[k] for k in config['pages'][page-1]]
+  elif 'data-arranged-catalogue="true"' in text:
+   layouts=json.loads((stage/'assets/catalogue-layouts.json').read_text());lookup={p['image']:i for i,p in enumerate(rows)};expected=[lookup[image] for image in layouts[category[1]][page-1]]
   else:expected=list(range((page-1)*12,min(page*12,len(rows))))
   assert indexes==expected,f'{path.name}: catalogue pagination does not match data'
  for url in re.findall(r'(?:src|href)="([^"#]+)"',path.read_text()):
   if re.match(r'^[a-z]+:',url):continue
   file=url.split('#')[0].split('?')[0]
   assert (stage/file).exists(),f'{path.name}: missing public file {file}'
+# A series that fits on a page must remain together; layouts must not hide products.
+from collections import Counter
+def validate_arrangement(pages,lookup):
+ assert all(0<len(page)<=12 for page in pages)
+ flat=[key for page in pages for key in page]
+ assert len(flat)==len(set(flat))
+ counts=Counter(lookup[key]['series'] for key in flat)
+ series_pages={}
+ for number,page in enumerate(pages):
+  runs=[]
+  for key in page:
+   series=lookup[key]['series'];series_pages.setdefault(series,set()).add(number)
+   if not runs or runs[-1]!=series:runs.append(series)
+  assert len(runs)==len(set(runs)),'A series is interrupted within a page'
+ assert all(len(numbers)==1 for series,numbers in series_pages.items() if counts[series]<=12),'A series was split across pages'
+for cat in ['candle','reed']:
+ configs=json.loads((stage/f'assets/{cat}-collections.json').read_text());lookup={p['series']+' | '+p['name']:p for p in catalogues[cat]}
+ for config in configs:
+  assert [key for page in config['pages'] for key in page]==config['productKeys']
+  validate_arrangement(config['pages'],lookup)
+for cat,pages in json.loads((stage/'assets/catalogue-layouts.json').read_text()).items():
+ lookup={p['image']:p for p in catalogues[cat]}
+ assert {key for page in pages for key in page}==set(lookup)
+ validate_arrangement(pages,lookup)
 # Fragrance links must target the exact product on the correct category page.
 from urllib.parse import urlsplit,parse_qs
 fragrances=json.loads((stage/'assets/fragrances.json').read_text())

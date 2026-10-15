@@ -11,11 +11,6 @@ for product in products:grouped.setdefault(product['series'],[]).append(product)
 products=[p for group in grouped.values() for p in group]
 (ROOT/'assets/candle-products.json').write_text(json.dumps(products,ensure_ascii=False,indent=2))
 path=ROOT/'assets/candle-collections.json';collections=json.loads(path.read_text())
-for collection in collections:
- grouped=OrderedDict()
- for product_key in collection['productKeys']:grouped.setdefault(product_key.split(' | ')[0],[]).append(product_key)
- collection['productKeys']=[k for group in grouped.values() for k in group]
-path.write_text(json.dumps(collections,ensure_ascii=False,indent=2))
 p=ROOT/'catalog.js';source=p.read_text();source=re.sub(r'const candleProducts = \[.*?\n\];',lambda m:'const candleProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';',source,count=1,flags=re.S);p.write_text(source)
 bykey={key(p):(i,p) for i,p in enumerate(products)}
 icons={
@@ -47,10 +42,10 @@ for name in ['products-current.html','products.html']:(ROOT/name).write_text(lan
 for path in ROOT.glob('products-candle-*.html'):
  path.write_text('<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=products-current.html"><title>Lanarve Candle Collections</title></head><body><a href="products-current.html">Explore candle collections</a></body></html>')
 for c in collections:
- rows=[bykey[k] for k in c['productKeys']];total=math.ceil(len(rows)/12)
+ rows=[bykey[k] for k in c['productKeys']];pages=c['pages'];total=len(pages)
  for page in range(1,total+1):
-  start=(page-1)*12;s=re.sub(r'data-category="candle" data-page="\d+"',f'data-category="candle" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(c["productKeys"])}"',base)
-  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="products-current.html">Candle collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} candles · Page {page} of {total}</p>'
+  start=sum(len(part) for part in pages[:page-1]);page_rows=[bykey[k] for k in pages[page-1]];s=re.sub(r'data-category="candle" data-page="\d+"',f'data-category="candle" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(c["productKeys"])}" data-collection-pages="{total}"',base)
+  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="products-current.html">Candle collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in page_rows)+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{start+len(page_rows)} of {len(rows)} candles · Page {page} of {total}</p>'
   previous=f'<a href="{filename(c["slug"],page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
   nxt=f'<a href="{filename(c["slug"],page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>'
   numbers=''.join(f'<a href="{filename(c["slug"],n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
@@ -60,7 +55,7 @@ print('Collection counts:',{c['name']:len(c['productKeys']) for c in collections
 
 # A smaller collection may no longer need its former final page.
 for c in collections:
- total=math.ceil(len(c['productKeys'])/12)
+ total=len(c['pages'])
  for path in ROOT.glob(f'candles-{c["slug"]}-*.html'):
   match=re.search(r'-(\d+)\.html$',path.name)
   if match and int(match[1])>total:

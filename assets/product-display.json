@@ -1,0 +1,863 @@
+{
+  "assets/candles/paired/706a9cb934df23f1ce96.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/10d7297ec4e2e39c4df6.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/paired/3ae397f5d9f617bbf348.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/paired/07944550f1fc2592d815.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/paired/c1025ec341c6a7b60413.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/paired/7be1aa85d0170c284922.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/paired/14b03567b9e1d531039d.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/paired/b1a337722ec53404ae09.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/d9feede215a30484aa79.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/paired/cdc473daed5f344ade64.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/d6e65e02000c1649cfca.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/287d23366d4c063f04f9.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/paired/4fbc33c9500b11ca9a9b.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/paired/5489f55a80565a8ad3b2.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/paired/f62beb39ab1806d66782.webp": {
+    "palette": "lavender"
+  },
+  "assets/candles/paired/b09baac75da0893acee3.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/paired/7af4fa22a012b5c0ef40.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/paired/20c64492ea431b4ad239.webp": {
+    "palette": "lavender"
+  },
+  "assets/candles/paired/986d2edec0865818a739.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/paired/e2419ac62b562d3b0520.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/paired/9dbd2373b514ef18213d.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/paired/522eb2b410541447b0fc.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/paired/ef573ef4b49c1af85848.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/paired/947cbc1d98dee6da5d51.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/paired/a890e2a4dac981243da3.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/paired/2d960ad5048dc6d12875.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/paired/e6a379ea95e7f1408253.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/1f1fd2e0ca388db40ca3.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/paired/e9583a062cd69e708bb4.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/paired/6557fed21b15dacbccfa.webp": {
+    "palette": "walnut"
+  },
+  "assets/candles/paired/b053837f042853978ab8.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/paired/257c6ea41af465989ab3.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-001.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-002.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-003.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/candles-004.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-005.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-006.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-007.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/candles-008.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-011.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-012.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/candles-013.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-014.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/candles-015.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-016.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-017.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-018.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/candles-019.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-020.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-021.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/candles-022.webp": {
+    "palette": "walnut"
+  },
+  "assets/candles/candles-023.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/candles-024.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-025.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-026.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-027.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/candles-028.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-029.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/candles-030.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-031.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-032.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-033.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-089.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-034.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-036.webp": {
+    "palette": "walnut"
+  },
+  "assets/candles/candles-037.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-038.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-039.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-040.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-041.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-042.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-043.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-044.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-045.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-046.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-047.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-048.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-049.webp": {
+    "palette": "walnut"
+  },
+  "assets/candles/candles-050.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-051.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-052.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-053.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-054.webp": {
+    "palette": "lavender"
+  },
+  "assets/candles/candles-055.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-056.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-057.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/candles-058.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-059.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-060.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-061.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-062.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-063.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-064.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-065.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-066.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-067.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-068.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-069.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/candles-070.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/candles-071.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/candles-075.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-076.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/candles-077.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-078.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-079.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/candles-080.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/candles-081.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-082.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-083.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-084.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-085.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-086.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/candles-087.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-088.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/8e262fb59fe070149987.webp": {
+    "palette": "blush"
+  },
+  "assets/reeds/paired/0a8c637f10e3e435ded4.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/paired/784f4e7e2722b90cad34.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/paired/201427d60f110f84530c.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/paired/89098584f61f10212aea.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/paired/add3d2fe642716e15fb5.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/paired/cea8db64b1b62b86670e.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/paired/4d646c939a3be7d88aef.webp": {
+    "palette": "charcoal"
+  },
+  "assets/reeds/paired/64d6d060ce2595ff9070.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/paired/bf42dc79d33a16875f58.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/paired/3c06b51cf59cbf4d481d.webp": {
+    "palette": "charcoal"
+  },
+  "assets/reeds/paired/31d02f3668b75883be89.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/811b4bb9a24f8006326a.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/42174ebd1ef8f2421c12.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/7cd70493905ebfe2764c.webp": {
+    "palette": "charcoal"
+  },
+  "assets/reeds/paired/9317be016ed63d39b67c.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/7e95a9fee680e36d69cf.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/f66c22d087051b33f32d.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/paired/0506f93bffb5a0774f90.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/paired/87f8057288c690b4cb2b.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/27cc25f4936db9e927d9.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/paired/3d49e14d13a50bc979c6.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/reed-01.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reed-03.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reed-04.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-090.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reeds-091.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/reeds-092.webp": {
+    "palette": "blue"
+  },
+  "assets/reeds/reeds-093.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reeds-094.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-095.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reeds-096.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-097.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reeds-098.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reeds-099.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/reeds-100.webp": {
+    "palette": "blush"
+  },
+  "assets/reeds/reeds-101.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-102.webp": {
+    "palette": "sage"
+  },
+  "assets/companions/d254438f943ca1177135.webp": {
+    "palette": "walnut"
+  },
+  "assets/companions/7f5bb0b72c302656cc3e.webp": {
+    "palette": "charcoal"
+  },
+  "assets/companions/57fc12ec0de57fe4822f.webp": {
+    "palette": "charcoal"
+  },
+  "assets/companions/eb66283958ad1067c60b.webp": {
+    "palette": "charcoal"
+  },
+  "assets/companions/7ca9a742e8adc548081d.webp": {
+    "palette": "charcoal"
+  },
+  "assets/companions/47d5d503511846e0926c.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/reeds-109.webp": {
+    "palette": "sand"
+  },
+  "assets/companions/1b5ead3137dec1267c9b.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/reeds-111.webp": {
+    "palette": "burgundy"
+  },
+  "assets/companions/f034578ed7703c8e8eda.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reeds-113.webp": {
+    "palette": "blush"
+  },
+  "assets/companions/97b297ac3d3b797368fa.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-115.webp": {
+    "palette": "sage"
+  },
+  "assets/companions/231a21cbbc3f7b033780.webp": {
+    "palette": "ivory"
+  },
+  "assets/reeds/reeds-117.webp": {
+    "palette": "sand"
+  },
+  "assets/companions/9a2ccca3988e0e6b8bbb.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/27e4b122a9b559ae799d.webp": {
+    "palette": "charcoal"
+  },
+  "assets/companions/d83b888e65240d5a7203.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reeds-121.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reeds-122.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reeds-123.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-124.webp": {
+    "palette": "blush"
+  },
+  "assets/reeds/reeds-125.webp": {
+    "palette": "blush"
+  },
+  "assets/reeds/reeds-126.webp": {
+    "palette": "amber"
+  },
+  "assets/reeds/reeds-127.webp": {
+    "palette": "sage"
+  },
+  "assets/reeds/reeds-128.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/reeds-129.webp": {
+    "palette": "sand"
+  },
+  "assets/reeds/reeds-130.webp": {
+    "palette": "walnut"
+  },
+  "assets/reeds/reed-c188d2780401e54a.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reed-08fc7a8f9eb9370f.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reed-374f9f3b71955935.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reed-61ad69a502bd3498.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reed-3646bcf197e2090c.webp": {
+    "palette": "burgundy"
+  },
+  "assets/reeds/reed-b2f6d6a6d3e67553.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-db41da38fbfc9eb9.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-f82a3208f64026bc.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-1883f549fd4393dd.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-0d3f3a982460ae6d.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-6ffc48159c0055e0.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-640affaca6c8bc7e.webp": {
+    "palette": "gold"
+  },
+  "assets/reeds/reed-6760c2cb73451078.webp": {
+    "palette": "sand"
+  },
+  "assets/companions/6bb45b8d3cadf69b519f.webp": {
+    "palette": "ivory"
+  },
+  "assets/companions/e1974e206548b944acc1.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/5ad03d9fc0154ad26216.webp": {
+    "palette": "blue"
+  },
+  "assets/companions/c7a31362439fcd8e52cd.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/143ea721b89f464528da.webp": {
+    "palette": "ivory"
+  },
+  "assets/companions/776c5824d6f8c3e348a0.webp": {
+    "palette": "blush"
+  },
+  "assets/companions/20aea59b3de55988cfcb.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/78919717797a963dc844.webp": {
+    "palette": "walnut"
+  },
+  "assets/companions/cc0696772d15e3acdb9d.webp": {
+    "palette": "burgundy"
+  },
+  "assets/companions/33ac66bd00830bdaa036.webp": {
+    "palette": "walnut"
+  },
+  "assets/companions/b2b8111bb9e29b42d8ed.webp": {
+    "palette": "walnut"
+  },
+  "assets/companions/040856927401c5aa9fe5.webp": {
+    "palette": "blush"
+  },
+  "assets/companions/475614e9e2d215c64a93.webp": {
+    "palette": "lavender"
+  },
+  "assets/companions/6ee1d58cc46162d5a542.webp": {
+    "palette": "blue"
+  },
+  "assets/companions/c135302863be554b69df.webp": {
+    "palette": "sage"
+  },
+  "assets/companions/480e8ea00e1b76202c86.webp": {
+    "palette": "sand"
+  },
+  "assets/companions/39ead58bc6ca45512276.webp": {
+    "palette": "ivory"
+  },
+  "assets/companions/725149dff6d9af2e3e50.webp": {
+    "palette": "ivory"
+  },
+  "assets/companions/0cfedbd356005d4c2754.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/64e857d6f3b7717040c8.webp": {
+    "palette": "blue"
+  },
+  "assets/companions/a59b5af2bc9cfd7b724a.webp": {
+    "palette": "lavender"
+  },
+  "assets/companions/7f866c903bcf75344101.webp": {
+    "palette": "blush"
+  },
+  "assets/companions/7d04b24755dabebec6e7.webp": {
+    "palette": "amber"
+  },
+  "assets/companions/a35269a079593416887d.webp": {
+    "palette": "sand"
+  },
+  "assets/gifts/paired/f6a3b3425eee85def0c0.webp": {
+    "palette": "sage"
+  },
+  "assets/gifts/paired/fdf9a8279d9f87f3df91.webp": {
+    "palette": "blue"
+  },
+  "assets/gifts/paired/905159d5184ce017c1a2.webp": {
+    "palette": "gold"
+  },
+  "assets/gifts/paired/ffb8c60ea39c5109148a.webp": {
+    "palette": "amber"
+  },
+  "assets/gifts/paired/90b1f7205529d6c92bf0.webp": {
+    "palette": "amber"
+  },
+  "assets/gifts/paired/148cecd4fd72c958a34c.webp": {
+    "palette": "charcoal"
+  },
+  "assets/gifts/paired/b782592d405151c5df31.webp": {
+    "palette": "burgundy"
+  },
+  "assets/gifts/paired/66dc6cb0548823f9cb12.webp": {
+    "palette": "sage"
+  },
+  "assets/gifts/paired/5cd23250a05e889b2fc5.webp": {
+    "palette": "sage"
+  },
+  "assets/gifts/paired/71eb10fb2f75421ad40a.webp": {
+    "palette": "burgundy"
+  },
+  "assets/gifts/paired/20fd1335cbc93f2e83a3.webp": {
+    "palette": "amber"
+  },
+  "assets/gifts/paired/79dda4dedcfa715ec1d1.webp": {
+    "palette": "sage"
+  },
+  "assets/gifts/paired/a7da1073bd57b2db2336.webp": {
+    "palette": "blush"
+  },
+  "assets/gifts/paired/7d038471456f5c892207.webp": {
+    "palette": "blue"
+  },
+  "assets/gifts/paired/8efb79e6978aa255e72c.webp": {
+    "palette": "blush"
+  },
+  "assets/gifts/paired/f316b932be71fe3aaf88.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/candles-072.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/candles-073.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/candles-074.webp": {
+    "palette": "sand"
+  },
+  "assets/christmas/paired/fa0a43337a95d05c5727.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/d9c6cf216c67a77a99fd.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/1480094b012dbf961dae.webp": {
+    "palette": "blue"
+  },
+  "assets/christmas/paired/f77399a59a07a9b8e1ad.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/e710e9777530e1a2f07e.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/7f1e156495b0a459e0d6.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/9df584ca1e1685589d46.webp": {
+    "palette": "blush"
+  },
+  "assets/christmas/paired/437b85b84ad977d9adc1.webp": {
+    "palette": "ivory"
+  },
+  "assets/christmas/paired/a8a04f250be1545aa1c3.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/35a8205a0dcc5801c828.webp": {
+    "palette": "charcoal"
+  },
+  "assets/christmas/paired/39e039fb54a6b60d7eeb.webp": {
+    "palette": "sand"
+  },
+  "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/7244c0a1884379c3fc46.webp": {
+    "palette": "ivory"
+  },
+  "assets/christmas/paired/6db267b2806699718c15.webp": {
+    "palette": "sand"
+  },
+  "assets/christmas/paired/ff765036bc45dff2513b.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/e5c69a3391c36ae30d80.webp": {
+    "palette": "lavender"
+  },
+  "assets/christmas/paired/7964d0a4e143e4c26426.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/e40a6c47b33c64f54ee4.webp": {
+    "palette": "blue"
+  },
+  "assets/christmas/paired/b22e9bf1bb681718f5a4.webp": {
+    "palette": "ivory"
+  },
+  "assets/christmas/paired/a59a1441e620ff595494.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/208837f07b39c307c4fe.webp": {
+    "palette": "gold"
+  },
+  "assets/christmas/paired/58479c85aca5612cf8f4.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/d2035366cd0dcfcc2393.webp": {
+    "palette": "ivory"
+  },
+  "assets/christmas/paired/b654bd843ac4c8041f8c.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/fc5ea0dccfc61f30e459.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp": {
+    "palette": "ivory"
+  },
+  "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/c082e2bf728f7ad74860.webp": {
+    "palette": "walnut"
+  },
+  "assets/christmas/paired/61253e2d71812a5a6496.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/6bd0508a71ef54288424.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/df14c67cacea5845b494.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/6d52f0817361816118b7.webp": {
+    "palette": "sage"
+  },
+  "assets/christmas/paired/1383bf46ac80e1d62944.webp": {
+    "palette": "burgundy"
+  },
+  "assets/christmas/paired/5702fcfafd2123c3f93e.webp": {
+    "palette": "sand"
+  },
+  "assets/sachets/paired/2e09dbec67e3048635e7.webp": {
+    "palette": "burgundy"
+  },
+  "assets/sachets/paired/301de746753e02d728ce.webp": {
+    "palette": "amber"
+  },
+  "assets/sachets/paired/5ee9cd54d8b68955fb00.webp": {
+    "palette": "burgundy"
+  },
+  "assets/sachets/paired/14eefcbb28cb40378e95.webp": {
+    "palette": "ivory"
+  },
+  "assets/sachets/paired/b232e0c6ef6a01e2730e.webp": {
+    "palette": "amber"
+  },
+  "assets/sachets/paired/d2a2c13cb519e3a3e386.webp": {
+    "palette": "sage"
+  },
+  "assets/sachets/paired/ead03b28dd75d66e5fbc.webp": {
+    "palette": "sand"
+  },
+  "assets/sachets/paired/b70e7617bf5fafac62ee.webp": {
+    "palette": "amber"
+  },
+  "assets/sachets/paired/c9f48cb1e1688995b7f5.webp": {
+    "palette": "lavender"
+  },
+  "assets/sachets/paired/799aa3dbeae7975a972b.webp": {
+    "palette": "blush"
+  }
+}

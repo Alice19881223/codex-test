@@ -13,10 +13,10 @@ for scent in rows:
  for match in scent['matches']:
   cat=match['category'];products=catalogues[cat];index=next(i for i,p in enumerate(products) if p['image']==match['image']);p=products[index]
   if cat in ['candle','reed']:
-   collections=json.loads((root/f'assets/{cat}-collections.json').read_text());key=p['series']+' | '+p['name'];collection=next(c for c in collections if key in c['productKeys']);page=collection['productKeys'].index(key)//12+1
+   collections=json.loads((root/f'assets/{cat}-collections.json').read_text());key=p['series']+' | '+p['name'];collection=next(c for c in collections if key in c['productKeys']);page=next(i+1 for i,keys in enumerate(collection['pages']) if key in keys)
    target=('candles-' if cat=='candle' else 'reeds-')+collection['slug']+(f'-{page}' if page>1 else '')+'.html'
   else:
-   page=index//12+1
+   layouts=json.loads((root/'assets/catalogue-layouts.json').read_text());page=next(i+1 for i,images in enumerate(layouts[cat]) if p['image'] in images)
    target=f'products-crystal-{page}.html' if cat=='crystal' else ('gift-collection' if cat=='gift' else 'christmas-collection' if cat=='christmas' else 'sachets')+(f'-{page}' if page>1 else '')+'.html'
   assert (root/target).exists(),target
   text=(root/target).read_text();assert f'data-photo="{index}"' in text,f'{target}: linked product is not on page'

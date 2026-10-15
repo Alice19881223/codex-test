@@ -28,11 +28,11 @@ landing=landing.replace(' data-category="reed" data-page="1"','')
 (ROOT/'products-reed-1.html').write_text(landing)
 (ROOT/'reed-collections.html').write_text(landing)
 for c in collections:
- rows=[bykey[k] for k in c['productKeys']];total=math.ceil(len(rows)/12)
+ rows=[bykey[k] for k in c['productKeys']];pages=c['pages'];total=len(pages)
  for page in range(1,total+1):
-  start=(page-1)*12
-  s=base.replace('data-category="reed" data-page="1"',f'data-category="reed" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(rows)}"')
-  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="reed-collections.html">Reed diffuser collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in rows[start:start+12])+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{min(start+12,len(rows))} of {len(rows)} reed diffusers · Page {page} of {total}</p>'
+  start=sum(len(part) for part in pages[:page-1]);page_rows=[bykey[k] for k in pages[page-1]]
+  s=base.replace('data-category="reed" data-page="1"',f'data-category="reed" data-page="{page}" data-collection="{c["slug"]}" data-collection-count="{len(rows)}" data-collection-pages="{total}"')
+  main=f'<main><section class="candle-mood-intro"><a class="mood-breadcrumb" href="reed-collections.html">Reed diffuser collections /</a><img src="assets/mood-{c["icon"]}.svg" alt="" width="64" height="64"><h1>{esc(c["name"])}</h1><p>{esc(c["description"])}</p></section><section class="section catalogue-page">'+navigation(c['slug'])+'<div id="catalogue-grid" class="crystal-gallery">'+''.join(card(p,index) for index,p in page_rows)+'</div>'+f'<p id="catalogue-count" class="gallery-count" aria-live="polite">Showing {start+1}–{start+len(page_rows)} of {len(rows)} reed diffusers · Page {page} of {total}</p>'
   links=f'<a href="{filename(c["slug"],page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>'
   links+=''.join(f'<a href="{filename(c["slug"],n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
   links+=f'<a href="{filename(c["slug"],page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>'
@@ -42,10 +42,7 @@ for c in collections:
   (ROOT/filename(c['slug'],page)).write_text(s)
 print('Reed collections:',{c['name']:len(c['productKeys']) for c in collections})
 
+# Retire unthemed legacy pagination so bookmarks open the current collection entrance.
 for path in ROOT.glob('products-reed-*.html'):
- match=re.search(r'-(\d+)\.html$',path.name)
- if not match or int(match[1])==1:continue
- page=int(match[1]);start=(page-1)*12;text=path.read_text()
- text=re.sub(r'(<div id="catalogue-grid"[^>]*>).*?(</div>\s*<p id="catalogue-count")',lambda m:m[1]+''.join(card(p,start+i) for i,p in enumerate(products[start:start+12]))+m[2],text,flags=re.S)
- text=re.sub(r'(<p id="catalogue-count"[^>]*>).*?(</p>)',lambda m:m[1]+f'Showing {start+1}–{min(start+12,len(products))} of {len(products)} products · Page {page} of {math.ceil(len(products)/12)}'+m[2],text)
- path.write_text(text)
+ if path.name=='products-reed-1.html':continue
+ path.write_text('<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url=reed-collections.html"><title>Lanarve Reed Diffusers</title></head><body><a href="reed-collections.html">Explore reed diffuser collections</a></body></html>')
