@@ -215,3 +215,27 @@ header{position:relative;z-index:30}
 @media(max-width:1200px){.fragrance-dropdown{width:min(600px,88vw);right:0;grid-template-columns:repeat(2,minmax(0,1fr))}.fragrance-preview>img{height:190px}}
 @media(max-width:650px){.fragrance-dropdown{position:fixed;top:110px;left:6%;right:6%;width:auto;max-height:70vh;overflow:auto;grid-template-columns:1fr}.fragrance-preview>img{height:170px}}
 @media(prefers-reduced-motion:reduce){.fragrance-dropdown,.fragrance-preview{transition:none;transform:none}}
+
+.fragrance .scent-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;align-items:start}
+.fragrance .scent-card{padding:26px 22px;border-radius:14px;min-width:0;background:#f1f1e8}
+.scent-card .scent-family{font-size:10px;line-height:1.6;letter-spacing:.7px}
+.scent-detail-button{border:0;background:none;color:inherit;padding:0;text-align:left;font-size:24px;font-weight:500;line-height:1.35;cursor:pointer}
+.scent-detail-button:hover{color:#647c4e}
+.scent-detail-button>span{font-size:17px;white-space:nowrap}
+.note-pyramid{margin:20px 0;display:grid;gap:11px;line-height:1.6}
+.note-pyramid>div{display:grid;grid-template-columns:76px minmax(0,1fr);gap:10px}
+.note-pyramid dt{font-size:12px;letter-spacing:.3px;color:#607353;font-weight:600}
+.note-pyramid dd{margin:0;font-size:14px;color:#4d5748}
+.scent-scenario{font-size:13px;line-height:1.8;color:#69725e;min-height:64px}
+.scent-card h4{font-size:11px;letter-spacing:1px;text-transform:uppercase;margin:22px 0 12px;font-weight:500}
+.scent-pairings{display:grid;gap:9px}
+.scent-product-link{display:flex;gap:11px;align-items:center;padding:8px;background:#faf8f0;border:1px solid #e0e4d5;border-radius:9px;min-width:0;transition:background .2s,transform .2s}
+.scent-product-link:hover{background:#e6edde;transform:translateX(2px)}
+.scent-product-link>img{width:50px;height:50px;object-fit:cover;border-radius:5px;flex-shrink:0}
+.scent-product-link>span:nth-child(2){min-width:0;flex:1;line-height:1.45}
+.scent-product-link strong{font-size:13px;font-weight:500;display:block;overflow-wrap:anywhere}
+.scent-product-link small{font-size:11px;color:#718066;display:block;margin-top:3px}
+.scent-product-link>span:last-child{font-size:14px;color:#607353}
+@media(max-width:1100px){.fragrance .scent-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){.fragrance .scent-grid{grid-template-columns:1fr}.fragrance .scent-card{padding:23px 19px}.scent-scenario{min-height:0}}
+@media(prefers-reduced-motion:reduce){.scent-product-link{transition:none;transform:none}}

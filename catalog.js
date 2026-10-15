@@ -5,14 +5,2036 @@ const products = {
  crystal: { title: 'Crystal diffuser', description: 'A sculptural scent ritual. Pair decorative crystals with your preferred fragrance to create a personal accent for a desk, bedside or reading corner.', label: 'Scent, in a different light.' },
  gift: { title: 'The ritual gift set', description: 'Explore thoughtfully paired candles, diffusers and fragrance accessories. Contact us to discuss your preferred collection and fragrance.', label: 'Beautiful to give. Lovely to keep.' }
 };
+const fragranceThemes = ["Floral & Fruity", "Warm & Woody", "Fresh & Natural", "Tea & Tranquility", "Oriental Mystery"];
 const scents = [
- ['Santal & Amber','Woody','Sandalwood · amber · musk'],['Cedar & Fig','Woody','Cedar · fig leaf · green woods'],['Hinoki Forest','Woody','Hinoki · cypress · moss'],['Oud & Saffron','Woody','Oud · saffron · dry woods'],['Vetiver & Moss','Woody','Vetiver · oakmoss · earth'],
- ['Rose & Peony','Floral','Rose · peony · soft musk'],['Jasmine Tea','Floral','Jasmine · tea leaf · musk'],['White Neroli','Floral','Neroli · orange blossom · petitgrain'],['Iris & Violet','Floral','Iris · violet · powder'],['Tuberose at Dusk','Floral','Tuberose · jasmine · cream'],
- ['Bergamot & Lime','Citrus','Bergamot · lime · green tea'],['Yuzu & Ginger','Citrus','Yuzu · ginger · lemon'],['Mandarin Grove','Citrus','Mandarin · orange leaf · cedar'],['Grapefruit & Basil','Citrus','Grapefruit · basil · vetiver'],['Lemon Verbena','Citrus','Lemon · verbena · green leaf'],
- ['Sea Salt & Sage','Fresh','Sea salt · sage · driftwood'],['White Tea','Fresh','White tea · bergamot · musk'],['Lavender Linen','Fresh','Lavender · clean linen · musk'],['Eucalyptus Mint','Fresh','Eucalyptus · mint · green notes'],['Rain & Bamboo','Fresh','Bamboo · watery notes · green leaf'],
- ['Vanilla & Tonka','Gourmand','Vanilla · tonka · soft woods'],['Pistachio Cream','Gourmand','Pistachio · almond · vanilla'],['Coconut & Sandalwood','Gourmand','Coconut · sandalwood · cream'],['Coffee & Cacao','Gourmand','Coffee · cacao · vanilla'],['Pear & Freesia','Gourmand','Pear · freesia · soft amber'],
- ['Amber & Cashmere','Warm','Amber · cashmere woods · musk'],['Black Tea & Spice','Warm','Black tea · cardamom · cedar'],['Incense & Myrrh','Warm','Incense · myrrh · resins'],['Suede & Santal','Warm','Suede · sandalwood · musk'],['Cardamom & Cedar','Warm','Cardamom · cedar · amber']
-].map(([name,family,notes],index)=>({id:`fragrance-${index+1}`,name,family,notes,products:family==='Gourmand'?['candle','reed']:['candle','reed','crystal']}));
+  {
+    "id": "pear-freesia",
+    "name": "Pear & Freesia",
+    "themes": [
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Pear",
+      "bergamot"
+    ],
+    "heart": [
+      "Freesia",
+      "rose"
+    ],
+    "base": [
+      "White musk",
+      "soft woods"
+    ],
+    "description": "Light, sweet and airy; living rooms, bedrooms and spring gifting.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/3d49e14d13a50bc979c6.webp",
+        "name": "English Pear & Freesia",
+        "series": "Triangular Glass",
+        "href": "reeds-in-bloom-2.html?product=assets%2Freeds%2Fpaired%2F3d49e14d13a50bc979c6.webp&scent=pear-freesia"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/eb66283958ad1067c60b.webp",
+        "name": "Cylindrical \u2014 03",
+        "series": "Cylindrical",
+        "href": "reeds-in-bloom-2.html?product=assets%2Fcompanions%2Feb66283958ad1067c60b.webp&scent=pear-freesia"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/14b03567b9e1d531039d.webp",
+        "name": "Blush Bow",
+        "series": "Lolita",
+        "href": "candles-close-to-you-2.html?product=assets%2Fcandles%2Fpaired%2F14b03567b9e1d531039d.webp&scent=pear-freesia"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/8efb79e6978aa255e72c.webp",
+        "name": "Soft Blush Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection-2.html?product=assets%2Fgifts%2Fpaired%2F8efb79e6978aa255e72c.webp&scent=pear-freesia"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Freesia \u00b7 rose"
+  },
+  {
+    "id": "rose-green-leaves",
+    "name": "Rose & Green Leaves",
+    "themes": [
+      "Floral & Fruity",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Green leaves",
+      "bergamot"
+    ],
+    "heart": [
+      "Rose",
+      "geranium"
+    ],
+    "base": [
+      "White musk",
+      "cedarwood"
+    ],
+    "description": "Freshly cut roses with a green lift; romantic spaces and thoughtful gifts.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/1f1fd2e0ca388db40ca3.webp",
+        "name": "Desert Rose",
+        "series": "Organic Glass",
+        "href": "candles-close-to-you-2.html?product=assets%2Fcandles%2Fpaired%2F1f1fd2e0ca388db40ca3.webp&scent=rose-green-leaves"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-111.webp",
+        "name": "Square Glass \u2014 04",
+        "series": "Square Glass",
+        "href": "reeds-in-bloom-2.html?product=assets%2Freeds%2Freeds-111.webp&scent=rose-green-leaves"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/b782592d405151c5df31.webp",
+        "name": "Red Wine & Rose Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2Fb782592d405151c5df31.webp&scent=rose-green-leaves"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/799aa3dbeae7975a972b.webp",
+        "name": "Pink Rose Tablet",
+        "series": "Rose Fragrance Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2F799aa3dbeae7975a972b.webp&scent=rose-green-leaves"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Rose \u00b7 geranium"
+  },
+  {
+    "id": "peony-lychee",
+    "name": "Peony & Lychee",
+    "themes": [
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Lychee",
+      "pear"
+    ],
+    "heart": [
+      "Peony",
+      "rose"
+    ],
+    "base": [
+      "White musk",
+      "soft amber"
+    ],
+    "description": "Dewy, tender and gently sweet; bedrooms and dressing tables.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/27cc25f4936db9e927d9.webp",
+        "name": "Peony Blossom",
+        "series": "Triangular Glass",
+        "href": "reeds-in-bloom.html?product=assets%2Freeds%2Fpaired%2F27cc25f4936db9e927d9.webp&scent=peony-lychee"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-098.webp",
+        "name": "Pastel \u2014 01",
+        "series": "Pastel",
+        "href": "reeds-in-bloom-2.html?product=assets%2Freeds%2Freeds-098.webp&scent=peony-lychee"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-023.webp",
+        "name": "Vanilla & Peony \u2014 02",
+        "series": "Vanilla & Peony",
+        "href": "candles-a-moment-of-quiet-3.html?product=assets%2Fcandles%2Fcandles-023.webp&scent=peony-lychee"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/a7da1073bd57b2db2336.webp",
+        "name": "Blush Glass Dome Duo",
+        "series": "Blush Moments",
+        "href": "gift-collection-2.html?product=assets%2Fgifts%2Fpaired%2Fa7da1073bd57b2db2336.webp&scent=peony-lychee"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Peony \u00b7 rose"
+  },
+  {
+    "id": "jasmine-orange-blossom",
+    "name": "Jasmine & Orange Blossom",
+    "themes": [
+      "Floral & Fruity",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Citrus",
+      "petitgrain"
+    ],
+    "heart": [
+      "Jasmine",
+      "orange blossom"
+    ],
+    "base": [
+      "Musk",
+      "light woods"
+    ],
+    "description": "Bright white florals with a green touch; living rooms and entryways.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/4d646c939a3be7d88aef.webp",
+        "name": "Graphite Jasmine",
+        "series": "Matte Glass",
+        "href": "reeds-in-bloom.html?product=assets%2Freeds%2Fpaired%2F4d646c939a3be7d88aef.webp&scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-115.webp",
+        "name": "Square Glass \u2014 08",
+        "series": "Square Glass",
+        "href": "reeds-in-bloom-2.html?product=assets%2Freeds%2Freeds-115.webp&scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
+        "name": "White Florals",
+        "series": "Lace Glass",
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2Fb2a6e2ce97db70ea6f8a.webp&scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/14eefcbb28cb40378e95.webp",
+        "name": "Ivory Floral Wreath",
+        "series": "Floral Wax Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2F14eefcbb28cb40378e95.webp&scent=jasmine-orange-blossom"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Jasmine \u00b7 orange blossom"
+  },
+  {
+    "id": "gardenia-tuberose",
+    "name": "Gardenia & Tuberose",
+    "themes": [
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Green leaves",
+      "bergamot"
+    ],
+    "heart": [
+      "Gardenia",
+      "tuberose",
+      "jasmine"
+    ],
+    "base": [
+      "Sandalwood",
+      "musk"
+    ],
+    "description": "Full-bodied white florals; spacious living rooms and statement arrangements.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
+        "name": "Gardenia",
+        "series": "Vintage Florals",
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2F706a9cb934df23f1ce96.webp&scent=gardenia-tuberose"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
+        "name": "Gardenia",
+        "series": "Gradient Glass",
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2F5489f55a80565a8ad3b2.webp&scent=gardenia-tuberose"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp",
+        "name": "Moonlit Gardenia \u2014 Tall",
+        "series": "Ribbed Ceramic",
+        "href": "reeds-in-bloom.html?product=assets%2Freeds%2Fpaired%2F5f3d2fbfc68b486eeb50.webp&scent=gardenia-tuberose"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-3646bcf197e2090c.webp",
+        "name": "White Gardenia",
+        "series": "Floral Bouquet",
+        "href": "reeds-in-bloom-3.html?product=assets%2Freeds%2Freed-3646bcf197e2090c.webp&scent=gardenia-tuberose"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Gardenia \u00b7 tuberose \u00b7 jasmine"
+  },
+  {
+    "id": "lime-basil",
+    "name": "Lime & Basil",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Lime",
+      "mandarin"
+    ],
+    "heart": [
+      "Basil",
+      "thyme"
+    ],
+    "base": [
+      "Vetiver",
+      "cedarwood"
+    ],
+    "description": "Crisp citrus with a spicy green edge; entryways and shared spaces.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/e2419ac62b562d3b0520.webp",
+        "name": "Lime Basil",
+        "series": "Postbox",
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2Fe2419ac62b562d3b0520.webp&scent=lime-basil"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/7ca9a742e8adc548081d.webp",
+        "name": "Cylindrical \u2014 04",
+        "series": "Cylindrical",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Fcompanions%2F7ca9a742e8adc548081d.webp&scent=lime-basil"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/6bb45b8d3cadf69b519f.webp",
+        "name": "Refresh",
+        "series": "Seven-Day Rituals",
+        "href": "reeds-a-breath-of-fresh-air-2.html?product=assets%2Fcompanions%2F6bb45b8d3cadf69b519f.webp&scent=lime-basil"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/301de746753e02d728ce.webp",
+        "name": "Citrus Fern",
+        "series": "Botanical Wax Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2F301de746753e02d728ce.webp&scent=lime-basil"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Basil \u00b7 thyme"
+  },
+  {
+    "id": "grapefruit-bergamot",
+    "name": "Grapefruit & Bergamot",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Grapefruit",
+      "bergamot"
+    ],
+    "heart": [
+      "Orange blossom",
+      "fresh greens"
+    ],
+    "base": [
+      "White musk",
+      "cedarwood"
+    ],
+    "description": "Clean, bright and lightly bitter; living rooms and workspaces.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-095.webp",
+        "name": "Fresh Moments \u2014 02",
+        "series": "Fresh Moments",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Freeds%2Freeds-095.webp&scent=grapefruit-bergamot"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-102.webp",
+        "name": "Mountain \u2014 03",
+        "series": "Mountain",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Freeds%2Freeds-102.webp&scent=grapefruit-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-011.webp",
+        "name": "Sunlit Rituals \u2014 01",
+        "series": "Sunlit Rituals",
+        "href": "candles-close-to-you-2.html?product=assets%2Fcandles%2Fcandles-011.webp&scent=grapefruit-bergamot"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/b70e7617bf5fafac62ee.webp",
+        "name": "Bergamot Sachet",
+        "series": "Fabric Fragrance Sachets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2Fb70e7617bf5fafac62ee.webp&scent=grapefruit-bergamot"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Orange blossom \u00b7 fresh greens"
+  },
+  {
+    "id": "lemon-verbena",
+    "name": "Lemon & Verbena",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Lemon peel",
+      "citron"
+    ],
+    "heart": [
+      "Lemon verbena",
+      "green leaves"
+    ],
+    "base": [
+      "Musk",
+      "light woods"
+    ],
+    "description": "Crisp and leafy; sunny rooms and spaces near the kitchen.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/companions/7ca9a742e8adc548081d.webp",
+        "name": "Cylindrical \u2014 04",
+        "series": "Cylindrical",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Fcompanions%2F7ca9a742e8adc548081d.webp&scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-075.webp",
+        "name": "Bamboo \u2014 01",
+        "series": "Bamboo",
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=lemon-verbena"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/27e4b122a9b559ae799d.webp",
+        "name": "Minimal \u2014 01",
+        "series": "Minimal",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Fcompanions%2F27e4b122a9b559ae799d.webp&scent=lemon-verbena"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/301de746753e02d728ce.webp",
+        "name": "Citrus Fern",
+        "series": "Botanical Wax Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2F301de746753e02d728ce.webp&scent=lemon-verbena"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Lemon verbena \u00b7 green leaves"
+  },
+  {
+    "id": "bergamot-neroli",
+    "name": "Bergamot & Neroli",
+    "themes": [
+      "Fresh & Natural",
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Bergamot",
+      "bitter orange"
+    ],
+    "heart": [
+      "Neroli",
+      "petitgrain"
+    ],
+    "base": [
+      "White musk",
+      "soft amber"
+    ],
+    "description": "Fresh citrus softened by florals; calm entryways and bedrooms.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp",
+        "name": "Ivory Daisy",
+        "series": "Sculpted Floral",
+        "href": "reeds-in-bloom.html?product=assets%2Freeds%2Fpaired%2F7bd1f3d29f5f641ddd3d.webp&scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
+        "name": "Ivory Porcelain",
+        "series": "Minimal Relief",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F4fbc33c9500b11ca9a9b.webp&scent=bergamot-neroli"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/6ee1d58cc46162d5a542.webp",
+        "name": "Morning Mist",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F6ee1d58cc46162d5a542.webp&scent=bergamot-neroli"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/66dc6cb0548823f9cb12.webp",
+        "name": "Sage Green Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F66dc6cb0548823f9cb12.webp&scent=bergamot-neroli"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Neroli \u00b7 petitgrain"
+  },
+  {
+    "id": "fig-green-leaves",
+    "name": "Fig & Green Leaves",
+    "themes": [
+      "Floral & Fruity",
+      "Fresh & Natural",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Fig leaf",
+      "green notes"
+    ],
+    "heart": [
+      "Fig",
+      "light coconut milk"
+    ],
+    "base": [
+      "Cedarwood",
+      "soft woods"
+    ],
+    "description": "Leafy, creamy and woody; design-led living rooms and studies.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-109.webp",
+        "name": "Square Glass \u2014 02",
+        "series": "Square Glass",
+        "href": "reeds-in-bloom-2.html?product=assets%2Freeds%2Freeds-109.webp&scent=fig-green-leaves"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-008.webp",
+        "name": "Woven \u2014 01",
+        "series": "Woven",
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-008.webp&scent=fig-green-leaves"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/c135302863be554b69df.webp",
+        "name": "Verdant Calm",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2Fc135302863be554b69df.webp&scent=fig-green-leaves"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/79dda4dedcfa715ec1d1.webp",
+        "name": "Botanical Sage Duo",
+        "series": "Botanical Gifts",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F79dda4dedcfa715ec1d1.webp&scent=fig-green-leaves"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Fig \u00b7 light coconut milk"
+  },
+  {
+    "id": "blackcurrant-rose",
+    "name": "Blackcurrant & Rose",
+    "themes": [
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Blackcurrant",
+      "green leaves"
+    ],
+    "heart": [
+      "Rose",
+      "geranium"
+    ],
+    "base": [
+      "Musk",
+      "woods"
+    ],
+    "description": "Tart fruit meets delicate petals; living rooms and moments shared.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/cea8db64b1b62b86670e.webp",
+        "name": "Ebony & Rose Infusion",
+        "series": "Botanical Glass",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2Fcea8db64b1b62b86670e.webp&scent=blackcurrant-rose"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-041.webp",
+        "name": "Her \u00b7 Him \u00b7 Us \u2014 01",
+        "series": "Her \u00b7 Him \u00b7 Us",
+        "href": "candles-close-to-you.html?product=assets%2Fcandles%2Fcandles-041.webp&scent=blackcurrant-rose"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/b782592d405151c5df31.webp",
+        "name": "Red Wine & Rose Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2Fb782592d405151c5df31.webp&scent=blackcurrant-rose"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/799aa3dbeae7975a972b.webp",
+        "name": "Pink Rose Tablet",
+        "series": "Rose Fragrance Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2F799aa3dbeae7975a972b.webp&scent=blackcurrant-rose"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Rose \u00b7 geranium"
+  },
+  {
+    "id": "pomegranate-amber",
+    "name": "Pomegranate & Amber",
+    "themes": [
+      "Floral & Fruity",
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Pomegranate accord",
+      "plum",
+      "pink pepper"
+    ],
+    "heart": [
+      "Rose",
+      "gentle spices"
+    ],
+    "base": [
+      "Amber",
+      "cedarwood",
+      "patchouli"
+    ],
+    "description": "Deep fruit and mature warmth; autumn and winter living rooms.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/d9feede215a30484aa79.webp",
+        "name": "Baltic Amber",
+        "series": "Lace Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Fd9feede215a30484aa79.webp&scent=pomegranate-amber"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-128.webp",
+        "name": "Classic Amber \u2014 01",
+        "series": "Classic Amber",
+        "href": "reeds-at-home-at-ease-2.html?product=assets%2Freeds%2Freeds-128.webp&scent=pomegranate-amber"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/0cfedbd356005d4c2754.webp",
+        "name": "Amber Dusk",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F0cfedbd356005d4c2754.webp&scent=pomegranate-amber"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/20fd1335cbc93f2e83a3.webp",
+        "name": "Amber Tray Collection",
+        "series": "Warm Living",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F20fd1335cbc93f2e83a3.webp&scent=pomegranate-amber"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Rose \u00b7 gentle spices"
+  },
+  {
+    "id": "lavender-cedarwood",
+    "name": "Lavender & Cedarwood",
+    "themes": [
+      "Fresh & Natural",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Bergamot",
+      "a little rosemary"
+    ],
+    "heart": [
+      "Lavender",
+      "sage"
+    ],
+    "base": [
+      "Cedarwood",
+      "musk"
+    ],
+    "description": "Clean herbs and soft woods; bedrooms and quiet reading corners.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/287d23366d4c063f04f9.webp",
+        "name": "Provence Lavender",
+        "series": "Lace Glass",
+        "href": "candles-a-moment-of-quiet.html?product=assets%2Fcandles%2Fpaired%2F287d23366d4c063f04f9.webp&scent=lavender-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
+        "name": "Lavender",
+        "series": "Gradient Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Ff62beb39ab1806d66782.webp&scent=lavender-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/20aea59b3de55988cfcb.webp",
+        "name": "Rest",
+        "series": "Seven-Day Rituals",
+        "href": "reeds-at-home-at-ease-2.html?product=assets%2Fcompanions%2F20aea59b3de55988cfcb.webp&scent=lavender-cedarwood"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/475614e9e2d215c64a93.webp",
+        "name": "Lavender Reverie",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F475614e9e2d215c64a93.webp&scent=lavender-cedarwood"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Lavender \u00b7 sage"
+  },
+  {
+    "id": "eucalyptus-mint",
+    "name": "Eucalyptus & Mint",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Mint",
+      "lemon"
+    ],
+    "heart": [
+      "Eucalyptus",
+      "rosemary"
+    ],
+    "base": [
+      "Cedarwood",
+      "white musk"
+    ],
+    "description": "Cool and transparent; bathrooms and spa-inspired spaces.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/64d6d060ce2595ff9070.webp",
+        "name": "Mountain Rain",
+        "series": "Colour Glass",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Freeds%2Fpaired%2F64d6d060ce2595ff9070.webp&scent=eucalyptus-mint"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/6bb45b8d3cadf69b519f.webp",
+        "name": "Refresh",
+        "series": "Seven-Day Rituals",
+        "href": "reeds-a-breath-of-fresh-air-2.html?product=assets%2Fcompanions%2F6bb45b8d3cadf69b519f.webp&scent=eucalyptus-mint"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/6ee1d58cc46162d5a542.webp",
+        "name": "Morning Mist",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F6ee1d58cc46162d5a542.webp&scent=eucalyptus-mint"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/d2a2c13cb519e3a3e386.webp",
+        "name": "Moss Sachet",
+        "series": "Fabric Fragrance Sachets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2Fd2a2c13cb519e3a3e386.webp&scent=eucalyptus-mint"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Eucalyptus \u00b7 rosemary"
+  },
+  {
+    "id": "lemon-lavender",
+    "name": "Lemon & Lavender",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Lemon",
+      "mandarin"
+    ],
+    "heart": [
+      "Lavender",
+      "light orange blossom"
+    ],
+    "base": [
+      "Musk",
+      "light woods"
+    ],
+    "description": "Bright citrus softened by lavender; easy everyday living.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
+        "name": "Lavender",
+        "series": "Postbox",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F20c64492ea431b4ad239.webp&scent=lemon-lavender"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-097.webp",
+        "name": "Fresh Moments \u2014 04",
+        "series": "Fresh Moments",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-097.webp&scent=lemon-lavender"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/475614e9e2d215c64a93.webp",
+        "name": "Lavender Reverie",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F475614e9e2d215c64a93.webp&scent=lemon-lavender"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/b70e7617bf5fafac62ee.webp",
+        "name": "Bergamot Sachet",
+        "series": "Fabric Fragrance Sachets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2Fb70e7617bf5fafac62ee.webp&scent=lemon-lavender"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Lavender \u00b7 light orange blossom"
+  },
+  {
+    "id": "white-tea-bergamot",
+    "name": "White Tea & Bergamot",
+    "themes": [
+      "Tea & Tranquility",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Bergamot",
+      "lemon peel"
+    ],
+    "heart": [
+      "White tea accord",
+      "light jasmine"
+    ],
+    "base": [
+      "White musk",
+      "light cedarwood"
+    ],
+    "description": "Sheer, airy and lightly sweet; entryways and bedrooms.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-096.webp",
+        "name": "Fresh Moments \u2014 03",
+        "series": "Fresh Moments",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-096.webp&scent=white-tea-bergamot"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-374f9f3b71955935.webp",
+        "name": "White Tea Blossom",
+        "series": "Floral Bouquet",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freed-374f9f3b71955935.webp&scent=white-tea-bergamot"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-099.webp",
+        "name": "Pastel \u2014 02",
+        "series": "Pastel",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-099.webp&scent=white-tea-bergamot"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/66dc6cb0548823f9cb12.webp",
+        "name": "Sage Green Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F66dc6cb0548823f9cb12.webp&scent=white-tea-bergamot"
+      }
+    ],
+    "family": "Tea & Tranquility",
+    "notes": "White tea accord \u00b7 light jasmine"
+  },
+  {
+    "id": "white-tea-rosemary",
+    "name": "White Tea & Rosemary",
+    "themes": [
+      "Tea & Tranquility",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Lemon",
+      "a little mint"
+    ],
+    "heart": [
+      "White tea accord",
+      "rosemary"
+    ],
+    "base": [
+      "Cedarwood",
+      "musk"
+    ],
+    "description": "Fresh tea intertwined with herbs; studies and sunlit living rooms.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/companions/97b297ac3d3b797368fa.webp",
+        "name": "Square Glass \u2014 07",
+        "series": "Square Glass",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Fcompanions%2F97b297ac3d3b797368fa.webp&scent=white-tea-rosemary"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/5ad03d9fc0154ad26216.webp",
+        "name": "Focus",
+        "series": "Seven-Day Rituals",
+        "href": "reeds-a-quiet-pause-2.html?product=assets%2Fcompanions%2F5ad03d9fc0154ad26216.webp&scent=white-tea-rosemary"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-b2f6d6a6d3e67553.webp",
+        "name": "Four Seasons Tea",
+        "series": "Floral Tea",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freed-b2f6d6a6d3e67553.webp&scent=white-tea-rosemary"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/c135302863be554b69df.webp",
+        "name": "Verdant Calm",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2Fc135302863be554b69df.webp&scent=white-tea-rosemary"
+      }
+    ],
+    "family": "Tea & Tranquility",
+    "notes": "White tea accord \u00b7 rosemary"
+  },
+  {
+    "id": "black-tea-cedarwood",
+    "name": "Black Tea & Cedarwood",
+    "themes": [
+      "Tea & Tranquility",
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Bergamot",
+      "a little black pepper"
+    ],
+    "heart": [
+      "Black tea accord",
+      "dried florals"
+    ],
+    "base": [
+      "Cedarwood",
+      "amber",
+      "musk"
+    ],
+    "description": "Warm, dry and gently tannic; reading rooms and thoughtful evening rituals.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-093.webp",
+        "name": "Tea Rituals \u2014 04",
+        "series": "Tea Rituals",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-093.webp&scent=black-tea-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-129.webp",
+        "name": "Classic Amber \u2014 02",
+        "series": "Classic Amber",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-129.webp&scent=black-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",
+        "name": "Obsidian",
+        "series": "Iridescent",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F947cbc1d98dee6da5d51.webp&scent=black-tea-cedarwood"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/7d038471456f5c892207.webp",
+        "name": "Midnight Blue Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection-2.html?product=assets%2Fgifts%2Fpaired%2F7d038471456f5c892207.webp&scent=black-tea-cedarwood"
+      }
+    ],
+    "family": "Tea & Tranquility",
+    "notes": "Black tea accord \u00b7 dried florals"
+  },
+  {
+    "id": "osmanthus-green-tea",
+    "name": "Osmanthus & Green Tea",
+    "themes": [
+      "Tea & Tranquility",
+      "Floral & Fruity",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Citrus",
+      "light apricot"
+    ],
+    "heart": [
+      "Osmanthus",
+      "green tea accord"
+    ],
+    "base": [
+      "White musk",
+      "light woods"
+    ],
+    "description": "Elegant tea with soft apricot-like florals; spring and autumn interiors.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-f82a3208f64026bc.webp",
+        "name": "Osmanthus & Longjing",
+        "series": "Floral Tea",
+        "href": "reeds-a-quiet-pause-2.html?product=assets%2Freeds%2Freed-f82a3208f64026bc.webp&scent=osmanthus-green-tea"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/3c06b51cf59cbf4d481d.webp",
+        "name": "Golden Osmanthus",
+        "series": "Colour Glass",
+        "href": "reeds-in-bloom.html?product=assets%2Freeds%2Fpaired%2F3c06b51cf59cbf4d481d.webp&scent=osmanthus-green-tea"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
+        "name": "Osmanthus",
+        "series": "Postbox",
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2F7af4fa22a012b5c0ef40.webp&scent=osmanthus-green-tea"
+      },
+      {
+        "category": "sachets",
+        "image": "assets/sachets/paired/b232e0c6ef6a01e2730e.webp",
+        "name": "Apricot Floral Wreath",
+        "series": "Floral Wax Tablets",
+        "href": "sachets.html?product=assets%2Fsachets%2Fpaired%2Fb232e0c6ef6a01e2730e.webp&scent=osmanthus-green-tea"
+      }
+    ],
+    "family": "Tea & Tranquility",
+    "notes": "Osmanthus \u00b7 green tea accord"
+  },
+  {
+    "id": "clean-cotton",
+    "name": "Clean Cotton",
+    "themes": [
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Fresh air accord",
+      "citrus",
+      "green leaves"
+    ],
+    "heart": [
+      "Lily of the valley",
+      "light white florals"
+    ],
+    "base": [
+      "White musk",
+      "light woods"
+    ],
+    "description": "Freshly dried cotton; bedrooms and laundry spaces.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/9dbd2373b514ef18213d.webp",
+        "name": "Island Cotton",
+        "series": "Postbox",
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2F9dbd2373b514ef18213d.webp&scent=clean-cotton"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/7e95a9fee680e36d69cf.webp",
+        "name": "White Musk Stone",
+        "series": "Stone Diffuser",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2F7e95a9fee680e36d69cf.webp&scent=clean-cotton"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/522eb2b410541447b0fc.webp",
+        "name": "Ivory Oval",
+        "series": "Oval Relief",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F522eb2b410541447b0fc.webp&scent=clean-cotton"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/8efb79e6978aa255e72c.webp",
+        "name": "Soft Blush Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection-2.html?product=assets%2Fgifts%2Fpaired%2F8efb79e6978aa255e72c.webp&scent=clean-cotton"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Lily of the valley \u00b7 light white florals"
+  },
+  {
+    "id": "soft-linen",
+    "name": "Soft Linen",
+    "themes": [
+      "Fresh & Natural",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Bergamot",
+      "light aldehydes"
+    ],
+    "heart": [
+      "Iris",
+      "light violet"
+    ],
+    "base": [
+      "White musk",
+      "soft woods"
+    ],
+    "description": "Soft, gently powdery and comforting; relaxed bedrooms.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/7e95a9fee680e36d69cf.webp",
+        "name": "White Musk Stone",
+        "series": "Stone Diffuser",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2F7e95a9fee680e36d69cf.webp&scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
+        "name": "Ivory Porcelain",
+        "series": "Minimal Relief",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F4fbc33c9500b11ca9a9b.webp&scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-088.webp",
+        "name": "Ivory Stone \u2014 01",
+        "series": "Ivory Stone",
+        "href": "candles-a-moment-of-quiet-4.html?product=assets%2Fcandles%2Fcandles-088.webp&scent=soft-linen"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/39ead58bc6ca45512276.webp",
+        "name": "Ivory Texture",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F39ead58bc6ca45512276.webp&scent=soft-linen"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Iris \u00b7 light violet"
+  },
+  {
+    "id": "sea-salt-driftwood",
+    "name": "Sea Salt & Driftwood",
+    "themes": [
+      "Fresh & Natural",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Sea breeze accord",
+      "bergamot"
+    ],
+    "heart": [
+      "Sea salt accord",
+      "sage"
+    ],
+    "base": [
+      "Driftwood accord",
+      "musk"
+    ],
+    "description": "Fresh and lightly mineral; bathrooms and coastal living rooms.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/companions/1b5ead3137dec1267c9b.webp",
+        "name": "Square Glass \u2014 03",
+        "series": "Square Glass",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Fcompanions%2F1b5ead3137dec1267c9b.webp&scent=sea-salt-driftwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-03.webp",
+        "name": "Rain Forest Reed Diffuser",
+        "series": "Reed diffuser",
+        "href": "reeds-a-breath-of-fresh-air.html?product=assets%2Freeds%2Freed-03.webp&scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-032.webp",
+        "name": "Turquoise \u2014 01",
+        "series": "Turquoise",
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-032.webp&scent=sea-salt-driftwood"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/64e857d6f3b7717040c8.webp",
+        "name": "Blue Serenity",
+        "series": "Botanical glass",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F64e857d6f3b7717040c8.webp&scent=sea-salt-driftwood"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Sea salt accord \u00b7 sage"
+  },
+  {
+    "id": "bamboo-white-florals",
+    "name": "Bamboo & White Florals",
+    "themes": [
+      "Fresh & Natural",
+      "Floral & Fruity"
+    ],
+    "top": [
+      "Citrus",
+      "green leaves"
+    ],
+    "heart": [
+      "Bamboo accord",
+      "light white florals"
+    ],
+    "base": [
+      "Musk",
+      "light cedarwood"
+    ],
+    "description": "Airy green notes with a sense of space; entryways and living rooms.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-075.webp",
+        "name": "Bamboo \u2014 01",
+        "series": "Bamboo",
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=bamboo-white-florals"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-076.webp",
+        "name": "Bamboo \u2014 02",
+        "series": "Bamboo",
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-076.webp&scent=bamboo-white-florals"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/d254438f943ca1177135.webp",
+        "name": "Botanical \u2014 01",
+        "series": "Botanical",
+        "href": "reeds-in-bloom-2.html?product=assets%2Fcompanions%2Fd254438f943ca1177135.webp&scent=bamboo-white-florals"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/c135302863be554b69df.webp",
+        "name": "Verdant Calm",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2Fc135302863be554b69df.webp&scent=bamboo-white-florals"
+      }
+    ],
+    "family": "Fresh & Natural",
+    "notes": "Bamboo accord \u00b7 light white florals"
+  },
+  {
+    "id": "sandalwood-cashmere",
+    "name": "Sandalwood & Cashmere",
+    "themes": [
+      "Warm & Woody"
+    ],
+    "top": [
+      "Bergamot",
+      "a little cardamom"
+    ],
+    "heart": [
+      "Sandalwood",
+      "soft florals"
+    ],
+    "base": [
+      "Cashmere wood accord",
+      "musk",
+      "amber"
+    ],
+    "description": "Smooth, softly enveloping and low in sweetness; bedrooms and reading corners.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp",
+        "name": "Sage & Sandalwood \u2014 Rounded",
+        "series": "Ribbed Ceramic",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2F0cd03e5f4aa361a2de7f.webp&scent=sandalwood-cashmere"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-130.webp",
+        "name": "Sandalwood \u2014 01",
+        "series": "Sandalwood",
+        "href": "reeds-at-home-at-ease-2.html?product=assets%2Freeds%2Freeds-130.webp&scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b1a337722ec53404ae09.webp",
+        "name": "Dark Woods",
+        "series": "Lace Glass",
+        "href": "candles-a-moment-of-quiet.html?product=assets%2Fcandles%2Fpaired%2Fb1a337722ec53404ae09.webp&scent=sandalwood-cashmere"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/148cecd4fd72c958a34c.webp",
+        "name": "Mystical Woods Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F148cecd4fd72c958a34c.webp&scent=sandalwood-cashmere"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Sandalwood \u00b7 soft florals"
+  },
+  {
+    "id": "cedarwood-vetiver",
+    "name": "Cedarwood & Vetiver",
+    "themes": [
+      "Warm & Woody",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Bergamot",
+      "juniper"
+    ],
+    "heart": [
+      "Cedarwood",
+      "cypress"
+    ],
+    "base": [
+      "Vetiver",
+      "moss accord",
+      "musk"
+    ],
+    "description": "Dry woods with an earthy edge; studies and minimal interiors.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/bf42dc79d33a16875f58.webp",
+        "name": "Cloud Pine",
+        "series": "Colour Glass",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2Fbf42dc79d33a16875f58.webp&scent=cedarwood-vetiver"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-092.webp",
+        "name": "Tea Rituals \u2014 03",
+        "series": "Tea Rituals",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Freeds-092.webp&scent=cedarwood-vetiver"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-055.webp",
+        "name": "Forest Poetry \u2014 01",
+        "series": "Forest Poetry",
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=cedarwood-vetiver"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/480e8ea00e1b76202c86.webp",
+        "name": "Cedar Relief",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F480e8ea00e1b76202c86.webp&scent=cedarwood-vetiver"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Cedarwood \u00b7 cypress"
+  },
+  {
+    "id": "fireside-smoked-woods",
+    "name": "Fireside & Smoked Woods",
+    "themes": [
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Black pepper",
+      "light resin"
+    ],
+    "heart": [
+      "Cedarwood",
+      "guaiac wood"
+    ],
+    "base": [
+      "Smoked wood accord",
+      "amber",
+      "vetiver"
+    ],
+    "description": "The atmosphere of a glowing fireplace; autumn and winter evenings.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/companions/78919717797a963dc844.webp",
+        "name": "Winter Bonfire",
+        "series": "Festive",
+        "href": "reeds-at-home-at-ease-2.html?product=assets%2Fcompanions%2F78919717797a963dc844.webp&scent=fireside-smoked-woods"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/33ac66bd00830bdaa036.webp",
+        "name": "Fireside Wishes",
+        "series": "Festive",
+        "href": "reeds-at-home-at-ease-3.html?product=assets%2Fcompanions%2F33ac66bd00830bdaa036.webp&scent=fireside-smoked-woods"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/6557fed21b15dacbccfa.webp",
+        "name": "Smoky Deer",
+        "series": "Deer Collection",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F6557fed21b15dacbccfa.webp&scent=fireside-smoked-woods"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/20fd1335cbc93f2e83a3.webp",
+        "name": "Amber Tray Collection",
+        "series": "Warm Living",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F20fd1335cbc93f2e83a3.webp&scent=fireside-smoked-woods"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Cedarwood \u00b7 guaiac wood"
+  },
+  {
+    "id": "amber-vanilla",
+    "name": "Amber & Vanilla",
+    "themes": [
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Bergamot",
+      "gentle spices"
+    ],
+    "heart": [
+      "Amber accord",
+      "benzoin"
+    ],
+    "base": [
+      "Vanilla",
+      "sandalwood",
+      "musk"
+    ],
+    "description": "Warm, softly sweet and inviting; evening living rooms and bedrooms.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp",
+        "name": "Amber Glass",
+        "series": "Classic Amber",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F73e3d5c1bd304f9fbfb5.webp&scent=amber-vanilla"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b09baac75da0893acee3.webp",
+        "name": "Vanilla",
+        "series": "Gradient Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Fb09baac75da0893acee3.webp&scent=amber-vanilla"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-128.webp",
+        "name": "Classic Amber \u2014 01",
+        "series": "Classic Amber",
+        "href": "reeds-at-home-at-ease-2.html?product=assets%2Freeds%2Freeds-128.webp&scent=amber-vanilla"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/0cfedbd356005d4c2754.webp",
+        "name": "Amber Dusk",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F0cfedbd356005d4c2754.webp&scent=amber-vanilla"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Amber accord \u00b7 benzoin"
+  },
+  {
+    "id": "vanilla-tonka",
+    "name": "Vanilla & Tonka",
+    "themes": [
+      "Warm & Woody"
+    ],
+    "top": [
+      "Almond accord",
+      "light citrus"
+    ],
+    "heart": [
+      "Vanilla",
+      "soft milky notes"
+    ],
+    "base": [
+      "Tonka bean",
+      "musk",
+      "benzoin"
+    ],
+    "description": "Creamy, soft and comforting; autumn and winter candle rituals.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b09baac75da0893acee3.webp",
+        "name": "Vanilla",
+        "series": "Gradient Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Fb09baac75da0893acee3.webp&scent=vanilla-tonka"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-022.webp",
+        "name": "Vanilla & Peony \u2014 01",
+        "series": "Vanilla & Peony",
+        "href": "candles-close-to-you.html?product=assets%2Fcandles%2Fcandles-022.webp&scent=vanilla-tonka"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
+        "name": "Amber Christmas Cookies",
+        "series": "Winter Glass",
+        "href": "christmas-collection-2.html?product=assets%2Fchristmas%2Fpaired%2Faa4efc0a88d60dfb26a0.webp&scent=vanilla-tonka"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/20fd1335cbc93f2e83a3.webp",
+        "name": "Amber Tray Collection",
+        "series": "Warm Living",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F20fd1335cbc93f2e83a3.webp&scent=vanilla-tonka"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Vanilla \u00b7 soft milky notes"
+  },
+  {
+    "id": "caramel-cream",
+    "name": "Caramel & Cream",
+    "themes": [
+      "Warm & Woody"
+    ],
+    "top": [
+      "Caramel",
+      "a little sea salt accord"
+    ],
+    "heart": [
+      "Cream",
+      "baked notes"
+    ],
+    "base": [
+      "Vanilla",
+      "brown sugar accord"
+    ],
+    "description": "A sweet bakery-inspired mood; dessert themes and winter gifts.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b053837f042853978ab8.webp",
+        "name": "Birthday Celebration",
+        "series": "Playful Birthday",
+        "href": "candles-little-joys.html?product=assets%2Fcandles%2Fpaired%2Fb053837f042853978ab8.webp&scent=caramel-cream"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-033.webp",
+        "name": "Jellyfish Egg Candle",
+        "series": "Jellyfish",
+        "href": "candles-little-joys.html?product=assets%2Fcandles%2Fcandles-033.webp&scent=caramel-cream"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
+        "name": "Amber Christmas Cookies",
+        "series": "Winter Glass",
+        "href": "christmas-collection-2.html?product=assets%2Fchristmas%2Fpaired%2Faa4efc0a88d60dfb26a0.webp&scent=caramel-cream"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/905159d5184ce017c1a2.webp",
+        "name": "Sunshine Duo",
+        "series": "Colourful Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F905159d5184ce017c1a2.webp&scent=caramel-cream"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Cream \u00b7 baked notes"
+  },
+  {
+    "id": "pumpkin-spice",
+    "name": "Pumpkin & Spice",
+    "themes": [
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Pumpkin accord",
+      "orange peel"
+    ],
+    "heart": [
+      "Cinnamon",
+      "nutmeg",
+      "clove"
+    ],
+    "base": [
+      "Vanilla",
+      "brown sugar",
+      "soft woods"
+    ],
+    "description": "A warm pumpkin-pie atmosphere; autumn evenings and Halloween.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
+        "name": "Pumpkin & Ghost",
+        "series": "Halloween",
+        "href": "candles-little-joys.html?product=assets%2Fcandles%2Fpaired%2F257c6ea41af465989ab3.webp&scent=pumpkin-spice"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-068.webp",
+        "name": "Amber Dream \u2014 01",
+        "series": "Amber Dream",
+        "href": "candles-a-moment-of-quiet-4.html?product=assets%2Fcandles%2Fcandles-068.webp&scent=pumpkin-spice"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/ffb8c60ea39c5109148a.webp",
+        "name": "Amber Orange Duo",
+        "series": "Colourful Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2Fffb8c60ea39c5109148a.webp&scent=pumpkin-spice"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
+        "name": "Acorn Candle",
+        "series": "Woodland Christmas",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2Fc082e2bf728f7ad74860.webp&scent=pumpkin-spice"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Cinnamon \u00b7 nutmeg \u00b7 clove"
+  },
+  {
+    "id": "apple-cinnamon",
+    "name": "Apple & Cinnamon",
+    "themes": [
+      "Floral & Fruity",
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Apple",
+      "orange peel"
+    ],
+    "heart": [
+      "Cinnamon",
+      "clove"
+    ],
+    "base": [
+      "Vanilla",
+      "woods"
+    ],
+    "description": "Warm baked fruit and spice; autumn and winter gatherings.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/d9feede215a30484aa79.webp",
+        "name": "Baltic Amber",
+        "series": "Lace Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Fd9feede215a30484aa79.webp&scent=apple-cinnamon"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/33ac66bd00830bdaa036.webp",
+        "name": "Fireside Wishes",
+        "series": "Festive",
+        "href": "reeds-at-home-at-ease-3.html?product=assets%2Fcompanions%2F33ac66bd00830bdaa036.webp&scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/candles/candles-072.webp",
+        "name": "Christmas \u2014 01",
+        "series": "Christmas",
+        "href": "christmas-collection.html?product=assets%2Fcandles%2Fcandles-072.webp&scent=apple-cinnamon"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/ffb8c60ea39c5109148a.webp",
+        "name": "Amber Orange Duo",
+        "series": "Colourful Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2Fffb8c60ea39c5109148a.webp&scent=apple-cinnamon"
+      }
+    ],
+    "family": "Floral & Fruity",
+    "notes": "Cinnamon \u00b7 clove"
+  },
+  {
+    "id": "fir-cedarwood",
+    "name": "Fir & Cedarwood",
+    "themes": [
+      "Warm & Woody",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Pine needles",
+      "juniper",
+      "a little eucalyptus"
+    ],
+    "heart": [
+      "Fir",
+      "balsamic resin"
+    ],
+    "base": [
+      "Cedarwood",
+      "moss accord",
+      "amber"
+    ],
+    "description": "Evergreen trees and forest air; winter interiors and Christmas.",
+    "matches": [
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/7f1e156495b0a459e0d6.webp",
+        "name": "Forest Green Cone Candle",
+        "series": "Botanical Christmas Trees",
+        "href": "christmas-collection.html?product=assets%2Fchristmas%2Fpaired%2F7f1e156495b0a459e0d6.webp&scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/61253e2d71812a5a6496.webp",
+        "name": "Christmas Tree Candle",
+        "series": "Christmas Characters",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2F61253e2d71812a5a6496.webp&scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
+        "name": "Snowy Tree Glass Candle",
+        "series": "Winter Botanicals",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2Fba0c524d4b0c2f4e9680.webp&scent=fir-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/b2b8111bb9e29b42d8ed.webp",
+        "name": "Cedar Cabin",
+        "series": "Festive",
+        "href": "reeds-at-home-at-ease-3.html?product=assets%2Fcompanions%2Fb2b8111bb9e29b42d8ed.webp&scent=fir-cedarwood"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Fir \u00b7 balsamic resin"
+  },
+  {
+    "id": "orange-clove",
+    "name": "Orange & Clove",
+    "themes": [
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Sweet orange",
+      "orange peel"
+    ],
+    "heart": [
+      "Clove",
+      "cinnamon"
+    ],
+    "base": [
+      "Benzoin",
+      "vanilla",
+      "woods"
+    ],
+    "description": "Bright citrus wrapped in warm spice; Christmas gatherings.",
+    "matches": [
+      {
+        "category": "christmas",
+        "image": "assets/candles/candles-073.webp",
+        "name": "Christmas \u2014 02",
+        "series": "Christmas",
+        "href": "christmas-collection.html?product=assets%2Fcandles%2Fcandles-073.webp&scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/6d52f0817361816118b7.webp",
+        "name": "Gingerbread Fragrance Gift Set",
+        "series": "Christmas Rituals",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2F6d52f0817361816118b7.webp&scent=orange-clove"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
+        "name": "Blood Orange",
+        "series": "Lace Glass",
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2Fd6e65e02000c1649cfca.webp&scent=orange-clove"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/cc0696772d15e3acdb9d.webp",
+        "name": "Christmas Amber",
+        "series": "Festive",
+        "href": "reeds-at-home-at-ease-3.html?product=assets%2Fcompanions%2Fcc0696772d15e3acdb9d.webp&scent=orange-clove"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Clove \u00b7 cinnamon"
+  },
+  {
+    "id": "gingerbread-vanilla",
+    "name": "Gingerbread & Vanilla",
+    "themes": [
+      "Warm & Woody",
+      "Oriental Mystery"
+    ],
+    "top": [
+      "Ginger",
+      "orange peel"
+    ],
+    "heart": [
+      "Cinnamon",
+      "clove",
+      "biscuit accord"
+    ],
+    "base": [
+      "Vanilla",
+      "molasses accord",
+      "tonka bean"
+    ],
+    "description": "Freshly baked gingerbread; Christmas gifting and festive candlelight.",
+    "matches": [
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/6d52f0817361816118b7.webp",
+        "name": "Gingerbread Fragrance Gift Set",
+        "series": "Christmas Rituals",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2F6d52f0817361816118b7.webp&scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
+        "name": "Smiling Gingerbread Candle",
+        "series": "Playful Christmas",
+        "href": "christmas-collection-4.html?product=assets%2Fchristmas%2Fpaired%2F1383bf46ac80e1d62944.webp&scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
+        "name": "Gingerbread, Tree & Reindeer",
+        "series": "Festive Wax Ornaments",
+        "href": "christmas-collection-3.html?product=assets%2Fchristmas%2Fpaired%2Ffc5ea0dccfc61f30e459.webp&scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
+        "name": "Amber Christmas Cookies",
+        "series": "Winter Glass",
+        "href": "christmas-collection-2.html?product=assets%2Fchristmas%2Fpaired%2Faa4efc0a88d60dfb26a0.webp&scent=gingerbread-vanilla"
+      }
+    ],
+    "family": "Warm & Woody",
+    "notes": "Cinnamon \u00b7 clove \u00b7 biscuit accord"
+  },
+  {
+    "id": "mugwort-incense",
+    "name": "Mugwort & Incense",
+    "themes": [
+      "Oriental Mystery",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Mugwort",
+      "bergamot"
+    ],
+    "heart": [
+      "Sage",
+      "incense"
+    ],
+    "base": [
+      "Cedarwood",
+      "musk",
+      "soft resin"
+    ],
+    "description": "Bitter-green herbs and quiet incense; reflective studies and evening rituals.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/e6a379ea95e7f1408253.webp",
+        "name": "Iced Patchouli",
+        "series": "Organic Glass",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2Fe6a379ea95e7f1408253.webp&scent=mugwort-incense"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/d254438f943ca1177135.webp",
+        "name": "Botanical \u2014 01",
+        "series": "Botanical",
+        "href": "reeds-in-bloom-2.html?product=assets%2Fcompanions%2Fd254438f943ca1177135.webp&scent=mugwort-incense"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/148cecd4fd72c958a34c.webp",
+        "name": "Mystical Woods Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F148cecd4fd72c958a34c.webp&scent=mugwort-incense"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/c135302863be554b69df.webp",
+        "name": "Verdant Calm",
+        "series": "Glass dome",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2Fc135302863be554b69df.webp&scent=mugwort-incense"
+      }
+    ],
+    "family": "Oriental Mystery",
+    "notes": "Sage \u00b7 incense"
+  },
+  {
+    "id": "green-tea-cedarwood",
+    "name": "Green Tea & Cedarwood",
+    "themes": [
+      "Oriental Mystery",
+      "Tea & Tranquility",
+      "Fresh & Natural"
+    ],
+    "top": [
+      "Fresh tea leaves",
+      "bergamot"
+    ],
+    "heart": [
+      "Green tea accord",
+      "jasmine"
+    ],
+    "base": [
+      "Cedarwood",
+      "white musk"
+    ],
+    "description": "Restrained green tea with a dry woody finish; tranquil reading corners.",
+    "matches": [
+      {
+        "category": "reed",
+        "image": "assets/reeds/reeds-097.webp",
+        "name": "Fresh Moments \u2014 04",
+        "series": "Fresh Moments",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freeds-097.webp&scent=green-tea-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
+        "name": "Jasmine Green Tea",
+        "series": "Floral Tea",
+        "href": "reeds-a-quiet-pause-2.html?product=assets%2Freeds%2Freed-640affaca6c8bc7e.webp&scent=green-tea-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/reed-b2f6d6a6d3e67553.webp",
+        "name": "Four Seasons Tea",
+        "series": "Floral Tea",
+        "href": "reeds-a-quiet-pause.html?product=assets%2Freeds%2Freed-b2f6d6a6d3e67553.webp&scent=green-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/candles-024.webp",
+        "name": "Nature Poetry \u2014 01",
+        "series": "Nature Poetry",
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-024.webp&scent=green-tea-cedarwood"
+      }
+    ],
+    "family": "Oriental Mystery",
+    "notes": "Green tea accord \u00b7 jasmine"
+  },
+  {
+    "id": "oud-saffron",
+    "name": "Oud & Saffron",
+    "themes": [
+      "Oriental Mystery",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Saffron",
+      "cardamom"
+    ],
+    "heart": [
+      "Oud",
+      "rose"
+    ],
+    "base": [
+      "Amber",
+      "sandalwood",
+      "musk"
+    ],
+    "description": "Deep resinous woods and warm spice; intimate evening interiors.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/b1a337722ec53404ae09.webp",
+        "name": "Dark Woods",
+        "series": "Lace Glass",
+        "href": "candles-a-moment-of-quiet.html?product=assets%2Fcandles%2Fpaired%2Fb1a337722ec53404ae09.webp&scent=oud-saffron"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/47d5d503511846e0926c.webp",
+        "name": "Square Glass \u2014 01",
+        "series": "Square Glass",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Fcompanions%2F47d5d503511846e0926c.webp&scent=oud-saffron"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/f316b932be71fe3aaf88.webp",
+        "name": "Wild Rose & Oud Duo",
+        "series": "Square Glass",
+        "href": "gift-collection-2.html?product=assets%2Fgifts%2Fpaired%2Ff316b932be71fe3aaf88.webp&scent=oud-saffron"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/0cfedbd356005d4c2754.webp",
+        "name": "Amber Dusk",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F0cfedbd356005d4c2754.webp&scent=oud-saffron"
+      }
+    ],
+    "family": "Oriental Mystery",
+    "notes": "Oud \u00b7 rose"
+  },
+  {
+    "id": "incense-myrrh",
+    "name": "Incense & Myrrh",
+    "themes": [
+      "Oriental Mystery",
+      "Warm & Woody"
+    ],
+    "top": [
+      "Black pepper",
+      "bergamot"
+    ],
+    "heart": [
+      "Incense",
+      "myrrh"
+    ],
+    "base": [
+      "Benzoin",
+      "amber",
+      "cedarwood"
+    ],
+    "description": "Smoky resin with a golden warmth; contemplative spaces and winter rituals.",
+    "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",
+        "name": "Obsidian",
+        "series": "Iridescent",
+        "href": "candles-a-moment-of-quiet-2.html?product=assets%2Fcandles%2Fpaired%2F947cbc1d98dee6da5d51.webp&scent=incense-myrrh"
+      },
+      {
+        "category": "reed",
+        "image": "assets/reeds/paired/f66c22d087051b33f32d.webp",
+        "name": "Deep Brown Oval",
+        "series": "Oval Diffuser",
+        "href": "reeds-at-home-at-ease.html?product=assets%2Freeds%2Fpaired%2Ff66c22d087051b33f32d.webp&scent=incense-myrrh"
+      },
+      {
+        "category": "gift",
+        "image": "assets/gifts/paired/148cecd4fd72c958a34c.webp",
+        "name": "Mystical Woods Duo",
+        "series": "Quiet Rituals",
+        "href": "gift-collection.html?product=assets%2Fgifts%2Fpaired%2F148cecd4fd72c958a34c.webp&scent=incense-myrrh"
+      },
+      {
+        "category": "crystal",
+        "image": "assets/companions/480e8ea00e1b76202c86.webp",
+        "name": "Cedar Relief",
+        "series": "Sculpted bowl",
+        "href": "products-crystal-1.html?product=assets%2Fcompanions%2F480e8ea00e1b76202c86.webp&scent=incense-myrrh"
+      }
+    ],
+    "family": "Oriental Mystery",
+    "notes": "Incense \u00b7 myrrh"
+  }
+];
 
 const candleProducts = [
   {

@@ -31,4 +31,19 @@ for path in stage.glob('*.html'):
   if re.match(r'^[a-z]+:',url):continue
   file=url.split('#')[0].split('?')[0]
   assert (stage/file).exists(),f'{path.name}: missing public file {file}'
+# Fragrance links must target the exact product on the correct category page.
+from urllib.parse import urlsplit,parse_qs
+fragrances=json.loads((stage/'assets/fragrances.json').read_text())
+themes={'Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'}
+assert len({s['id'] for s in fragrances})==len(fragrances)
+for scent in fragrances:
+ assert all(scent[k] for k in ['top','heart','base','description','matches'])
+ assert set(scent['themes'])<=themes and scent['themes']
+ for match in scent['matches']:
+  target=urlsplit(match['href']);query=parse_qs(target.query)
+  assert query['scent']==[scent['id']] and query['product']==[match['image']]
+  rows=catalogues[match['category']];index=next(i for i,p in enumerate(rows) if p['image']==match['image'])
+  page=(stage/target.path).read_text()
+  assert f'data-category="{match["category"]}"' in page and f'data-photo="{index}"' in page,match['href']
+print(f'Verified {len(fragrances)} fragrance profiles and {sum(len(s["matches"]) for s in fragrances)} specific product links.')
 print('Prepared public website; product photos, paired-view order, catalogue pagination and public links verified.')
