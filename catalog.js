@@ -242,7 +242,7 @@ const scents = [
         "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
         "name": "White Florals",
         "series": "Lace Glass",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2Fb2a6e2ce97db70ea6f8a.webp&scent=jasmine-orange-blossom"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2Fb2a6e2ce97db70ea6f8a.webp&scent=jasmine-orange-blossom"
       },
       {
         "category": "reed",
@@ -296,7 +296,7 @@ const scents = [
         "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
         "name": "Gardenia",
         "series": "Vintage Florals",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2F706a9cb934df23f1ce96.webp&scent=gardenia-tuberose"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2F706a9cb934df23f1ce96.webp&scent=gardenia-tuberose"
       },
       {
         "category": "reed",
@@ -331,7 +331,7 @@ const scents = [
         "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
         "name": "Gardenia",
         "series": "Gradient Glass",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2F5489f55a80565a8ad3b2.webp&scent=gardenia-tuberose"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fpaired%2F5489f55a80565a8ad3b2.webp&scent=gardenia-tuberose"
       },
       {
         "category": "reed",
@@ -384,7 +384,7 @@ const scents = [
         "image": "assets/candles/paired/e2419ac62b562d3b0520.webp",
         "name": "Lime Basil",
         "series": "Postbox",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2Fe2419ac62b562d3b0520.webp&scent=lime-basil"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fpaired%2Fe2419ac62b562d3b0520.webp&scent=lime-basil"
       },
       {
         "category": "sachets",
@@ -504,14 +504,14 @@ const scents = [
         "image": "assets/candles/candles-075.webp",
         "name": "Bamboo \u2014 01",
         "series": "Bamboo",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=lemon-verbena"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=lemon-verbena"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-076.webp",
         "name": "Bamboo \u2014 02",
         "series": "Bamboo",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-076.webp&scent=lemon-verbena"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-076.webp&scent=lemon-verbena"
       },
       {
         "category": "sachets",
@@ -579,7 +579,7 @@ const scents = [
         "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
         "name": "White Florals",
         "series": "Lace Glass",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2Fb2a6e2ce97db70ea6f8a.webp&scent=bergamot-neroli"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2Fb2a6e2ce97db70ea6f8a.webp&scent=bergamot-neroli"
       },
       {
         "category": "crystal",
@@ -634,7 +634,7 @@ const scents = [
         "image": "assets/candles/candles-008.webp",
         "name": "Woven \u2014 01",
         "series": "Woven",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-008.webp&scent=fig-green-leaves"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-008.webp&scent=fig-green-leaves"
       },
       {
         "category": "reed",
@@ -648,7 +648,7 @@ const scents = [
         "image": "assets/candles/candles-075.webp",
         "name": "Bamboo \u2014 01",
         "series": "Bamboo",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=fig-green-leaves"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=fig-green-leaves"
       },
       {
         "category": "crystal",
@@ -1305,7 +1305,7 @@ const scents = [
         "image": "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
         "name": "Osmanthus",
         "series": "Postbox",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2F7af4fa22a012b5c0ef40.webp&scent=osmanthus-green-tea"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fpaired%2F7af4fa22a012b5c0ef40.webp&scent=osmanthus-green-tea"
       },
       {
         "category": "sachets",
@@ -1387,7 +1387,7 @@ const scents = [
         "image": "assets/candles/paired/9dbd2373b514ef18213d.webp",
         "name": "Island Cotton",
         "series": "Postbox",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2F9dbd2373b514ef18213d.webp&scent=clean-cotton"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fpaired%2F9dbd2373b514ef18213d.webp&scent=clean-cotton"
       }
     ],
     "family": "Fresh & Natural",
@@ -1509,7 +1509,7 @@ const scents = [
         "image": "assets/candles/candles-032.webp",
         "name": "Turquoise \u2014 01",
         "series": "Turquoise",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-032.webp&scent=sea-salt-driftwood"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-032.webp&scent=sea-salt-driftwood"
       },
       {
         "category": "crystal",
@@ -1577,14 +1577,14 @@ const scents = [
         "image": "assets/candles/candles-075.webp",
         "name": "Bamboo \u2014 01",
         "series": "Bamboo",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=bamboo-white-florals"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-075.webp&scent=bamboo-white-florals"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-076.webp",
         "name": "Bamboo \u2014 02",
         "series": "Bamboo",
-        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-076.webp&scent=bamboo-white-florals"
+        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-076.webp&scent=bamboo-white-florals"
       },
       {
         "category": "reed",
@@ -1714,14 +1714,14 @@ const scents = [
         "image": "assets/candles/candles-056.webp",
         "name": "Forest Poetry \u2014 02",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=cedarwood-vetiver"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=cedarwood-vetiver"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
         "name": "Forest Poetry \u2014 01",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=cedarwood-vetiver"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=cedarwood-vetiver"
       },
       {
         "category": "crystal",
@@ -2259,14 +2259,14 @@ const scents = [
         "image": "assets/candles/candles-056.webp",
         "name": "Forest Poetry \u2014 02",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=fir-cedarwood"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=fir-cedarwood"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
         "name": "Forest Poetry \u2014 01",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=fir-cedarwood"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=fir-cedarwood"
       },
       {
         "category": "reed",
@@ -2391,7 +2391,7 @@ const scents = [
         "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
         "name": "Blood Orange",
         "series": "Lace Glass",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fpaired%2Fd6e65e02000c1649cfca.webp&scent=orange-clove"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fpaired%2Fd6e65e02000c1649cfca.webp&scent=orange-clove"
       },
       {
         "category": "christmas",
@@ -2495,7 +2495,7 @@ const scents = [
         "image": "assets/candles/candles-024.webp",
         "name": "Nature Poetry \u2014 01",
         "series": "Nature Poetry",
-        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-024.webp&scent=mugwort-incense"
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-024.webp&scent=mugwort-incense"
       },
       {
         "category": "reed",
@@ -2564,7 +2564,7 @@ const scents = [
         "image": "assets/candles/candles-024.webp",
         "name": "Nature Poetry \u2014 01",
         "series": "Nature Poetry",
-        "href": "candles-morning-light.html?product=assets%2Fcandles%2Fcandles-024.webp&scent=green-tea-cedarwood"
+        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-024.webp&scent=green-tea-cedarwood"
       },
       {
         "category": "reed",
@@ -2864,14 +2864,14 @@ const scents = [
         "image": "assets/candles/candles-056.webp",
         "name": "Forest Poetry \u2014 02",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=pine-cedarwood"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-056.webp&scent=pine-cedarwood"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
         "name": "Forest Poetry \u2014 01",
         "series": "Forest Poetry",
-        "href": "candles-morning-light-2.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=pine-cedarwood"
+        "href": "candles-morning-light-3.html?product=assets%2Fcandles%2Fcandles-055.webp&scent=pine-cedarwood"
       },
       {
         "category": "crystal",

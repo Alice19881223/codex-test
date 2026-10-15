@@ -4,6 +4,18 @@
     "name": "Morning Light",
     "description": "Fresh scents for everyday rituals.",
     "productKeys": [
+      "Colour Stories | Colour Stories — 01",
+      "Colour Stories | Colour Stories — 02",
+      "Postbox | Lime Basil",
+      "Postbox | Osmanthus",
+      "Postbox | Peach Oolong",
+      "Postbox | Island Cotton",
+      "Gradient Glass | Gardenia",
+      "Bamboo | Bamboo — 01",
+      "Bamboo | Bamboo — 02",
+      "Botanical Fragrance | Botanical Fragrance — 01",
+      "Botanical Fragrance | Botanical Fragrance — 03",
+      "Turquoise | Turquoise — 01",
       "Éloria | Éloria — 02",
       "Éloria | Éloria — 03",
       "Sunflower | Ivory Sunflower",
@@ -27,22 +39,24 @@
       "Forest Poetry | Forest Poetry — 01",
       "Garden Reverie | Garden Reverie — 01",
       "Garden Reverie | Garden Reverie — 03",
-      "Round Gift Box | Round Gift Box — 01",
-      "Colour Stories | Colour Stories — 01",
-      "Colour Stories | Colour Stories — 02",
-      "Postbox | Lime Basil",
-      "Postbox | Osmanthus",
-      "Postbox | Peach Oolong",
-      "Postbox | Island Cotton",
-      "Gradient Glass | Gardenia",
-      "Bamboo | Bamboo — 01",
-      "Bamboo | Bamboo — 02",
-      "Botanical Fragrance | Botanical Fragrance — 01",
-      "Botanical Fragrance | Botanical Fragrance — 03",
-      "Turquoise | Turquoise — 01"
+      "Round Gift Box | Round Gift Box — 01"
     ],
     "icon": "sun",
     "pages": [
+      [
+        "Colour Stories | Colour Stories — 01",
+        "Colour Stories | Colour Stories — 02",
+        "Postbox | Lime Basil",
+        "Postbox | Osmanthus",
+        "Postbox | Peach Oolong",
+        "Postbox | Island Cotton",
+        "Gradient Glass | Gardenia",
+        "Bamboo | Bamboo — 01",
+        "Bamboo | Bamboo — 02",
+        "Botanical Fragrance | Botanical Fragrance — 01",
+        "Botanical Fragrance | Botanical Fragrance — 03",
+        "Turquoise | Turquoise — 01"
+      ],
       [
         "Éloria | Éloria — 02",
         "Éloria | Éloria — 03",
@@ -70,22 +84,9 @@
         "Garden Reverie | Garden Reverie — 01",
         "Garden Reverie | Garden Reverie — 03",
         "Round Gift Box | Round Gift Box — 01"
-      ],
-      [
-        "Colour Stories | Colour Stories — 01",
-        "Colour Stories | Colour Stories — 02",
-        "Postbox | Lime Basil",
-        "Postbox | Osmanthus",
-        "Postbox | Peach Oolong",
-        "Postbox | Island Cotton",
-        "Gradient Glass | Gardenia",
-        "Bamboo | Bamboo — 01",
-        "Bamboo | Bamboo — 02",
-        "Botanical Fragrance | Botanical Fragrance — 01",
-        "Botanical Fragrance | Botanical Fragrance — 03",
-        "Turquoise | Turquoise — 01"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   },
   {
     "slug": "a-moment-of-quiet",

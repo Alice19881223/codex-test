@@ -7,6 +7,9 @@ catalogues={cat:json.loads((root/f'assets/{cat}-products.json').read_text()) for
 for cat in ['candle','reed']:
  path=root/f'assets/{cat}-collections.json';collections=json.loads(path.read_text());lookup={p['series']+' | '+p['name']:p for p in catalogues[cat]}
  for c in collections:
+  if c.get('manualPageOrder'):
+   assert [key for page in c['pages'] for key in page]==c['productKeys']
+   continue
   pages=paginate([lookup[k] for k in c['productKeys']]);c['pages']=[[p['series']+' | '+p['name'] for p in page] for page in pages];c['productKeys']=[key for page in c['pages'] for key in page]
  path.write_text(json.dumps(collections,ensure_ascii=False,indent=2))
  print(cat,{c['name']:[len(p) for p in c['pages']] for c in collections})
