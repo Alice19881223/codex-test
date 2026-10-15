@@ -57,7 +57,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Freesia \u00b7 rose"
+    "notes": "Freesia \u00b7 rose",
+    "collectionHref": "fragrance-pear-freesia.html"
   },
   {
     "id": "rose-green-leaves",
@@ -110,7 +111,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Rose \u00b7 geranium"
+    "notes": "Rose \u00b7 geranium",
+    "collectionHref": "fragrance-rose-green-leaves.html"
   },
   {
     "id": "peony-lychee",
@@ -162,7 +164,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Peony \u00b7 rose"
+    "notes": "Peony \u00b7 rose",
+    "collectionHref": "fragrance-peony-lychee.html"
   },
   {
     "id": "jasmine-orange-blossom",
@@ -215,7 +218,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Jasmine \u00b7 orange blossom"
+    "notes": "Jasmine \u00b7 orange blossom",
+    "collectionHref": "fragrance-jasmine-orange-blossom.html"
   },
   {
     "id": "gardenia-tuberose",
@@ -268,7 +272,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Gardenia \u00b7 tuberose \u00b7 jasmine"
+    "notes": "Gardenia \u00b7 tuberose \u00b7 jasmine",
+    "collectionHref": "fragrance-gardenia-tuberose.html"
   },
   {
     "id": "lime-basil",
@@ -320,7 +325,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Basil \u00b7 thyme"
+    "notes": "Basil \u00b7 thyme",
+    "collectionHref": "fragrance-lime-basil.html"
   },
   {
     "id": "grapefruit-bergamot",
@@ -372,7 +378,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Orange blossom \u00b7 fresh greens"
+    "notes": "Orange blossom \u00b7 fresh greens",
+    "collectionHref": "fragrance-grapefruit-bergamot.html"
   },
   {
     "id": "lemon-verbena",
@@ -424,7 +431,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Lemon verbena \u00b7 green leaves"
+    "notes": "Lemon verbena \u00b7 green leaves",
+    "collectionHref": "fragrance-lemon-verbena.html"
   },
   {
     "id": "bergamot-neroli",
@@ -477,7 +485,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Neroli \u00b7 petitgrain"
+    "notes": "Neroli \u00b7 petitgrain",
+    "collectionHref": "fragrance-bergamot-neroli.html"
   },
   {
     "id": "fig-green-leaves",
@@ -531,7 +540,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Fig \u00b7 light coconut milk"
+    "notes": "Fig \u00b7 light coconut milk",
+    "collectionHref": "fragrance-fig-green-leaves.html"
   },
   {
     "id": "blackcurrant-rose",
@@ -583,7 +593,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Rose \u00b7 geranium"
+    "notes": "Rose \u00b7 geranium",
+    "collectionHref": "fragrance-blackcurrant-rose.html"
   },
   {
     "id": "pomegranate-amber",
@@ -639,7 +650,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Rose \u00b7 gentle spices"
+    "notes": "Rose \u00b7 gentle spices",
+    "collectionHref": "fragrance-pomegranate-amber.html"
   },
   {
     "id": "lavender-cedarwood",
@@ -692,7 +704,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Lavender \u00b7 sage"
+    "notes": "Lavender \u00b7 sage",
+    "collectionHref": "fragrance-lavender-cedarwood.html"
   },
   {
     "id": "eucalyptus-mint",
@@ -744,7 +757,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Eucalyptus \u00b7 rosemary"
+    "notes": "Eucalyptus \u00b7 rosemary",
+    "collectionHref": "fragrance-eucalyptus-mint.html"
   },
   {
     "id": "lemon-lavender",
@@ -796,7 +810,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Lavender \u00b7 light orange blossom"
+    "notes": "Lavender \u00b7 light orange blossom",
+    "collectionHref": "fragrance-lemon-lavender.html"
   },
   {
     "id": "white-tea-bergamot",
@@ -849,7 +864,8 @@ const scents = [
       }
     ],
     "family": "Tea & Tranquility",
-    "notes": "White tea accord \u00b7 light jasmine"
+    "notes": "White tea accord \u00b7 light jasmine",
+    "collectionHref": "fragrance-white-tea-bergamot.html"
   },
   {
     "id": "white-tea-rosemary",
@@ -902,7 +918,8 @@ const scents = [
       }
     ],
     "family": "Tea & Tranquility",
-    "notes": "White tea accord \u00b7 rosemary"
+    "notes": "White tea accord \u00b7 rosemary",
+    "collectionHref": "fragrance-white-tea-rosemary.html"
   },
   {
     "id": "black-tea-cedarwood",
@@ -957,7 +974,8 @@ const scents = [
       }
     ],
     "family": "Tea & Tranquility",
-    "notes": "Black tea accord \u00b7 dried florals"
+    "notes": "Black tea accord \u00b7 dried florals",
+    "collectionHref": "fragrance-black-tea-cedarwood.html"
   },
   {
     "id": "osmanthus-green-tea",
@@ -1011,7 +1029,8 @@ const scents = [
       }
     ],
     "family": "Tea & Tranquility",
-    "notes": "Osmanthus \u00b7 green tea accord"
+    "notes": "Osmanthus \u00b7 green tea accord",
+    "collectionHref": "fragrance-osmanthus-green-tea.html"
   },
   {
     "id": "clean-cotton",
@@ -1064,7 +1083,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Lily of the valley \u00b7 light white florals"
+    "notes": "Lily of the valley \u00b7 light white florals",
+    "collectionHref": "fragrance-clean-cotton.html"
   },
   {
     "id": "soft-linen",
@@ -1117,7 +1137,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Iris \u00b7 light violet"
+    "notes": "Iris \u00b7 light violet",
+    "collectionHref": "fragrance-soft-linen.html"
   },
   {
     "id": "sea-salt-driftwood",
@@ -1170,7 +1191,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Sea salt accord \u00b7 sage"
+    "notes": "Sea salt accord \u00b7 sage",
+    "collectionHref": "fragrance-sea-salt-driftwood.html"
   },
   {
     "id": "bamboo-white-florals",
@@ -1223,7 +1245,8 @@ const scents = [
       }
     ],
     "family": "Fresh & Natural",
-    "notes": "Bamboo accord \u00b7 light white florals"
+    "notes": "Bamboo accord \u00b7 light white florals",
+    "collectionHref": "fragrance-bamboo-white-florals.html"
   },
   {
     "id": "sandalwood-cashmere",
@@ -1276,7 +1299,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Sandalwood \u00b7 soft florals"
+    "notes": "Sandalwood \u00b7 soft florals",
+    "collectionHref": "fragrance-sandalwood-cashmere.html"
   },
   {
     "id": "cedarwood-vetiver",
@@ -1330,7 +1354,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Cedarwood \u00b7 cypress"
+    "notes": "Cedarwood \u00b7 cypress",
+    "collectionHref": "fragrance-cedarwood-vetiver.html"
   },
   {
     "id": "fireside-smoked-woods",
@@ -1384,7 +1409,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Cedarwood \u00b7 guaiac wood"
+    "notes": "Cedarwood \u00b7 guaiac wood",
+    "collectionHref": "fragrance-fireside-smoked-woods.html"
   },
   {
     "id": "amber-vanilla",
@@ -1438,7 +1464,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Amber accord \u00b7 benzoin"
+    "notes": "Amber accord \u00b7 benzoin",
+    "collectionHref": "fragrance-amber-vanilla.html"
   },
   {
     "id": "vanilla-tonka",
@@ -1491,7 +1518,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Vanilla \u00b7 soft milky notes"
+    "notes": "Vanilla \u00b7 soft milky notes",
+    "collectionHref": "fragrance-vanilla-tonka.html"
   },
   {
     "id": "caramel-cream",
@@ -1543,7 +1571,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Cream \u00b7 baked notes"
+    "notes": "Cream \u00b7 baked notes",
+    "collectionHref": "fragrance-caramel-cream.html"
   },
   {
     "id": "pumpkin-spice",
@@ -1598,7 +1627,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Cinnamon \u00b7 nutmeg \u00b7 clove"
+    "notes": "Cinnamon \u00b7 nutmeg \u00b7 clove",
+    "collectionHref": "fragrance-pumpkin-spice.html"
   },
   {
     "id": "apple-cinnamon",
@@ -1652,7 +1682,8 @@ const scents = [
       }
     ],
     "family": "Floral & Fruity",
-    "notes": "Cinnamon \u00b7 clove"
+    "notes": "Cinnamon \u00b7 clove",
+    "collectionHref": "fragrance-apple-cinnamon.html"
   },
   {
     "id": "fir-cedarwood",
@@ -1707,7 +1738,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Fir \u00b7 balsamic resin"
+    "notes": "Fir \u00b7 balsamic resin",
+    "collectionHref": "fragrance-fir-cedarwood.html"
   },
   {
     "id": "orange-clove",
@@ -1761,7 +1793,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Clove \u00b7 cinnamon"
+    "notes": "Clove \u00b7 cinnamon",
+    "collectionHref": "fragrance-orange-clove.html"
   },
   {
     "id": "gingerbread-vanilla",
@@ -1816,7 +1849,8 @@ const scents = [
       }
     ],
     "family": "Warm & Woody",
-    "notes": "Cinnamon \u00b7 clove \u00b7 biscuit accord"
+    "notes": "Cinnamon \u00b7 clove \u00b7 biscuit accord",
+    "collectionHref": "fragrance-gingerbread-vanilla.html"
   },
   {
     "id": "mugwort-incense",
@@ -1870,7 +1904,8 @@ const scents = [
       }
     ],
     "family": "Oriental Mystery",
-    "notes": "Sage \u00b7 incense"
+    "notes": "Sage \u00b7 incense",
+    "collectionHref": "fragrance-mugwort-incense.html"
   },
   {
     "id": "green-tea-cedarwood",
@@ -1924,7 +1959,8 @@ const scents = [
       }
     ],
     "family": "Oriental Mystery",
-    "notes": "Green tea accord \u00b7 jasmine"
+    "notes": "Green tea accord \u00b7 jasmine",
+    "collectionHref": "fragrance-green-tea-cedarwood.html"
   },
   {
     "id": "oud-saffron",
@@ -1978,7 +2014,8 @@ const scents = [
       }
     ],
     "family": "Oriental Mystery",
-    "notes": "Oud \u00b7 rose"
+    "notes": "Oud \u00b7 rose",
+    "collectionHref": "fragrance-oud-saffron.html"
   },
   {
     "id": "incense-myrrh",
@@ -2032,7 +2069,8 @@ const scents = [
       }
     ],
     "family": "Oriental Mystery",
-    "notes": "Incense \u00b7 myrrh"
+    "notes": "Incense \u00b7 myrrh",
+    "collectionHref": "fragrance-incense-myrrh.html"
   }
 ];
 

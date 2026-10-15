@@ -6,6 +6,7 @@ root=Path(__file__).resolve().parents[1]
 rows=json.loads((root/'assets/fragrances.json').read_text())
 catalogues={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','sachets']}
 for scent in rows:
+ scent['collectionHref']='fragrance-'+scent['id']+'.html'
  assert len(scent['matches'])>=2
  scent['family']=scent['themes'][0]
  scent['notes']=' · '.join(scent['heart'])

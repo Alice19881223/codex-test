@@ -19,7 +19,7 @@ for p in Path('.').glob('*.html'):
  s=p.read_text()
  if '<header>' not in s:continue
  cat=re.search(r'data-category="([^"]+)"',s)
- active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
+ active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' or p.name.startswith('fragrance-') else 'contact' if p.name=='contact.html' else '')
  def nav_item(k,label,href):
   link=f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>'
   if k!='fragrance':return link
@@ -29,9 +29,9 @@ for p in Path('.').glob('*.html'):
   columns=[]
   for theme,image in themes:
    fragrances=[row for row in rows if theme in row['themes']]
-   links=''.join(f'<li><a class="fragrance-scent-link" href="{html.escape(row["matches"][0]["href"],quote=True)}">{html.escape(row["name"])}<span aria-hidden="true">↗</span></a></li>' for row in fragrances)
+   links=''.join(f'<li><a class="fragrance-scent-link" href="{html.escape(row["collectionHref"],quote=True)}">{html.escape(row["name"])}<span aria-hidden="true">↗</span></a></li>' for row in fragrances)
    columns.append(f'<section class="fragrance-theme"><img src="assets/fragrance-{image}.png" alt="{html.escape(theme)} fragrance inspiration" width="200" height="120"><h2>{html.escape(theme)}</h2><ul class="fragrance-scent-list">{links}</ul></section>')
-  toggle='<button type="button" class="nav-picture fragrance-toggle" aria-expanded="false" aria-controls="fragrance-menu"><img src="assets/nav-fragrance.svg" alt="" width="38" height="38"><span>Fragrance</span></button>'
+  toggle=f'<button type="button" class="nav-picture fragrance-toggle {"active" if active=="fragrance" else ""}" aria-expanded="false" aria-controls="fragrance-menu"><img src="assets/nav-fragrance.svg" alt="" width="38" height="38"><span>Fragrance</span></button>'
   return '<div class="fragrance-navigation">'+toggle+'<div id="fragrance-menu" class="fragrance-dropdown" aria-label="Fragrances by theme">'+''.join(columns)+'</div></div>'
 
  nav='<nav aria-label="Main navigation">'+''.join(nav_item(k,label,href) for k,label,href in items)+'</nav>'

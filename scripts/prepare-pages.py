@@ -45,8 +45,14 @@ for scent in fragrances:
   rows=catalogues[match['category']];index=next(i for i,p in enumerate(rows) if p['image']==match['image'])
   page=(stage/target.path).read_text()
   assert f'data-category="{match["category"]}"' in page and f'data-photo="{index}"' in page,match['href']
+for scent in fragrances:
+ collection=(stage/scent['collectionHref']).read_text()
+ assert f'data-fragrance="{scent["id"]}"' in collection
+ from html import unescape
+ images=[unescape(image) for image in re.findall(r'data-product-image="([^"]+)"',collection)]
+ assert images==[match['image'] for match in scent['matches']],f'{scent["id"]}: fragrance collection must contain every associated product'
 from html import unescape
-expected_menu_links=[match['matches'][0]['href'] for theme in ['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'] for match in fragrances if theme in match['themes']]
+expected_menu_links=[match['collectionHref'] for theme in ['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'] for match in fragrances if theme in match['themes']]
 for path in stage.glob('*.html'):
  text=path.read_text()
  if '<header>' in text:
