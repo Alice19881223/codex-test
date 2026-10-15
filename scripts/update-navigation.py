@@ -20,7 +20,12 @@ for p in Path('.').glob('*.html'):
  if '<header>' not in s:continue
  cat=re.search(r'data-category="([^"]+)"',s)
  active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' else 'contact' if p.name=='contact.html' else '')
- nav='<nav aria-label="Main navigation">'+''.join(f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>' for k,label,href in items)+'</nav>'
+ def nav_item(k,label,href):
+  link=f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>'
+  if k!='fragrance':return link
+  return '<div class="fragrance-navigation">'+link+'<a class="fragrance-preview" href="fragrance.html?family=Floral%20%26%20Fruity" aria-label="Explore floral and fruity fragrances"><img src="assets/fragrance-floral-fruity.png" alt="Pink peonies, roses and jasmine with pear, fig and blackcurrants" width="320" height="240"><span class="fragrance-preview-copy"><strong>Floral &amp; Fruity</strong><span>Blooming petals. Juicy fruits. A little everyday delight.</span><span class="fragrance-preview-link">Explore the fragrance library ↗</span></span></a></div>'
+ nav='<nav aria-label="Main navigation">'+''.join(nav_item(k,label,href) for k,label,href in items)+'</nav>'
+
  s=re.sub(r'<nav aria-label="Main navigation">.*?</nav>',lambda m:nav,s,count=1,flags=re.S)
  icon=active if active in icons else 'candle'
  s=s.replace('← Previous',f'<img class="page-picture" src="assets/nav-{icon}.svg" alt="" width="26" height="26"><span>‹ Previous</span>').replace('Next →',f'<span>Next ›</span><img class="page-picture" src="assets/nav-{icon}.svg" alt="" width="26" height="26">')
