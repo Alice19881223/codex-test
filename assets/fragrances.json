@@ -192,7 +192,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-098.webp",
+        "image": "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
         "name": "Peony Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-50f22eff.html?scent=peony-lychee",
@@ -332,7 +332,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-101.webp",
+        "image": "assets/reeds/standalone/28e887d886b1ed314e66.png",
         "name": "Moonlit Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-641aff27.html?scent=gardenia-tuberose",
@@ -429,7 +429,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-102.webp",
+        "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
         "name": "Lime Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=lime-basil",
@@ -478,7 +478,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-095.webp",
+        "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
         "name": "Orange Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=grapefruit-bergamot",
@@ -502,7 +502,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-102.webp",
+        "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
         "name": "Lime Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=grapefruit-bergamot",
@@ -1046,7 +1046,7 @@
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-097.webp",
+        "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
         "name": "Green Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=lemon-lavender",
@@ -1128,7 +1128,7 @@
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-099.webp",
+        "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-bergamot",
@@ -1136,7 +1136,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-096.webp",
+        "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
         "name": "White Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-bergamot",
@@ -1210,7 +1210,7 @@
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-099.webp",
+        "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-rosemary",
@@ -1226,7 +1226,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-096.webp",
+        "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
         "name": "White Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-rosemary",
@@ -1310,7 +1310,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-090.webp",
+        "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
         "name": "Cold Brew Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=black-tea-cedarwood",
@@ -1318,7 +1318,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-093.webp",
+        "image": "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
         "name": "Black Tea Ritual",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-4d8d9cc7.html?scent=black-tea-cedarwood",
@@ -1787,7 +1787,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-091.webp",
+        "image": "assets/reeds/standalone/5e510e2a781106064090.png",
         "name": "Sandalwood Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-d0554588.html?scent=sandalwood-cashmere",
@@ -1902,7 +1902,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-092.webp",
+        "image": "assets/reeds/standalone/fdcf769b8f506d79add7.png",
         "name": "Midnight Cedar",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-b52d22d7.html?scent=cedarwood-vetiver",
@@ -2573,7 +2573,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-095.webp",
+        "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
         "name": "Orange Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=orange-clove",
@@ -2791,7 +2791,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-097.webp",
+        "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
         "name": "Green Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=green-tea-cedarwood",
@@ -2831,7 +2831,7 @@
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-090.webp",
+        "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
         "name": "Cold Brew Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=green-tea-cedarwood",

@@ -33,7 +33,7 @@ if(grid){
  }
 }
 const selectedProduct=new URLSearchParams(location.search).get('product');
-if(selectedProduct&&grid){const category=document.body.dataset.category;const photo=catalogues[category]?.find(p=>p.image===selectedProduct);if(photo){const scent=scents.find(s=>s.id===new URLSearchParams(location.search).get('scent'));openPhoto(photo,category,scent);}}
+if(selectedProduct&&grid){const category=document.body.dataset.category;const photo=catalogues[category]?.find(p=>p.image===selectedProduct||p.legacyImages?.includes(selectedProduct));if(photo){const scent=scents.find(s=>s.id===new URLSearchParams(location.search).get('scent'));openPhoto(photo,category,scent);}}
 // The fragrance button opens an inline menu; every scent goes straight to a product.
 const fragranceNavigation=document.querySelector('.fragrance-navigation');
 const fragranceToggle=fragranceNavigation?.querySelector('.fragrance-toggle');

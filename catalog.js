@@ -200,7 +200,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-098.webp",
+        "image": "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
         "name": "Peony Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-50f22eff.html?scent=peony-lychee",
@@ -340,7 +340,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-101.webp",
+        "image": "assets/reeds/standalone/28e887d886b1ed314e66.png",
         "name": "Moonlit Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-641aff27.html?scent=gardenia-tuberose",
@@ -437,7 +437,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-102.webp",
+        "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
         "name": "Lime Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=lime-basil",
@@ -486,7 +486,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-095.webp",
+        "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
         "name": "Orange Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=grapefruit-bergamot",
@@ -510,7 +510,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-102.webp",
+        "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
         "name": "Lime Mountain",
         "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=grapefruit-bergamot",
@@ -1054,7 +1054,7 @@ const scents = [
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-097.webp",
+        "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
         "name": "Green Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=lemon-lavender",
@@ -1136,7 +1136,7 @@ const scents = [
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-099.webp",
+        "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-bergamot",
@@ -1144,7 +1144,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-096.webp",
+        "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
         "name": "White Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-bergamot",
@@ -1218,7 +1218,7 @@ const scents = [
     "matches": [
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-099.webp",
+        "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-rosemary",
@@ -1234,7 +1234,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-096.webp",
+        "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
         "name": "White Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-rosemary",
@@ -1318,7 +1318,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-090.webp",
+        "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
         "name": "Cold Brew Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=black-tea-cedarwood",
@@ -1326,7 +1326,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-093.webp",
+        "image": "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
         "name": "Black Tea Ritual",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-4d8d9cc7.html?scent=black-tea-cedarwood",
@@ -1795,7 +1795,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-091.webp",
+        "image": "assets/reeds/standalone/5e510e2a781106064090.png",
         "name": "Sandalwood Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-d0554588.html?scent=sandalwood-cashmere",
@@ -1910,7 +1910,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-092.webp",
+        "image": "assets/reeds/standalone/fdcf769b8f506d79add7.png",
         "name": "Midnight Cedar",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-b52d22d7.html?scent=cedarwood-vetiver",
@@ -2581,7 +2581,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-095.webp",
+        "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
         "name": "Orange Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=orange-clove",
@@ -2799,7 +2799,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-097.webp",
+        "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
         "name": "Green Tea Clarity",
         "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=green-tea-cedarwood",
@@ -2839,7 +2839,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-090.webp",
+        "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
         "name": "Cold Brew Retreat",
         "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=green-tea-cedarwood",
@@ -4332,68 +4332,172 @@ const reedProducts = [
   },
   {
     "name": "Cold Brew Retreat",
-    "image": "assets/reeds/reeds-090.webp",
-    "series": "Ribbed Retreat"
+    "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
+    "series": "Ribbed Retreat",
+    "legacyImages": [
+      "assets/reeds/reeds-090.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-090.webp",
+    "images": [
+      "assets/reeds/standalone/0ce20953b7f31b486366.png",
+      "assets/reeds/reeds-090.webp"
+    ]
   },
   {
     "name": "Sandalwood Retreat",
-    "image": "assets/reeds/reeds-091.webp",
-    "series": "Ribbed Retreat"
+    "image": "assets/reeds/standalone/5e510e2a781106064090.png",
+    "series": "Ribbed Retreat",
+    "legacyImages": [
+      "assets/reeds/reeds-091.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-091.webp",
+    "images": [
+      "assets/reeds/standalone/5e510e2a781106064090.png",
+      "assets/reeds/reeds-091.webp"
+    ]
   },
   {
     "name": "Midnight Cedar",
-    "image": "assets/reeds/reeds-092.webp",
-    "series": "Ribbed Retreat"
+    "image": "assets/reeds/standalone/fdcf769b8f506d79add7.png",
+    "series": "Ribbed Retreat",
+    "legacyImages": [
+      "assets/reeds/reeds-092.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-092.webp",
+    "images": [
+      "assets/reeds/standalone/fdcf769b8f506d79add7.png",
+      "assets/reeds/reeds-092.webp"
+    ]
   },
   {
     "name": "Black Tea Ritual",
-    "image": "assets/reeds/reeds-093.webp",
-    "series": "Ribbed Retreat"
+    "image": "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
+    "series": "Ribbed Retreat",
+    "legacyImages": [
+      "assets/reeds/reeds-093.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-093.webp",
+    "images": [
+      "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
+      "assets/reeds/reeds-093.webp"
+    ]
   },
   {
     "name": "Ebony & Bergamot Clarity",
-    "image": "assets/reeds/reeds-094.webp",
-    "series": "Quiet Clarity"
+    "image": "assets/reeds/standalone/43fe0d5983ae27208291.png",
+    "series": "Quiet Clarity",
+    "legacyImages": [
+      "assets/reeds/reeds-094.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-094.webp",
+    "images": [
+      "assets/reeds/standalone/43fe0d5983ae27208291.png",
+      "assets/reeds/reeds-094.webp"
+    ]
   },
   {
     "name": "Orange Clarity",
-    "image": "assets/reeds/reeds-095.webp",
-    "series": "Quiet Clarity"
+    "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
+    "series": "Quiet Clarity",
+    "legacyImages": [
+      "assets/reeds/reeds-095.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-095.webp",
+    "images": [
+      "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
+      "assets/reeds/reeds-095.webp"
+    ]
   },
   {
     "name": "White Tea Clarity",
-    "image": "assets/reeds/reeds-096.webp",
-    "series": "Quiet Clarity"
+    "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
+    "series": "Quiet Clarity",
+    "legacyImages": [
+      "assets/reeds/reeds-096.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-096.webp",
+    "images": [
+      "assets/reeds/standalone/0fe827a233c27a862be3.png",
+      "assets/reeds/reeds-096.webp"
+    ]
   },
   {
     "name": "Green Tea Clarity",
-    "image": "assets/reeds/reeds-097.webp",
-    "series": "Quiet Clarity"
+    "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
+    "series": "Quiet Clarity",
+    "legacyImages": [
+      "assets/reeds/reeds-097.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-097.webp",
+    "images": [
+      "assets/reeds/standalone/1897a7c919cef24794ab.png",
+      "assets/reeds/reeds-097.webp"
+    ]
   },
   {
     "name": "Peony Soft Matte",
-    "image": "assets/reeds/reeds-098.webp",
-    "series": "Soft Matte"
+    "image": "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
+    "series": "Soft Matte",
+    "legacyImages": [
+      "assets/reeds/reeds-098.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-098.webp",
+    "images": [
+      "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
+      "assets/reeds/reeds-098.webp"
+    ]
   },
   {
     "name": "White Tea Soft Matte",
-    "image": "assets/reeds/reeds-099.webp",
-    "series": "Soft Matte"
+    "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
+    "series": "Soft Matte",
+    "legacyImages": [
+      "assets/reeds/reeds-099.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-099.webp",
+    "images": [
+      "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
+      "assets/reeds/reeds-099.webp"
+    ]
   },
   {
     "name": "Blush Mountain",
-    "image": "assets/reeds/reeds-100.webp",
-    "series": "Mountain Light"
+    "image": "assets/reeds/standalone/82c60d22feb4032d52e4.png",
+    "series": "Mountain Light",
+    "legacyImages": [
+      "assets/reeds/reeds-100.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-100.webp",
+    "images": [
+      "assets/reeds/standalone/82c60d22feb4032d52e4.png",
+      "assets/reeds/reeds-100.webp"
+    ]
   },
   {
     "name": "Moonlit Mountain",
-    "image": "assets/reeds/reeds-101.webp",
-    "series": "Mountain Light"
+    "image": "assets/reeds/standalone/28e887d886b1ed314e66.png",
+    "series": "Mountain Light",
+    "legacyImages": [
+      "assets/reeds/reeds-101.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-101.webp",
+    "images": [
+      "assets/reeds/standalone/28e887d886b1ed314e66.png",
+      "assets/reeds/reeds-101.webp"
+    ]
   },
   {
     "name": "Lime Mountain",
-    "image": "assets/reeds/reeds-102.webp",
-    "series": "Mountain Light"
+    "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
+    "series": "Mountain Light",
+    "legacyImages": [
+      "assets/reeds/reeds-102.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-102.webp",
+    "images": [
+      "assets/reeds/standalone/bd51761dacecefe18b8e.png",
+      "assets/reeds/reeds-102.webp"
+    ]
   },
   {
     "name": "Amber Botanical",
@@ -4507,12 +4611,15 @@ const reedProducts = [
   },
   {
     "name": "Botanical Branch",
-    "image": "assets/companions/231a21cbbc3f7b033780.webp",
+    "image": "assets/reeds/standalone/df81d60110cf03605d3b.png",
     "series": "Botanical Infusions",
     "packagingImage": "assets/reeds/reeds-116.webp",
     "images": [
-      "assets/companions/231a21cbbc3f7b033780.webp",
+      "assets/reeds/standalone/df81d60110cf03605d3b.png",
       "assets/reeds/reeds-116.webp"
+    ],
+    "legacyImages": [
+      "assets/companions/231a21cbbc3f7b033780.webp"
     ]
   },
   {
@@ -4552,28 +4659,68 @@ const reedProducts = [
   },
   {
     "name": "Golden Curve",
-    "image": "assets/reeds/reeds-121.webp",
-    "series": "Golden Curves"
+    "image": "assets/reeds/standalone/b1d286b3aff7d72c474b.png",
+    "series": "Golden Curves",
+    "legacyImages": [
+      "assets/reeds/reeds-121.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-121.webp",
+    "images": [
+      "assets/reeds/standalone/b1d286b3aff7d72c474b.png",
+      "assets/reeds/reeds-121.webp"
+    ]
   },
   {
     "name": "Golden Botanist",
-    "image": "assets/reeds/reeds-122.webp",
-    "series": "Botanical Gleam"
+    "image": "assets/reeds/standalone/4ed06c28b01356516de0.png",
+    "series": "Botanical Gleam",
+    "legacyImages": [
+      "assets/reeds/reeds-122.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-122.webp",
+    "images": [
+      "assets/reeds/standalone/4ed06c28b01356516de0.png",
+      "assets/reeds/reeds-122.webp"
+    ]
   },
   {
     "name": "Pearl Botanist",
-    "image": "assets/reeds/reeds-123.webp",
-    "series": "Botanical Gleam"
+    "image": "assets/reeds/standalone/67f19d6a74a1dd52ebe3.png",
+    "series": "Botanical Gleam",
+    "legacyImages": [
+      "assets/reeds/reeds-123.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-123.webp",
+    "images": [
+      "assets/reeds/standalone/67f19d6a74a1dd52ebe3.png",
+      "assets/reeds/reeds-123.webp"
+    ]
   },
   {
     "name": "Blush Arch",
-    "image": "assets/reeds/reeds-124.webp",
-    "series": "Blush Arch"
+    "image": "assets/reeds/standalone/4d34d18499bce0ec0d09.png",
+    "series": "Blush Arch",
+    "legacyImages": [
+      "assets/reeds/reeds-124.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-124.webp",
+    "images": [
+      "assets/reeds/standalone/4d34d18499bce0ec0d09.png",
+      "assets/reeds/reeds-124.webp"
+    ]
   },
   {
     "name": "Rose Orb",
-    "image": "assets/reeds/reeds-125.webp",
-    "series": "Glass Orbs"
+    "image": "assets/reeds/standalone/34ed97c6e6aa3cb799af.png",
+    "series": "Glass Orbs",
+    "legacyImages": [
+      "assets/reeds/reeds-125.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-125.webp",
+    "images": [
+      "assets/reeds/standalone/34ed97c6e6aa3cb799af.png",
+      "assets/reeds/reeds-125.webp"
+    ]
   },
   {
     "name": "Honey Orb",
@@ -4582,8 +4729,16 @@ const reedProducts = [
   },
   {
     "name": "Sage Orb",
-    "image": "assets/reeds/reeds-127.webp",
-    "series": "Glass Orbs"
+    "image": "assets/reeds/standalone/c87a5b505b2784ad4b89.png",
+    "series": "Glass Orbs",
+    "legacyImages": [
+      "assets/reeds/reeds-127.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-127.webp",
+    "images": [
+      "assets/reeds/standalone/c87a5b505b2784ad4b89.png",
+      "assets/reeds/reeds-127.webp"
+    ]
   },
   {
     "name": "Deep Amber Classic",
@@ -5813,19 +5968,19 @@ const productPages = {
     "assets/reeds/reed-01.webp": "product-lnv-rd-9b94a2ab.html",
     "assets/reeds/reed-03.webp": "product-lnv-rd-45957f71.html",
     "assets/reeds/reed-04.webp": "product-lnv-rd-072061b3.html",
-    "assets/reeds/reeds-090.webp": "product-lnv-rd-2ad91044.html",
-    "assets/reeds/reeds-091.webp": "product-lnv-rd-d0554588.html",
-    "assets/reeds/reeds-092.webp": "product-lnv-rd-b52d22d7.html",
-    "assets/reeds/reeds-093.webp": "product-lnv-rd-4d8d9cc7.html",
-    "assets/reeds/reeds-094.webp": "product-lnv-rd-e8f6ed02.html",
-    "assets/reeds/reeds-095.webp": "product-lnv-rd-fa20a879.html",
-    "assets/reeds/reeds-096.webp": "product-lnv-rd-be66c5be.html",
-    "assets/reeds/reeds-097.webp": "product-lnv-rd-47ba0b4a.html",
-    "assets/reeds/reeds-098.webp": "product-lnv-rd-50f22eff.html",
-    "assets/reeds/reeds-099.webp": "product-lnv-rd-a5c91961.html",
-    "assets/reeds/reeds-100.webp": "product-lnv-rd-fb6595ab.html",
-    "assets/reeds/reeds-101.webp": "product-lnv-rd-641aff27.html",
-    "assets/reeds/reeds-102.webp": "product-lnv-rd-063e34fb.html",
+    "assets/reeds/standalone/0ce20953b7f31b486366.png": "product-lnv-rd-2ad91044.html",
+    "assets/reeds/standalone/5e510e2a781106064090.png": "product-lnv-rd-d0554588.html",
+    "assets/reeds/standalone/fdcf769b8f506d79add7.png": "product-lnv-rd-b52d22d7.html",
+    "assets/reeds/standalone/1bcfcddeea70ed693d4c.png": "product-lnv-rd-4d8d9cc7.html",
+    "assets/reeds/standalone/43fe0d5983ae27208291.png": "product-lnv-rd-e8f6ed02.html",
+    "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png": "product-lnv-rd-fa20a879.html",
+    "assets/reeds/standalone/0fe827a233c27a862be3.png": "product-lnv-rd-be66c5be.html",
+    "assets/reeds/standalone/1897a7c919cef24794ab.png": "product-lnv-rd-47ba0b4a.html",
+    "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png": "product-lnv-rd-50f22eff.html",
+    "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png": "product-lnv-rd-a5c91961.html",
+    "assets/reeds/standalone/82c60d22feb4032d52e4.png": "product-lnv-rd-fb6595ab.html",
+    "assets/reeds/standalone/28e887d886b1ed314e66.png": "product-lnv-rd-641aff27.html",
+    "assets/reeds/standalone/bd51761dacecefe18b8e.png": "product-lnv-rd-063e34fb.html",
     "assets/companions/d254438f943ca1177135.webp": "product-lnv-rd-b937e0e2.html",
     "assets/companions/7f5bb0b72c302656cc3e.webp": "product-lnv-rd-f15f15be.html",
     "assets/companions/57fc12ec0de57fe4822f.webp": "product-lnv-rd-ae6b521f.html",
@@ -5839,18 +5994,18 @@ const productPages = {
     "assets/reeds/reeds-113.webp": "product-lnv-rd-8f40c037.html",
     "assets/companions/97b297ac3d3b797368fa.webp": "product-lnv-rd-b0c8dd88.html",
     "assets/reeds/reeds-115.webp": "product-lnv-rd-87093553.html",
-    "assets/companions/231a21cbbc3f7b033780.webp": "product-lnv-rd-ac44abb7.html",
+    "assets/reeds/standalone/df81d60110cf03605d3b.png": "product-lnv-rd-ac44abb7.html",
     "assets/reeds/reeds-117.webp": "product-lnv-rd-38069535.html",
     "assets/companions/9a2ccca3988e0e6b8bbb.webp": "product-lnv-rd-94b28ee9.html",
     "assets/companions/27e4b122a9b559ae799d.webp": "product-lnv-rd-63cb0545.html",
     "assets/companions/d83b888e65240d5a7203.webp": "product-lnv-rd-8620180a.html",
-    "assets/reeds/reeds-121.webp": "product-lnv-rd-c112c38f.html",
-    "assets/reeds/reeds-122.webp": "product-lnv-rd-2ac8192f.html",
-    "assets/reeds/reeds-123.webp": "product-lnv-rd-31409345.html",
-    "assets/reeds/reeds-124.webp": "product-lnv-rd-6213bdae.html",
-    "assets/reeds/reeds-125.webp": "product-lnv-rd-d39737a5.html",
+    "assets/reeds/standalone/b1d286b3aff7d72c474b.png": "product-lnv-rd-c112c38f.html",
+    "assets/reeds/standalone/4ed06c28b01356516de0.png": "product-lnv-rd-2ac8192f.html",
+    "assets/reeds/standalone/67f19d6a74a1dd52ebe3.png": "product-lnv-rd-31409345.html",
+    "assets/reeds/standalone/4d34d18499bce0ec0d09.png": "product-lnv-rd-6213bdae.html",
+    "assets/reeds/standalone/34ed97c6e6aa3cb799af.png": "product-lnv-rd-d39737a5.html",
     "assets/reeds/reeds-126.webp": "product-lnv-rd-510e8ca9.html",
-    "assets/reeds/reeds-127.webp": "product-lnv-rd-40e91f57.html",
+    "assets/reeds/standalone/c87a5b505b2784ad4b89.png": "product-lnv-rd-40e91f57.html",
     "assets/reeds/reeds-128.webp": "product-lnv-rd-ad3c36be.html",
     "assets/reeds/reeds-129.webp": "product-lnv-rd-9fb7b57f.html",
     "assets/reeds/reeds-130.webp": "product-lnv-rd-15aa5d48.html",

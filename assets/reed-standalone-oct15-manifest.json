@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Sandalwood Retreat",
+    "itemNo": "LNV-RD-D0554588",
+    "sourceFile": "1.png",
+    "sha256": "5e510e2a78110606409009ab5ac83bd85fd038cf5f40f99b4243297634e233a5",
+    "image": "assets/reeds/standalone/5e510e2a781106064090.png",
+    "packagingImage": "assets/reeds/reeds-091.webp",
+    "previousImage": "assets/reeds/reeds-091.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Blush Mountain",
+    "itemNo": "LNV-RD-FB6595AB",
+    "sourceFile": "2.png",
+    "sha256": "82c60d22feb4032d52e4a95f2a617111952f63e930940eaf99fdaab74c8eac7f",
+    "image": "assets/reeds/standalone/82c60d22feb4032d52e4.png",
+    "packagingImage": "assets/reeds/reeds-100.webp",
+    "previousImage": "assets/reeds/reeds-100.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Orange Clarity",
+    "itemNo": "LNV-RD-FA20A879",
+    "sourceFile": "3.png",
+    "sha256": "bc19c6f7e0c9652bedc251b4163fc12f2f4fdd805ab8c284f026031b4f61c490",
+    "image": "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
+    "packagingImage": "assets/reeds/reeds-095.webp",
+    "previousImage": "assets/reeds/reeds-095.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Peony Soft Matte",
+    "itemNo": "LNV-RD-50F22EFF",
+    "sourceFile": "4.png",
+    "sha256": "cee0adc2a34b97a7c9ce38c8a7098d83645cfc8ac0cc8af8328ab359b96af792",
+    "image": "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
+    "packagingImage": "assets/reeds/reeds-098.webp",
+    "previousImage": "assets/reeds/reeds-098.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Midnight Cedar",
+    "itemNo": "LNV-RD-B52D22D7",
+    "sourceFile": "5.png",
+    "sha256": "fdcf769b8f506d79add7e46b37112db303d38c03f26f350c4fd1dca441f06b36",
+    "image": "assets/reeds/standalone/fdcf769b8f506d79add7.png",
+    "packagingImage": "assets/reeds/reeds-092.webp",
+    "previousImage": "assets/reeds/reeds-092.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Golden Botanist",
+    "itemNo": "LNV-RD-2AC8192F",
+    "sourceFile": "6.png",
+    "sha256": "4ed06c28b01356516de00de982c4e3e6ca02473dbf8403e79982b1f62a274039",
+    "image": "assets/reeds/standalone/4ed06c28b01356516de0.png",
+    "packagingImage": "assets/reeds/reeds-122.webp",
+    "previousImage": "assets/reeds/reeds-122.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Botanical Branch",
+    "itemNo": "LNV-RD-AC44ABB7",
+    "sourceFile": "7.png",
+    "sha256": "df81d60110cf03605d3bc4a6c2fbc28a2bbd3d646c5c170977ddf8b6243a55f5",
+    "image": "assets/reeds/standalone/df81d60110cf03605d3b.png",
+    "packagingImage": "assets/reeds/reeds-116.webp",
+    "previousImage": "assets/companions/231a21cbbc3f7b033780.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Lime Mountain",
+    "itemNo": "LNV-RD-063E34FB",
+    "sourceFile": "8.png",
+    "sha256": "bd51761dacecefe18b8ef2639deb7743a8f81272631573b3a33197ef97b77fc3",
+    "image": "assets/reeds/standalone/bd51761dacecefe18b8e.png",
+    "packagingImage": "assets/reeds/reeds-102.webp",
+    "previousImage": "assets/reeds/reeds-102.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "White Tea Soft Matte",
+    "itemNo": "LNV-RD-A5C91961",
+    "sourceFile": "9.png",
+    "sha256": "da7b6c81e1b5ec96c52fb77f2a7bc0a6a270105793885415b801e0f7bf3eb794",
+    "image": "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
+    "packagingImage": "assets/reeds/reeds-099.webp",
+    "previousImage": "assets/reeds/reeds-099.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Sage Orb",
+    "itemNo": "LNV-RD-40E91F57",
+    "sourceFile": "10.png",
+    "sha256": "c87a5b505b2784ad4b897db547edc02b0787e97b8407ca9c3e4b8a34cd6fc464",
+    "image": "assets/reeds/standalone/c87a5b505b2784ad4b89.png",
+    "packagingImage": "assets/reeds/reeds-127.webp",
+    "previousImage": "assets/reeds/reeds-127.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Blush Arch",
+    "itemNo": "LNV-RD-6213BDAE",
+    "sourceFile": "11.png",
+    "sha256": "4d34d18499bce0ec0d0917c4a118c6c28164a61bcc63434c1e2d1cf126d16619",
+    "image": "assets/reeds/standalone/4d34d18499bce0ec0d09.png",
+    "packagingImage": "assets/reeds/reeds-124.webp",
+    "previousImage": "assets/reeds/reeds-124.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Moonlit Mountain",
+    "itemNo": "LNV-RD-641AFF27",
+    "sourceFile": "12.png",
+    "sha256": "28e887d886b1ed314e6653a6f4a9204db0445b241d840f6d8eea1248c63fa498",
+    "image": "assets/reeds/standalone/28e887d886b1ed314e66.png",
+    "packagingImage": "assets/reeds/reeds-101.webp",
+    "previousImage": "assets/reeds/reeds-101.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Ebony & Bergamot Clarity",
+    "itemNo": "LNV-RD-E8F6ED02",
+    "sourceFile": "13.png",
+    "sha256": "43fe0d5983ae272082919210ed4db46ca27f3ee76815ed256cbebaa69ec131b9",
+    "image": "assets/reeds/standalone/43fe0d5983ae27208291.png",
+    "packagingImage": "assets/reeds/reeds-094.webp",
+    "previousImage": "assets/reeds/reeds-094.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Pearl Botanist",
+    "itemNo": "LNV-RD-31409345",
+    "sourceFile": "14.png",
+    "sha256": "67f19d6a74a1dd52ebe300e2c5515a633f63e630a3b10e6b8bad5c7bfdebe924",
+    "image": "assets/reeds/standalone/67f19d6a74a1dd52ebe3.png",
+    "packagingImage": "assets/reeds/reeds-123.webp",
+    "previousImage": "assets/reeds/reeds-123.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "White Tea Clarity",
+    "itemNo": "LNV-RD-BE66C5BE",
+    "sourceFile": "15.png",
+    "sha256": "0fe827a233c27a862be32db3135a5821511b604c1eeb65ba0580d18b87bc5d1e",
+    "image": "assets/reeds/standalone/0fe827a233c27a862be3.png",
+    "packagingImage": "assets/reeds/reeds-096.webp",
+    "previousImage": "assets/reeds/reeds-096.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Rose Orb",
+    "itemNo": "LNV-RD-D39737A5",
+    "sourceFile": "16.png",
+    "sha256": "34ed97c6e6aa3cb799afb254400ae3e0a73d13f9e738d922014ab1aece885834",
+    "image": "assets/reeds/standalone/34ed97c6e6aa3cb799af.png",
+    "packagingImage": "assets/reeds/reeds-125.webp",
+    "previousImage": "assets/reeds/reeds-125.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Green Tea Clarity",
+    "itemNo": "LNV-RD-47BA0B4A",
+    "sourceFile": "17.png",
+    "sha256": "1897a7c919cef24794ab8aade068e3161e85dd9242571f9d59a8b19cbad2face",
+    "image": "assets/reeds/standalone/1897a7c919cef24794ab.png",
+    "packagingImage": "assets/reeds/reeds-097.webp",
+    "previousImage": "assets/reeds/reeds-097.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Golden Curve",
+    "itemNo": "LNV-RD-C112C38F",
+    "sourceFile": "18.png",
+    "sha256": "b1d286b3aff7d72c474b7428d78400fbf64144d04e7b62d0c06d45d8bbede8dc",
+    "image": "assets/reeds/standalone/b1d286b3aff7d72c474b.png",
+    "packagingImage": "assets/reeds/reeds-121.webp",
+    "previousImage": "assets/reeds/reeds-121.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Cold Brew Retreat",
+    "itemNo": "LNV-RD-2AD91044",
+    "sourceFile": "19.png",
+    "sha256": "0ce20953b7f31b4863667f8f59bc019a8cbdabde550e10f0e615319a5c04e6c3",
+    "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
+    "packagingImage": "assets/reeds/reeds-090.webp",
+    "previousImage": "assets/reeds/reeds-090.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  },
+  {
+    "name": "Black Tea Ritual",
+    "itemNo": "LNV-RD-4D8D9CC7",
+    "sourceFile": "20.png",
+    "sha256": "1bcfcddeea70ed693d4c41e6de1f2014c51ae4bf74f597e28b38b482dade3a61",
+    "image": "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
+    "packagingImage": "assets/reeds/reeds-093.webp",
+    "previousImage": "assets/reeds/reeds-093.webp",
+    "upload": "file_00000000db7481f8af4fb81753ca5148"
+  }
+]
