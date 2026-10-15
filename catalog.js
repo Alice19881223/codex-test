@@ -2752,7 +2752,7 @@ const scents = [
         "name": "Sage Daisy",
         "series": "Sculpted Floral",
         "href": "product-lnv-rd-121c22b0.html?scent=mugwort-incense",
-        "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
+        "catalogueHref": "reeds-a-breath-of-fresh-air.html"
       },
       {
         "category": "gift",
@@ -4323,12 +4323,16 @@ const reedProducts = [
   {
     "name": "Rain Forest Reed Diffuser",
     "image": "assets/reeds/reed-03.webp",
-    "series": "Reed diffuser"
-  },
-  {
-    "name": "Rain Forest Bottle & Box",
-    "image": "assets/reeds/reed-04.webp",
-    "series": "Fragrance bottle and packaging"
+    "series": "Reed diffuser",
+    "packagingImage": "assets/reeds/reed-04.webp",
+    "images": [
+      "assets/reeds/reed-03.webp",
+      "assets/reeds/reed-04.webp"
+    ],
+    "legacyImages": [
+      "assets/reeds/reed-04.webp"
+    ],
+    "alternateView": true
   },
   {
     "name": "Cold Brew Retreat",
@@ -5967,7 +5971,6 @@ const productPages = {
     "assets/reeds/paired/3d49e14d13a50bc979c6.webp": "product-lnv-rd-4002904b.html",
     "assets/reeds/reed-01.webp": "product-lnv-rd-9b94a2ab.html",
     "assets/reeds/reed-03.webp": "product-lnv-rd-45957f71.html",
-    "assets/reeds/reed-04.webp": "product-lnv-rd-072061b3.html",
     "assets/reeds/standalone/0ce20953b7f31b486366.png": "product-lnv-rd-2ad91044.html",
     "assets/reeds/standalone/5e510e2a781106064090.png": "product-lnv-rd-d0554588.html",
     "assets/reeds/standalone/fdcf769b8f506d79add7.png": "product-lnv-rd-b52d22d7.html",

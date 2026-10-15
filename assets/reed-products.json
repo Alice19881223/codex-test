@@ -287,12 +287,16 @@
   {
     "name": "Rain Forest Reed Diffuser",
     "image": "assets/reeds/reed-03.webp",
-    "series": "Reed diffuser"
-  },
-  {
-    "name": "Rain Forest Bottle & Box",
-    "image": "assets/reeds/reed-04.webp",
-    "series": "Fragrance bottle and packaging"
+    "series": "Reed diffuser",
+    "packagingImage": "assets/reeds/reed-04.webp",
+    "images": [
+      "assets/reeds/reed-03.webp",
+      "assets/reeds/reed-04.webp"
+    ],
+    "legacyImages": [
+      "assets/reeds/reed-04.webp"
+    ],
+    "alternateView": true
   },
   {
     "name": "Cold Brew Retreat",
