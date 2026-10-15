@@ -1,0 +1,222 @@
+[
+  {
+    "category": "candle",
+    "name": "Jasmine Script",
+    "itemNo": "LNV-CND-F46875B2",
+    "image": "assets/candles/standalone/2eeacd649f141b2be29e.png",
+    "packagingImage": "assets/candles/candles-064.webp",
+    "previousImage": "assets/candles/candles-064.webp",
+    "sourceFile": "1.png",
+    "sha256": "2eeacd649f141b2be29ea3ffc9df0204c502558ff448ce14a8a862937e07695a",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Sandalwood Script",
+    "itemNo": "LNV-CND-8086ED4C",
+    "image": "assets/candles/standalone/e6663bcb37430197de2d.png",
+    "packagingImage": "assets/candles/candles-063.webp",
+    "previousImage": "assets/candles/candles-063.webp",
+    "sourceFile": "2.png",
+    "sha256": "e6663bcb37430197de2da0703b34c4dece9dace21c82bf089e320b9091c66861",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Lavender Script",
+    "itemNo": "LNV-CND-6914F87E",
+    "image": "assets/candles/standalone/9d79b7f4105f2367b2ef.png",
+    "packagingImage": "assets/candles/candles-065.webp",
+    "previousImage": "assets/candles/candles-065.webp",
+    "sourceFile": "3.png",
+    "sha256": "9d79b7f4105f2367b2eff73b0bebce662fcb5beec36fd4c8b12f176e57bb74d3",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Teal Floral Trio",
+    "itemNo": "LNV-CND-67E8533C",
+    "image": "assets/candles/standalone/01a1c253c9626b5ee0fc.png",
+    "packagingImage": "assets/candles/candles-060.webp",
+    "previousImage": "assets/candles/candles-060.webp",
+    "sourceFile": "4.png",
+    "sha256": "01a1c253c9626b5ee0fc3889687aac1eed74a2b3db1bb5791998faff789809da",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Silver Kitten",
+    "itemNo": "LNV-CND-73FA34B8",
+    "image": "assets/candles/standalone/43582c41f2669d4f7495.png",
+    "packagingImage": "assets/candles/candles-018.webp",
+    "previousImage": "assets/candles/candles-018.webp",
+    "sourceFile": "5.png",
+    "sha256": "43582c41f2669d4f74951f210d80b0521fdb53ab6744896e5f74f3c00a8b8632",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Our Shared Light",
+    "itemNo": "LNV-CND-34C29725",
+    "image": "assets/candles/standalone/f790a90770604f869504.png",
+    "packagingImage": "assets/candles/candles-043.webp",
+    "previousImage": "assets/candles/candles-043.webp",
+    "sourceFile": "6.png",
+    "sha256": "f790a90770604f86950455f74c733eddb37cfe3d4b6efe5c4bf0843daa4c9cc7",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Morning Garden",
+    "itemNo": "LNV-CND-52D64837",
+    "image": "assets/candles/standalone/8d7fa88418b35d23ad59.png",
+    "packagingImage": "assets/candles/candles-051.webp",
+    "previousImage": "assets/candles/candles-051.webp",
+    "sourceFile": "7.png",
+    "sha256": "8d7fa88418b35d23ad5913aa303e77c4be0cf6ab05b37c9aa190b25e3078afa1",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "His Quiet Moment",
+    "itemNo": "LNV-CND-2C0FA029",
+    "image": "assets/candles/standalone/fe428fed40d350de6a12.png",
+    "packagingImage": "assets/candles/candles-041.webp",
+    "previousImage": "assets/candles/candles-041.webp",
+    "sourceFile": "8.png",
+    "sha256": "fe428fed40d350de6a127e06aac63318aef6f2a9b3b8af196debaa7fb11a1469",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Her Soft Glow",
+    "itemNo": "LNV-CND-29E722E6",
+    "image": "assets/candles/standalone/9d32db279b0d48a889ca.png",
+    "packagingImage": "assets/candles/candles-042.webp",
+    "previousImage": "assets/candles/candles-042.webp",
+    "sourceFile": "9.png",
+    "sha256": "9d32db279b0d48a889ca6667c97deea528b2023ed793314cee39fe834b9c0a31",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Orange Blossom Script",
+    "itemNo": "LNV-CND-9C8E9B59",
+    "image": "assets/candles/standalone/a6ef06112e83b1565aaf.png",
+    "packagingImage": "assets/candles/candles-062.webp",
+    "previousImage": "assets/candles/candles-062.webp",
+    "sourceFile": "10.png",
+    "sha256": "a6ef06112e83b1565aafb9505dae0a55116660bd0510c0478000378640a1d268",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Verdant Garden",
+    "itemNo": "LNV-CND-D6ABA3D2",
+    "image": "assets/candles/standalone/c1e38dedb39addfa9091.png",
+    "packagingImage": "assets/candles/candles-059.webp",
+    "previousImage": "assets/candles/candles-059.webp",
+    "sourceFile": "11.png",
+    "sha256": "c1e38dedb39addfa9091201c6cd9a900907d3e5cfd1a40bbb06cfa6cc811946c",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Peony Garden",
+    "itemNo": "LNV-CND-6B435C93",
+    "image": "assets/candles/standalone/1bd4a0da8613e6df8a30.png",
+    "packagingImage": "assets/candles/candles-053.webp",
+    "previousImage": "assets/candles/candles-053.webp",
+    "sourceFile": "12.png",
+    "sha256": "1bd4a0da8613e6df8a30acf95d1839e2a106f0104247b611741468d46a91b81c",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Bronze Pedestal",
+    "itemNo": "LNV-CND-9FAADC5B",
+    "image": "assets/candles/standalone/9fb96031b17769f96861.png",
+    "packagingImage": "assets/candles/candles-013.webp",
+    "previousImage": "assets/candles/candles-013.webp",
+    "sourceFile": "13.png",
+    "sha256": "9fb96031b17769f96861bf57bd0baa8f10cdeeed0aa4f85b278a0d7ae881d23f",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Charcoal Pedestal",
+    "itemNo": "LNV-CND-893A9CB2",
+    "image": "assets/candles/standalone/b748b263fd62654282c8.png",
+    "packagingImage": "assets/candles/candles-014.webp",
+    "previousImage": "assets/candles/candles-014.webp",
+    "sourceFile": "14.png",
+    "sha256": "b748b263fd62654282c88bc0017e15943881178466a32d4a8e787da6fa816e50",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Ginger Kitten",
+    "itemNo": "LNV-CND-83444550",
+    "image": "assets/candles/standalone/2d152b28c01d04671021.png",
+    "packagingImage": "assets/candles/candles-017.webp",
+    "previousImage": "assets/candles/candles-017.webp",
+    "sourceFile": "15.png",
+    "sha256": "2d152b28c01d04671021444b148f9eaded0594834d4c5b815cea82567166ede0",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Botanical Keepsake",
+    "itemNo": "LNV-CND-B43852D7",
+    "image": "assets/candles/standalone/c18ee38fb251983b7e3b.png",
+    "packagingImage": "assets/candles/candles-012.webp",
+    "previousImage": "assets/candles/candles-012.webp",
+    "sourceFile": "16.png",
+    "sha256": "c18ee38fb251983b7e3b9eff7f9407a4a321779005af12ab95193efee80bfa77",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Gardenia Tea Garden",
+    "itemNo": "LNV-CND-802BBF00",
+    "image": "assets/candles/standalone/d720f327268f510a4340.png",
+    "packagingImage": "assets/candles/candles-052.webp",
+    "previousImage": "assets/candles/candles-052.webp",
+    "sourceFile": "17.png",
+    "sha256": "d720f327268f510a4340a0aae7ab8eab2c73b2daba36b2785919e8abd71eeaea",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Lavender Garden",
+    "itemNo": "LNV-CND-56BF11BF",
+    "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
+    "packagingImage": "assets/candles/candles-054.webp",
+    "previousImage": "assets/candles/candles-054.webp",
+    "sourceFile": "18.png",
+    "sha256": "5c9feb70d50ca3f8c5d6709033d4a37391d4fb6f59efe853f5f9b8baa015522b",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Peony Keepsake",
+    "itemNo": "LNV-CND-0506D5E1",
+    "image": "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
+    "packagingImage": "assets/candles/candles-011.webp",
+    "previousImage": "assets/candles/candles-011.webp",
+    "sourceFile": "19.png",
+    "sha256": "59438cdb4ca8be4d69d693a6d792e1455473fa0124f1271cf8718eff78bc2691",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Floral Trio",
+    "itemNo": "LNV-CND-40B74B94",
+    "image": "assets/candles/standalone/b802d8b0a302fa106390.png",
+    "packagingImage": "assets/candles/candles-061.webp",
+    "previousImage": "assets/candles/candles-061.webp",
+    "sourceFile": "20.png",
+    "sha256": "b802d8b0a302fa106390b194312990fa0ec8e576d81638942b204dbf505dac47",
+    "upload": "file_000000009eb081f99ba9cc287e37e161"
+  }
+]

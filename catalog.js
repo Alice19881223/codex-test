@@ -95,7 +95,7 @@ const scents = [
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-041.webp",
+        "image": "assets/candles/standalone/fe428fed40d350de6a12.png",
         "name": "His Quiet Moment",
         "series": "Moments Together",
         "href": "product-lnv-cnd-2c0fa029.html?scent=rose-green-leaves",
@@ -478,7 +478,7 @@ const scents = [
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-011.webp",
+        "image": "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
         "name": "Peony Keepsake",
         "series": "Botanical Keepsakes",
         "href": "product-lnv-cnd-0506d5e1.html?scent=grapefruit-bergamot",
@@ -757,7 +757,7 @@ const scents = [
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-041.webp",
+        "image": "assets/candles/standalone/fe428fed40d350de6a12.png",
         "name": "His Quiet Moment",
         "series": "Moments Together",
         "href": "product-lnv-cnd-2c0fa029.html?scent=blackcurrant-rose",
@@ -3650,23 +3650,55 @@ const candleProducts = [
   },
   {
     "name": "Peony Keepsake",
-    "image": "assets/candles/candles-011.webp",
-    "series": "Botanical Keepsakes"
+    "image": "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
+    "series": "Botanical Keepsakes",
+    "legacyImages": [
+      "assets/candles/candles-011.webp"
+    ],
+    "packagingImage": "assets/candles/candles-011.webp",
+    "images": [
+      "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
+      "assets/candles/candles-011.webp"
+    ]
   },
   {
     "name": "Botanical Keepsake",
-    "image": "assets/candles/candles-012.webp",
-    "series": "Botanical Keepsakes"
+    "image": "assets/candles/standalone/c18ee38fb251983b7e3b.png",
+    "series": "Botanical Keepsakes",
+    "legacyImages": [
+      "assets/candles/candles-012.webp"
+    ],
+    "packagingImage": "assets/candles/candles-012.webp",
+    "images": [
+      "assets/candles/standalone/c18ee38fb251983b7e3b.png",
+      "assets/candles/candles-012.webp"
+    ]
   },
   {
     "name": "Bronze Pedestal",
-    "image": "assets/candles/candles-013.webp",
-    "series": "Pedestal Glow"
+    "image": "assets/candles/standalone/9fb96031b17769f96861.png",
+    "series": "Pedestal Glow",
+    "legacyImages": [
+      "assets/candles/candles-013.webp"
+    ],
+    "packagingImage": "assets/candles/candles-013.webp",
+    "images": [
+      "assets/candles/standalone/9fb96031b17769f96861.png",
+      "assets/candles/candles-013.webp"
+    ]
   },
   {
     "name": "Charcoal Pedestal",
-    "image": "assets/candles/candles-014.webp",
-    "series": "Pedestal Glow"
+    "image": "assets/candles/standalone/b748b263fd62654282c8.png",
+    "series": "Pedestal Glow",
+    "legacyImages": [
+      "assets/candles/candles-014.webp"
+    ],
+    "packagingImage": "assets/candles/candles-014.webp",
+    "images": [
+      "assets/candles/standalone/b748b263fd62654282c8.png",
+      "assets/candles/candles-014.webp"
+    ]
   },
   {
     "name": "Golden Companion",
@@ -3680,13 +3712,29 @@ const candleProducts = [
   },
   {
     "name": "Ginger Kitten",
-    "image": "assets/candles/candles-017.webp",
-    "series": "Little Companions"
+    "image": "assets/candles/standalone/2d152b28c01d04671021.png",
+    "series": "Little Companions",
+    "legacyImages": [
+      "assets/candles/candles-017.webp"
+    ],
+    "packagingImage": "assets/candles/candles-017.webp",
+    "images": [
+      "assets/candles/standalone/2d152b28c01d04671021.png",
+      "assets/candles/candles-017.webp"
+    ]
   },
   {
     "name": "Silver Kitten",
-    "image": "assets/candles/candles-018.webp",
-    "series": "Little Companions"
+    "image": "assets/candles/standalone/43582c41f2669d4f7495.png",
+    "series": "Little Companions",
+    "legacyImages": [
+      "assets/candles/candles-018.webp"
+    ],
+    "packagingImage": "assets/candles/candles-018.webp",
+    "images": [
+      "assets/candles/standalone/43582c41f2669d4f7495.png",
+      "assets/candles/candles-018.webp"
+    ]
   },
   {
     "name": "Ochre Wild",
@@ -3906,18 +3954,42 @@ const candleProducts = [
   },
   {
     "name": "His Quiet Moment",
-    "image": "assets/candles/candles-041.webp",
-    "series": "Moments Together"
+    "image": "assets/candles/standalone/fe428fed40d350de6a12.png",
+    "series": "Moments Together",
+    "legacyImages": [
+      "assets/candles/candles-041.webp"
+    ],
+    "packagingImage": "assets/candles/candles-041.webp",
+    "images": [
+      "assets/candles/standalone/fe428fed40d350de6a12.png",
+      "assets/candles/candles-041.webp"
+    ]
   },
   {
     "name": "Her Soft Glow",
-    "image": "assets/candles/candles-042.webp",
-    "series": "Moments Together"
+    "image": "assets/candles/standalone/9d32db279b0d48a889ca.png",
+    "series": "Moments Together",
+    "legacyImages": [
+      "assets/candles/candles-042.webp"
+    ],
+    "packagingImage": "assets/candles/candles-042.webp",
+    "images": [
+      "assets/candles/standalone/9d32db279b0d48a889ca.png",
+      "assets/candles/candles-042.webp"
+    ]
   },
   {
     "name": "Our Shared Light",
-    "image": "assets/candles/candles-043.webp",
-    "series": "Moments Together"
+    "image": "assets/candles/standalone/f790a90770604f869504.png",
+    "series": "Moments Together",
+    "legacyImages": [
+      "assets/candles/candles-043.webp"
+    ],
+    "packagingImage": "assets/candles/candles-043.webp",
+    "images": [
+      "assets/candles/standalone/f790a90770604f869504.png",
+      "assets/candles/candles-043.webp"
+    ]
   },
   {
     "name": "Plum Blossom Teacup",
@@ -3956,23 +4028,55 @@ const candleProducts = [
   },
   {
     "name": "Morning Garden",
-    "image": "assets/candles/candles-051.webp",
-    "series": "Garden Jars"
+    "image": "assets/candles/standalone/8d7fa88418b35d23ad59.png",
+    "series": "Garden Jars",
+    "legacyImages": [
+      "assets/candles/candles-051.webp"
+    ],
+    "packagingImage": "assets/candles/candles-051.webp",
+    "images": [
+      "assets/candles/standalone/8d7fa88418b35d23ad59.png",
+      "assets/candles/candles-051.webp"
+    ]
   },
   {
     "name": "Gardenia Tea Garden",
-    "image": "assets/candles/candles-052.webp",
-    "series": "Garden Jars"
+    "image": "assets/candles/standalone/d720f327268f510a4340.png",
+    "series": "Garden Jars",
+    "legacyImages": [
+      "assets/candles/candles-052.webp"
+    ],
+    "packagingImage": "assets/candles/candles-052.webp",
+    "images": [
+      "assets/candles/standalone/d720f327268f510a4340.png",
+      "assets/candles/candles-052.webp"
+    ]
   },
   {
     "name": "Peony Garden",
-    "image": "assets/candles/candles-053.webp",
-    "series": "Garden Jars"
+    "image": "assets/candles/standalone/1bd4a0da8613e6df8a30.png",
+    "series": "Garden Jars",
+    "legacyImages": [
+      "assets/candles/candles-053.webp"
+    ],
+    "packagingImage": "assets/candles/candles-053.webp",
+    "images": [
+      "assets/candles/standalone/1bd4a0da8613e6df8a30.png",
+      "assets/candles/candles-053.webp"
+    ]
   },
   {
     "name": "Lavender Garden",
-    "image": "assets/candles/candles-054.webp",
-    "series": "Garden Jars"
+    "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
+    "series": "Garden Jars",
+    "legacyImages": [
+      "assets/candles/candles-054.webp"
+    ],
+    "packagingImage": "assets/candles/candles-054.webp",
+    "images": [
+      "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
+      "assets/candles/candles-054.webp"
+    ]
   },
   {
     "name": "Sunlit Grove",
@@ -4028,38 +4132,94 @@ const candleProducts = [
   },
   {
     "name": "Verdant Garden",
-    "image": "assets/candles/candles-059.webp",
-    "series": "Painted Gardens"
+    "image": "assets/candles/standalone/c1e38dedb39addfa9091.png",
+    "series": "Painted Gardens",
+    "legacyImages": [
+      "assets/candles/candles-059.webp"
+    ],
+    "packagingImage": "assets/candles/candles-059.webp",
+    "images": [
+      "assets/candles/standalone/c1e38dedb39addfa9091.png",
+      "assets/candles/candles-059.webp"
+    ]
   },
   {
     "name": "Teal Floral Trio",
-    "image": "assets/candles/candles-060.webp",
-    "series": "Floral Trio"
+    "image": "assets/candles/standalone/01a1c253c9626b5ee0fc.png",
+    "series": "Floral Trio",
+    "legacyImages": [
+      "assets/candles/candles-060.webp"
+    ],
+    "packagingImage": "assets/candles/candles-060.webp",
+    "images": [
+      "assets/candles/standalone/01a1c253c9626b5ee0fc.png",
+      "assets/candles/candles-060.webp"
+    ]
   },
   {
     "name": "Ivory Floral Trio",
-    "image": "assets/candles/candles-061.webp",
-    "series": "Floral Trio"
+    "image": "assets/candles/standalone/b802d8b0a302fa106390.png",
+    "series": "Floral Trio",
+    "legacyImages": [
+      "assets/candles/candles-061.webp"
+    ],
+    "packagingImage": "assets/candles/candles-061.webp",
+    "images": [
+      "assets/candles/standalone/b802d8b0a302fa106390.png",
+      "assets/candles/candles-061.webp"
+    ]
   },
   {
     "name": "Orange Blossom Script",
-    "image": "assets/candles/candles-062.webp",
-    "series": "Botanical Script"
+    "image": "assets/candles/standalone/a6ef06112e83b1565aaf.png",
+    "series": "Botanical Script",
+    "legacyImages": [
+      "assets/candles/candles-062.webp"
+    ],
+    "packagingImage": "assets/candles/candles-062.webp",
+    "images": [
+      "assets/candles/standalone/a6ef06112e83b1565aaf.png",
+      "assets/candles/candles-062.webp"
+    ]
   },
   {
     "name": "Sandalwood Script",
-    "image": "assets/candles/candles-063.webp",
-    "series": "Botanical Script"
+    "image": "assets/candles/standalone/e6663bcb37430197de2d.png",
+    "series": "Botanical Script",
+    "legacyImages": [
+      "assets/candles/candles-063.webp"
+    ],
+    "packagingImage": "assets/candles/candles-063.webp",
+    "images": [
+      "assets/candles/standalone/e6663bcb37430197de2d.png",
+      "assets/candles/candles-063.webp"
+    ]
   },
   {
     "name": "Jasmine Script",
-    "image": "assets/candles/candles-064.webp",
-    "series": "Botanical Script"
+    "image": "assets/candles/standalone/2eeacd649f141b2be29e.png",
+    "series": "Botanical Script",
+    "legacyImages": [
+      "assets/candles/candles-064.webp"
+    ],
+    "packagingImage": "assets/candles/candles-064.webp",
+    "images": [
+      "assets/candles/standalone/2eeacd649f141b2be29e.png",
+      "assets/candles/candles-064.webp"
+    ]
   },
   {
     "name": "Lavender Script",
-    "image": "assets/candles/candles-065.webp",
-    "series": "Botanical Script"
+    "image": "assets/candles/standalone/9d79b7f4105f2367b2ef.png",
+    "series": "Botanical Script",
+    "legacyImages": [
+      "assets/candles/candles-065.webp"
+    ],
+    "packagingImage": "assets/candles/candles-065.webp",
+    "images": [
+      "assets/candles/standalone/9d79b7f4105f2367b2ef.png",
+      "assets/candles/candles-065.webp"
+    ]
   },
   {
     "name": "Smoke & Glass",
@@ -6027,14 +6187,14 @@ const productPages = {
     "assets/candles/candles-006.webp": "product-lnv-cnd-f4feaf59.html",
     "assets/candles/candles-007.webp": "product-lnv-cnd-da0dfdb4.html",
     "assets/candles/candles-008.webp": "product-lnv-cnd-86a1b64b.html",
-    "assets/candles/candles-011.webp": "product-lnv-cnd-0506d5e1.html",
-    "assets/candles/candles-012.webp": "product-lnv-cnd-b43852d7.html",
-    "assets/candles/candles-013.webp": "product-lnv-cnd-9faadc5b.html",
-    "assets/candles/candles-014.webp": "product-lnv-cnd-893a9cb2.html",
+    "assets/candles/standalone/59438cdb4ca8be4d69d6.png": "product-lnv-cnd-0506d5e1.html",
+    "assets/candles/standalone/c18ee38fb251983b7e3b.png": "product-lnv-cnd-b43852d7.html",
+    "assets/candles/standalone/9fb96031b17769f96861.png": "product-lnv-cnd-9faadc5b.html",
+    "assets/candles/standalone/b748b263fd62654282c8.png": "product-lnv-cnd-893a9cb2.html",
     "assets/candles/candles-015.webp": "product-lnv-cnd-6fa4bcd6.html",
     "assets/candles/candles-016.webp": "product-lnv-cnd-6187e5a2.html",
-    "assets/candles/candles-017.webp": "product-lnv-cnd-83444550.html",
-    "assets/candles/candles-018.webp": "product-lnv-cnd-73fa34b8.html",
+    "assets/candles/standalone/2d152b28c01d04671021.png": "product-lnv-cnd-83444550.html",
+    "assets/candles/standalone/43582c41f2669d4f7495.png": "product-lnv-cnd-73fa34b8.html",
     "assets/candles/standalone/c0a082d97a20f207e6ce.png": "product-lnv-cnd-024abdb4.html",
     "assets/candles/standalone/99abaed16aca13894dc1.png": "product-lnv-cnd-401266a5.html",
     "assets/candles/standalone/e7d024f3f8ff3706bcee.png": "product-lnv-cnd-54c26556.html",
@@ -6057,9 +6217,9 @@ const productPages = {
     "assets/candles/candles-038.webp": "product-lnv-cnd-a94e8956.html",
     "assets/candles/candles-039.webp": "product-lnv-cnd-b870c50a.html",
     "assets/candles/candles-040.webp": "product-lnv-cnd-6872f2be.html",
-    "assets/candles/candles-041.webp": "product-lnv-cnd-2c0fa029.html",
-    "assets/candles/candles-042.webp": "product-lnv-cnd-29e722e6.html",
-    "assets/candles/candles-043.webp": "product-lnv-cnd-34c29725.html",
+    "assets/candles/standalone/fe428fed40d350de6a12.png": "product-lnv-cnd-2c0fa029.html",
+    "assets/candles/standalone/9d32db279b0d48a889ca.png": "product-lnv-cnd-29e722e6.html",
+    "assets/candles/standalone/f790a90770604f869504.png": "product-lnv-cnd-34c29725.html",
     "assets/candles/candles-044.webp": "product-lnv-cnd-fe56a1c8.html",
     "assets/candles/candles-045.webp": "product-lnv-cnd-126c54c6.html",
     "assets/candles/candles-046.webp": "product-lnv-cnd-69918d3a.html",
@@ -6067,21 +6227,21 @@ const productPages = {
     "assets/candles/candles-048.webp": "product-lnv-cnd-719f4e3b.html",
     "assets/candles/candles-049.webp": "product-lnv-cnd-fb2cbeb1.html",
     "assets/candles/candles-050.webp": "product-lnv-cnd-34110715.html",
-    "assets/candles/candles-051.webp": "product-lnv-cnd-52d64837.html",
-    "assets/candles/candles-052.webp": "product-lnv-cnd-802bbf00.html",
-    "assets/candles/candles-053.webp": "product-lnv-cnd-6b435c93.html",
-    "assets/candles/candles-054.webp": "product-lnv-cnd-56bf11bf.html",
+    "assets/candles/standalone/8d7fa88418b35d23ad59.png": "product-lnv-cnd-52d64837.html",
+    "assets/candles/standalone/d720f327268f510a4340.png": "product-lnv-cnd-802bbf00.html",
+    "assets/candles/standalone/1bd4a0da8613e6df8a30.png": "product-lnv-cnd-6b435c93.html",
+    "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png": "product-lnv-cnd-56bf11bf.html",
     "assets/candles/standalone/b35477ecc4b3afa62445.png": "product-lnv-cnd-7bd30b48.html",
     "assets/candles/standalone/ca78f49f63c3984fe232.png": "product-lnv-cnd-c0f0aacf.html",
     "assets/candles/standalone/ce5925a4e4cce0c3a0be.png": "product-lnv-cnd-7ace2c64.html",
     "assets/candles/standalone/019a491870bb30c2f313.png": "product-lnv-cnd-52a81cc5.html",
-    "assets/candles/candles-059.webp": "product-lnv-cnd-d6aba3d2.html",
-    "assets/candles/candles-060.webp": "product-lnv-cnd-67e8533c.html",
-    "assets/candles/candles-061.webp": "product-lnv-cnd-40b74b94.html",
-    "assets/candles/candles-062.webp": "product-lnv-cnd-9c8e9b59.html",
-    "assets/candles/candles-063.webp": "product-lnv-cnd-8086ed4c.html",
-    "assets/candles/candles-064.webp": "product-lnv-cnd-f46875b2.html",
-    "assets/candles/candles-065.webp": "product-lnv-cnd-6914f87e.html",
+    "assets/candles/standalone/c1e38dedb39addfa9091.png": "product-lnv-cnd-d6aba3d2.html",
+    "assets/candles/standalone/01a1c253c9626b5ee0fc.png": "product-lnv-cnd-67e8533c.html",
+    "assets/candles/standalone/b802d8b0a302fa106390.png": "product-lnv-cnd-40b74b94.html",
+    "assets/candles/standalone/a6ef06112e83b1565aaf.png": "product-lnv-cnd-9c8e9b59.html",
+    "assets/candles/standalone/e6663bcb37430197de2d.png": "product-lnv-cnd-8086ed4c.html",
+    "assets/candles/standalone/2eeacd649f141b2be29e.png": "product-lnv-cnd-f46875b2.html",
+    "assets/candles/standalone/9d79b7f4105f2367b2ef.png": "product-lnv-cnd-6914f87e.html",
     "assets/candles/candles-066.webp": "product-lnv-cnd-20d9446e.html",
     "assets/candles/candles-067.webp": "product-lnv-cnd-4918ca83.html",
     "assets/candles/candles-068.webp": "product-lnv-cnd-6e161c20.html",
