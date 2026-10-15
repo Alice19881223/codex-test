@@ -67,9 +67,11 @@ for scent in fragrances:
  assert set(scent['themes'])<=themes and scent['themes']
  for match in scent['matches']:
   target=urlsplit(match['href']);query=parse_qs(target.query)
-  assert query['scent']==[scent['id']] and query['product']==[match['image']]
+  assert query['scent']==[scent['id']]
   rows=catalogues[match['category']];index=next(i for i,p in enumerate(rows) if p['image']==match['image'])
-  page=(stage/target.path).read_text()
+  detail=(stage/target.path).read_text()
+  assert f'data-product-category="{match["category"]}"' in detail and match['image'] in detail,match['href']
+  page=(stage/match['catalogueHref']).read_text()
   assert f'data-category="{match["category"]}"' in page and f'data-photo="{index}"' in page,match['href']
 for scent in fragrances:
  collection=(stage/scent['collectionHref']).read_text()
@@ -85,5 +87,17 @@ for path in stage.glob('*.html'):
   links=[unescape(url) for url in re.findall(r'class="fragrance-scent-link" href="([^"]+)"',text)]
   assert links==expected_menu_links,f'{path.name}: compact fragrance links are incomplete'
   assert 'id="scent-grid"' not in text,'The retired fragrance-card view must not be published'
+# Every product has a stable, nonempty detail page and uses only its supplied images.
+records=json.loads((stage/'assets/product-details.json').read_text())
+assert len(records)==sum(len(items) for items in catalogues.values())
+assert len({record['itemNo'] for record in records})==len(records)
+for record in records:
+ text=(stage/record['url']).read_text()
+ assert f'data-product-reference="{record["itemNo"]}"' in text and record['image'] in text
+ assert 'id="product-inquiry-form"' in text and 'id="product-page-data"' in text
+ for document in record['documents']:
+  assert document['verified'] is True and record['itemNo'] in document['itemNos']
+  assert (stage/document['file']).is_file() and (stage/document['thumbnail']).is_file()
+print(f'Verified {len(records)} full product pages, references, inquiry forms and scoped documentation.')
 print(f'Verified {len(fragrances)} fragrance profiles and {sum(len(s["matches"]) for s in fragrances)} specific product links.')
 print('Prepared public website; product photos, paired-view order, catalogue pagination and public links verified.')

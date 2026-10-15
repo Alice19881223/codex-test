@@ -2,6 +2,7 @@
 from pathlib import Path
 from urllib.parse import urlencode
 import json,re
+from product_records import product_url
 root=Path(__file__).resolve().parents[1]
 rows=json.loads((root/'assets/fragrances.json').read_text())
 catalogues={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','sachets']}
@@ -20,7 +21,7 @@ for scent in rows:
    target=f'products-crystal-{page}.html' if cat=='crystal' else ('gift-collection' if cat=='gift' else 'christmas-collection' if cat=='christmas' else 'sachets')+(f'-{page}' if page>1 else '')+'.html'
   assert (root/target).exists(),target
   text=(root/target).read_text();assert f'data-photo="{index}"' in text,f'{target}: linked product is not on page'
-  match.update(name=p['name'],series=p['series'],href=target+'?'+urlencode({'product':p['image'],'scent':scent['id']}))
+  match.update(name=p['name'],series=p['series'],catalogueHref=target,href=product_url(cat,p['image'])+'?'+urlencode({'scent':scent['id']}))
 (root/'assets/fragrances.json').write_text(json.dumps(rows,indent=2))
 p=root/'catalog.js';text=re.sub(r'^const fragranceThemes = .*?;\n','',p.read_text(),flags=re.M);a=text.index('const scents = ');b=text.index('const candleProducts = ',a)
 p.write_text(text[:a]+'const fragranceThemes = '+json.dumps(['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'])+';\nconst scents = '+json.dumps(rows,indent=2)+';\n\n'+text[b:])

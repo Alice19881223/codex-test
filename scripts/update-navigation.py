@@ -18,7 +18,7 @@ items=[('home','Who we are','index.html'),('candle','Scented candles','products-
 for p in Path('.').glob('*.html'):
  s=p.read_text()
  if '<header>' not in s:continue
- cat=re.search(r'data-category="([^"]+)"',s)
+ cat=re.search(r'data-(?:product-)?category="([^"]+)"',s)
  active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' or p.name.startswith('fragrance-') else 'contact' if p.name=='contact.html' else '')
  def nav_item(k,label,href):
   link=f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>'
