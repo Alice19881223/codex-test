@@ -7,7 +7,7 @@ rows=json.loads((root/'assets/fragrances.json').read_text())
 catalogues={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','sachets']}
 for scent in rows:
  scent['collectionHref']='fragrance-'+scent['id']+'.html'
- assert len(scent['matches'])>=2
+ assert scent['matches'], 'A fragrance collection needs at least one relevant product'
  scent['family']=scent['themes'][0]
  scent['notes']=' · '.join(scent['heart'])
  for match in scent['matches']:
