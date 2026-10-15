@@ -86,6 +86,7 @@ for path in root.glob('*.html'):
   card=re.sub(r'<span class="product-link">.*?</span>(?:</span>)?','',card,flags=re.S)
   return re.sub(r'<p class="fragrance-product-series">.*?</p>','',card,flags=re.S)
  text=re.sub(r'<a\b[^>]*class="[^"]*\bcrystal-item\b[^"]*"[^>]*>.*?</a>',clean_card,text,flags=re.S)
+ text=re.sub(r'<button\b[^>]*class="photo-toggle"[^>]*>.*?</button>','',text,flags=re.S)
  if text!=original:path.write_text(text)
 
 p=root/'catalog.js';text=re.sub(r'\nconst productPages = \{.*?\n\};\n?', '\n',p.read_text(),flags=re.S);p.write_text(text.rstrip()+'\n\nconst productPages = '+json.dumps(page_map,indent=2)+';\n')

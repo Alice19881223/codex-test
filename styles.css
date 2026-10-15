@@ -284,3 +284,25 @@ header{position:relative;z-index:30}
 #product-inquiry-form .product-selection-summary,#product-inquiry-form .enquiry-product-label{grid-column:1/-1}.product-selection-summary{font-size:12px;line-height:1.8;margin:0;padding:12px;border:1px solid #d7dfcd;border-radius:6px;color:#526b46;background:#f8f8ef}
 /* Product cards use one descriptive title, without duplicate series or generic action text. */
 .crystal-item h3{margin:16px 0 10px;font-size:clamp(18px,1.7vw,24px);line-height:1.35;font-weight:500}
+
+/* One step larger for product information and enquiry text, including mobile layouts. */
+.product-reference{font-size:13px}
+.product-collection-link{font-size:14px}
+#product-short-description{font-size:16px}
+.product-scent-tags span{font-size:12px}
+.product-key-notes{font-size:14px}
+.product-detail-page .product-options label,.product-detail-page .product-enquiry label{font-size:13px}
+.product-options input,.product-options select,.product-enquiry input,.product-enquiry textarea,.product-enquiry select{font-size:14px}
+.product-confirmation-note,.product-caption{font-size:13px}
+.product-scent-story p{font-size:15px}
+.product-detail-page .note-pyramid dt{font-size:14px}
+.product-detail-page .note-pyramid dd{font-size:16px}
+.product-accordion>div{font-size:15px}
+.product-spec-list dt,.product-spec-list dd{font-size:14px}
+.product-packaging figcaption{font-size:13px}
+.product-related-card span{font-size:16px}
+.product-related-card small{font-size:12px}
+.product-enquiry>div>p{font-size:15px}
+.product-enquiry .enquiry-delivery-note{font-size:13px}
+.product-selection-summary,.inquiry-basket,.product-secondary-button,#product-action-status,#enquiry-status{font-size:14px}
+.inquiry-line strong{font-size:14px}.inquiry-line small,.inquiry-line button{font-size:12px}
