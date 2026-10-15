@@ -295,74 +295,74 @@
     "series": "Fragrance bottle and packaging"
   },
   {
-    "name": "Tea Rituals — 01",
+    "name": "Cold Brew Retreat",
     "image": "assets/reeds/reeds-090.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 02",
+    "name": "Sandalwood Retreat",
     "image": "assets/reeds/reeds-091.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 03",
+    "name": "Midnight Cedar",
     "image": "assets/reeds/reeds-092.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 04",
+    "name": "Black Tea Ritual",
     "image": "assets/reeds/reeds-093.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Fresh Moments — 01",
+    "name": "Ebony & Bergamot Clarity",
     "image": "assets/reeds/reeds-094.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 02",
+    "name": "Orange Clarity",
     "image": "assets/reeds/reeds-095.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 03",
+    "name": "White Tea Clarity",
     "image": "assets/reeds/reeds-096.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 04",
+    "name": "Green Tea Clarity",
     "image": "assets/reeds/reeds-097.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Pastel — 01",
+    "name": "Peony Soft Matte",
     "image": "assets/reeds/reeds-098.webp",
-    "series": "Pastel"
+    "series": "Soft Matte"
   },
   {
-    "name": "Pastel — 02",
+    "name": "White Tea Soft Matte",
     "image": "assets/reeds/reeds-099.webp",
-    "series": "Pastel"
+    "series": "Soft Matte"
   },
   {
-    "name": "Mountain — 01",
+    "name": "Blush Mountain",
     "image": "assets/reeds/reeds-100.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Mountain — 02",
+    "name": "Moonlit Mountain",
     "image": "assets/reeds/reeds-101.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Mountain — 03",
+    "name": "Lime Mountain",
     "image": "assets/reeds/reeds-102.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Botanical — 01",
+    "name": "Amber Botanical",
     "image": "assets/companions/d254438f943ca1177135.webp",
-    "series": "Botanical",
+    "series": "Amber Botanicals",
     "packagingImage": "assets/reeds/reeds-103.webp",
     "images": [
       "assets/companions/d254438f943ca1177135.webp",
@@ -370,9 +370,9 @@
     ]
   },
   {
-    "name": "Cylindrical — 01",
+    "name": "Bluebell Atelier",
     "image": "assets/companions/7f5bb0b72c302656cc3e.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-104.webp",
     "images": [
       "assets/companions/7f5bb0b72c302656cc3e.webp",
@@ -380,9 +380,9 @@
     ]
   },
   {
-    "name": "Cylindrical — 02",
+    "name": "Sandalwood Atelier",
     "image": "assets/companions/57fc12ec0de57fe4822f.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-105.webp",
     "images": [
       "assets/companions/57fc12ec0de57fe4822f.webp",
@@ -390,9 +390,9 @@
     ]
   },
   {
-    "name": "Cylindrical — 03",
+    "name": "Pear & Freesia Atelier",
     "image": "assets/companions/eb66283958ad1067c60b.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-106.webp",
     "images": [
       "assets/companions/eb66283958ad1067c60b.webp",
@@ -400,9 +400,9 @@
     ]
   },
   {
-    "name": "Cylindrical — 04",
+    "name": "Lime & Chamomile Atelier",
     "image": "assets/companions/7ca9a742e8adc548081d.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-107.webp",
     "images": [
       "assets/companions/7ca9a742e8adc548081d.webp",
@@ -410,9 +410,9 @@
     ]
   },
   {
-    "name": "Square Glass — 01",
+    "name": "Ebony Reserve",
     "image": "assets/companions/47d5d503511846e0926c.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-108.webp",
     "images": [
       "assets/companions/47d5d503511846e0926c.webp",
@@ -420,14 +420,14 @@
     ]
   },
   {
-    "name": "Square Glass — 02",
+    "name": "Fig Reserve",
     "image": "assets/reeds/reeds-109.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 03",
+    "name": "Ocean Reserve",
     "image": "assets/companions/1b5ead3137dec1267c9b.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-110.webp",
     "images": [
       "assets/companions/1b5ead3137dec1267c9b.webp",
@@ -435,14 +435,14 @@
     ]
   },
   {
-    "name": "Square Glass — 04",
+    "name": "Damask Rose Reserve",
     "image": "assets/reeds/reeds-111.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 05",
+    "name": "Sandalwood Reserve",
     "image": "assets/companions/f034578ed7703c8e8eda.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-112.webp",
     "images": [
       "assets/companions/f034578ed7703c8e8eda.webp",
@@ -450,14 +450,14 @@
     ]
   },
   {
-    "name": "Square Glass — 06",
+    "name": "Peony Reserve",
     "image": "assets/reeds/reeds-113.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 07",
+    "name": "White Tea Reserve",
     "image": "assets/companions/97b297ac3d3b797368fa.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-114.webp",
     "images": [
       "assets/companions/97b297ac3d3b797368fa.webp",
@@ -465,14 +465,14 @@
     ]
   },
   {
-    "name": "Square Glass — 08",
+    "name": "Jasmine Reserve",
     "image": "assets/reeds/reeds-115.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Botanical Infusion — 01",
+    "name": "Botanical Branch",
     "image": "assets/companions/231a21cbbc3f7b033780.webp",
-    "series": "Botanical Infusion",
+    "series": "Botanical Infusions",
     "packagingImage": "assets/reeds/reeds-116.webp",
     "images": [
       "assets/companions/231a21cbbc3f7b033780.webp",
@@ -480,14 +480,14 @@
     ]
   },
   {
-    "name": "Botanical Infusion — 02",
+    "name": "Botanical Leaf",
     "image": "assets/reeds/reeds-117.webp",
-    "series": "Botanical Infusion"
+    "series": "Botanical Infusions"
   },
   {
-    "name": "Botanical Infusion — 03",
+    "name": "Botanical Citrus",
     "image": "assets/companions/9a2ccca3988e0e6b8bbb.webp",
-    "series": "Botanical Infusion",
+    "series": "Botanical Infusions",
     "packagingImage": "assets/reeds/reeds-118.webp",
     "images": [
       "assets/companions/9a2ccca3988e0e6b8bbb.webp",
@@ -495,9 +495,9 @@
     ]
   },
   {
-    "name": "Minimal — 01",
+    "name": "Noir Silhouette",
     "image": "assets/companions/27e4b122a9b559ae799d.webp",
-    "series": "Minimal",
+    "series": "Fluid Silhouettes",
     "packagingImage": "assets/reeds/reeds-119.webp",
     "images": [
       "assets/companions/27e4b122a9b559ae799d.webp",
@@ -505,9 +505,9 @@
     ]
   },
   {
-    "name": "Minimal — 02",
+    "name": "Olive Silhouette",
     "image": "assets/companions/d83b888e65240d5a7203.webp",
-    "series": "Minimal",
+    "series": "Fluid Silhouettes",
     "packagingImage": "assets/reeds/reeds-120.webp",
     "images": [
       "assets/companions/d83b888e65240d5a7203.webp",
@@ -515,54 +515,54 @@
     ]
   },
   {
-    "name": "Sculptural — 01",
+    "name": "Golden Curve",
     "image": "assets/reeds/reeds-121.webp",
-    "series": "Sculptural"
+    "series": "Golden Curves"
   },
   {
-    "name": "Metallic — 01",
+    "name": "Golden Botanist",
     "image": "assets/reeds/reeds-122.webp",
-    "series": "Metallic"
+    "series": "Botanical Gleam"
   },
   {
-    "name": "Metallic — 02",
+    "name": "Pearl Botanist",
     "image": "assets/reeds/reeds-123.webp",
-    "series": "Metallic"
+    "series": "Botanical Gleam"
   },
   {
-    "name": "Blush — 01",
+    "name": "Blush Arch",
     "image": "assets/reeds/reeds-124.webp",
-    "series": "Blush"
+    "series": "Blush Arch"
   },
   {
-    "name": "Spherical — 01",
+    "name": "Rose Orb",
     "image": "assets/reeds/reeds-125.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Spherical — 02",
+    "name": "Honey Orb",
     "image": "assets/reeds/reeds-126.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Spherical — 03",
+    "name": "Sage Orb",
     "image": "assets/reeds/reeds-127.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Classic Amber — 01",
+    "name": "Deep Amber Classic",
     "image": "assets/reeds/reeds-128.webp",
-    "series": "Classic Amber"
+    "series": "Amber Classics"
   },
   {
-    "name": "Classic Amber — 02",
+    "name": "Smoked Tea Classic",
     "image": "assets/reeds/reeds-129.webp",
-    "series": "Classic Amber"
+    "series": "Amber Classics"
   },
   {
-    "name": "Sandalwood — 01",
+    "name": "Sandalwood Hearth",
     "image": "assets/reeds/reeds-130.webp",
-    "series": "Sandalwood"
+    "series": "Woodland Amber"
   },
   {
     "name": "Amber Bouquet",

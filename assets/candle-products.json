@@ -1,7 +1,7 @@
 [
   {
     "id": "candle-pair-706a9cb934df",
-    "name": "Gardenia",
+    "name": "Gardenia Botanica",
     "series": "Vintage Florals",
     "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
     "packagingImage": "assets/candles/paired/a2e5095ea428772230e4.webp",
@@ -34,8 +34,8 @@
   },
   {
     "id": "candle-pair-3ae397f5d9f6",
-    "name": "Lucky No. 6",
-    "series": "Lucky Numbers",
+    "name": "Sunny Six",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
     "packagingImage": "assets/candles/paired/d3b115bb2804bfbd8b3b.webp",
     "images": [
@@ -45,8 +45,8 @@
   },
   {
     "id": "candle-pair-07944550f1fc",
-    "name": "Lucky No. 2",
-    "series": "Lucky Numbers",
+    "name": "Blush Two",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/07944550f1fc2592d815.webp",
     "packagingImage": "assets/candles/paired/1110e2e926713baf03d6.webp",
     "images": [
@@ -56,8 +56,8 @@
   },
   {
     "id": "candle-pair-c1025ec341c6",
-    "name": "Lucky No. 8",
-    "series": "Lucky Numbers",
+    "name": "Violet Eight",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
     "packagingImage": "assets/candles/paired/4d07ee5940491e00b5f8.webp",
     "images": [
@@ -166,7 +166,7 @@
   },
   {
     "id": "candle-pair-5489f55a8056",
-    "name": "Gardenia",
+    "name": "Golden Gardenia",
     "series": "Gradient Glass",
     "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
     "packagingImage": "assets/candles/paired/b0855ecbddc2adcdcf30.webp",
@@ -177,7 +177,7 @@
   },
   {
     "id": "candle-pair-f62beb39ab18",
-    "name": "Lavender",
+    "name": "Lavender Ombre",
     "series": "Gradient Glass",
     "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
     "packagingImage": "assets/candles/paired/ae3112e954834affa0dd.webp",
@@ -210,7 +210,7 @@
   },
   {
     "id": "candle-pair-20c64492ea43",
-    "name": "Lavender",
+    "name": "Lavender Postbox",
     "series": "Postbox",
     "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
     "packagingImage": "assets/candles/paired/bb066868239f215d9791.webp",
@@ -374,44 +374,44 @@
     ]
   },
   {
-    "name": "Concrete — 01",
+    "name": "Sage Stillness",
     "image": "assets/candles/candles-001.webp",
-    "series": "Concrete"
+    "series": "Stone & Stillness"
   },
   {
-    "name": "Concrete — 02",
+    "name": "Ivory Stillness",
     "image": "assets/candles/candles-002.webp",
-    "series": "Concrete"
+    "series": "Stone & Stillness"
   },
   {
-    "name": "Round Gift Box — 01",
+    "name": "Olive Botanical Keepsake",
     "image": "assets/candles/candles-003.webp",
-    "series": "Round Gift Box"
+    "series": "Botanical Cylinder"
   },
   {
-    "name": "Clock — 01",
+    "name": "Blush Hour",
     "image": "assets/candles/candles-004.webp",
-    "series": "Clock"
+    "series": "Passing Hours"
   },
   {
-    "name": "Clock — 02",
+    "name": "Sky Hour",
     "image": "assets/candles/candles-005.webp",
-    "series": "Clock"
+    "series": "Passing Hours"
   },
   {
-    "name": "Metallic Finish — 01",
+    "name": "Champagne Lustre",
     "image": "assets/candles/candles-006.webp",
-    "series": "Metallic Finish"
+    "series": "Lustre"
   },
   {
-    "name": "Metallic Finish — 02",
+    "name": "Graphite Lustre",
     "image": "assets/candles/candles-007.webp",
-    "series": "Metallic Finish"
+    "series": "Lustre"
   },
   {
-    "name": "Woven — 01",
+    "name": "Woven Hearth",
     "image": "assets/candles/candles-008.webp",
-    "series": "Woven",
+    "series": "Woven Hearth",
     "packagingImage": "assets/candles/candles-009.webp",
     "images": [
       "assets/candles/candles-008.webp",
@@ -424,114 +424,114 @@
     ]
   },
   {
-    "name": "Sunlit Rituals — 01",
+    "name": "Peony Keepsake",
     "image": "assets/candles/candles-011.webp",
-    "series": "Sunlit Rituals"
+    "series": "Botanical Keepsakes"
   },
   {
-    "name": "Sunlit Rituals — 02",
+    "name": "Botanical Keepsake",
     "image": "assets/candles/candles-012.webp",
-    "series": "Sunlit Rituals"
+    "series": "Botanical Keepsakes"
   },
   {
-    "name": "Metallic — 01",
+    "name": "Bronze Pedestal",
     "image": "assets/candles/candles-013.webp",
-    "series": "Metallic"
+    "series": "Pedestal Glow"
   },
   {
-    "name": "Metallic — 02",
+    "name": "Charcoal Pedestal",
     "image": "assets/candles/candles-014.webp",
-    "series": "Metallic"
+    "series": "Pedestal Glow"
   },
   {
-    "name": "Pet Portraits — 01",
+    "name": "Golden Companion",
     "image": "assets/candles/candles-015.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 02",
+    "name": "Corgi Cuddles",
     "image": "assets/candles/candles-016.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 03",
+    "name": "Ginger Kitten",
     "image": "assets/candles/candles-017.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 04",
+    "name": "Silver Kitten",
     "image": "assets/candles/candles-018.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Wild — 01",
+    "name": "Ochre Wild",
     "image": "assets/candles/candles-019.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Wild — 02",
+    "name": "Mauve Wild",
     "image": "assets/candles/candles-020.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Wild — 03",
+    "name": "Cocoa Wild",
     "image": "assets/candles/candles-021.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Vanilla & Peony — 01",
+    "name": "Peony Ember",
     "image": "assets/candles/candles-022.webp",
-    "series": "Vanilla & Peony"
+    "series": "Botanical Warmth"
   },
   {
-    "name": "Vanilla & Peony — 02",
+    "name": "Vanilla Grove",
     "image": "assets/candles/candles-023.webp",
-    "series": "Vanilla & Peony"
+    "series": "Botanical Warmth"
   },
   {
-    "name": "Nature Poetry — 01",
+    "name": "Green Tea Poetry",
     "image": "assets/candles/candles-024.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 02",
+    "name": "Ocean Poetry",
     "image": "assets/candles/candles-025.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 03",
+    "name": "Rose Poetry",
     "image": "assets/candles/candles-026.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 04",
+    "name": "Vanilla Poetry",
     "image": "assets/candles/candles-027.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Éloria — 01",
+    "name": "Sunlit Petals",
     "image": "assets/candles/candles-028.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Éloria — 02",
+    "name": "Sea Salt Sketch",
     "image": "assets/candles/candles-029.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Éloria — 03",
+    "name": "White Tea Sketch",
     "image": "assets/candles/candles-030.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Dreamscape II — 01",
+    "name": "Gilded Azure",
     "image": "assets/candles/candles-031.webp",
-    "series": "Dreamscape II"
+    "series": "Gilded Skies"
   },
   {
-    "name": "Turquoise — 01",
+    "name": "Sea Glass Glow",
     "image": "assets/candles/candles-032.webp",
-    "series": "Turquoise"
+    "series": "Sea Glass"
   },
   {
     "name": "Jellyfish Egg Candle",
@@ -554,258 +554,258 @@
     "series": "Jellyfish"
   },
   {
-    "name": "Birthday — 02",
+    "name": "Birthday Surprise Egg",
     "image": "assets/candles/candles-034.webp",
-    "series": "Birthday"
+    "series": "Birthday Wishes"
   },
   {
-    "name": "Glass Dome — 01",
+    "name": "Mocha Serenity",
     "image": "assets/candles/candles-036.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 02",
+    "name": "Blush Daydream",
     "image": "assets/candles/candles-037.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 03",
+    "name": "Ivory Rice Blossom",
     "image": "assets/candles/candles-038.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 04",
+    "name": "Cashmere Mist",
     "image": "assets/candles/candles-039.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 05",
+    "name": "Sage Oolong",
     "image": "assets/candles/candles-040.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Her · Him · Us — 01",
+    "name": "His Quiet Moment",
     "image": "assets/candles/candles-041.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Her · Him · Us — 02",
+    "name": "Her Soft Glow",
     "image": "assets/candles/candles-042.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Her · Him · Us — 03",
+    "name": "Our Shared Light",
     "image": "assets/candles/candles-043.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Four Seasons Botanicals — 01",
+    "name": "Plum Blossom Teacup",
     "image": "assets/candles/candles-044.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 02",
+    "name": "Orchid Teacup",
     "image": "assets/candles/candles-045.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 03",
+    "name": "Bamboo Teacup",
     "image": "assets/candles/candles-046.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 04",
+    "name": "Chrysanthemum Teacup",
     "image": "assets/candles/candles-047.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Dreamscape — 01",
+    "name": "Lavender Ribbon",
     "image": "assets/candles/candles-048.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Dreamscape — 02",
+    "name": "Amber Ribbon",
     "image": "assets/candles/candles-049.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Dreamscape — 03",
+    "name": "Sky Ribbon",
     "image": "assets/candles/candles-050.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Garden — 01",
+    "name": "Morning Garden",
     "image": "assets/candles/candles-051.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 02",
+    "name": "Gardenia Tea Garden",
     "image": "assets/candles/candles-052.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 03",
+    "name": "Peony Garden",
     "image": "assets/candles/candles-053.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 04",
+    "name": "Lavender Garden",
     "image": "assets/candles/candles-054.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Forest Poetry — 01",
+    "name": "Sunlit Grove",
     "image": "assets/candles/candles-055.webp",
-    "series": "Forest Poetry"
+    "series": "Woodland Stories"
   },
   {
-    "name": "Forest Poetry — 02",
+    "name": "Woodland Tale",
     "image": "assets/candles/candles-056.webp",
-    "series": "Forest Poetry"
+    "series": "Woodland Stories"
   },
   {
-    "name": "Garden Reverie — 01",
+    "name": "Morning Citrus Garden",
     "image": "assets/candles/candles-057.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Garden Reverie — 02",
+    "name": "Rose Breeze Garden",
     "image": "assets/candles/candles-058.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Garden Reverie — 03",
+    "name": "Verdant Garden",
     "image": "assets/candles/candles-059.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Floral Reverie — 01",
+    "name": "Teal Floral Trio",
     "image": "assets/candles/candles-060.webp",
-    "series": "Floral Reverie"
+    "series": "Floral Trio"
   },
   {
-    "name": "Floral Reverie — 02",
+    "name": "Ivory Floral Trio",
     "image": "assets/candles/candles-061.webp",
-    "series": "Floral Reverie"
+    "series": "Floral Trio"
   },
   {
-    "name": "Botanical Fragrance — 01",
+    "name": "Orange Blossom Script",
     "image": "assets/candles/candles-062.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 02",
+    "name": "Sandalwood Script",
     "image": "assets/candles/candles-063.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 03",
+    "name": "Jasmine Script",
     "image": "assets/candles/candles-064.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 04",
+    "name": "Lavender Script",
     "image": "assets/candles/candles-065.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Bright Glass — 01",
+    "name": "Smoke & Glass",
     "image": "assets/candles/candles-066.webp",
-    "series": "Bright Glass"
+    "series": "Essential Glass"
   },
   {
-    "name": "Bright Glass — 02",
+    "name": "Amber & Glass",
     "image": "assets/candles/candles-067.webp",
-    "series": "Bright Glass"
+    "series": "Essential Glass"
   },
   {
-    "name": "Amber Dream — 01",
+    "name": "Amber Lavender Heirloom",
     "image": "assets/candles/candles-068.webp",
-    "series": "Amber Dream"
+    "series": "Amber Heirloom"
   },
   {
-    "name": "Colour Stories — 01",
+    "name": "Golden Blossom",
     "image": "assets/candles/candles-069.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Colour Stories — 02",
+    "name": "Blue Blossom",
     "image": "assets/candles/candles-070.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Colour Stories — 03",
+    "name": "Blush Blossom",
     "image": "assets/candles/candles-071.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Bamboo — 01",
+    "name": "Golden Bamboo Ripple",
     "image": "assets/candles/candles-075.webp",
-    "series": "Bamboo"
+    "series": "Bamboo Grove"
   },
   {
-    "name": "Bamboo — 02",
+    "name": "Sage Bamboo Ripple",
     "image": "assets/candles/candles-076.webp",
-    "series": "Bamboo"
+    "series": "Bamboo Grove"
   },
   {
-    "name": "Stone — 01",
+    "name": "Slate Speckle",
     "image": "assets/candles/candles-077.webp",
-    "series": "Stone"
+    "series": "Speckled Forms"
   },
   {
-    "name": "Stone — 02",
+    "name": "Ivory Speckle",
     "image": "assets/candles/candles-078.webp",
-    "series": "Stone"
+    "series": "Speckled Forms"
   },
   {
-    "name": "Square — 01",
+    "name": "Ivory Soft Square",
     "image": "assets/candles/candles-079.webp",
-    "series": "Square"
+    "series": "Soft Squares"
   },
   {
-    "name": "Square — 02",
+    "name": "Noir Soft Square",
     "image": "assets/candles/candles-080.webp",
-    "series": "Square"
+    "series": "Soft Squares"
   },
   {
-    "name": "Sculpted Relief — 01",
+    "name": "Terracotta Muse",
     "image": "assets/candles/candles-081.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Sculpted Relief — 02",
+    "name": "Ivory Muse",
     "image": "assets/candles/candles-082.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Sculpted Relief — 03",
+    "name": "Snow Muse",
     "image": "assets/candles/candles-083.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Playful Glass Dome — 01",
+    "name": "Puppy Dreams",
     "image": "assets/candles/candles-084.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 02",
+    "name": "Panda Slumber",
     "image": "assets/candles/candles-085.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 03",
+    "name": "Little Pumpkin Ghost",
     "image": "assets/candles/candles-086.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 04",
+    "name": "Kitten Daydream",
     "image": "assets/candles/candles-087.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Ivory Stone — 01",
+    "name": "Ivory Pebble",
     "image": "assets/candles/candles-088.webp",
-    "series": "Ivory Stone"
+    "series": "Pebble Forms"
   }
 ]

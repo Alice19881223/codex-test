@@ -62,8 +62,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/eb66283958ad1067c60b.webp",
-        "name": "Cylindrical \u2014 03",
-        "series": "Cylindrical",
+        "name": "Pear & Freesia Atelier",
+        "series": "Atelier Glass",
         "href": "product-lnv-rd-91404dad.html?scent=pear-freesia",
         "catalogueHref": "reeds-in-bloom-3.html"
       }
@@ -96,16 +96,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-041.webp",
-        "name": "Her \u00b7 Him \u00b7 Us \u2014 01",
-        "series": "Her \u00b7 Him \u00b7 Us",
+        "name": "His Quiet Moment",
+        "series": "Moments Together",
         "href": "product-lnv-cnd-2c0fa029.html?scent=rose-green-leaves",
         "catalogueHref": "candles-close-to-you.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-111.webp",
-        "name": "Square Glass \u2014 04",
-        "series": "Square Glass",
+        "name": "Damask Rose Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-d2e2464d.html?scent=rose-green-leaves",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -185,24 +185,24 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-023.webp",
-        "name": "Vanilla & Peony \u2014 02",
-        "series": "Vanilla & Peony",
+        "name": "Vanilla Grove",
+        "series": "Botanical Warmth",
         "href": "product-lnv-cnd-1f173fc3.html?scent=peony-lychee",
         "catalogueHref": "candles-a-moment-of-quiet-2.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-022.webp",
-        "name": "Vanilla & Peony \u2014 01",
-        "series": "Vanilla & Peony",
+        "name": "Peony Ember",
+        "series": "Botanical Warmth",
         "href": "product-lnv-cnd-a552eae4.html?scent=peony-lychee",
         "catalogueHref": "candles-close-to-you.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-098.webp",
-        "name": "Pastel \u2014 01",
-        "series": "Pastel",
+        "name": "Peony Soft Matte",
+        "series": "Soft Matte",
         "href": "product-lnv-rd-50f22eff.html?scent=peony-lychee",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -275,8 +275,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-115.webp",
-        "name": "Square Glass \u2014 08",
-        "series": "Square Glass",
+        "name": "Jasmine Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-87093553.html?scent=jasmine-orange-blossom",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -317,7 +317,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
-        "name": "Gardenia",
+        "name": "Gardenia Botanica",
         "series": "Vintage Florals",
         "href": "product-lnv-cnd-02454833.html?scent=gardenia-tuberose",
         "catalogueHref": "candles-morning-light-3.html"
@@ -341,8 +341,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-101.webp",
-        "name": "Mountain \u2014 02",
-        "series": "Mountain",
+        "name": "Moonlit Mountain",
+        "series": "Mountain Light",
         "href": "product-lnv-rd-641aff27.html?scent=gardenia-tuberose",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -357,7 +357,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
-        "name": "Gardenia",
+        "name": "Golden Gardenia",
         "series": "Gradient Glass",
         "href": "product-lnv-cnd-a10a6d55.html?scent=gardenia-tuberose",
         "catalogueHref": "candles-morning-light.html"
@@ -438,16 +438,16 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-102.webp",
-        "name": "Mountain \u2014 03",
-        "series": "Mountain",
+        "name": "Lime Mountain",
+        "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=lime-basil",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/7ca9a742e8adc548081d.webp",
-        "name": "Cylindrical \u2014 04",
-        "series": "Cylindrical",
+        "name": "Lime & Chamomile Atelier",
+        "series": "Atelier Glass",
         "href": "product-lnv-rd-4810afdd.html?scent=lime-basil",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       }
@@ -479,16 +479,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-011.webp",
-        "name": "Sunlit Rituals \u2014 01",
-        "series": "Sunlit Rituals",
+        "name": "Peony Keepsake",
+        "series": "Botanical Keepsakes",
         "href": "product-lnv-cnd-0506d5e1.html?scent=grapefruit-bergamot",
         "catalogueHref": "candles-close-to-you.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-095.webp",
-        "name": "Fresh Moments \u2014 02",
-        "series": "Fresh Moments",
+        "name": "Orange Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=grapefruit-bergamot",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html"
       },
@@ -511,8 +511,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-102.webp",
-        "name": "Mountain \u2014 03",
-        "series": "Mountain",
+        "name": "Lime Mountain",
+        "series": "Mountain Light",
         "href": "product-lnv-rd-063e34fb.html?scent=grapefruit-bergamot",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       }
@@ -544,16 +544,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-075.webp",
-        "name": "Bamboo \u2014 01",
-        "series": "Bamboo",
+        "name": "Golden Bamboo Ripple",
+        "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=lemon-verbena",
         "catalogueHref": "candles-morning-light.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-076.webp",
-        "name": "Bamboo \u2014 02",
-        "series": "Bamboo",
+        "name": "Sage Bamboo Ripple",
+        "series": "Bamboo Grove",
         "href": "product-lnv-cnd-f9db0840.html?scent=lemon-verbena",
         "catalogueHref": "candles-morning-light.html"
       },
@@ -568,16 +568,16 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/27e4b122a9b559ae799d.webp",
-        "name": "Minimal \u2014 01",
-        "series": "Minimal",
+        "name": "Noir Silhouette",
+        "series": "Fluid Silhouettes",
         "href": "product-lnv-rd-63cb0545.html?scent=lemon-verbena",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/7ca9a742e8adc548081d.webp",
-        "name": "Cylindrical \u2014 04",
-        "series": "Cylindrical",
+        "name": "Lime & Chamomile Atelier",
+        "series": "Atelier Glass",
         "href": "product-lnv-rd-4810afdd.html?scent=lemon-verbena",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       }
@@ -650,8 +650,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/27e4b122a9b559ae799d.webp",
-        "name": "Minimal \u2014 01",
-        "series": "Minimal",
+        "name": "Noir Silhouette",
+        "series": "Fluid Silhouettes",
         "href": "product-lnv-rd-63cb0545.html?scent=bergamot-neroli",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html"
       }
@@ -685,24 +685,24 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-008.webp",
-        "name": "Woven \u2014 01",
-        "series": "Woven",
+        "name": "Woven Hearth",
+        "series": "Woven Hearth",
         "href": "product-lnv-cnd-86a1b64b.html?scent=fig-green-leaves",
         "catalogueHref": "candles-morning-light-3.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-109.webp",
-        "name": "Square Glass \u2014 02",
-        "series": "Square Glass",
+        "name": "Fig Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-8e5c34e4.html?scent=fig-green-leaves",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-075.webp",
-        "name": "Bamboo \u2014 01",
-        "series": "Bamboo",
+        "name": "Golden Bamboo Ripple",
+        "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=fig-green-leaves",
         "catalogueHref": "candles-morning-light.html"
       },
@@ -758,8 +758,8 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-041.webp",
-        "name": "Her \u00b7 Him \u00b7 Us \u2014 01",
-        "series": "Her \u00b7 Him \u00b7 Us",
+        "name": "His Quiet Moment",
+        "series": "Moments Together",
         "href": "product-lnv-cnd-2c0fa029.html?scent=blackcurrant-rose",
         "catalogueHref": "candles-close-to-you.html"
       },
@@ -774,8 +774,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-111.webp",
-        "name": "Square Glass \u2014 04",
-        "series": "Square Glass",
+        "name": "Damask Rose Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-d2e2464d.html?scent=blackcurrant-rose",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -867,8 +867,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-128.webp",
-        "name": "Classic Amber \u2014 01",
-        "series": "Classic Amber",
+        "name": "Deep Amber Classic",
+        "series": "Amber Classics",
         "href": "product-lnv-rd-ad3c36be.html?scent=pomegranate-amber",
         "catalogueHref": "reeds-at-home-at-ease.html"
       },
@@ -925,8 +925,8 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-068.webp",
-        "name": "Amber Dream \u2014 01",
-        "series": "Amber Dream",
+        "name": "Amber Lavender Heirloom",
+        "series": "Amber Heirloom",
         "href": "product-lnv-cnd-6e161c20.html?scent=lavender-cedarwood",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
       },
@@ -941,7 +941,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
-        "name": "Lavender",
+        "name": "Lavender Ombre",
         "series": "Gradient Glass",
         "href": "product-lnv-cnd-c36ae2d3.html?scent=lavender-cedarwood",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
@@ -957,7 +957,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
-        "name": "Lavender",
+        "name": "Lavender Postbox",
         "series": "Postbox",
         "href": "product-lnv-cnd-5828053e.html?scent=lavender-cedarwood",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
@@ -1055,8 +1055,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-097.webp",
-        "name": "Fresh Moments \u2014 04",
-        "series": "Fresh Moments",
+        "name": "Green Tea Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=lemon-lavender",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -1071,8 +1071,8 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-068.webp",
-        "name": "Amber Dream \u2014 01",
-        "series": "Amber Dream",
+        "name": "Amber Lavender Heirloom",
+        "series": "Amber Heirloom",
         "href": "product-lnv-cnd-6e161c20.html?scent=lemon-lavender",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
       },
@@ -1087,7 +1087,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
-        "name": "Lavender",
+        "name": "Lavender Postbox",
         "series": "Postbox",
         "href": "product-lnv-cnd-5828053e.html?scent=lemon-lavender",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
@@ -1103,7 +1103,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
-        "name": "Lavender",
+        "name": "Lavender Ombre",
         "series": "Gradient Glass",
         "href": "product-lnv-cnd-c36ae2d3.html?scent=lemon-lavender",
         "catalogueHref": "candles-a-moment-of-quiet-4.html"
@@ -1137,24 +1137,24 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-099.webp",
-        "name": "Pastel \u2014 02",
-        "series": "Pastel",
+        "name": "White Tea Soft Matte",
+        "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-bergamot",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-096.webp",
-        "name": "Fresh Moments \u2014 03",
-        "series": "Fresh Moments",
+        "name": "White Tea Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-bergamot",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/97b297ac3d3b797368fa.webp",
-        "name": "Square Glass \u2014 07",
-        "series": "Square Glass",
+        "name": "White Tea Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-b0c8dd88.html?scent=white-tea-bergamot",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -1219,24 +1219,24 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-099.webp",
-        "name": "Pastel \u2014 02",
-        "series": "Pastel",
+        "name": "White Tea Soft Matte",
+        "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-rosemary",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/97b297ac3d3b797368fa.webp",
-        "name": "Square Glass \u2014 07",
-        "series": "Square Glass",
+        "name": "White Tea Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-b0c8dd88.html?scent=white-tea-rosemary",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-096.webp",
-        "name": "Fresh Moments \u2014 03",
-        "series": "Fresh Moments",
+        "name": "White Tea Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-be66c5be.html?scent=white-tea-rosemary",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -1311,24 +1311,24 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-129.webp",
-        "name": "Classic Amber \u2014 02",
-        "series": "Classic Amber",
+        "name": "Smoked Tea Classic",
+        "series": "Amber Classics",
         "href": "product-lnv-rd-9fb7b57f.html?scent=black-tea-cedarwood",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-090.webp",
-        "name": "Tea Rituals \u2014 01",
-        "series": "Tea Rituals",
+        "name": "Cold Brew Retreat",
+        "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=black-tea-cedarwood",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-093.webp",
-        "name": "Tea Rituals \u2014 04",
-        "series": "Tea Rituals",
+        "name": "Black Tea Ritual",
+        "series": "Ribbed Retreat",
         "href": "product-lnv-rd-4d8d9cc7.html?scent=black-tea-cedarwood",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -1492,8 +1492,8 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-088.webp",
-        "name": "Ivory Stone \u2014 01",
-        "series": "Ivory Stone",
+        "name": "Ivory Pebble",
+        "series": "Pebble Forms",
         "href": "product-lnv-cnd-cffb251f.html?scent=clean-cotton",
         "catalogueHref": "candles-a-moment-of-quiet.html"
       },
@@ -1574,8 +1574,8 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-088.webp",
-        "name": "Ivory Stone \u2014 01",
-        "series": "Ivory Stone",
+        "name": "Ivory Pebble",
+        "series": "Pebble Forms",
         "href": "product-lnv-cnd-cffb251f.html?scent=soft-linen",
         "catalogueHref": "candles-a-moment-of-quiet.html"
       },
@@ -1632,16 +1632,16 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/1b5ead3137dec1267c9b.webp",
-        "name": "Square Glass \u2014 03",
-        "series": "Square Glass",
+        "name": "Ocean Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-db3ec78c.html?scent=sea-salt-driftwood",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-032.webp",
-        "name": "Turquoise \u2014 01",
-        "series": "Turquoise",
+        "name": "Sea Glass Glow",
+        "series": "Sea Glass",
         "href": "product-lnv-cnd-1587bb24.html?scent=sea-salt-driftwood",
         "catalogueHref": "candles-morning-light.html"
       },
@@ -1714,24 +1714,24 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-075.webp",
-        "name": "Bamboo \u2014 01",
-        "series": "Bamboo",
+        "name": "Golden Bamboo Ripple",
+        "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=bamboo-white-florals",
         "catalogueHref": "candles-morning-light.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-076.webp",
-        "name": "Bamboo \u2014 02",
-        "series": "Bamboo",
+        "name": "Sage Bamboo Ripple",
+        "series": "Bamboo Grove",
         "href": "product-lnv-cnd-f9db0840.html?scent=bamboo-white-florals",
         "catalogueHref": "candles-morning-light.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/d254438f943ca1177135.webp",
-        "name": "Botanical \u2014 01",
-        "series": "Botanical",
+        "name": "Amber Botanical",
+        "series": "Amber Botanicals",
         "href": "product-lnv-rd-b937e0e2.html?scent=bamboo-white-florals",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -1780,24 +1780,24 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/f034578ed7703c8e8eda.webp",
-        "name": "Square Glass \u2014 05",
-        "series": "Square Glass",
+        "name": "Sandalwood Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-10bb8c1a.html?scent=sandalwood-cashmere",
         "catalogueHref": "reeds-at-home-at-ease.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-130.webp",
-        "name": "Sandalwood \u2014 01",
-        "series": "Sandalwood",
+        "name": "Sandalwood Hearth",
+        "series": "Woodland Amber",
         "href": "product-lnv-rd-15aa5d48.html?scent=sandalwood-cashmere",
         "catalogueHref": "reeds-at-home-at-ease-2.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-091.webp",
-        "name": "Tea Rituals \u2014 02",
-        "series": "Tea Rituals",
+        "name": "Sandalwood Retreat",
+        "series": "Ribbed Retreat",
         "href": "product-lnv-rd-d0554588.html?scent=sandalwood-cashmere",
         "catalogueHref": "reeds-at-home-at-ease-2.html"
       },
@@ -1820,8 +1820,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/57fc12ec0de57fe4822f.webp",
-        "name": "Cylindrical \u2014 02",
-        "series": "Cylindrical",
+        "name": "Sandalwood Atelier",
+        "series": "Atelier Glass",
         "href": "product-lnv-rd-ae6b521f.html?scent=sandalwood-cashmere",
         "catalogueHref": "reeds-at-home-at-ease-3.html"
       },
@@ -1863,16 +1863,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-056.webp",
-        "name": "Forest Poetry \u2014 02",
-        "series": "Forest Poetry",
+        "name": "Woodland Tale",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=cedarwood-vetiver",
         "catalogueHref": "candles-morning-light-3.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
-        "name": "Forest Poetry \u2014 01",
-        "series": "Forest Poetry",
+        "name": "Sunlit Grove",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=cedarwood-vetiver",
         "catalogueHref": "candles-morning-light-3.html"
       },
@@ -1911,8 +1911,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-092.webp",
-        "name": "Tea Rituals \u2014 03",
-        "series": "Tea Rituals",
+        "name": "Midnight Cedar",
+        "series": "Ribbed Retreat",
         "href": "product-lnv-rd-b52d22d7.html?scent=cedarwood-vetiver",
         "catalogueHref": "reeds-at-home-at-ease-2.html"
       },
@@ -2061,8 +2061,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-128.webp",
-        "name": "Classic Amber \u2014 01",
-        "series": "Classic Amber",
+        "name": "Deep Amber Classic",
+        "series": "Amber Classics",
         "href": "product-lnv-rd-ad3c36be.html?scent=amber-vanilla",
         "catalogueHref": "reeds-at-home-at-ease.html"
       },
@@ -2135,16 +2135,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-023.webp",
-        "name": "Vanilla & Peony \u2014 02",
-        "series": "Vanilla & Peony",
+        "name": "Vanilla Grove",
+        "series": "Botanical Warmth",
         "href": "product-lnv-cnd-1f173fc3.html?scent=vanilla-tonka",
         "catalogueHref": "candles-a-moment-of-quiet-2.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-022.webp",
-        "name": "Vanilla & Peony \u2014 01",
-        "series": "Vanilla & Peony",
+        "name": "Peony Ember",
+        "series": "Botanical Warmth",
         "href": "product-lnv-cnd-a552eae4.html?scent=vanilla-tonka",
         "catalogueHref": "candles-close-to-you.html"
       },
@@ -2311,16 +2311,16 @@ const scents = [
       {
         "category": "christmas",
         "image": "assets/candles/candles-073.webp",
-        "name": "Christmas \u2014 02",
-        "series": "Christmas",
+        "name": "Cinnamon Orange Dome",
+        "series": "Festive Glass Domes",
         "href": "product-lnv-xms-499cc25c.html?scent=apple-cinnamon",
         "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
         "image": "assets/candles/candles-072.webp",
-        "name": "Christmas \u2014 01",
-        "series": "Christmas",
+        "name": "Winter Berry Dome",
+        "series": "Festive Glass Domes",
         "href": "product-lnv-xms-80c34b43.html?scent=apple-cinnamon",
         "catalogueHref": "christmas-collection-2.html"
       },
@@ -2459,16 +2459,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-056.webp",
-        "name": "Forest Poetry \u2014 02",
-        "series": "Forest Poetry",
+        "name": "Woodland Tale",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=fir-cedarwood",
         "catalogueHref": "candles-morning-light-3.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
-        "name": "Forest Poetry \u2014 01",
-        "series": "Forest Poetry",
+        "name": "Sunlit Grove",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=fir-cedarwood",
         "catalogueHref": "candles-morning-light-3.html"
       },
@@ -2574,16 +2574,16 @@ const scents = [
       {
         "category": "christmas",
         "image": "assets/candles/candles-073.webp",
-        "name": "Christmas \u2014 02",
-        "series": "Christmas",
+        "name": "Cinnamon Orange Dome",
+        "series": "Festive Glass Domes",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove",
         "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-095.webp",
-        "name": "Fresh Moments \u2014 02",
-        "series": "Fresh Moments",
+        "name": "Orange Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-fa20a879.html?scent=orange-clove",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html"
       },
@@ -2717,16 +2717,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-024.webp",
-        "name": "Nature Poetry \u2014 01",
-        "series": "Nature Poetry",
+        "name": "Green Tea Poetry",
+        "series": "Everyday Botanicals",
         "href": "product-lnv-cnd-d63b27c8.html?scent=mugwort-incense",
         "catalogueHref": "candles-morning-light-2.html"
       },
       {
         "category": "reed",
         "image": "assets/companions/d254438f943ca1177135.webp",
-        "name": "Botanical \u2014 01",
-        "series": "Botanical",
+        "name": "Amber Botanical",
+        "series": "Amber Botanicals",
         "href": "product-lnv-rd-b937e0e2.html?scent=mugwort-incense",
         "catalogueHref": "reeds-in-bloom-2.html"
       },
@@ -2792,16 +2792,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-024.webp",
-        "name": "Nature Poetry \u2014 01",
-        "series": "Nature Poetry",
+        "name": "Green Tea Poetry",
+        "series": "Everyday Botanicals",
         "href": "product-lnv-cnd-d63b27c8.html?scent=green-tea-cedarwood",
         "catalogueHref": "candles-morning-light-2.html"
       },
       {
         "category": "reed",
         "image": "assets/reeds/reeds-097.webp",
-        "name": "Fresh Moments \u2014 04",
-        "series": "Fresh Moments",
+        "name": "Green Tea Clarity",
+        "series": "Quiet Clarity",
         "href": "product-lnv-rd-47ba0b4a.html?scent=green-tea-cedarwood",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -2840,8 +2840,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/reeds/reeds-090.webp",
-        "name": "Tea Rituals \u2014 01",
-        "series": "Tea Rituals",
+        "name": "Cold Brew Retreat",
+        "series": "Ribbed Retreat",
         "href": "product-lnv-rd-2ad91044.html?scent=green-tea-cedarwood",
         "catalogueHref": "reeds-a-quiet-pause.html"
       },
@@ -2907,8 +2907,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/47d5d503511846e0926c.webp",
-        "name": "Square Glass \u2014 01",
-        "series": "Square Glass",
+        "name": "Ebony Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-65e320ea.html?scent=oud-saffron",
         "catalogueHref": "reeds-at-home-at-ease.html"
       },
@@ -2998,8 +2998,8 @@ const scents = [
       {
         "category": "reed",
         "image": "assets/companions/47d5d503511846e0926c.webp",
-        "name": "Square Glass \u2014 01",
-        "series": "Square Glass",
+        "name": "Ebony Reserve",
+        "series": "Reserve Glass",
         "href": "product-lnv-rd-65e320ea.html?scent=incense-myrrh",
         "catalogueHref": "reeds-at-home-at-ease.html"
       },
@@ -3123,16 +3123,16 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/candles-056.webp",
-        "name": "Forest Poetry \u2014 02",
-        "series": "Forest Poetry",
+        "name": "Woodland Tale",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=pine-cedarwood",
         "catalogueHref": "candles-morning-light-3.html"
       },
       {
         "category": "candle",
         "image": "assets/candles/candles-055.webp",
-        "name": "Forest Poetry \u2014 01",
-        "series": "Forest Poetry",
+        "name": "Sunlit Grove",
+        "series": "Woodland Stories",
         "href": "product-lnv-cnd-7bd30b48.html?scent=pine-cedarwood",
         "catalogueHref": "candles-morning-light-3.html"
       },
@@ -3226,7 +3226,7 @@ const scents = [
 const candleProducts = [
   {
     "id": "candle-pair-706a9cb934df",
-    "name": "Gardenia",
+    "name": "Gardenia Botanica",
     "series": "Vintage Florals",
     "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
     "packagingImage": "assets/candles/paired/a2e5095ea428772230e4.webp",
@@ -3259,8 +3259,8 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-3ae397f5d9f6",
-    "name": "Lucky No. 6",
-    "series": "Lucky Numbers",
+    "name": "Sunny Six",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
     "packagingImage": "assets/candles/paired/d3b115bb2804bfbd8b3b.webp",
     "images": [
@@ -3270,8 +3270,8 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-07944550f1fc",
-    "name": "Lucky No. 2",
-    "series": "Lucky Numbers",
+    "name": "Blush Two",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/07944550f1fc2592d815.webp",
     "packagingImage": "assets/candles/paired/1110e2e926713baf03d6.webp",
     "images": [
@@ -3281,8 +3281,8 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-c1025ec341c6",
-    "name": "Lucky No. 8",
-    "series": "Lucky Numbers",
+    "name": "Violet Eight",
+    "series": "Lucky Charms",
     "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
     "packagingImage": "assets/candles/paired/4d07ee5940491e00b5f8.webp",
     "images": [
@@ -3391,7 +3391,7 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-5489f55a8056",
-    "name": "Gardenia",
+    "name": "Golden Gardenia",
     "series": "Gradient Glass",
     "image": "assets/candles/paired/5489f55a80565a8ad3b2.webp",
     "packagingImage": "assets/candles/paired/b0855ecbddc2adcdcf30.webp",
@@ -3402,7 +3402,7 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-f62beb39ab18",
-    "name": "Lavender",
+    "name": "Lavender Ombre",
     "series": "Gradient Glass",
     "image": "assets/candles/paired/f62beb39ab1806d66782.webp",
     "packagingImage": "assets/candles/paired/ae3112e954834affa0dd.webp",
@@ -3435,7 +3435,7 @@ const candleProducts = [
   },
   {
     "id": "candle-pair-20c64492ea43",
-    "name": "Lavender",
+    "name": "Lavender Postbox",
     "series": "Postbox",
     "image": "assets/candles/paired/20c64492ea431b4ad239.webp",
     "packagingImage": "assets/candles/paired/bb066868239f215d9791.webp",
@@ -3599,44 +3599,44 @@ const candleProducts = [
     ]
   },
   {
-    "name": "Concrete — 01",
+    "name": "Sage Stillness",
     "image": "assets/candles/candles-001.webp",
-    "series": "Concrete"
+    "series": "Stone & Stillness"
   },
   {
-    "name": "Concrete — 02",
+    "name": "Ivory Stillness",
     "image": "assets/candles/candles-002.webp",
-    "series": "Concrete"
+    "series": "Stone & Stillness"
   },
   {
-    "name": "Round Gift Box — 01",
+    "name": "Olive Botanical Keepsake",
     "image": "assets/candles/candles-003.webp",
-    "series": "Round Gift Box"
+    "series": "Botanical Cylinder"
   },
   {
-    "name": "Clock — 01",
+    "name": "Blush Hour",
     "image": "assets/candles/candles-004.webp",
-    "series": "Clock"
+    "series": "Passing Hours"
   },
   {
-    "name": "Clock — 02",
+    "name": "Sky Hour",
     "image": "assets/candles/candles-005.webp",
-    "series": "Clock"
+    "series": "Passing Hours"
   },
   {
-    "name": "Metallic Finish — 01",
+    "name": "Champagne Lustre",
     "image": "assets/candles/candles-006.webp",
-    "series": "Metallic Finish"
+    "series": "Lustre"
   },
   {
-    "name": "Metallic Finish — 02",
+    "name": "Graphite Lustre",
     "image": "assets/candles/candles-007.webp",
-    "series": "Metallic Finish"
+    "series": "Lustre"
   },
   {
-    "name": "Woven — 01",
+    "name": "Woven Hearth",
     "image": "assets/candles/candles-008.webp",
-    "series": "Woven",
+    "series": "Woven Hearth",
     "packagingImage": "assets/candles/candles-009.webp",
     "images": [
       "assets/candles/candles-008.webp",
@@ -3649,114 +3649,114 @@ const candleProducts = [
     ]
   },
   {
-    "name": "Sunlit Rituals — 01",
+    "name": "Peony Keepsake",
     "image": "assets/candles/candles-011.webp",
-    "series": "Sunlit Rituals"
+    "series": "Botanical Keepsakes"
   },
   {
-    "name": "Sunlit Rituals — 02",
+    "name": "Botanical Keepsake",
     "image": "assets/candles/candles-012.webp",
-    "series": "Sunlit Rituals"
+    "series": "Botanical Keepsakes"
   },
   {
-    "name": "Metallic — 01",
+    "name": "Bronze Pedestal",
     "image": "assets/candles/candles-013.webp",
-    "series": "Metallic"
+    "series": "Pedestal Glow"
   },
   {
-    "name": "Metallic — 02",
+    "name": "Charcoal Pedestal",
     "image": "assets/candles/candles-014.webp",
-    "series": "Metallic"
+    "series": "Pedestal Glow"
   },
   {
-    "name": "Pet Portraits — 01",
+    "name": "Golden Companion",
     "image": "assets/candles/candles-015.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 02",
+    "name": "Corgi Cuddles",
     "image": "assets/candles/candles-016.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 03",
+    "name": "Ginger Kitten",
     "image": "assets/candles/candles-017.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Pet Portraits — 04",
+    "name": "Silver Kitten",
     "image": "assets/candles/candles-018.webp",
-    "series": "Pet Portraits"
+    "series": "Little Companions"
   },
   {
-    "name": "Wild — 01",
+    "name": "Ochre Wild",
     "image": "assets/candles/candles-019.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Wild — 02",
+    "name": "Mauve Wild",
     "image": "assets/candles/candles-020.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Wild — 03",
+    "name": "Cocoa Wild",
     "image": "assets/candles/candles-021.webp",
-    "series": "Wild"
+    "series": "Earth Tones"
   },
   {
-    "name": "Vanilla & Peony — 01",
+    "name": "Peony Ember",
     "image": "assets/candles/candles-022.webp",
-    "series": "Vanilla & Peony"
+    "series": "Botanical Warmth"
   },
   {
-    "name": "Vanilla & Peony — 02",
+    "name": "Vanilla Grove",
     "image": "assets/candles/candles-023.webp",
-    "series": "Vanilla & Peony"
+    "series": "Botanical Warmth"
   },
   {
-    "name": "Nature Poetry — 01",
+    "name": "Green Tea Poetry",
     "image": "assets/candles/candles-024.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 02",
+    "name": "Ocean Poetry",
     "image": "assets/candles/candles-025.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 03",
+    "name": "Rose Poetry",
     "image": "assets/candles/candles-026.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Nature Poetry — 04",
+    "name": "Vanilla Poetry",
     "image": "assets/candles/candles-027.webp",
-    "series": "Nature Poetry"
+    "series": "Everyday Botanicals"
   },
   {
-    "name": "Éloria — 01",
+    "name": "Sunlit Petals",
     "image": "assets/candles/candles-028.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Éloria — 02",
+    "name": "Sea Salt Sketch",
     "image": "assets/candles/candles-029.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Éloria — 03",
+    "name": "White Tea Sketch",
     "image": "assets/candles/candles-030.webp",
-    "series": "Éloria"
+    "series": "Botanical Sketches"
   },
   {
-    "name": "Dreamscape II — 01",
+    "name": "Gilded Azure",
     "image": "assets/candles/candles-031.webp",
-    "series": "Dreamscape II"
+    "series": "Gilded Skies"
   },
   {
-    "name": "Turquoise — 01",
+    "name": "Sea Glass Glow",
     "image": "assets/candles/candles-032.webp",
-    "series": "Turquoise"
+    "series": "Sea Glass"
   },
   {
     "name": "Jellyfish Egg Candle",
@@ -3779,259 +3779,259 @@ const candleProducts = [
     "series": "Jellyfish"
   },
   {
-    "name": "Birthday — 02",
+    "name": "Birthday Surprise Egg",
     "image": "assets/candles/candles-034.webp",
-    "series": "Birthday"
+    "series": "Birthday Wishes"
   },
   {
-    "name": "Glass Dome — 01",
+    "name": "Mocha Serenity",
     "image": "assets/candles/candles-036.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 02",
+    "name": "Blush Daydream",
     "image": "assets/candles/candles-037.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 03",
+    "name": "Ivory Rice Blossom",
     "image": "assets/candles/candles-038.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 04",
+    "name": "Cashmere Mist",
     "image": "assets/candles/candles-039.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Glass Dome — 05",
+    "name": "Sage Oolong",
     "image": "assets/candles/candles-040.webp",
-    "series": "Glass Dome"
+    "series": "Quiet Domes"
   },
   {
-    "name": "Her · Him · Us — 01",
+    "name": "His Quiet Moment",
     "image": "assets/candles/candles-041.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Her · Him · Us — 02",
+    "name": "Her Soft Glow",
     "image": "assets/candles/candles-042.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Her · Him · Us — 03",
+    "name": "Our Shared Light",
     "image": "assets/candles/candles-043.webp",
-    "series": "Her · Him · Us"
+    "series": "Moments Together"
   },
   {
-    "name": "Four Seasons Botanicals — 01",
+    "name": "Plum Blossom Teacup",
     "image": "assets/candles/candles-044.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 02",
+    "name": "Orchid Teacup",
     "image": "assets/candles/candles-045.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 03",
+    "name": "Bamboo Teacup",
     "image": "assets/candles/candles-046.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Four Seasons Botanicals — 04",
+    "name": "Chrysanthemum Teacup",
     "image": "assets/candles/candles-047.webp",
-    "series": "Four Seasons Botanicals"
+    "series": "Botanical Teacups"
   },
   {
-    "name": "Dreamscape — 01",
+    "name": "Lavender Ribbon",
     "image": "assets/candles/candles-048.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Dreamscape — 02",
+    "name": "Amber Ribbon",
     "image": "assets/candles/candles-049.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Dreamscape — 03",
+    "name": "Sky Ribbon",
     "image": "assets/candles/candles-050.webp",
-    "series": "Dreamscape"
+    "series": "Ribbon & Glow"
   },
   {
-    "name": "Garden — 01",
+    "name": "Morning Garden",
     "image": "assets/candles/candles-051.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 02",
+    "name": "Gardenia Tea Garden",
     "image": "assets/candles/candles-052.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 03",
+    "name": "Peony Garden",
     "image": "assets/candles/candles-053.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Garden — 04",
+    "name": "Lavender Garden",
     "image": "assets/candles/candles-054.webp",
-    "series": "Garden"
+    "series": "Garden Jars"
   },
   {
-    "name": "Forest Poetry — 01",
+    "name": "Sunlit Grove",
     "image": "assets/candles/candles-055.webp",
-    "series": "Forest Poetry"
+    "series": "Woodland Stories"
   },
   {
-    "name": "Forest Poetry — 02",
+    "name": "Woodland Tale",
     "image": "assets/candles/candles-056.webp",
-    "series": "Forest Poetry"
+    "series": "Woodland Stories"
   },
   {
-    "name": "Garden Reverie — 01",
+    "name": "Morning Citrus Garden",
     "image": "assets/candles/candles-057.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Garden Reverie — 02",
+    "name": "Rose Breeze Garden",
     "image": "assets/candles/candles-058.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Garden Reverie — 03",
+    "name": "Verdant Garden",
     "image": "assets/candles/candles-059.webp",
-    "series": "Garden Reverie"
+    "series": "Painted Gardens"
   },
   {
-    "name": "Floral Reverie — 01",
+    "name": "Teal Floral Trio",
     "image": "assets/candles/candles-060.webp",
-    "series": "Floral Reverie"
+    "series": "Floral Trio"
   },
   {
-    "name": "Floral Reverie — 02",
+    "name": "Ivory Floral Trio",
     "image": "assets/candles/candles-061.webp",
-    "series": "Floral Reverie"
+    "series": "Floral Trio"
   },
   {
-    "name": "Botanical Fragrance — 01",
+    "name": "Orange Blossom Script",
     "image": "assets/candles/candles-062.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 02",
+    "name": "Sandalwood Script",
     "image": "assets/candles/candles-063.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 03",
+    "name": "Jasmine Script",
     "image": "assets/candles/candles-064.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Botanical Fragrance — 04",
+    "name": "Lavender Script",
     "image": "assets/candles/candles-065.webp",
-    "series": "Botanical Fragrance"
+    "series": "Botanical Script"
   },
   {
-    "name": "Bright Glass — 01",
+    "name": "Smoke & Glass",
     "image": "assets/candles/candles-066.webp",
-    "series": "Bright Glass"
+    "series": "Essential Glass"
   },
   {
-    "name": "Bright Glass — 02",
+    "name": "Amber & Glass",
     "image": "assets/candles/candles-067.webp",
-    "series": "Bright Glass"
+    "series": "Essential Glass"
   },
   {
-    "name": "Amber Dream — 01",
+    "name": "Amber Lavender Heirloom",
     "image": "assets/candles/candles-068.webp",
-    "series": "Amber Dream"
+    "series": "Amber Heirloom"
   },
   {
-    "name": "Colour Stories — 01",
+    "name": "Golden Blossom",
     "image": "assets/candles/candles-069.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Colour Stories — 02",
+    "name": "Blue Blossom",
     "image": "assets/candles/candles-070.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Colour Stories — 03",
+    "name": "Blush Blossom",
     "image": "assets/candles/candles-071.webp",
-    "series": "Colour Stories"
+    "series": "Chromatic Bloom"
   },
   {
-    "name": "Bamboo — 01",
+    "name": "Golden Bamboo Ripple",
     "image": "assets/candles/candles-075.webp",
-    "series": "Bamboo"
+    "series": "Bamboo Grove"
   },
   {
-    "name": "Bamboo — 02",
+    "name": "Sage Bamboo Ripple",
     "image": "assets/candles/candles-076.webp",
-    "series": "Bamboo"
+    "series": "Bamboo Grove"
   },
   {
-    "name": "Stone — 01",
+    "name": "Slate Speckle",
     "image": "assets/candles/candles-077.webp",
-    "series": "Stone"
+    "series": "Speckled Forms"
   },
   {
-    "name": "Stone — 02",
+    "name": "Ivory Speckle",
     "image": "assets/candles/candles-078.webp",
-    "series": "Stone"
+    "series": "Speckled Forms"
   },
   {
-    "name": "Square — 01",
+    "name": "Ivory Soft Square",
     "image": "assets/candles/candles-079.webp",
-    "series": "Square"
+    "series": "Soft Squares"
   },
   {
-    "name": "Square — 02",
+    "name": "Noir Soft Square",
     "image": "assets/candles/candles-080.webp",
-    "series": "Square"
+    "series": "Soft Squares"
   },
   {
-    "name": "Sculpted Relief — 01",
+    "name": "Terracotta Muse",
     "image": "assets/candles/candles-081.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Sculpted Relief — 02",
+    "name": "Ivory Muse",
     "image": "assets/candles/candles-082.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Sculpted Relief — 03",
+    "name": "Snow Muse",
     "image": "assets/candles/candles-083.webp",
-    "series": "Sculpted Relief"
+    "series": "Classical Relief"
   },
   {
-    "name": "Playful Glass Dome — 01",
+    "name": "Puppy Dreams",
     "image": "assets/candles/candles-084.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 02",
+    "name": "Panda Slumber",
     "image": "assets/candles/candles-085.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 03",
+    "name": "Little Pumpkin Ghost",
     "image": "assets/candles/candles-086.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Playful Glass Dome — 04",
+    "name": "Kitten Daydream",
     "image": "assets/candles/candles-087.webp",
-    "series": "Playful Glass Dome"
+    "series": "Little Dreamers"
   },
   {
-    "name": "Ivory Stone — 01",
+    "name": "Ivory Pebble",
     "image": "assets/candles/candles-088.webp",
-    "series": "Ivory Stone"
+    "series": "Pebble Forms"
   }
 ];
 const reedProducts = [
@@ -4331,74 +4331,74 @@ const reedProducts = [
     "series": "Fragrance bottle and packaging"
   },
   {
-    "name": "Tea Rituals — 01",
+    "name": "Cold Brew Retreat",
     "image": "assets/reeds/reeds-090.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 02",
+    "name": "Sandalwood Retreat",
     "image": "assets/reeds/reeds-091.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 03",
+    "name": "Midnight Cedar",
     "image": "assets/reeds/reeds-092.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Tea Rituals — 04",
+    "name": "Black Tea Ritual",
     "image": "assets/reeds/reeds-093.webp",
-    "series": "Tea Rituals"
+    "series": "Ribbed Retreat"
   },
   {
-    "name": "Fresh Moments — 01",
+    "name": "Ebony & Bergamot Clarity",
     "image": "assets/reeds/reeds-094.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 02",
+    "name": "Orange Clarity",
     "image": "assets/reeds/reeds-095.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 03",
+    "name": "White Tea Clarity",
     "image": "assets/reeds/reeds-096.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Fresh Moments — 04",
+    "name": "Green Tea Clarity",
     "image": "assets/reeds/reeds-097.webp",
-    "series": "Fresh Moments"
+    "series": "Quiet Clarity"
   },
   {
-    "name": "Pastel — 01",
+    "name": "Peony Soft Matte",
     "image": "assets/reeds/reeds-098.webp",
-    "series": "Pastel"
+    "series": "Soft Matte"
   },
   {
-    "name": "Pastel — 02",
+    "name": "White Tea Soft Matte",
     "image": "assets/reeds/reeds-099.webp",
-    "series": "Pastel"
+    "series": "Soft Matte"
   },
   {
-    "name": "Mountain — 01",
+    "name": "Blush Mountain",
     "image": "assets/reeds/reeds-100.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Mountain — 02",
+    "name": "Moonlit Mountain",
     "image": "assets/reeds/reeds-101.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Mountain — 03",
+    "name": "Lime Mountain",
     "image": "assets/reeds/reeds-102.webp",
-    "series": "Mountain"
+    "series": "Mountain Light"
   },
   {
-    "name": "Botanical — 01",
+    "name": "Amber Botanical",
     "image": "assets/companions/d254438f943ca1177135.webp",
-    "series": "Botanical",
+    "series": "Amber Botanicals",
     "packagingImage": "assets/reeds/reeds-103.webp",
     "images": [
       "assets/companions/d254438f943ca1177135.webp",
@@ -4406,9 +4406,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Cylindrical — 01",
+    "name": "Bluebell Atelier",
     "image": "assets/companions/7f5bb0b72c302656cc3e.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-104.webp",
     "images": [
       "assets/companions/7f5bb0b72c302656cc3e.webp",
@@ -4416,9 +4416,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Cylindrical — 02",
+    "name": "Sandalwood Atelier",
     "image": "assets/companions/57fc12ec0de57fe4822f.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-105.webp",
     "images": [
       "assets/companions/57fc12ec0de57fe4822f.webp",
@@ -4426,9 +4426,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Cylindrical — 03",
+    "name": "Pear & Freesia Atelier",
     "image": "assets/companions/eb66283958ad1067c60b.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-106.webp",
     "images": [
       "assets/companions/eb66283958ad1067c60b.webp",
@@ -4436,9 +4436,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Cylindrical — 04",
+    "name": "Lime & Chamomile Atelier",
     "image": "assets/companions/7ca9a742e8adc548081d.webp",
-    "series": "Cylindrical",
+    "series": "Atelier Glass",
     "packagingImage": "assets/reeds/reeds-107.webp",
     "images": [
       "assets/companions/7ca9a742e8adc548081d.webp",
@@ -4446,9 +4446,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Square Glass — 01",
+    "name": "Ebony Reserve",
     "image": "assets/companions/47d5d503511846e0926c.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-108.webp",
     "images": [
       "assets/companions/47d5d503511846e0926c.webp",
@@ -4456,14 +4456,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Square Glass — 02",
+    "name": "Fig Reserve",
     "image": "assets/reeds/reeds-109.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 03",
+    "name": "Ocean Reserve",
     "image": "assets/companions/1b5ead3137dec1267c9b.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-110.webp",
     "images": [
       "assets/companions/1b5ead3137dec1267c9b.webp",
@@ -4471,14 +4471,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Square Glass — 04",
+    "name": "Damask Rose Reserve",
     "image": "assets/reeds/reeds-111.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 05",
+    "name": "Sandalwood Reserve",
     "image": "assets/companions/f034578ed7703c8e8eda.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-112.webp",
     "images": [
       "assets/companions/f034578ed7703c8e8eda.webp",
@@ -4486,14 +4486,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Square Glass — 06",
+    "name": "Peony Reserve",
     "image": "assets/reeds/reeds-113.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Square Glass — 07",
+    "name": "White Tea Reserve",
     "image": "assets/companions/97b297ac3d3b797368fa.webp",
-    "series": "Square Glass",
+    "series": "Reserve Glass",
     "packagingImage": "assets/reeds/reeds-114.webp",
     "images": [
       "assets/companions/97b297ac3d3b797368fa.webp",
@@ -4501,14 +4501,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Square Glass — 08",
+    "name": "Jasmine Reserve",
     "image": "assets/reeds/reeds-115.webp",
-    "series": "Square Glass"
+    "series": "Reserve Glass"
   },
   {
-    "name": "Botanical Infusion — 01",
+    "name": "Botanical Branch",
     "image": "assets/companions/231a21cbbc3f7b033780.webp",
-    "series": "Botanical Infusion",
+    "series": "Botanical Infusions",
     "packagingImage": "assets/reeds/reeds-116.webp",
     "images": [
       "assets/companions/231a21cbbc3f7b033780.webp",
@@ -4516,14 +4516,14 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Botanical Infusion — 02",
+    "name": "Botanical Leaf",
     "image": "assets/reeds/reeds-117.webp",
-    "series": "Botanical Infusion"
+    "series": "Botanical Infusions"
   },
   {
-    "name": "Botanical Infusion — 03",
+    "name": "Botanical Citrus",
     "image": "assets/companions/9a2ccca3988e0e6b8bbb.webp",
-    "series": "Botanical Infusion",
+    "series": "Botanical Infusions",
     "packagingImage": "assets/reeds/reeds-118.webp",
     "images": [
       "assets/companions/9a2ccca3988e0e6b8bbb.webp",
@@ -4531,9 +4531,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Minimal — 01",
+    "name": "Noir Silhouette",
     "image": "assets/companions/27e4b122a9b559ae799d.webp",
-    "series": "Minimal",
+    "series": "Fluid Silhouettes",
     "packagingImage": "assets/reeds/reeds-119.webp",
     "images": [
       "assets/companions/27e4b122a9b559ae799d.webp",
@@ -4541,9 +4541,9 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Minimal — 02",
+    "name": "Olive Silhouette",
     "image": "assets/companions/d83b888e65240d5a7203.webp",
-    "series": "Minimal",
+    "series": "Fluid Silhouettes",
     "packagingImage": "assets/reeds/reeds-120.webp",
     "images": [
       "assets/companions/d83b888e65240d5a7203.webp",
@@ -4551,54 +4551,54 @@ const reedProducts = [
     ]
   },
   {
-    "name": "Sculptural — 01",
+    "name": "Golden Curve",
     "image": "assets/reeds/reeds-121.webp",
-    "series": "Sculptural"
+    "series": "Golden Curves"
   },
   {
-    "name": "Metallic — 01",
+    "name": "Golden Botanist",
     "image": "assets/reeds/reeds-122.webp",
-    "series": "Metallic"
+    "series": "Botanical Gleam"
   },
   {
-    "name": "Metallic — 02",
+    "name": "Pearl Botanist",
     "image": "assets/reeds/reeds-123.webp",
-    "series": "Metallic"
+    "series": "Botanical Gleam"
   },
   {
-    "name": "Blush — 01",
+    "name": "Blush Arch",
     "image": "assets/reeds/reeds-124.webp",
-    "series": "Blush"
+    "series": "Blush Arch"
   },
   {
-    "name": "Spherical — 01",
+    "name": "Rose Orb",
     "image": "assets/reeds/reeds-125.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Spherical — 02",
+    "name": "Honey Orb",
     "image": "assets/reeds/reeds-126.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Spherical — 03",
+    "name": "Sage Orb",
     "image": "assets/reeds/reeds-127.webp",
-    "series": "Spherical"
+    "series": "Glass Orbs"
   },
   {
-    "name": "Classic Amber — 01",
+    "name": "Deep Amber Classic",
     "image": "assets/reeds/reeds-128.webp",
-    "series": "Classic Amber"
+    "series": "Amber Classics"
   },
   {
-    "name": "Classic Amber — 02",
+    "name": "Smoked Tea Classic",
     "image": "assets/reeds/reeds-129.webp",
-    "series": "Classic Amber"
+    "series": "Amber Classics"
   },
   {
-    "name": "Sandalwood — 01",
+    "name": "Sandalwood Hearth",
     "image": "assets/reeds/reeds-130.webp",
-    "series": "Sandalwood"
+    "series": "Woodland Amber"
   },
   {
     "name": "Amber Bouquet",
@@ -5150,19 +5150,19 @@ const giftProducts = [
 
 const christmasProducts = [
   {
-    "name": "Christmas — 01",
+    "name": "Winter Berry Dome",
     "image": "assets/candles/candles-072.webp",
-    "series": "Christmas"
+    "series": "Festive Glass Domes"
   },
   {
-    "name": "Christmas — 02",
+    "name": "Cinnamon Orange Dome",
     "image": "assets/candles/candles-073.webp",
-    "series": "Christmas"
+    "series": "Festive Glass Domes"
   },
   {
-    "name": "Christmas — 03",
+    "name": "Forest Garland Dome",
     "image": "assets/candles/candles-074.webp",
-    "series": "Christmas"
+    "series": "Festive Glass Domes"
   },
   {
     "id": "christmas-pair-fa0a43337a95",

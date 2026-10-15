@@ -38,7 +38,16 @@
  function updateSelectionSummary(){const s=selectedScent();$('#enquiry-selection-summary').textContent=`Fragrance: ${s?.name||'Discuss fragrance options'} · ${$('#product-presentation').value} · Capacity / net weight: ${$('#product-capacity').value.trim()||'Specification to confirm'} · Quantity requested: ${$('#product-quantity').value||'Please specify'}`;}
  ['#product-presentation','#product-capacity','#product-quantity'].forEach(selector=>$(selector).addEventListener('input',updateSelectionSummary));
  const storageKey='lanarve-product-inquiry-v1';
- function basket(){try{const data=JSON.parse(localStorage.getItem(storageKey)||'[]');return Array.isArray(data)?data.filter(item=>item&&typeof item.itemNo==='string'&&typeof item.key==='string'&&['name','fragrance','capacity','presentation','url'].every(key=>typeof item[key]==='string')&&Number.isSafeInteger(item.quantity)&&item.quantity>0&&item.quantity<=10000000).slice(0,200):[];}catch{return [];}}
+ function savedProductName(item){
+  const path=item.url.split('?')[0];
+  for(const category of Object.keys(productPages)){
+   const entry=Object.entries(productPages[category]).find(([,url])=>url===path);
+   if(entry){const photo=catalogues[category].find(p=>p.image===entry[0]);if(photo)return photo.name+' · '+categoryNames[category];}
+  }
+  return item.name;
+ }
+
+ function basket(){try{const data=JSON.parse(localStorage.getItem(storageKey)||'[]');return Array.isArray(data)?data.filter(item=>item&&typeof item.itemNo==='string'&&typeof item.key==='string'&&['name','fragrance','capacity','presentation','url'].every(key=>typeof item[key]==='string')&&Number.isSafeInteger(item.quantity)&&item.quantity>0&&item.quantity<=10000000).slice(0,200).map(item=>({...item,name:savedProductName(item)})):[];}catch{return [];}}
  function currentItem(){
   const quantityInput=$('#product-quantity');if(!quantityInput.reportValidity())return null;
   const s=selectedScent();const item={itemNo:product.itemNo,name:product.title,url:location.pathname.split('/').pop()+location.search,fragrance:s?.name||'Discuss fragrance options',capacity:$('#product-capacity').value.trim()||'Specification to confirm',presentation:$('#product-presentation').value,quantity:Number(quantityInput.value)};
