@@ -2446,7 +2446,7 @@ const scents = [
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "crystal",
@@ -2518,7 +2518,7 @@ const scents = [
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -3118,7 +3118,7 @@ const scents = [
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-0f67d8cb.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "candle",
@@ -3190,7 +3190,7 @@ const scents = [
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
         "href": "product-lnv-xms-68ef4327.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -6444,6 +6444,16 @@ const christmasProducts = [
       "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
       "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
     ]
+  },
+  {
+    "name": "Violet Christmas Village Duo",
+    "series": "Winter Glass Duos",
+    "image": "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
+    "packagingImage": "assets/christmas/paired/8e9ad83f13bebc16a6ee.png",
+    "images": [
+      "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
+      "assets/christmas/paired/8e9ad83f13bebc16a6ee.png"
+    ]
   }
 ];
 
@@ -6845,7 +6855,8 @@ const productPages = {
     "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp": "product-lnv-xms-68ef4327.html",
     "assets/christmas/paired/6d52f0817361816118b7.webp": "product-lnv-xms-d5956a72.html",
     "assets/christmas/paired/1383bf46ac80e1d62944.webp": "product-lnv-xms-e392fac4.html",
-    "assets/christmas/paired/5702fcfafd2123c3f93e.webp": "product-lnv-xms-7a217650.html"
+    "assets/christmas/paired/5702fcfafd2123c3f93e.webp": "product-lnv-xms-7a217650.html",
+    "assets/christmas/paired/b6c2bb5498f24b8f6f65.png": "product-lnv-xms-acae1bf4.html"
   },
   "sachets": {
     "assets/sachets/paired/2e09dbec67e3048635e7.webp": "product-lnv-sch-c9143779.html",

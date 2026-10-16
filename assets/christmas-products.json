@@ -422,5 +422,15 @@
       "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
       "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
     ]
+  },
+  {
+    "name": "Violet Christmas Village Duo",
+    "series": "Winter Glass Duos",
+    "image": "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
+    "packagingImage": "assets/christmas/paired/8e9ad83f13bebc16a6ee.png",
+    "images": [
+      "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
+      "assets/christmas/paired/8e9ad83f13bebc16a6ee.png"
+    ]
   }
 ]
