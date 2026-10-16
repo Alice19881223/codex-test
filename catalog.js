@@ -57,7 +57,7 @@ const scents = [
         "name": "English Pear & Freesia",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-5a010473.html?scent=pear-freesia",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "reed",
@@ -433,7 +433,7 @@ const scents = [
         "name": "Coastal Lime",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-a8811e93.html?scent=lime-basil",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "reed",
@@ -1667,7 +1667,7 @@ const scents = [
         "name": "Sea Salt & Sage",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-bed2d989.html?scent=sea-salt-driftwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       }
     ],
     "family": "Fresh & Natural",
@@ -1922,7 +1922,7 @@ const scents = [
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-3adc7f14.html?scent=cedarwood-vetiver",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       }
     ],
     "family": "Warm & Woody",
@@ -2096,7 +2096,7 @@ const scents = [
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2222a11f.html?scent=amber-vanilla",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "candle",
@@ -2162,7 +2162,7 @@ const scents = [
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2222a11f.html?scent=vanilla-tonka",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2170,7 +2170,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=vanilla-tonka",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "candle",
@@ -2186,7 +2186,7 @@ const scents = [
         "name": "Gingerbread Fragrance Gift Set",
         "series": "Christmas Rituals",
         "href": "product-lnv-xms-d5956a72.html?scent=vanilla-tonka",
-        "catalogueHref": "christmas-collection-4.html"
+        "catalogueHref": "christmas-collection-2.html"
       }
     ],
     "family": "Warm & Woody",
@@ -2227,7 +2227,7 @@ const scents = [
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2222a11f.html?scent=caramel-cream",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2235,7 +2235,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=caramel-cream",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "candle",
@@ -2314,7 +2314,7 @@ const scents = [
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
         "href": "product-lnv-xms-499cc25c.html?scent=apple-cinnamon",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -2322,7 +2322,7 @@ const scents = [
         "name": "Winter Berry Dome",
         "series": "Festive Glass Domes",
         "href": "product-lnv-xms-80c34b43.html?scent=apple-cinnamon",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "candle",
@@ -2382,7 +2382,7 @@ const scents = [
         "name": "Silver Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2ba5d180.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2390,7 +2390,7 @@ const scents = [
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
         "href": "product-lnv-xms-a71be608.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2398,7 +2398,7 @@ const scents = [
         "name": "Champagne Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-c969e77f.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2406,7 +2406,7 @@ const scents = [
         "name": "Ruby Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-74d2ef75.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2414,7 +2414,7 @@ const scents = [
         "name": "Blue Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-7c89fb28.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2422,7 +2422,7 @@ const scents = [
         "name": "Forest Green Silver Trees",
         "series": "Winter Glass",
         "href": "product-lnv-xms-650aea95.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2430,7 +2430,7 @@ const scents = [
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "christmas",
@@ -2438,7 +2438,7 @@ const scents = [
         "name": "Olive Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-57d648b6.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "christmas",
@@ -2446,7 +2446,7 @@ const scents = [
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "crystal",
@@ -2486,7 +2486,7 @@ const scents = [
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
         "href": "product-lnv-xms-ec3e85a9.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "reed",
@@ -2502,7 +2502,7 @@ const scents = [
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
         "href": "product-lnv-xms-af62e8de.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -2510,7 +2510,7 @@ const scents = [
         "name": "Forest Green Cone Candle",
         "series": "Botanical Christmas Trees",
         "href": "product-lnv-xms-3765d8f2.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -2518,7 +2518,7 @@ const scents = [
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-4.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -2526,7 +2526,7 @@ const scents = [
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -2534,7 +2534,7 @@ const scents = [
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-3adc7f14.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -2542,7 +2542,7 @@ const scents = [
         "name": "Christmas Tree Candle",
         "series": "Christmas Characters",
         "href": "product-lnv-xms-793b2f36.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       }
     ],
     "family": "Warm & Woody",
@@ -2577,7 +2577,7 @@ const scents = [
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "reed",
@@ -2617,7 +2617,7 @@ const scents = [
         "name": "Gingerbread Fragrance Gift Set",
         "series": "Christmas Rituals",
         "href": "product-lnv-xms-d5956a72.html?scent=orange-clove",
-        "catalogueHref": "christmas-collection-4.html"
+        "catalogueHref": "christmas-collection-2.html"
       }
     ],
     "family": "Warm & Woody",
@@ -2653,7 +2653,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=gingerbread-vanilla",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -2661,7 +2661,7 @@ const scents = [
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2222a11f.html?scent=gingerbread-vanilla",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -2669,7 +2669,7 @@ const scents = [
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "christmas",
@@ -2677,7 +2677,7 @@ const scents = [
         "name": "Gingerbread Fragrance Gift Set",
         "series": "Christmas Rituals",
         "href": "product-lnv-xms-d5956a72.html?scent=gingerbread-vanilla",
-        "catalogueHref": "christmas-collection-4.html"
+        "catalogueHref": "christmas-collection-2.html"
       }
     ],
     "family": "Warm & Woody",
@@ -3054,7 +3054,7 @@ const scents = [
         "name": "Silver Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-2ba5d180.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3062,7 +3062,7 @@ const scents = [
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
         "href": "product-lnv-xms-a71be608.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3070,7 +3070,7 @@ const scents = [
         "name": "Champagne Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-c969e77f.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3078,7 +3078,7 @@ const scents = [
         "name": "Ruby Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-74d2ef75.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3086,7 +3086,7 @@ const scents = [
         "name": "Blue Winter Forest",
         "series": "Winter Glass",
         "href": "product-lnv-xms-7c89fb28.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3094,7 +3094,7 @@ const scents = [
         "name": "Forest Green Silver Trees",
         "series": "Winter Glass",
         "href": "product-lnv-xms-650aea95.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "christmas",
@@ -3102,7 +3102,7 @@ const scents = [
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-b8221ee8.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "christmas",
@@ -3110,7 +3110,7 @@ const scents = [
         "name": "Olive Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-57d648b6.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "christmas",
@@ -3118,7 +3118,7 @@ const scents = [
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
         "href": "product-lnv-xms-0f67d8cb.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-4.html"
       },
       {
         "category": "candle",
@@ -3158,7 +3158,7 @@ const scents = [
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "reed",
@@ -3174,7 +3174,7 @@ const scents = [
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
         "href": "product-lnv-xms-af62e8de.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -3182,7 +3182,7 @@ const scents = [
         "name": "Forest Green Cone Candle",
         "series": "Botanical Christmas Trees",
         "href": "product-lnv-xms-3765d8f2.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -3190,7 +3190,7 @@ const scents = [
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
         "href": "product-lnv-xms-68ef4327.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-4.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -3198,7 +3198,7 @@ const scents = [
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-f7070bc9.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -3206,7 +3206,7 @@ const scents = [
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
         "href": "product-lnv-xms-3adc7f14.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection.html"
       },
       {
         "category": "christmas",
@@ -3214,7 +3214,7 @@ const scents = [
         "name": "Christmas Tree Candle",
         "series": "Christmas Characters",
         "href": "product-lnv-xms-793b2f36.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",

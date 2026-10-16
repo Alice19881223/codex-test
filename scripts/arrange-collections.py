@@ -14,6 +14,14 @@ for cat in ['candle','reed']:
  path.write_text(json.dumps(collections,ensure_ascii=False,indent=2))
  print(cat,{c['name']:[len(p) for p in c['pages']] for c in collections})
 layouts={cat:[[p['image'] for p in page] for page in paginate(catalogues[cat])] for cat in ['crystal','gift','christmas','sachets']}
+# Preserve the reviewed Christmas order, including the dedicated final ornament page.
+order_path=root/'assets/catalogue-order.json'
+if order_path.exists():
+ for cat,pages in json.loads(order_path.read_text()).items():
+  lookup={p['name']:p for p in catalogues[cat]}
+  names=[name for page in pages for name in page]
+  assert len(names)==len(set(names)) and set(names)==set(lookup),f'{cat}: reviewed order must contain every product once'
+  layouts[cat]=[[lookup[name]['image'] for name in page] for page in pages]
 (root/'assets/catalogue-layouts.json').write_text(json.dumps(layouts,indent=2))
 path=root/'assets/fragrances.json';scents=json.loads(path.read_text())
 for scent in scents:

@@ -23,6 +23,8 @@ for cat,pages in layouts.items():
   links+=''.join(f'<a href="{filename(cat,n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
   links+=f'<a href="{filename(cat,page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>'
   text=re.sub(r'(<nav id="pagination"[^>]*>).*?</nav>',lambda m:m[1]+links+'</nav>',text,flags=re.S)
+  if cat=='gift':text=re.sub(r'<p class="eyebrow">\d+ THOUGHTFULLY PAIRED GIFT SETS</p>\s*<h2>For someone <em>extraordinary\.</em></h2>','',text)
+  if cat=='christmas':text=re.sub(r'<p class="eyebrow">FESTIVE COLLECTIONS</p>\s*<h2 class="catalogue-title">Christmas favourites</h2>','',text)
   if cat=='christmas':text=re.sub(r'\d+ DESIGNS · THE LANARVE CHRISTMAS COLLECTION',f'{len(products)} DESIGNS · THE LANARVE CHRISTMAS COLLECTION',text)
   (root/filename(cat,page)).write_text(text)
  # Keep historical gift/Christmas URLs consistent with their current pages.
