@@ -4135,10 +4135,10 @@ const candleProducts = [
     "legacyImages": [
       "assets/candles/candles-044.webp"
     ],
-    "packagingImage": "assets/candles/candles-044.webp",
+    "packagingImage": "assets/candles/paired/2d7bdeb3df6ca49659bb.png",
     "images": [
       "assets/candles/standalone/0d8e7c66e2de2314e052.png",
-      "assets/candles/candles-044.webp"
+      "assets/candles/paired/2d7bdeb3df6ca49659bb.png"
     ]
   },
   {
@@ -4148,10 +4148,10 @@ const candleProducts = [
     "legacyImages": [
       "assets/candles/candles-045.webp"
     ],
-    "packagingImage": "assets/candles/candles-045.webp",
+    "packagingImage": "assets/candles/paired/f91de79e69d6929bbda3.png",
     "images": [
       "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
-      "assets/candles/candles-045.webp"
+      "assets/candles/paired/f91de79e69d6929bbda3.png"
     ]
   },
   {
@@ -4161,10 +4161,10 @@ const candleProducts = [
     "legacyImages": [
       "assets/candles/candles-046.webp"
     ],
-    "packagingImage": "assets/candles/candles-046.webp",
+    "packagingImage": "assets/candles/paired/fa4583c479bb46906464.png",
     "images": [
       "assets/candles/standalone/540de41607775da6cc17.png",
-      "assets/candles/candles-046.webp"
+      "assets/candles/paired/fa4583c479bb46906464.png"
     ]
   },
   {
@@ -4174,10 +4174,10 @@ const candleProducts = [
     "legacyImages": [
       "assets/candles/candles-047.webp"
     ],
-    "packagingImage": "assets/candles/candles-047.webp",
+    "packagingImage": "assets/candles/paired/5411b03949a53bd32d55.png",
     "images": [
       "assets/candles/standalone/b2082322ade0e92da2d5.png",
-      "assets/candles/candles-047.webp"
+      "assets/candles/paired/5411b03949a53bd32d55.png"
     ]
   },
   {

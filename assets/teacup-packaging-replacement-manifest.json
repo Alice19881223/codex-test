@@ -1,0 +1,46 @@
+[
+  {
+    "category": "candle",
+    "name": "Orchid Teacup",
+    "itemNo": "LNV-CND-126C54C6",
+    "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
+    "packagingImage": "assets/candles/paired/f91de79e69d6929bbda3.png",
+    "previousPackagingImage": "assets/candles/candles-045.webp",
+    "sourceFile": "1.png",
+    "sha256": "f91de79e69d6929bbda3aa828fba5aa092808f6d70908ad14633b8069a56f0a2",
+    "upload": "file_00000000a22081fdbc99ed50a9866083"
+  },
+  {
+    "category": "candle",
+    "name": "Bamboo Teacup",
+    "itemNo": "LNV-CND-69918D3A",
+    "image": "assets/candles/standalone/540de41607775da6cc17.png",
+    "packagingImage": "assets/candles/paired/fa4583c479bb46906464.png",
+    "previousPackagingImage": "assets/candles/candles-046.webp",
+    "sourceFile": "2.png",
+    "sha256": "fa4583c479bb4690646421bd2cef97f018b079ed1d81cea3d2e65663b67c6531",
+    "upload": "file_00000000a22081fdbc99ed50a9866083"
+  },
+  {
+    "category": "candle",
+    "name": "Chrysanthemum Teacup",
+    "itemNo": "LNV-CND-1E624F9C",
+    "image": "assets/candles/standalone/b2082322ade0e92da2d5.png",
+    "packagingImage": "assets/candles/paired/5411b03949a53bd32d55.png",
+    "previousPackagingImage": "assets/candles/candles-047.webp",
+    "sourceFile": "3.png",
+    "sha256": "5411b03949a53bd32d55dfb4483ed97785761873b86f5cbc740aff91fb6c3976",
+    "upload": "file_00000000a22081fdbc99ed50a9866083"
+  },
+  {
+    "category": "candle",
+    "name": "Plum Blossom Teacup",
+    "itemNo": "LNV-CND-FE56A1C8",
+    "image": "assets/candles/standalone/0d8e7c66e2de2314e052.png",
+    "packagingImage": "assets/candles/paired/2d7bdeb3df6ca49659bb.png",
+    "previousPackagingImage": "assets/candles/candles-044.webp",
+    "sourceFile": "4.png",
+    "sha256": "2d7bdeb3df6ca49659bb2db4706d6feae640c6b4bc141125cf438eb29b84d5b4",
+    "upload": "file_00000000a22081fdbc99ed50a9866083"
+  }
+]
