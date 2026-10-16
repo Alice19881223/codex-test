@@ -53,4 +53,5 @@ for p in Path('.').glob('*.html'):
   s=re.sub(r'<div class="contact-email-actions">.*?</div>','',s,flags=re.S)
   actions='<div class="contact-email-actions">'+''.join(f'<a href="mailto:{email}">{email}<span aria-hidden="true"> ↗</span></a>' for email in emails)+'</div>'
   s=s.replace('</section></main>',actions+'</section></main>',1)
+ s=s.replace('LanXin Ningbo Technology Development Co., Ltd.','Lanarve (Ningbo) Technology Development Co., Ltd.')
  p.write_text(s)
