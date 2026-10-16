@@ -314,3 +314,9 @@ header{position:relative;z-index:30}
 :is(body[data-category="reed"],body[data-category="candle"]) .candle-mood-nav a:hover{background:#dfe9d5;color:#294b31}
 :is(body[data-category="reed"],body[data-category="candle"]) .candle-mood-nav a:focus-visible{outline:3px solid #9b7b4b;outline-offset:3px}
 @media(max-width:650px){:is(body[data-category="reed"],body[data-category="candle"]) .candle-mood-nav{gap:8px;padding:10px}:is(body[data-category="reed"],body[data-category="candle"]) .candle-mood-nav a{flex-basis:calc(50% - 8px);min-height:54px;font-size:14px;padding:10px 8px}}
+
+/* Highlight the existing fragrance description without changing its content. */
+.product-scent-story .smells-like-card{margin:20px 0 28px;padding:24px 26px;background:#203329;border-left:3px solid #d6bc72;border-radius:0 8px 8px 0;color:#faf6ef}
+.product-scent-story .smells-like-card h2{margin:0 0 12px;color:#e2c979;font-size:20px;font-weight:500;line-height:1.4;letter-spacing:1.8px;text-transform:uppercase}
+.product-scent-story .smells-like-card #product-smells-like{margin:0;color:#f0eee6;font-size:18px;font-style:italic;line-height:1.75}
+@media(max-width:650px){.product-scent-story .smells-like-card{padding:20px}.product-scent-story .smells-like-card h2{font-size:18px}.product-scent-story .smells-like-card #product-smells-like{font-size:17px}}
