@@ -71,6 +71,7 @@ character_label=runpy.run_path(str(root/'scripts/build-scent-characters.py'),run
 for s in fragrances:
  assert s.get('keyNotes') and len(s['keyNotes'])==3
  assert len(s.get('character',[]))==3 and sum(x['value'] for x in s['character'])==100
+ assert [c['source'] for c in s['character']]==['top','heart','base'],'Scent character must follow top, heart, base order'
  for character in s['character']:
   assert character['source'] in ['top','heart','base'] and character['sourceNotes']==s[character['source']],f"{s['id']}: character must match its actual note layer"
   assert character['label']==character_label(s[character['source']]),f"{s['id']}: character label is not supported by the actual notes"

@@ -2,7 +2,7 @@
 
 All 287 products retain their assigned fragrance. Fragrance names, descriptions, top/heart/base notes and library membership are unchanged.
 
-Character labels are now derived from the specific notes of each layer, rather than the broad fragrance theme. The three displayed segments identify Heart notes, Top notes and Base notes explicitly. The 60/25/15 visual weighting is an illustration of note-stage emphasis, not measured fragrance strength or ingredient composition.
+Character labels are now derived from the specific notes of each layer, rather than the broad fragrance theme. The three displayed segments identify Top notes, Heart notes and Base notes explicitly. The 25/60/15 visual weighting is an illustration of note-stage emphasis, not measured fragrance strength or ingredient composition.
 
 Rose & Green Leaves regression: Rose / geranium → Floral (heart); green leaves / bergamot → Green & Citrus (top); white musk / cedarwood → Musky & Woody (base). There is no fruity label.
 

@@ -166,21 +166,21 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Freesia",
-          "rose"
-        ]
-      },
-      {
         "label": "Fruity & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Pear",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Freesia",
+          "rose"
         ]
       },
       {
@@ -354,21 +354,21 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Rose",
-          "geranium"
-        ]
-      },
-      {
         "label": "Green & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Green leaves",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "geranium"
         ]
       },
       {
@@ -597,21 +597,21 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Peony",
-          "rose"
-        ]
-      },
-      {
         "label": "Fruity",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Lychee",
           "pear"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Peony",
+          "rose"
         ]
       },
       {
@@ -745,21 +745,21 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Jasmine",
-          "orange blossom"
-        ]
-      },
-      {
         "label": "Citrus & Green",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Citrus",
           "petitgrain"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Jasmine",
+          "orange blossom"
         ]
       },
       {
@@ -853,6 +853,15 @@
     ],
     "character": [
       {
+        "label": "Green & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Green leaves",
+          "bergamot"
+        ]
+      },
+      {
         "label": "Floral",
         "value": 60,
         "source": "heart",
@@ -860,15 +869,6 @@
           "Gardenia",
           "tuberose",
           "jasmine"
-        ]
-      },
-      {
-        "label": "Green & Citrus",
-        "value": 25,
-        "source": "top",
-        "sourceNotes": [
-          "Green leaves",
-          "bergamot"
         ]
       },
       {
@@ -945,21 +945,21 @@
     ],
     "character": [
       {
-        "label": "Herbal",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Basil",
-          "thyme"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Lime",
           "mandarin"
+        ]
+      },
+      {
+        "label": "Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Basil",
+          "thyme"
         ]
       },
       {
@@ -1084,21 +1084,21 @@
     ],
     "character": [
       {
-        "label": "Floral & Green",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Orange blossom",
-          "fresh greens"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Grapefruit",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Floral & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Orange blossom",
+          "fresh greens"
         ]
       },
       {
@@ -1207,21 +1207,21 @@
     ],
     "character": [
       {
-        "label": "Herbal & Green",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Lemon verbena",
-          "green leaves"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Lemon peel",
           "citron"
+        ]
+      },
+      {
+        "label": "Herbal & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lemon verbena",
+          "green leaves"
         ]
       },
       {
@@ -1283,21 +1283,21 @@
     ],
     "character": [
       {
-        "label": "Floral & Green",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Neroli",
-          "petitgrain"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "bitter orange"
+        ]
+      },
+      {
+        "label": "Floral & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Neroli",
+          "petitgrain"
         ]
       },
       {
@@ -1352,21 +1352,21 @@
     ],
     "character": [
       {
-        "label": "Fruity & Creamy",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Fig",
-          "light coconut milk"
-        ]
-      },
-      {
         "label": "Green",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Fig leaf",
           "green notes"
+        ]
+      },
+      {
+        "label": "Fruity & Creamy",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Fig",
+          "light coconut milk"
         ]
       },
       {
@@ -1443,21 +1443,21 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Rose",
-          "geranium"
-        ]
-      },
-      {
         "label": "Fruity & Green",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Blackcurrant",
           "green leaves"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "geranium"
         ]
       },
       {
@@ -1522,15 +1522,6 @@
     ],
     "character": [
       {
-        "label": "Floral & Spiced",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Rose",
-          "gentle spices"
-        ]
-      },
-      {
         "label": "Fruity & Spiced",
         "value": 25,
         "source": "top",
@@ -1538,6 +1529,15 @@
           "Pomegranate accord",
           "plum",
           "pink pepper"
+        ]
+      },
+      {
+        "label": "Floral & Spiced",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "gentle spices"
         ]
       },
       {
@@ -1672,21 +1672,21 @@
     ],
     "character": [
       {
-        "label": "Herbal",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Lavender",
-          "sage"
-        ]
-      },
-      {
         "label": "Citrus & Herbal",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "a little rosemary"
+        ]
+      },
+      {
+        "label": "Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lavender",
+          "sage"
         ]
       },
       {
@@ -1739,21 +1739,21 @@
     ],
     "character": [
       {
-        "label": "Herbal",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Eucalyptus",
-          "rosemary"
-        ]
-      },
-      {
         "label": "Herbal & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Mint",
           "lemon"
+        ]
+      },
+      {
+        "label": "Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Eucalyptus",
+          "rosemary"
         ]
       },
       {
@@ -1806,21 +1806,21 @@
     ],
     "character": [
       {
-        "label": "Herbal & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Lavender",
-          "light orange blossom"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Lemon",
           "mandarin"
+        ]
+      },
+      {
+        "label": "Herbal & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lavender",
+          "light orange blossom"
         ]
       },
       {
@@ -2026,21 +2026,21 @@
     ],
     "character": [
       {
-        "label": "Tea & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "White tea accord",
-          "light jasmine"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "lemon peel"
+        ]
+      },
+      {
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "White tea accord",
+          "light jasmine"
         ]
       },
       {
@@ -2134,21 +2134,21 @@
     ],
     "character": [
       {
-        "label": "Tea & Herbal",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "White tea accord",
-          "rosemary"
-        ]
-      },
-      {
         "label": "Citrus & Herbal",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Lemon",
           "a little mint"
+        ]
+      },
+      {
+        "label": "Tea & Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "White tea accord",
+          "rosemary"
         ]
       },
       {
@@ -2212,21 +2212,21 @@
     ],
     "character": [
       {
-        "label": "Tea & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Black tea accord",
-          "dried florals"
-        ]
-      },
-      {
         "label": "Citrus & Spiced",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "a little black pepper"
+        ]
+      },
+      {
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Black tea accord",
+          "dried florals"
         ]
       },
       {
@@ -2330,21 +2330,21 @@
     ],
     "character": [
       {
-        "label": "Floral & Tea",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Osmanthus",
-          "green tea accord"
-        ]
-      },
-      {
         "label": "Citrus & Fruity",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Citrus",
           "light apricot"
+        ]
+      },
+      {
+        "label": "Floral & Tea",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Osmanthus",
+          "green tea accord"
         ]
       },
       {
@@ -2398,15 +2398,6 @@
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Lily of the valley",
-          "light white florals"
-        ]
-      },
-      {
         "label": "Fresh & Citrus & Green",
         "value": 25,
         "source": "top",
@@ -2414,6 +2405,15 @@
           "Fresh air accord",
           "citrus",
           "green leaves"
+        ]
+      },
+      {
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lily of the valley",
+          "light white florals"
         ]
       },
       {
@@ -2483,21 +2483,21 @@
     ],
     "character": [
       {
-        "label": "Powdery",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Iris",
-          "light violet"
-        ]
-      },
-      {
         "label": "Citrus & Powdery",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "light aldehydes"
+        ]
+      },
+      {
+        "label": "Powdery",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Iris",
+          "light violet"
         ]
       },
       {
@@ -2623,21 +2623,21 @@
     ],
     "character": [
       {
-        "label": "Marine & Herbal",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Sea salt accord",
-          "sage"
-        ]
-      },
-      {
         "label": "Marine & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Sea breeze accord",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Marine & Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sea salt accord",
+          "sage"
         ]
       },
       {
@@ -2707,21 +2707,21 @@
     ],
     "character": [
       {
-        "label": "Green & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Bamboo accord",
-          "light white florals"
-        ]
-      },
-      {
         "label": "Citrus & Green",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Citrus",
           "green leaves"
+        ]
+      },
+      {
+        "label": "Green & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Bamboo accord",
+          "light white florals"
         ]
       },
       {
@@ -2975,21 +2975,21 @@
     ],
     "character": [
       {
-        "label": "Woody & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Sandalwood",
-          "soft florals"
-        ]
-      },
-      {
         "label": "Citrus & Spiced",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "a little cardamom"
+        ]
+      },
+      {
+        "label": "Woody & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sandalwood",
+          "soft florals"
         ]
       },
       {
@@ -3189,21 +3189,21 @@
     ],
     "character": [
       {
-        "label": "Woody",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Cedarwood",
-          "cypress"
-        ]
-      },
-      {
         "label": "Citrus & Herbal",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "juniper"
+        ]
+      },
+      {
+        "label": "Woody",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cedarwood",
+          "cypress"
         ]
       },
       {
@@ -3291,21 +3291,21 @@
     ],
     "character": [
       {
-        "label": "Woody",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Cedarwood",
-          "guaiac wood"
-        ]
-      },
-      {
         "label": "Spiced & Resinous",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Black pepper",
           "light resin"
+        ]
+      },
+      {
+        "label": "Woody",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cedarwood",
+          "guaiac wood"
         ]
       },
       {
@@ -3497,21 +3497,21 @@
     ],
     "character": [
       {
-        "label": "Resinous",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Amber accord",
-          "benzoin"
-        ]
-      },
-      {
         "label": "Citrus & Spiced",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Bergamot",
           "gentle spices"
+        ]
+      },
+      {
+        "label": "Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Amber accord",
+          "benzoin"
         ]
       },
       {
@@ -3582,21 +3582,21 @@
     ],
     "character": [
       {
-        "label": "Sweet & Creamy",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Vanilla",
-          "soft milky notes"
-        ]
-      },
-      {
         "label": "Sweet & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Almond accord",
           "light citrus"
+        ]
+      },
+      {
+        "label": "Sweet & Creamy",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Vanilla",
+          "soft milky notes"
         ]
       },
       {
@@ -3650,21 +3650,21 @@
     ],
     "character": [
       {
-        "label": "Creamy & Sweet",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Cream",
-          "baked notes"
-        ]
-      },
-      {
         "label": "Sweet & Marine",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Caramel",
           "a little sea salt accord"
+        ]
+      },
+      {
+        "label": "Creamy & Sweet",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cream",
+          "baked notes"
         ]
       },
       {
@@ -3728,6 +3728,15 @@
     ],
     "character": [
       {
+        "label": "Sweet & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pumpkin accord",
+          "orange peel"
+        ]
+      },
+      {
         "label": "Spiced",
         "value": 60,
         "source": "heart",
@@ -3735,15 +3744,6 @@
           "Cinnamon",
           "nutmeg",
           "clove"
-        ]
-      },
-      {
-        "label": "Sweet & Citrus",
-        "value": 25,
-        "source": "top",
-        "sourceNotes": [
-          "Pumpkin accord",
-          "orange peel"
         ]
       },
       {
@@ -3799,21 +3799,21 @@
     ],
     "character": [
       {
-        "label": "Spiced",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Cinnamon",
-          "clove"
-        ]
-      },
-      {
         "label": "Fruity & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Apple",
           "orange peel"
+        ]
+      },
+      {
+        "label": "Spiced",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cinnamon",
+          "clove"
         ]
       },
       {
@@ -4045,15 +4045,6 @@
     ],
     "character": [
       {
-        "label": "Evergreen & Resinous",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Fir",
-          "balsamic resin"
-        ]
-      },
-      {
         "label": "Evergreen & Herbal",
         "value": 25,
         "source": "top",
@@ -4061,6 +4052,15 @@
           "Pine needles",
           "juniper",
           "a little eucalyptus"
+        ]
+      },
+      {
+        "label": "Evergreen & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Fir",
+          "balsamic resin"
         ]
       },
       {
@@ -4140,21 +4140,21 @@
     ],
     "character": [
       {
-        "label": "Spiced",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Clove",
-          "cinnamon"
-        ]
-      },
-      {
         "label": "Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Sweet orange",
           "orange peel"
+        ]
+      },
+      {
+        "label": "Spiced",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Clove",
+          "cinnamon"
         ]
       },
       {
@@ -4227,6 +4227,15 @@
     ],
     "character": [
       {
+        "label": "Spiced & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Ginger",
+          "orange peel"
+        ]
+      },
+      {
         "label": "Spiced & Sweet",
         "value": 60,
         "source": "heart",
@@ -4234,15 +4243,6 @@
           "Cinnamon",
           "clove",
           "biscuit accord"
-        ]
-      },
-      {
-        "label": "Spiced & Citrus",
-        "value": 25,
-        "source": "top",
-        "sourceNotes": [
-          "Ginger",
-          "orange peel"
         ]
       },
       {
@@ -4298,21 +4298,21 @@
     ],
     "character": [
       {
-        "label": "Herbal & Resinous",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Sage",
-          "incense"
-        ]
-      },
-      {
         "label": "Herbal & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Mugwort",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Herbal & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sage",
+          "incense"
         ]
       },
       {
@@ -4408,21 +4408,21 @@
     ],
     "character": [
       {
-        "label": "Tea & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Green tea accord",
-          "jasmine"
-        ]
-      },
-      {
         "label": "Tea & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Fresh tea leaves",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Green tea accord",
+          "jasmine"
         ]
       },
       {
@@ -4477,21 +4477,21 @@
     ],
     "character": [
       {
-        "label": "Woody & Floral",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Oud",
-          "rose"
-        ]
-      },
-      {
         "label": "Spiced",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Saffron",
           "cardamom"
+        ]
+      },
+      {
+        "label": "Woody & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Oud",
+          "rose"
         ]
       },
       {
@@ -4563,21 +4563,21 @@
     ],
     "character": [
       {
-        "label": "Resinous",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Incense",
-          "myrrh"
-        ]
-      },
-      {
         "label": "Spiced & Citrus",
         "value": 25,
         "source": "top",
         "sourceNotes": [
           "Black pepper",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Incense",
+          "myrrh"
         ]
       },
       {
@@ -4643,16 +4643,6 @@
     ],
     "character": [
       {
-        "label": "Evergreen & Woody & Resinous",
-        "value": 60,
-        "source": "heart",
-        "sourceNotes": [
-          "Pine",
-          "cypress",
-          "fir balsam"
-        ]
-      },
-      {
         "label": "Evergreen & Herbal & Citrus",
         "value": 25,
         "source": "top",
@@ -4660,6 +4650,16 @@
           "Pine needles",
           "juniper",
           "bergamot"
+        ]
+      },
+      {
+        "label": "Evergreen & Woody & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Pine",
+          "cypress",
+          "fir balsam"
         ]
       },
       {

@@ -30,6 +30,6 @@ def character_label(notes):
 if __name__=='<run_path>' or __name__=='__main__':
  p=root/'assets/fragrances.json';scents=json.loads(p.read_text())
  for scent in scents:
-  scent['character']=[dict(label=character_label(scent[key]),value=value,source=key,sourceNotes=scent[key]) for key,value in [('heart',60),('top',25),('base',15)]]
+  scent['character']=[dict(label=character_label(scent[key]),value=value,source=key,sourceNotes=scent[key]) for key,value in [('top',25),('heart',60),('base',15)]]
  p.write_text(json.dumps(scents,indent=2))
  print('Derived scent character from top, heart and base notes for',len(scents),'fragrances')
