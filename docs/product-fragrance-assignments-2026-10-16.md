@@ -2,7 +2,7 @@
 
 All 287 products now have exactly one displayed profile selected from the 39 existing library fragrances. These are merchandising suggestions chosen by label, product name, presentation and collection mood; final formulation remains subject to sample/specification confirmation.
 
-The assignment is shared by source product data, library membership, product card labels, product pages, gallery entry URLs and enquiries. Old query parameters cannot override the assigned profile. Older saved enquiries are normalized to the current assignment without changing requested quantity or specifications.
+The assignment is shared by source product data, library membership, product card labels, product pages, gallery entry URLs and enquiries. The assigned profile is the default recommendation. Following the later customer-selection request, all 39 library fragrances are available on every product. Valid scent query parameters restore the customer selection, and saved enquiries retain that selection, quantity and specifications.
 
 Key Notes shows the leading top, heart and base note. Smells Like retains the profile-specific description and note development. Scent Character is an explicitly illustrative 60/25/15 visual emphasis with profile-appropriate descriptors, not a measured composition or concentration.
 

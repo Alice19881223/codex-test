@@ -329,3 +329,5 @@ header{position:relative;z-index:30}
 @media(max-width:650px){.scent-character-legend{gap:10px}.scent-character-legend li,.scent-character-legend small{font-size:12px}.product-card-fragrance{font-size:13px}}
 
 .scent-character-legend li>span em{display:block;font-size:11px;font-style:normal;letter-spacing:.4px;text-transform:none;color:#756f64;margin-top:3px}.scent-character-legend li{align-items:baseline}.scent-character-legend{column-gap:24px;row-gap:14px}
+
+.product-options .fragrance-options-help{display:block;font-size:14px;line-height:1.65;color:#556c53;font-weight:400;margin-top:8px}

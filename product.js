@@ -12,8 +12,10 @@
  function group(label,items){if(!items.length)return '';return `<optgroup label="${escapeHtml(label)}">${items.map(s=>`<option value="${s.id}">${escapeHtml(s.name)}</option>`).join('')}</optgroup>`;}
  const assigned=scents.find(s=>s.id===product.primaryScent);
  if(!assigned)throw new Error('Missing assigned fragrance for '+product.itemNo);
- field.innerHTML=`<option value="${escapeHtml(assigned.id)}">${escapeHtml(assigned.name)}</option>`;
- field.value=assigned.id;
+ field.innerHTML=group('Recommended for this design',[assigned])+fragranceThemes.map(theme=>group(theme,scents.filter(s=>s.id!==assigned.id&&s.themes[0]===theme))).join('');
+ const requested=new URLSearchParams(location.search).get('scent');
+ field.value=scents.some(s=>s.id===requested)?requested:assigned.id;
+ const fragranceHelp=$('#product-fragrance-help');if(fragranceHelp)fragranceHelp.textContent=`Choose from ${scents.length} fragrance options. Select a scent to explore its notes and include it in your enquiry. Final availability is confirmed with your sample or quotation.`;
  function selectedScent(){return scents.find(s=>s.id===field.value);}
  function updateScent(){
   const s=selectedScent();
@@ -53,7 +55,9 @@
   for(const category of Object.keys(productPages)){
    const entry=Object.entries(productPages[category]).find(([,url])=>url===path);
    if(!entry)continue;
-   const photo=catalogues[category].find(p=>p.image===entry[0]);const scent=scents.find(s=>s.id===photo?.assignedScent);
+   const photo=catalogues[category].find(p=>p.image===entry[0]);
+   const savedScent=new URL(item.url,location.href).searchParams.get('scent');
+   const scent=scents.find(s=>s.id===savedScent)||scents.find(s=>s.name===item.fragrance)||scents.find(s=>s.id===photo?.assignedScent);
    if(scent){item={...item,name:savedProductName(item),fragrance:scent.name,url:path+'?scent='+encodeURIComponent(scent.id)};item.key=JSON.stringify([item.itemNo,item.fragrance,item.capacity,item.presentation]);}
   }
   return item;
