@@ -175,15 +175,30 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Freesia",
+          "rose"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Fruity & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pear",
+          "bergamot"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "soft woods"
+        ]
       }
     ]
   },
@@ -348,15 +363,30 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "geranium"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Green & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Green leaves",
+          "bergamot"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "cedarwood"
+        ]
       }
     ]
   },
@@ -576,15 +606,30 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Peony",
+          "rose"
+        ]
       },
       {
         "label": "Fruity",
-        "value": 25
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Lychee",
+          "pear"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "soft amber"
+        ]
       }
     ]
   },
@@ -709,15 +754,30 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Jasmine",
+          "orange blossom"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Citrus & Green",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Citrus",
+          "petitgrain"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Musk",
+          "light woods"
+        ]
       }
     ]
   },
@@ -802,15 +862,31 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Gardenia",
+          "tuberose",
+          "jasmine"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Green & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Green leaves",
+          "bergamot"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Sandalwood",
+          "musk"
+        ]
       }
     ]
   },
@@ -877,16 +953,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Basil",
+          "thyme"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Lime",
+          "mandarin"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Earthy & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vetiver",
+          "cedarwood"
+        ]
       }
     ]
   },
@@ -1001,16 +1092,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Floral & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Orange blossom",
+          "fresh greens"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Grapefruit",
+          "bergamot"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "cedarwood"
+        ]
       }
     ]
   },
@@ -1109,16 +1215,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Herbal & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lemon verbena",
+          "green leaves"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Lemon peel",
+          "citron"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Musk",
+          "light woods"
+        ]
       }
     ]
   },
@@ -1170,16 +1291,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Floral & Green",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Neroli",
+          "petitgrain"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "bitter orange"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Musky & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "soft amber"
+        ]
       }
     ]
   },
@@ -1224,16 +1360,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60
+        "label": "Fruity & Creamy",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Fig",
+          "light coconut milk"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Green",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Fig leaf",
+          "green notes"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "soft woods"
+        ]
       }
     ]
   },
@@ -1301,15 +1452,30 @@ const scents = [
     "character": [
       {
         "label": "Floral",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "geranium"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Fruity & Green",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Blackcurrant",
+          "green leaves"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Musk",
+          "woods"
+        ]
       }
     ]
   },
@@ -1364,16 +1530,33 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Floral",
-        "value": 60
+        "label": "Floral & Spiced",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Rose",
+          "gentle spices"
+        ]
       },
       {
-        "label": "Fruity",
-        "value": 25
+        "label": "Fruity & Spiced",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pomegranate accord",
+          "plum",
+          "pink pepper"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Resinous & Woody & Earthy",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Amber",
+          "cedarwood",
+          "patchouli"
+        ]
       }
     ]
   },
@@ -1497,16 +1680,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lavender",
+          "sage"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus & Herbal",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "a little rosemary"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "musk"
+        ]
       }
     ]
   },
@@ -1549,16 +1747,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Cooling",
-        "value": 60
-      },
-      {
         "label": "Herbal",
-        "value": 25
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Eucalyptus",
+          "rosemary"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 15
+        "label": "Herbal & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Mint",
+          "lemon"
+        ]
+      },
+      {
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "white musk"
+        ]
       }
     ]
   },
@@ -1601,16 +1814,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Herbal & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lavender",
+          "light orange blossom"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Lemon",
+          "mandarin"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Musk",
+          "light woods"
+        ]
       }
     ]
   },
@@ -1806,16 +2034,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Tea",
-        "value": 60
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "White tea accord",
+          "light jasmine"
+        ]
       },
       {
-        "label": "Floral",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "lemon peel"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "light cedarwood"
+        ]
       }
     ]
   },
@@ -1899,16 +2142,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Tea",
-        "value": 60
+        "label": "Tea & Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "White tea accord",
+          "rosemary"
+        ]
       },
       {
-        "label": "Floral",
-        "value": 25
+        "label": "Citrus & Herbal",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Lemon",
+          "a little mint"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "musk"
+        ]
       }
     ]
   },
@@ -1962,16 +2220,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Tea",
-        "value": 60
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Black tea accord",
+          "dried florals"
+        ]
       },
       {
-        "label": "Floral",
-        "value": 25
+        "label": "Citrus & Spiced",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "a little black pepper"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Woody & Resinous & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "amber",
+          "musk"
+        ]
       }
     ]
   },
@@ -2064,16 +2338,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Tea",
-        "value": 60
+        "label": "Floral & Tea",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Osmanthus",
+          "green tea accord"
+        ]
       },
       {
-        "label": "Floral",
-        "value": 25
+        "label": "Citrus & Fruity",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Citrus",
+          "light apricot"
+        ]
       },
       {
-        "label": "Soft woods",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "light woods"
+        ]
       }
     ]
   },
@@ -2117,16 +2406,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Clean",
-        "value": 60
+        "label": "Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Lily of the valley",
+          "light white florals"
+        ]
       },
       {
-        "label": "Soft florals",
-        "value": 25
+        "label": "Fresh & Citrus & Green",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Fresh air accord",
+          "citrus",
+          "green leaves"
+        ]
       },
       {
-        "label": "Musky",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "light woods"
+        ]
       }
     ]
   },
@@ -2186,16 +2491,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Soft",
-        "value": 60
-      },
-      {
         "label": "Powdery",
-        "value": 25
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Iris",
+          "light violet"
+        ]
       },
       {
-        "label": "Musky",
-        "value": 15
+        "label": "Citrus & Powdery",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "light aldehydes"
+        ]
+      },
+      {
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "White musk",
+          "soft woods"
+        ]
       }
     ]
   },
@@ -2311,16 +2631,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Marine & Herbal",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sea salt accord",
+          "sage"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Marine & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Sea breeze accord",
+          "bergamot"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Driftwood accord",
+          "musk"
+        ]
       }
     ]
   },
@@ -2380,16 +2715,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Fresh",
-        "value": 60
+        "label": "Green & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Bamboo accord",
+          "light white florals"
+        ]
       },
       {
-        "label": "Green",
-        "value": 25
+        "label": "Citrus & Green",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Citrus",
+          "green leaves"
+        ]
       },
       {
-        "label": "Clean",
-        "value": 15
+        "label": "Musky & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Musk",
+          "light cedarwood"
+        ]
       }
     ]
   },
@@ -2633,16 +2983,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Woody",
-        "value": 60
+        "label": "Woody & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sandalwood",
+          "soft florals"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 25
+        "label": "Citrus & Spiced",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "a little cardamom"
+        ]
       },
       {
-        "label": "Soft",
-        "value": 15
+        "label": "Woody & Musky & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cashmere wood accord",
+          "musk",
+          "amber"
+        ]
       }
     ]
   },
@@ -2832,15 +3198,31 @@ const scents = [
     "character": [
       {
         "label": "Woody",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cedarwood",
+          "cypress"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 25
+        "label": "Citrus & Herbal",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "juniper"
+        ]
       },
       {
-        "label": "Soft",
-        "value": 15
+        "label": "Earthy & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vetiver",
+          "moss accord",
+          "musk"
+        ]
       }
     ]
   },
@@ -2918,15 +3300,31 @@ const scents = [
     "character": [
       {
         "label": "Woody",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cedarwood",
+          "guaiac wood"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 25
+        "label": "Spiced & Resinous",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Black pepper",
+          "light resin"
+        ]
       },
       {
-        "label": "Soft",
-        "value": 15
+        "label": "Smoky & Resinous & Earthy",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Smoked wood accord",
+          "amber",
+          "vetiver"
+        ]
       }
     ]
   },
@@ -3107,16 +3505,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Woody",
-        "value": 60
+        "label": "Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Amber accord",
+          "benzoin"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 25
+        "label": "Citrus & Spiced",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Bergamot",
+          "gentle spices"
+        ]
       },
       {
-        "label": "Soft",
-        "value": 15
+        "label": "Sweet & Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vanilla",
+          "sandalwood",
+          "musk"
+        ]
       }
     ]
   },
@@ -3176,16 +3590,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Sweet",
-        "value": 60
+        "label": "Sweet & Creamy",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Vanilla",
+          "soft milky notes"
+        ]
       },
       {
-        "label": "Creamy",
-        "value": 25
+        "label": "Sweet & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Almond accord",
+          "light citrus"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 15
+        "label": "Sweet & Musky & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Tonka bean",
+          "musk",
+          "benzoin"
+        ]
       }
     ]
   },
@@ -3228,16 +3658,31 @@ const scents = [
     ],
     "character": [
       {
+        "label": "Creamy & Sweet",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cream",
+          "baked notes"
+        ]
+      },
+      {
+        "label": "Sweet & Marine",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Caramel",
+          "a little sea salt accord"
+        ]
+      },
+      {
         "label": "Sweet",
-        "value": 60
-      },
-      {
-        "label": "Creamy",
-        "value": 25
-      },
-      {
-        "label": "Warm",
-        "value": 15
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vanilla",
+          "brown sugar accord"
+        ]
       }
     ]
   },
@@ -3292,15 +3737,32 @@ const scents = [
     "character": [
       {
         "label": "Spiced",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cinnamon",
+          "nutmeg",
+          "clove"
+        ]
       },
       {
-        "label": "Sweet",
-        "value": 25
+        "label": "Sweet & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pumpkin accord",
+          "orange peel"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 15
+        "label": "Sweet & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vanilla",
+          "brown sugar",
+          "soft woods"
+        ]
       }
     ]
   },
@@ -3346,15 +3808,30 @@ const scents = [
     "character": [
       {
         "label": "Spiced",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cinnamon",
+          "clove"
+        ]
       },
       {
-        "label": "Sweet",
-        "value": 25
+        "label": "Fruity & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Apple",
+          "orange peel"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 15
+        "label": "Sweet & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vanilla",
+          "woods"
+        ]
       }
     ]
   },
@@ -3576,16 +4053,33 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Evergreen",
-        "value": 60
+        "label": "Evergreen & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Fir",
+          "balsamic resin"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 25
+        "label": "Evergreen & Herbal",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pine needles",
+          "juniper",
+          "a little eucalyptus"
+        ]
       },
       {
-        "label": "Resinous",
-        "value": 15
+        "label": "Woody & Earthy & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "moss accord",
+          "amber"
+        ]
       }
     ]
   },
@@ -3655,15 +4149,31 @@ const scents = [
     "character": [
       {
         "label": "Spiced",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Clove",
+          "cinnamon"
+        ]
       },
       {
-        "label": "Sweet",
-        "value": 25
+        "label": "Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Sweet orange",
+          "orange peel"
+        ]
       },
       {
-        "label": "Warm",
-        "value": 15
+        "label": "Resinous & Sweet & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Benzoin",
+          "vanilla",
+          "woods"
+        ]
       }
     ]
   },
@@ -3725,16 +4235,33 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Spiced",
-        "value": 60
+        "label": "Spiced & Sweet",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Cinnamon",
+          "clove",
+          "biscuit accord"
+        ]
+      },
+      {
+        "label": "Spiced & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Ginger",
+          "orange peel"
+        ]
       },
       {
         "label": "Sweet",
-        "value": 25
-      },
-      {
-        "label": "Warm",
-        "value": 15
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Vanilla",
+          "molasses accord",
+          "tonka bean"
+        ]
       }
     ]
   },
@@ -3779,16 +4306,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Resinous",
-        "value": 60
+        "label": "Herbal & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Sage",
+          "incense"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 25
+        "label": "Herbal & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Mugwort",
+          "bergamot"
+        ]
       },
       {
-        "label": "Spiced",
-        "value": 15
+        "label": "Woody & Musky & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "musk",
+          "soft resin"
+        ]
       }
     ]
   },
@@ -3873,16 +4416,31 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Resinous",
-        "value": 60
+        "label": "Tea & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Green tea accord",
+          "jasmine"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 25
+        "label": "Tea & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Fresh tea leaves",
+          "bergamot"
+        ]
       },
       {
-        "label": "Spiced",
-        "value": 15
+        "label": "Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "white musk"
+        ]
       }
     ]
   },
@@ -3927,16 +4485,32 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Resinous",
-        "value": 60
-      },
-      {
-        "label": "Woody",
-        "value": 25
+        "label": "Woody & Floral",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Oud",
+          "rose"
+        ]
       },
       {
         "label": "Spiced",
-        "value": 15
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Saffron",
+          "cardamom"
+        ]
+      },
+      {
+        "label": "Resinous & Woody & Musky",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Amber",
+          "sandalwood",
+          "musk"
+        ]
       }
     ]
   },
@@ -3998,15 +4572,31 @@ const scents = [
     "character": [
       {
         "label": "Resinous",
-        "value": 60
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Incense",
+          "myrrh"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 25
+        "label": "Spiced & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Black pepper",
+          "bergamot"
+        ]
       },
       {
-        "label": "Spiced",
-        "value": 15
+        "label": "Resinous & Woody",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Benzoin",
+          "amber",
+          "cedarwood"
+        ]
       }
     ]
   },
@@ -4061,16 +4651,34 @@ const scents = [
     ],
     "character": [
       {
-        "label": "Evergreen",
-        "value": 60
+        "label": "Evergreen & Woody & Resinous",
+        "value": 60,
+        "source": "heart",
+        "sourceNotes": [
+          "Pine",
+          "cypress",
+          "fir balsam"
+        ]
       },
       {
-        "label": "Woody",
-        "value": 25
+        "label": "Evergreen & Herbal & Citrus",
+        "value": 25,
+        "source": "top",
+        "sourceNotes": [
+          "Pine needles",
+          "juniper",
+          "bergamot"
+        ]
       },
       {
-        "label": "Resinous",
-        "value": 15
+        "label": "Woody & Earthy & Resinous",
+        "value": 15,
+        "source": "base",
+        "sourceNotes": [
+          "Cedarwood",
+          "moss accord",
+          "soft amber"
+        ]
       }
     ]
   }

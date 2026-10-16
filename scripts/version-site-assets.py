@@ -4,6 +4,7 @@ Run after catalogue, script or style changes so old caches cannot mix page versi
 from pathlib import Path
 import hashlib,re,runpy
 root=Path(__file__).resolve().parents[1]
+runpy.run_path(str(root/'scripts/build-scent-characters.py'))
 runpy.run_path(str(root/'scripts/arrange-collections.py'))
 if (root/'assets/candle-collections.json').exists():runpy.run_path(str(root/'scripts/build-candle-collections.py'))
 runpy.run_path(str(root/'scripts/build-reed-collections.py'))

@@ -66,9 +66,14 @@ fragrances=json.loads((stage/'assets/fragrances.json').read_text())
 assignments=json.loads((stage/'assets/product-fragrances.json').read_text())
 from product_records import item_no
 scent_lookup={s['id']:s for s in fragrances}
+import runpy
+character_label=runpy.run_path(str(root/'scripts/build-scent-characters.py'),run_name='validation')['character_label']
 for s in fragrances:
  assert s.get('keyNotes') and len(s['keyNotes'])==3
  assert len(s.get('character',[]))==3 and sum(x['value'] for x in s['character'])==100
+ for character in s['character']:
+  assert character['source'] in ['top','heart','base'] and character['sourceNotes']==s[character['source']],f"{s['id']}: character must match its actual note layer"
+  assert character['label']==character_label(s[character['source']]),f"{s['id']}: character label is not supported by the actual notes"
 for cat,rows in catalogues.items():
  for product in rows:
   ref=item_no(cat,product['image']);assigned=product['assignedScent']
