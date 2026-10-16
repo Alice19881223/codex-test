@@ -62,6 +62,19 @@ for cat,pages in json.loads((stage/'assets/catalogue-layouts.json').read_text())
 # Fragrance links must target the exact product on the correct category page.
 from urllib.parse import urlsplit,parse_qs
 fragrances=json.loads((stage/'assets/fragrances.json').read_text())
+# Every design has one stable library profile across catalogues, links and product pages.
+assignments=json.loads((stage/'assets/product-fragrances.json').read_text())
+from product_records import item_no
+scent_lookup={s['id']:s for s in fragrances}
+for s in fragrances:
+ assert s.get('keyNotes') and len(s['keyNotes'])==3
+ assert len(s.get('character',[]))==3 and sum(x['value'] for x in s['character'])==100
+for cat,rows in catalogues.items():
+ for product in rows:
+  ref=item_no(cat,product['image']);assigned=product['assignedScent']
+  assert assignments[ref]['scent']==assigned and assigned in scent_lookup
+  memberships=[s['id'] for s in fragrances if any(m['category']==cat and m['image']==product['image'] for m in s['matches'])]
+  assert memberships==[assigned],f'{ref}: inconsistent fragrance membership'
 themes={'Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'}
 assert len({s['id'] for s in fragrances})==len(fragrances)
 for scent in fragrances:

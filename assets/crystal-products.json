@@ -7,7 +7,8 @@
     "images": [
       "assets/companions/040856927401c5aa9fe5.webp",
       "assets/crystals/crystal-01.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Lavender Reverie",
@@ -17,7 +18,8 @@
     "images": [
       "assets/companions/475614e9e2d215c64a93.webp",
       "assets/crystals/crystal-02.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Morning Mist",
@@ -27,7 +29,8 @@
     "images": [
       "assets/companions/6ee1d58cc46162d5a542.webp",
       "assets/crystals/crystal-03.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Verdant Calm",
@@ -37,7 +40,8 @@
     "images": [
       "assets/companions/c135302863be554b69df.webp",
       "assets/crystals/crystal-04.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Cedar Relief",
@@ -47,7 +51,8 @@
     "images": [
       "assets/companions/480e8ea00e1b76202c86.webp",
       "assets/crystals/crystal-05.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Ivory Texture",
@@ -57,7 +62,8 @@
     "images": [
       "assets/companions/39ead58bc6ca45512276.webp",
       "assets/crystals/crystal-06.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Ivory Relief",
@@ -67,7 +73,8 @@
     "images": [
       "assets/companions/725149dff6d9af2e3e50.webp",
       "assets/crystals/crystal-07.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Amber Dusk",
@@ -77,7 +84,8 @@
     "images": [
       "assets/companions/0cfedbd356005d4c2754.webp",
       "assets/crystals/crystal-08.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Blue Serenity",
@@ -87,7 +95,8 @@
     "images": [
       "assets/companions/64e857d6f3b7717040c8.webp",
       "assets/crystals/crystal-09.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Purple Mist",
@@ -97,7 +106,8 @@
     "images": [
       "assets/companions/a59b5af2bc9cfd7b724a.webp",
       "assets/crystals/crystal-10.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Rose Mist",
@@ -107,7 +117,8 @@
     "images": [
       "assets/companions/7f866c903bcf75344101.webp",
       "assets/crystals/crystal-11.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Botanical Light",
@@ -117,7 +128,8 @@
     "images": [
       "assets/companions/7d04b24755dabebec6e7.webp",
       "assets/crystals/crystal-12.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Forest Reverie",
@@ -127,6 +139,7 @@
     "images": [
       "assets/companions/a35269a079593416887d.webp",
       "assets/crystals/crystal-13.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   }
 ]

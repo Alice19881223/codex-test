@@ -8,7 +8,8 @@
     "images": [
       "assets/reeds/paired/8e262fb59fe070149987.webp",
       "assets/reeds/paired/482e60d0c69c7e8eca3b.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "id": "reed-pair-0a8c637f10e3",
@@ -19,7 +20,8 @@
     "images": [
       "assets/reeds/paired/0a8c637f10e3e435ded4.webp",
       "assets/reeds/paired/20d374242f1f4c7932d3.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-784f4e7e2722",
@@ -30,7 +32,8 @@
     "images": [
       "assets/reeds/paired/784f4e7e2722b90cad34.webp",
       "assets/reeds/paired/9ff179c641b679e79eea.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-201427d60f11",
@@ -41,7 +44,8 @@
     "images": [
       "assets/reeds/paired/201427d60f110f84530c.webp",
       "assets/reeds/paired/861e4e43ef4f70861da9.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "id": "reed-pair-5f3d2fbfc68b",
@@ -52,7 +56,8 @@
     "images": [
       "assets/reeds/paired/5f3d2fbfc68b486eeb50.webp",
       "assets/reeds/paired/eb34d6dd86acdef30636.webp"
-    ]
+    ],
+    "assignedScent": "gardenia-tuberose"
   },
   {
     "id": "reed-pair-89098584f61f",
@@ -63,7 +68,8 @@
     "images": [
       "assets/reeds/paired/89098584f61f10212aea.webp",
       "assets/reeds/paired/c7311dae17ba9cda276d.webp"
-    ]
+    ],
+    "assignedScent": "gardenia-tuberose"
   },
   {
     "id": "reed-pair-0cd03e5f4aa3",
@@ -74,7 +80,8 @@
     "images": [
       "assets/reeds/paired/0cd03e5f4aa361a2de7f.webp",
       "assets/reeds/paired/0b1040bd3c53c99b3b5a.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "reed-pair-add3d2fe6427",
@@ -85,7 +92,8 @@
     "images": [
       "assets/reeds/paired/add3d2fe642716e15fb5.webp",
       "assets/reeds/paired/4706d4375b32d06ae7bf.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "reed-pair-cea8db64b1b6",
@@ -96,7 +104,8 @@
     "images": [
       "assets/reeds/paired/cea8db64b1b62b86670e.webp",
       "assets/reeds/paired/8fb53670ee21b6b43428.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "id": "reed-pair-4d646c939a3b",
@@ -107,7 +116,8 @@
     "images": [
       "assets/reeds/paired/4d646c939a3be7d88aef.webp",
       "assets/reeds/paired/5c95d937f824322c45ba.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "id": "reed-pair-64d6d060ce25",
@@ -118,7 +128,8 @@
     "images": [
       "assets/reeds/paired/64d6d060ce2595ff9070.webp",
       "assets/reeds/paired/526eb2448933f14c6a3b.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "id": "reed-pair-bf42dc79d33a",
@@ -129,7 +140,8 @@
     "images": [
       "assets/reeds/paired/bf42dc79d33a16875f58.webp",
       "assets/reeds/paired/8c4248ccbd09393b1535.webp"
-    ]
+    ],
+    "assignedScent": "pine-cedarwood"
   },
   {
     "id": "reed-pair-3c06b51cf59c",
@@ -140,7 +152,8 @@
     "images": [
       "assets/reeds/paired/3c06b51cf59cbf4d481d.webp",
       "assets/reeds/paired/9569a214eae3d7e31c6b.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "id": "reed-pair-31d02f3668b7",
@@ -151,7 +164,8 @@
     "images": [
       "assets/reeds/paired/31d02f3668b75883be89.webp",
       "assets/reeds/paired/8afe77f6b1fb43997c12.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "id": "reed-pair-811b4bb9a24f",
@@ -162,7 +176,8 @@
     "images": [
       "assets/reeds/paired/811b4bb9a24f8006326a.webp",
       "assets/reeds/paired/6373398f71aa6e313bfd.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-42174ebd1ef8",
@@ -173,7 +188,8 @@
     "images": [
       "assets/reeds/paired/42174ebd1ef8f2421c12.webp",
       "assets/reeds/paired/2f4c041b8722e5412fb6.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-7cd70493905e",
@@ -184,7 +200,8 @@
     "images": [
       "assets/reeds/paired/7cd70493905ebfe2764c.webp",
       "assets/reeds/paired/cffe497738ab11179dc2.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-9317be016ed6",
@@ -195,7 +212,8 @@
     "images": [
       "assets/reeds/paired/9317be016ed63d39b67c.webp",
       "assets/reeds/paired/48694731de4994d1c5b8.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-rosemary"
   },
   {
     "id": "reed-pair-7bd1f3d29f5f",
@@ -206,7 +224,8 @@
     "images": [
       "assets/reeds/paired/7bd1f3d29f5f641ddd3d.webp",
       "assets/reeds/paired/4bd8595e06d4c4f7b1ec.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-7e95a9fee680",
@@ -217,7 +236,8 @@
     "images": [
       "assets/reeds/paired/7e95a9fee680e36d69cf.webp",
       "assets/reeds/paired/bfa0a2be7901451d185e.webp"
-    ]
+    ],
+    "assignedScent": "soft-linen"
   },
   {
     "id": "reed-pair-f66c22d08705",
@@ -228,7 +248,8 @@
     "images": [
       "assets/reeds/paired/f66c22d087051b33f32d.webp",
       "assets/reeds/paired/89738c79044d1ac638a4.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "id": "reed-pair-0506f93bffb5",
@@ -239,7 +260,8 @@
     "images": [
       "assets/reeds/paired/0506f93bffb5a0774f90.webp",
       "assets/reeds/paired/3736c6ed944007effe1e.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "id": "reed-pair-87f8057288c6",
@@ -250,7 +272,8 @@
     "images": [
       "assets/reeds/paired/87f8057288c690b4cb2b.webp",
       "assets/reeds/paired/88edd9f073f5354e31ff.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "id": "reed-pair-27cc25f4936d",
@@ -261,7 +284,8 @@
     "images": [
       "assets/reeds/paired/27cc25f4936db9e927d9.webp",
       "assets/reeds/paired/a3348261c13a5e72c11f.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "reed-pair-3d49e14d13a5",
@@ -272,7 +296,8 @@
     "images": [
       "assets/reeds/paired/3d49e14d13a50bc979c6.webp",
       "assets/reeds/paired/5ef174681d462db23b5f.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Seven-Colour Gift Set",
@@ -282,7 +307,8 @@
     "images": [
       "assets/reeds/reed-01.webp",
       "assets/reeds/reed-02.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "name": "Rain Forest Reed Diffuser",
@@ -296,7 +322,8 @@
     "legacyImages": [
       "assets/reeds/reed-04.webp",
       "assets/reeds/reed-03.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Cold Brew Retreat",
@@ -309,7 +336,8 @@
     "images": [
       "assets/reeds/standalone/0ce20953b7f31b486366.png",
       "assets/reeds/reeds-090.webp"
-    ]
+    ],
+    "assignedScent": "black-tea-cedarwood"
   },
   {
     "name": "Sandalwood Retreat",
@@ -322,7 +350,8 @@
     "images": [
       "assets/reeds/standalone/5e510e2a781106064090.png",
       "assets/reeds/reeds-091.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Midnight Cedar",
@@ -335,7 +364,8 @@
     "images": [
       "assets/reeds/standalone/fdcf769b8f506d79add7.png",
       "assets/reeds/reeds-092.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Black Tea Ritual",
@@ -348,7 +378,8 @@
     "images": [
       "assets/reeds/standalone/1bcfcddeea70ed693d4c.png",
       "assets/reeds/reeds-093.webp"
-    ]
+    ],
+    "assignedScent": "black-tea-cedarwood"
   },
   {
     "name": "Ebony & Bergamot Clarity",
@@ -361,7 +392,8 @@
     "images": [
       "assets/reeds/standalone/43fe0d5983ae27208291.png",
       "assets/reeds/reeds-094.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Orange Clarity",
@@ -374,7 +406,8 @@
     "images": [
       "assets/reeds/standalone/bc19c6f7e0c9652bedc2.png",
       "assets/reeds/reeds-095.webp"
-    ]
+    ],
+    "assignedScent": "orange-clove"
   },
   {
     "name": "White Tea Clarity",
@@ -387,7 +420,8 @@
     "images": [
       "assets/reeds/standalone/0fe827a233c27a862be3.png",
       "assets/reeds/reeds-096.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Green Tea Clarity",
@@ -400,7 +434,8 @@
     "images": [
       "assets/reeds/standalone/1897a7c919cef24794ab.png",
       "assets/reeds/reeds-097.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "Peony Soft Matte",
@@ -413,7 +448,8 @@
     "images": [
       "assets/reeds/standalone/cee0adc2a34b97a7c9ce.png",
       "assets/reeds/reeds-098.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "White Tea Soft Matte",
@@ -426,7 +462,8 @@
     "images": [
       "assets/reeds/standalone/da7b6c81e1b5ec96c52f.png",
       "assets/reeds/reeds-099.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Blush Mountain",
@@ -439,7 +476,8 @@
     "images": [
       "assets/reeds/standalone/82c60d22feb4032d52e4.png",
       "assets/reeds/reeds-100.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Moonlit Mountain",
@@ -452,7 +490,8 @@
     "images": [
       "assets/reeds/standalone/28e887d886b1ed314e66.png",
       "assets/reeds/reeds-101.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Lime Mountain",
@@ -465,7 +504,8 @@
     "images": [
       "assets/reeds/standalone/bd51761dacecefe18b8e.png",
       "assets/reeds/reeds-102.webp"
-    ]
+    ],
+    "assignedScent": "lime-basil"
   },
   {
     "name": "Amber Botanical",
@@ -475,7 +515,8 @@
     "images": [
       "assets/companions/d254438f943ca1177135.webp",
       "assets/reeds/reeds-103.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Bluebell Atelier",
@@ -485,7 +526,8 @@
     "images": [
       "assets/companions/7f5bb0b72c302656cc3e.webp",
       "assets/reeds/reeds-104.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "name": "Sandalwood Atelier",
@@ -495,7 +537,8 @@
     "images": [
       "assets/companions/57fc12ec0de57fe4822f.webp",
       "assets/reeds/reeds-105.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Pear & Freesia Atelier",
@@ -505,7 +548,8 @@
     "images": [
       "assets/companions/eb66283958ad1067c60b.webp",
       "assets/reeds/reeds-106.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Lime & Chamomile Atelier",
@@ -515,7 +559,8 @@
     "images": [
       "assets/companions/7ca9a742e8adc548081d.webp",
       "assets/reeds/reeds-107.webp"
-    ]
+    ],
+    "assignedScent": "lime-basil"
   },
   {
     "name": "Ebony Reserve",
@@ -525,7 +570,8 @@
     "images": [
       "assets/companions/47d5d503511846e0926c.webp",
       "assets/reeds/reeds-108.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Fig Reserve",
@@ -538,7 +584,8 @@
     "images": [
       "assets/reeds/standalone/79b6663ac0152009cd81.png",
       "assets/reeds/reeds-109.webp"
-    ]
+    ],
+    "assignedScent": "fig-green-leaves"
   },
   {
     "name": "Ocean Reserve",
@@ -548,7 +595,8 @@
     "images": [
       "assets/companions/1b5ead3137dec1267c9b.webp",
       "assets/reeds/reeds-110.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Damask Rose Reserve",
@@ -561,7 +609,8 @@
     "images": [
       "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
       "assets/reeds/reeds-111.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Sandalwood Reserve",
@@ -571,7 +620,8 @@
     "images": [
       "assets/companions/f034578ed7703c8e8eda.webp",
       "assets/reeds/reeds-112.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Peony Reserve",
@@ -584,7 +634,8 @@
     "images": [
       "assets/reeds/standalone/c592a458daf5a9c2c574.png",
       "assets/reeds/reeds-113.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "White Tea Reserve",
@@ -594,7 +645,8 @@
     "images": [
       "assets/companions/97b297ac3d3b797368fa.webp",
       "assets/reeds/reeds-114.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Jasmine Reserve",
@@ -607,7 +659,8 @@
     "images": [
       "assets/reeds/standalone/aab336d571bb3ae38f55.png",
       "assets/reeds/reeds-115.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "name": "Botanical Branch",
@@ -620,7 +673,8 @@
     ],
     "legacyImages": [
       "assets/companions/231a21cbbc3f7b033780.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Botanical Leaf",
@@ -633,7 +687,8 @@
     "images": [
       "assets/reeds/standalone/c821eba660237cc578b0.png",
       "assets/reeds/reeds-117.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "Botanical Citrus",
@@ -643,7 +698,8 @@
     "images": [
       "assets/companions/9a2ccca3988e0e6b8bbb.webp",
       "assets/reeds/reeds-118.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Noir Silhouette",
@@ -653,7 +709,8 @@
     "images": [
       "assets/companions/27e4b122a9b559ae799d.webp",
       "assets/reeds/reeds-119.webp"
-    ]
+    ],
+    "assignedScent": "incense-myrrh"
   },
   {
     "name": "Olive Silhouette",
@@ -663,7 +720,8 @@
     "images": [
       "assets/companions/d83b888e65240d5a7203.webp",
       "assets/reeds/reeds-120.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Golden Curve",
@@ -676,7 +734,8 @@
     "images": [
       "assets/reeds/standalone/b1d286b3aff7d72c474b.png",
       "assets/reeds/reeds-121.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Golden Botanist",
@@ -689,7 +748,8 @@
     "images": [
       "assets/reeds/standalone/4ed06c28b01356516de0.png",
       "assets/reeds/reeds-122.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Pearl Botanist",
@@ -702,7 +762,8 @@
     "images": [
       "assets/reeds/standalone/67f19d6a74a1dd52ebe3.png",
       "assets/reeds/reeds-123.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Blush Arch",
@@ -715,7 +776,8 @@
     "images": [
       "assets/reeds/standalone/4d34d18499bce0ec0d09.png",
       "assets/reeds/reeds-124.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Rose Orb",
@@ -728,7 +790,8 @@
     "images": [
       "assets/reeds/standalone/34ed97c6e6aa3cb799af.png",
       "assets/reeds/reeds-125.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Honey Orb",
@@ -741,7 +804,8 @@
     "images": [
       "assets/reeds/standalone/0918174ebdbf24e5e7ed.png",
       "assets/reeds/reeds-126.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Sage Orb",
@@ -754,7 +818,8 @@
     "images": [
       "assets/reeds/standalone/c87a5b505b2784ad4b89.png",
       "assets/reeds/reeds-127.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-rosemary"
   },
   {
     "name": "Deep Amber Classic",
@@ -767,7 +832,8 @@
     "images": [
       "assets/reeds/standalone/9bc380e0630d04eb7ce7.png",
       "assets/reeds/reeds-128.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Smoked Tea Classic",
@@ -780,7 +846,8 @@
     "images": [
       "assets/reeds/standalone/d3982648db5a7b0b97b2.png",
       "assets/reeds/reeds-129.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Sandalwood Hearth",
@@ -793,7 +860,8 @@
     "images": [
       "assets/reeds/standalone/2075772fabe318f6ee41.png",
       "assets/reeds/reeds-130.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Amber Bouquet",
@@ -803,7 +871,8 @@
     "images": [
       "assets/reeds/reed-c188d2780401e54a.webp",
       "assets/companions/0b2b75949c773fdd63c9.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Amber Tea",
@@ -813,7 +882,8 @@
     "images": [
       "assets/reeds/reed-08fc7a8f9eb9370f.webp",
       "assets/companions/3b2785fbc15d460a3cb8.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "White Tea Blossom",
@@ -823,7 +893,8 @@
     "images": [
       "assets/reeds/reed-374f9f3b71955935.webp",
       "assets/companions/1dfece1a6696b4db558e.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Amber Floral Arrangement",
@@ -833,7 +904,8 @@
     "images": [
       "assets/reeds/reed-61ad69a502bd3498.webp",
       "assets/companions/d24690d967a11265e0f1.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "White Gardenia",
@@ -843,7 +915,8 @@
     "images": [
       "assets/reeds/reed-3646bcf197e2090c.webp",
       "assets/companions/e89ef935f20eed455e72.webp"
-    ]
+    ],
+    "assignedScent": "gardenia-tuberose"
   },
   {
     "name": "Four Seasons Tea",
@@ -853,7 +926,8 @@
     "images": [
       "assets/reeds/reed-b2f6d6a6d3e67553.webp",
       "assets/companions/cb1ffa93cfdffdb49bef.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-rosemary"
   },
   {
     "name": "Gardenia & White Tea",
@@ -863,7 +937,8 @@
     "images": [
       "assets/reeds/reed-db41da38fbfc9eb9.webp",
       "assets/companions/89effacce8fe75a0b949.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Osmanthus & Longjing",
@@ -873,7 +948,8 @@
     "images": [
       "assets/reeds/reed-f82a3208f64026bc.webp",
       "assets/companions/8b1b06e2bb959e756507.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "name": "Plum & Sencha",
@@ -883,7 +959,8 @@
     "images": [
       "assets/reeds/reed-1883f549fd4393dd.webp",
       "assets/companions/b5ad16c966009065c302.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "Olive Magnolia",
@@ -893,7 +970,8 @@
     "images": [
       "assets/reeds/reed-0d3f3a982460ae6d.webp",
       "assets/companions/4b62e0de0833c546d196.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "White Peach & Oolong",
@@ -903,7 +981,8 @@
     "images": [
       "assets/reeds/reed-6ffc48159c0055e0.webp",
       "assets/companions/60070777153ce638f37d.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "name": "Jasmine Green Tea",
@@ -913,12 +992,14 @@
     "images": [
       "assets/reeds/reed-640affaca6c8bc7e.webp",
       "assets/companions/6e17b7bbc1d4383c96e5.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "Seven-Day Fragrance Gift Set",
     "image": "assets/reeds/reed-6760c2cb73451078.webp",
-    "series": "Seven-Day Rituals"
+    "series": "Seven-Day Rituals",
+    "assignedScent": "lemon-verbena"
   },
   {
     "name": "Refresh",
@@ -928,7 +1009,8 @@
     "images": [
       "assets/companions/6bb45b8d3cadf69b519f.webp",
       "assets/reeds/reed-e216d9fbfb361cfc.webp"
-    ]
+    ],
+    "assignedScent": "eucalyptus-mint"
   },
   {
     "name": "Joy",
@@ -938,7 +1020,8 @@
     "images": [
       "assets/companions/e1974e206548b944acc1.webp",
       "assets/reeds/reed-ab4ba29f23a51f7f.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Focus",
@@ -948,7 +1031,8 @@
     "images": [
       "assets/companions/5ad03d9fc0154ad26216.webp",
       "assets/reeds/reed-fb8173ad10d76faa.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Spark",
@@ -958,7 +1042,8 @@
     "images": [
       "assets/companions/c7a31362439fcd8e52cd.webp",
       "assets/reeds/reed-baddad1b04ff467e.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "name": "Wander",
@@ -968,7 +1053,8 @@
     "images": [
       "assets/companions/143ea721b89f464528da.webp",
       "assets/reeds/reed-7a574f3e4a4ab4e6.webp"
-    ]
+    ],
+    "assignedScent": "lemon-verbena"
   },
   {
     "name": "Glow",
@@ -978,7 +1064,8 @@
     "images": [
       "assets/companions/776c5824d6f8c3e348a0.webp",
       "assets/reeds/reed-8d477d2ae4137382.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Rest",
@@ -988,7 +1075,8 @@
     "images": [
       "assets/companions/20aea59b3de55988cfcb.webp",
       "assets/reeds/reed-167e5464ca5d6fc7.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Winter Bonfire",
@@ -998,7 +1086,8 @@
     "images": [
       "assets/companions/78919717797a963dc844.webp",
       "assets/reeds/reed-56e38210a5f9a26d.webp"
-    ]
+    ],
+    "assignedScent": "fireside-smoked-woods"
   },
   {
     "name": "Christmas Amber",
@@ -1008,7 +1097,8 @@
     "images": [
       "assets/companions/cc0696772d15e3acdb9d.webp",
       "assets/reeds/reed-b695597b0dabb53c.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Fireside Wishes",
@@ -1018,7 +1108,8 @@
     "images": [
       "assets/companions/33ac66bd00830bdaa036.webp",
       "assets/reeds/reed-b96dc85d16ee173c.webp"
-    ]
+    ],
+    "assignedScent": "fireside-smoked-woods"
   },
   {
     "name": "Cedar Cabin",
@@ -1028,6 +1119,7 @@
     "images": [
       "assets/companions/b2b8111bb9e29b42d8ed.webp",
       "assets/reeds/reed-5e8b9aaf6c03a6a0.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   }
 ]

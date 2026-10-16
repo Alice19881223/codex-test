@@ -10,7 +10,8 @@
     "images": [
       "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
       "assets/candles/candles-072.webp"
-    ]
+    ],
+    "assignedScent": "blackcurrant-rose"
   },
   {
     "name": "Cinnamon Orange Dome",
@@ -23,7 +24,8 @@
     "images": [
       "assets/christmas/standalone/d562217af6c6dcb7d806.png",
       "assets/candles/candles-073.webp"
-    ]
+    ],
+    "assignedScent": "orange-clove"
   },
   {
     "name": "Forest Garland Dome",
@@ -36,7 +38,8 @@
     "images": [
       "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
       "assets/candles/candles-074.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-fa0a43337a95",
@@ -47,7 +50,8 @@
     "images": [
       "assets/christmas/paired/fa0a43337a95d05c5727.webp",
       "assets/christmas/paired/71e714253c89c7e7786c.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "id": "christmas-pair-d9c6cf216c67",
@@ -58,7 +62,8 @@
     "images": [
       "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
       "assets/christmas/paired/2fed47734ee44c6c4ec0.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-1480094b012d",
@@ -69,7 +74,8 @@
     "images": [
       "assets/christmas/paired/1480094b012dbf961dae.webp",
       "assets/christmas/paired/eccf2ee341cb83306b83.webp"
-    ]
+    ],
+    "assignedScent": "lime-basil"
   },
   {
     "id": "christmas-pair-f77399a59a07",
@@ -80,7 +86,8 @@
     "images": [
       "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
       "assets/christmas/paired/570f4e135e6b0a6c6132.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "id": "christmas-pair-e710e9777530",
@@ -91,7 +98,8 @@
     "images": [
       "assets/christmas/paired/e710e9777530e1a2f07e.webp",
       "assets/christmas/paired/7b492072712538049b17.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "id": "christmas-pair-7f1e156495b0",
@@ -102,7 +110,8 @@
     "images": [
       "assets/christmas/paired/7f1e156495b0a459e0d6.webp",
       "assets/christmas/paired/c7f611f49551bafe6829.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-9df584ca1e16",
@@ -113,7 +122,8 @@
     "images": [
       "assets/christmas/paired/9df584ca1e1685589d46.webp",
       "assets/christmas/paired/d836a7179e1d09085b45.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "id": "christmas-pair-437b85b84ad9",
@@ -124,7 +134,8 @@
     "images": [
       "assets/christmas/paired/437b85b84ad977d9adc1.webp",
       "assets/christmas/paired/c7069927399f75f519c7.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-a8a04f250be1",
@@ -135,7 +146,8 @@
     "images": [
       "assets/christmas/paired/a8a04f250be1545aa1c3.webp",
       "assets/christmas/paired/4eac7b5adced66f7218d.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-35a8205a0dcc",
@@ -146,7 +158,8 @@
     "images": [
       "assets/christmas/paired/35a8205a0dcc5801c828.webp",
       "assets/christmas/paired/01ff7b30cf151c744439.webp"
-    ]
+    ],
+    "assignedScent": "fireside-smoked-woods"
   },
   {
     "id": "christmas-pair-39e039fb54a6",
@@ -157,7 +170,8 @@
     "images": [
       "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
       "assets/christmas/paired/1fb11fc0f0deb0e5b3ba.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-aa4efc0a88d6",
@@ -168,7 +182,8 @@
     "images": [
       "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
       "assets/christmas/paired/ff24fbf384c827e30e87.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "id": "christmas-pair-7244c0a18843",
@@ -179,7 +194,8 @@
     "images": [
       "assets/christmas/paired/7244c0a1884379c3fc46.webp",
       "assets/christmas/paired/0590b957fcac7787961f.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-6db267b28066",
@@ -190,7 +206,8 @@
     "images": [
       "assets/christmas/paired/6db267b2806699718c15.webp",
       "assets/christmas/paired/b77d8ff89e08a5d3a392.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-ff765036bc45",
@@ -201,7 +218,8 @@
     "images": [
       "assets/christmas/paired/ff765036bc45dff2513b.webp",
       "assets/christmas/paired/d7c2dd20c1d30c0e9a83.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-e5c69a3391c3",
@@ -212,7 +230,8 @@
     "images": [
       "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
       "assets/christmas/paired/3416f8f9dea2ddf6d051.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "id": "christmas-pair-7964d0a4e143",
@@ -223,7 +242,8 @@
     "images": [
       "assets/christmas/paired/7964d0a4e143e4c26426.webp",
       "assets/christmas/paired/29ef8160006bc8f69d6c.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-e40a6c47b33c",
@@ -234,7 +254,8 @@
     "images": [
       "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
       "assets/christmas/paired/2be6dc35c5d7a05bd4ca.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "id": "christmas-pair-b22e9bf1bb68",
@@ -245,7 +266,8 @@
     "images": [
       "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
       "assets/christmas/paired/f7d749aae4ffebc569af.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-a59a1441e620",
@@ -256,7 +278,8 @@
     "images": [
       "assets/christmas/paired/a59a1441e620ff595494.webp",
       "assets/christmas/paired/1d48b94cdff9ca0cdd61.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-208837f07b39",
@@ -267,7 +290,8 @@
     "images": [
       "assets/christmas/paired/208837f07b39c307c4fe.webp",
       "assets/christmas/paired/b34cd3c23b4c69dfe18f.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-58479c85aca5",
@@ -278,7 +302,8 @@
     "images": [
       "assets/christmas/paired/58479c85aca5612cf8f4.webp",
       "assets/christmas/paired/fab30f74e004d31e288b.webp"
-    ]
+    ],
+    "assignedScent": "pomegranate-amber"
   },
   {
     "id": "christmas-pair-d2035366cd0d",
@@ -289,7 +314,8 @@
     "images": [
       "assets/christmas/paired/d2035366cd0dcfcc2393.webp",
       "assets/christmas/paired/113ea729af5640e36c0d.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-b654bd843ac4",
@@ -300,7 +326,8 @@
     "images": [
       "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
       "assets/christmas/paired/0dfb0aa19196bf6ad02a.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-fc5ea0dccfc6",
@@ -311,7 +338,8 @@
     "images": [
       "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
       "assets/christmas/paired/ddf1f06202e6a2919f7b.webp"
-    ]
+    ],
+    "assignedScent": "gingerbread-vanilla"
   },
   {
     "id": "christmas-pair-538f9f0b02ba",
@@ -322,7 +350,8 @@
     "images": [
       "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
       "assets/christmas/paired/c595d29f8d790a231f2f.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-4a7ace3c9ca9",
@@ -333,7 +362,8 @@
     "images": [
       "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
       "assets/christmas/paired/a221a0de6774b755901e.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-c082e2bf728f",
@@ -344,7 +374,8 @@
     "images": [
       "assets/christmas/paired/c082e2bf728f7ad74860.webp",
       "assets/christmas/paired/daa8dffa171d0c19dd8f.webp"
-    ]
+    ],
+    "assignedScent": "pine-cedarwood"
   },
   {
     "id": "christmas-pair-61253e2d7181",
@@ -355,7 +386,8 @@
     "images": [
       "assets/christmas/paired/61253e2d71812a5a6496.webp",
       "assets/christmas/paired/4fc8f29479f378a5e823.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-6bd0508a71ef",
@@ -366,7 +398,8 @@
     "images": [
       "assets/christmas/paired/6bd0508a71ef54288424.webp",
       "assets/christmas/paired/b97e961bdf8a096b4593.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-df14c67cacea",
@@ -377,7 +410,8 @@
     "images": [
       "assets/christmas/paired/df14c67cacea5845b494.webp",
       "assets/christmas/paired/e96e80dae51260e4efe1.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-ba0c524d4b0c",
@@ -388,7 +422,8 @@
     "images": [
       "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
       "assets/christmas/paired/e1e1554ca40fdfa700b9.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "id": "christmas-pair-6d52f0817361",
@@ -399,7 +434,8 @@
     "images": [
       "assets/christmas/paired/6d52f0817361816118b7.webp",
       "assets/christmas/paired/ffee49b7c9998d38d95c.webp"
-    ]
+    ],
+    "assignedScent": "gingerbread-vanilla"
   },
   {
     "id": "christmas-pair-1383bf46ac80",
@@ -410,7 +446,8 @@
     "images": [
       "assets/christmas/paired/1383bf46ac80e1d62944.webp",
       "assets/christmas/paired/6c30d8c34d7599d57406.webp"
-    ]
+    ],
+    "assignedScent": "gingerbread-vanilla"
   },
   {
     "id": "christmas-pair-5702fcfafd21",
@@ -421,7 +458,8 @@
     "images": [
       "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
       "assets/christmas/paired/5ffa3721c1c014ddae15.webp"
-    ]
+    ],
+    "assignedScent": "fir-cedarwood"
   },
   {
     "name": "Violet Christmas Village Duo",
@@ -431,6 +469,7 @@
     "images": [
       "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
       "assets/christmas/paired/8e9ad83f13bebc16a6ee.png"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   }
 ]

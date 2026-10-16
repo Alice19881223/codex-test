@@ -8,7 +8,8 @@
     "images": [
       "assets/candles/paired/706a9cb934df23f1ce96.webp",
       "assets/candles/paired/a2e5095ea428772230e4.webp"
-    ]
+    ],
+    "assignedScent": "gardenia-tuberose"
   },
   {
     "id": "candle-pair-10d7297ec4e2",
@@ -19,7 +20,8 @@
     "images": [
       "assets/candles/paired/10d7297ec4e2e39c4df6.webp",
       "assets/candles/paired/f269bd4932b34f76054f.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "id": "candle-pair-73e3d5c1bd30",
@@ -30,7 +32,8 @@
     "images": [
       "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp",
       "assets/candles/paired/c66deb8739623b19f52b.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "id": "candle-pair-3ae397f5d9f6",
@@ -41,7 +44,8 @@
     "images": [
       "assets/candles/paired/3ae397f5d9f617bbf348.webp",
       "assets/candles/paired/d3b115bb2804bfbd8b3b.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "id": "candle-pair-07944550f1fc",
@@ -52,7 +56,8 @@
     "images": [
       "assets/candles/paired/07944550f1fc2592d815.webp",
       "assets/candles/paired/1110e2e926713baf03d6.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "candle-pair-c1025ec341c6",
@@ -63,7 +68,8 @@
     "images": [
       "assets/candles/paired/c1025ec341c6a7b60413.webp",
       "assets/candles/paired/4d07ee5940491e00b5f8.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "id": "candle-pair-7be1aa85d017",
@@ -74,7 +80,8 @@
     "images": [
       "assets/candles/paired/7be1aa85d0170c284922.webp",
       "assets/candles/paired/9e696612e82bc93aa01b.webp"
-    ]
+    ],
+    "assignedScent": "blackcurrant-rose"
   },
   {
     "id": "candle-pair-14b03567b9e1",
@@ -85,7 +92,8 @@
     "images": [
       "assets/candles/paired/14b03567b9e1d531039d.webp",
       "assets/candles/paired/16e3c5bbc6ba450f1b8d.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "id": "candle-pair-b1a337722ec5",
@@ -96,7 +104,8 @@
     "images": [
       "assets/candles/paired/b1a337722ec53404ae09.webp",
       "assets/candles/paired/2dc32de313a8e84fcf59.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "id": "candle-pair-d9feede215a3",
@@ -107,7 +116,8 @@
     "images": [
       "assets/candles/paired/d9feede215a30484aa79.webp",
       "assets/candles/paired/9abe0bfd62ce490f1fed.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "id": "candle-pair-cdc473daed5f",
@@ -118,7 +128,8 @@
     "images": [
       "assets/candles/paired/cdc473daed5f344ade64.webp",
       "assets/candles/paired/693b598247312f2d6f9d.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "id": "candle-pair-d6e65e02000c",
@@ -129,7 +140,8 @@
     "images": [
       "assets/candles/paired/d6e65e02000c1649cfca.webp",
       "assets/candles/paired/7aaf53f3e8bba6621716.webp"
-    ]
+    ],
+    "assignedScent": "orange-clove"
   },
   {
     "id": "candle-pair-b2a6e2ce97db",
@@ -140,7 +152,8 @@
     "images": [
       "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
       "assets/candles/paired/dc3f55e7c387f686ab57.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "id": "candle-pair-287d23366d4c",
@@ -151,7 +164,8 @@
     "images": [
       "assets/candles/paired/287d23366d4c063f04f9.webp",
       "assets/candles/paired/c312bc78bf1b43b0d8dd.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "id": "candle-pair-4fbc33c9500b",
@@ -162,7 +176,8 @@
     "images": [
       "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
       "assets/candles/paired/106d2fc4935b4b7b2cc4.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "candle-pair-5489f55a8056",
@@ -173,7 +188,8 @@
     "images": [
       "assets/candles/paired/5489f55a80565a8ad3b2.webp",
       "assets/candles/paired/b0855ecbddc2adcdcf30.webp"
-    ]
+    ],
+    "assignedScent": "gardenia-tuberose"
   },
   {
     "id": "candle-pair-f62beb39ab18",
@@ -184,7 +200,8 @@
     "images": [
       "assets/candles/paired/f62beb39ab1806d66782.webp",
       "assets/candles/paired/ae3112e954834affa0dd.webp"
-    ]
+    ],
+    "assignedScent": "lemon-lavender"
   },
   {
     "id": "candle-pair-b09baac75da0",
@@ -195,7 +212,8 @@
     "images": [
       "assets/candles/paired/b09baac75da0893acee3.webp",
       "assets/candles/paired/ae7ebd2a2b6d58486da2.webp"
-    ]
+    ],
+    "assignedScent": "vanilla-tonka"
   },
   {
     "id": "candle-pair-7af4fa22a012",
@@ -206,7 +224,8 @@
     "images": [
       "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
       "assets/candles/paired/67ebc54f4c26fd7d7c4f.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "id": "candle-pair-20c64492ea43",
@@ -217,7 +236,8 @@
     "images": [
       "assets/candles/paired/20c64492ea431b4ad239.webp",
       "assets/candles/paired/bb066868239f215d9791.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "id": "candle-pair-986d2edec086",
@@ -228,7 +248,8 @@
     "images": [
       "assets/candles/paired/986d2edec0865818a739.webp",
       "assets/candles/paired/344cc96301badbf5193c.webp"
-    ]
+    ],
+    "assignedScent": "osmanthus-green-tea"
   },
   {
     "id": "candle-pair-e2419ac62b56",
@@ -239,7 +260,8 @@
     "images": [
       "assets/candles/paired/e2419ac62b562d3b0520.webp",
       "assets/candles/paired/55e6b22f7e789ed6870f.webp"
-    ]
+    ],
+    "assignedScent": "lime-basil"
   },
   {
     "id": "candle-pair-9dbd2373b514",
@@ -250,7 +272,8 @@
     "images": [
       "assets/candles/paired/9dbd2373b514ef18213d.webp",
       "assets/candles/paired/fcd88f6d07b78575664d.webp"
-    ]
+    ],
+    "assignedScent": "clean-cotton"
   },
   {
     "id": "candle-pair-522eb2b41054",
@@ -261,7 +284,8 @@
     "images": [
       "assets/candles/paired/522eb2b410541447b0fc.webp",
       "assets/candles/paired/8a70871381303efce209.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "candle-pair-ef573ef4b49c",
@@ -272,7 +296,8 @@
     "images": [
       "assets/candles/paired/ef573ef4b49c1af85848.webp",
       "assets/candles/paired/6656addaa2c24bdf1028.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "id": "candle-pair-947cbc1d98de",
@@ -283,7 +308,8 @@
     "images": [
       "assets/candles/paired/947cbc1d98dee6da5d51.webp",
       "assets/candles/paired/54011dbbaaf2210a2aae.webp"
-    ]
+    ],
+    "assignedScent": "incense-myrrh"
   },
   {
     "id": "candle-pair-a890e2a4dac9",
@@ -294,7 +320,8 @@
     "images": [
       "assets/candles/paired/a890e2a4dac981243da3.webp",
       "assets/candles/paired/c7a0b25b8a3f49c19bd0.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "id": "candle-pair-2d960ad5048d",
@@ -305,7 +332,8 @@
     "images": [
       "assets/candles/paired/2d960ad5048dc6d12875.webp",
       "assets/candles/paired/3e76ed4ff03598873fcc.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "id": "candle-pair-e6a379ea95e7",
@@ -316,7 +344,8 @@
     "images": [
       "assets/candles/paired/e6a379ea95e7f1408253.webp",
       "assets/candles/paired/f841e8ccae48704eac5b.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "candle-pair-1f1fd2e0ca38",
@@ -327,7 +356,8 @@
     "images": [
       "assets/candles/paired/1f1fd2e0ca388db40ca3.webp",
       "assets/candles/paired/e825cd690be6d303c884.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "id": "candle-pair-e9583a062cd6",
@@ -338,7 +368,8 @@
     "images": [
       "assets/candles/paired/e9583a062cd69e708bb4.webp",
       "assets/candles/paired/cd4259b2f7df021f41bf.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "candle-pair-6557fed21b15",
@@ -349,7 +380,8 @@
     "images": [
       "assets/candles/paired/6557fed21b15dacbccfa.webp",
       "assets/candles/paired/b7f54f3e9c2cb871ec9d.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "id": "candle-pair-b053837f0428",
@@ -360,7 +392,8 @@
     "images": [
       "assets/candles/paired/b053837f042853978ab8.webp",
       "assets/candles/paired/82b416ab42c6f7b94661.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "id": "candle-pair-257c6ea41af4",
@@ -371,7 +404,8 @@
     "images": [
       "assets/candles/paired/257c6ea41af465989ab3.webp",
       "assets/candles/paired/c33e601c26cf2548040e.webp"
-    ]
+    ],
+    "assignedScent": "pumpkin-spice"
   },
   {
     "name": "Sage Stillness",
@@ -384,7 +418,8 @@
     "images": [
       "assets/candles/standalone/701c10bbdc77fc3599c0.png",
       "assets/candles/candles-001.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-rosemary"
   },
   {
     "name": "Ivory Stillness",
@@ -397,7 +432,8 @@
     "images": [
       "assets/candles/standalone/98484ea0daa2ca7437d6.png",
       "assets/candles/candles-002.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Olive Botanical Keepsake",
@@ -410,7 +446,8 @@
     "images": [
       "assets/candles/standalone/8617f461c1f2ffa6df10.png",
       "assets/candles/candles-003.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Blush Hour",
@@ -423,7 +460,8 @@
     "images": [
       "assets/candles/standalone/d5ec5c9baca023c3e62b.png",
       "assets/candles/candles-004.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Sky Hour",
@@ -436,7 +474,8 @@
     "images": [
       "assets/candles/standalone/2a96946b435ed6a9554c.png",
       "assets/candles/candles-005.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Champagne Lustre",
@@ -449,7 +488,8 @@
     "images": [
       "assets/candles/standalone/0aa8c97412903d87ae90.png",
       "assets/candles/candles-006.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Graphite Lustre",
@@ -462,7 +502,8 @@
     "images": [
       "assets/candles/standalone/5bf2a69080deb25af267.png",
       "assets/candles/candles-007.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Woven Hearth",
@@ -477,7 +518,8 @@
     "viewLabels": [
       "WOVEN CANDLE",
       "GLASS CANDLE & WOVEN COVER"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Peony Keepsake",
@@ -490,7 +532,8 @@
     "images": [
       "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
       "assets/candles/candles-011.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Botanical Keepsake",
@@ -503,7 +546,8 @@
     "images": [
       "assets/candles/standalone/c18ee38fb251983b7e3b.png",
       "assets/candles/candles-012.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Bronze Pedestal",
@@ -516,7 +560,8 @@
     "images": [
       "assets/candles/standalone/9fb96031b17769f96861.png",
       "assets/candles/candles-013.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Charcoal Pedestal",
@@ -529,7 +574,8 @@
     "images": [
       "assets/candles/standalone/b748b263fd62654282c8.png",
       "assets/candles/candles-014.webp"
-    ]
+    ],
+    "assignedScent": "fireside-smoked-woods"
   },
   {
     "name": "Golden Companion",
@@ -542,7 +588,8 @@
     "images": [
       "assets/candles/standalone/44620cdda8657d5cbbbe.png",
       "assets/candles/candles-015.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Corgi Cuddles",
@@ -555,7 +602,8 @@
     "images": [
       "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png",
       "assets/candles/candles-016.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Ginger Kitten",
@@ -568,7 +616,8 @@
     "images": [
       "assets/candles/standalone/2d152b28c01d04671021.png",
       "assets/candles/candles-017.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Silver Kitten",
@@ -581,7 +630,8 @@
     "images": [
       "assets/candles/standalone/43582c41f2669d4f7495.png",
       "assets/candles/candles-018.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Ochre Wild",
@@ -594,7 +644,8 @@
     "images": [
       "assets/candles/standalone/c0a082d97a20f207e6ce.png",
       "assets/candles/candles-019.webp"
-    ]
+    ],
+    "assignedScent": "apple-cinnamon"
   },
   {
     "name": "Mauve Wild",
@@ -607,7 +658,8 @@
     "images": [
       "assets/candles/standalone/99abaed16aca13894dc1.png",
       "assets/candles/candles-020.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Cocoa Wild",
@@ -620,7 +672,8 @@
     "images": [
       "assets/candles/standalone/e7d024f3f8ff3706bcee.png",
       "assets/candles/candles-021.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Peony Ember",
@@ -633,7 +686,8 @@
     "images": [
       "assets/candles/standalone/29e83e528bd9cf8994c1.png",
       "assets/candles/candles-022.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Vanilla Grove",
@@ -646,7 +700,8 @@
     "images": [
       "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
       "assets/candles/candles-023.webp"
-    ]
+    ],
+    "assignedScent": "vanilla-tonka"
   },
   {
     "name": "Green Tea Poetry",
@@ -659,7 +714,8 @@
     "images": [
       "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
       "assets/candles/candles-024.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "Ocean Poetry",
@@ -672,7 +728,8 @@
     "images": [
       "assets/candles/standalone/48975371a77ec68b8df5.png",
       "assets/candles/candles-025.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Rose Poetry",
@@ -685,7 +742,8 @@
     "images": [
       "assets/candles/standalone/df082b833c999a07cd26.png",
       "assets/candles/candles-026.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Vanilla Poetry",
@@ -698,7 +756,8 @@
     "images": [
       "assets/candles/standalone/3165b9331fe5bf173ecc.png",
       "assets/candles/candles-027.webp"
-    ]
+    ],
+    "assignedScent": "vanilla-tonka"
   },
   {
     "name": "Sunlit Petals",
@@ -711,7 +770,8 @@
     "images": [
       "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
       "assets/candles/candles-028.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Sea Salt Sketch",
@@ -724,7 +784,8 @@
     "images": [
       "assets/candles/standalone/bbb7c7beab06bb5d6239.png",
       "assets/candles/candles-029.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "White Tea Sketch",
@@ -737,7 +798,8 @@
     "images": [
       "assets/candles/standalone/5f5b6808d37fdf2d0f13.png",
       "assets/candles/candles-030.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Gilded Azure",
@@ -750,7 +812,8 @@
     "images": [
       "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
       "assets/candles/candles-031.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Sea Glass Glow",
@@ -763,7 +826,8 @@
     "images": [
       "assets/candles/standalone/6492af01cbbb6169e661.png",
       "assets/candles/candles-032.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Jellyfish Egg Candle",
@@ -778,7 +842,8 @@
     "images": [
       "assets/candles/candles-033.webp",
       "assets/candles/candles-035.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Jellyfish Glass Candle",
@@ -791,12 +856,14 @@
     "images": [
       "assets/candles/standalone/af548d5ba9a0251bccb1.png",
       "assets/candles/candles-089.webp"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Birthday Surprise Egg",
     "image": "assets/candles/candles-034.webp",
-    "series": "Birthday Wishes"
+    "series": "Birthday Wishes",
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Mocha Serenity",
@@ -809,7 +876,8 @@
     "images": [
       "assets/candles/standalone/a4b969666dce519b8354.png",
       "assets/candles/candles-036.webp"
-    ]
+    ],
+    "assignedScent": "caramel-cream"
   },
   {
     "name": "Blush Daydream",
@@ -822,7 +890,8 @@
     "images": [
       "assets/candles/standalone/1955de468656656e5d1c.png",
       "assets/candles/candles-037.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Ivory Rice Blossom",
@@ -836,7 +905,8 @@
     "images": [
       "assets/candles/standalone/c16e84d4b08163a71109.png",
       "assets/candles/candles-038.webp"
-    ]
+    ],
+    "assignedScent": "soft-linen"
   },
   {
     "name": "Cashmere Mist",
@@ -849,7 +919,8 @@
     "images": [
       "assets/candles/standalone/5e849d0d38808ac70402.png",
       "assets/candles/candles-039.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Sage Oolong",
@@ -862,7 +933,8 @@
     "images": [
       "assets/candles/standalone/d5d690296e053af7d4f1.png",
       "assets/candles/candles-040.webp"
-    ]
+    ],
+    "assignedScent": "green-tea-cedarwood"
   },
   {
     "name": "His Quiet Moment",
@@ -875,7 +947,8 @@
     "images": [
       "assets/candles/standalone/fe428fed40d350de6a12.png",
       "assets/candles/candles-041.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Her Soft Glow",
@@ -888,7 +961,8 @@
     "images": [
       "assets/candles/standalone/9d32db279b0d48a889ca.png",
       "assets/candles/candles-042.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Our Shared Light",
@@ -901,7 +975,8 @@
     "images": [
       "assets/candles/standalone/f790a90770604f869504.png",
       "assets/candles/candles-043.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Plum Blossom Teacup",
@@ -914,7 +989,8 @@
     "images": [
       "assets/candles/standalone/0d8e7c66e2de2314e052.png",
       "assets/candles/paired/2d7bdeb3df6ca49659bb.png"
-    ]
+    ],
+    "assignedScent": "blackcurrant-rose"
   },
   {
     "name": "Orchid Teacup",
@@ -927,7 +1003,8 @@
     "images": [
       "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
       "assets/candles/paired/f91de79e69d6929bbda3.png"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "name": "Bamboo Teacup",
@@ -940,7 +1017,8 @@
     "images": [
       "assets/candles/standalone/540de41607775da6cc17.png",
       "assets/candles/paired/fa4583c479bb46906464.png"
-    ]
+    ],
+    "assignedScent": "bamboo-white-florals"
   },
   {
     "name": "Chrysanthemum Teacup",
@@ -953,7 +1031,8 @@
     "images": [
       "assets/candles/standalone/b2082322ade0e92da2d5.png",
       "assets/candles/paired/5411b03949a53bd32d55.png"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Lavender Ribbon",
@@ -966,7 +1045,8 @@
     "images": [
       "assets/candles/standalone/e0d8ad358028f3def806.png",
       "assets/candles/candles-048.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Amber Ribbon",
@@ -979,7 +1059,8 @@
     "images": [
       "assets/candles/standalone/82ae20f3c3594477d4c6.png",
       "assets/candles/candles-049.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Sky Ribbon",
@@ -992,7 +1073,8 @@
     "images": [
       "assets/candles/standalone/791bce03c4b84ac8fd06.png",
       "assets/candles/candles-050.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Morning Garden",
@@ -1005,7 +1087,8 @@
     "images": [
       "assets/candles/standalone/8d7fa88418b35d23ad59.png",
       "assets/candles/candles-051.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Gardenia Tea Garden",
@@ -1018,7 +1101,8 @@
     "images": [
       "assets/candles/standalone/d720f327268f510a4340.png",
       "assets/candles/candles-052.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Peony Garden",
@@ -1031,7 +1115,8 @@
     "images": [
       "assets/candles/standalone/1bd4a0da8613e6df8a30.png",
       "assets/candles/candles-053.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Lavender Garden",
@@ -1044,7 +1129,8 @@
     "images": [
       "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
       "assets/candles/candles-054.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Sunlit Grove",
@@ -1057,7 +1143,8 @@
     "images": [
       "assets/candles/standalone/b35477ecc4b3afa62445.png",
       "assets/candles/candles-055.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Woodland Tale",
@@ -1070,7 +1157,8 @@
     "images": [
       "assets/candles/standalone/ca78f49f63c3984fe232.png",
       "assets/candles/candles-056.webp"
-    ]
+    ],
+    "assignedScent": "cedarwood-vetiver"
   },
   {
     "name": "Morning Citrus Garden",
@@ -1083,7 +1171,8 @@
     "images": [
       "assets/candles/standalone/ce5925a4e4cce0c3a0be.png",
       "assets/candles/candles-057.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Rose Breeze Garden",
@@ -1096,7 +1185,8 @@
     "images": [
       "assets/candles/standalone/019a491870bb30c2f313.png",
       "assets/candles/candles-058.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Verdant Garden",
@@ -1109,7 +1199,8 @@
     "images": [
       "assets/candles/standalone/c1e38dedb39addfa9091.png",
       "assets/candles/candles-059.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Teal Floral Trio",
@@ -1122,7 +1213,8 @@
     "images": [
       "assets/candles/standalone/01a1c253c9626b5ee0fc.png",
       "assets/candles/candles-060.webp"
-    ]
+    ],
+    "assignedScent": "white-tea-bergamot"
   },
   {
     "name": "Ivory Floral Trio",
@@ -1135,7 +1227,8 @@
     "images": [
       "assets/candles/standalone/b802d8b0a302fa106390.png",
       "assets/candles/candles-061.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Orange Blossom Script",
@@ -1148,7 +1241,8 @@
     "images": [
       "assets/candles/standalone/a6ef06112e83b1565aaf.png",
       "assets/candles/candles-062.webp"
-    ]
+    ],
+    "assignedScent": "bergamot-neroli"
   },
   {
     "name": "Sandalwood Script",
@@ -1161,7 +1255,8 @@
     "images": [
       "assets/candles/standalone/e6663bcb37430197de2d.png",
       "assets/candles/candles-063.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Jasmine Script",
@@ -1174,7 +1269,8 @@
     "images": [
       "assets/candles/standalone/2eeacd649f141b2be29e.png",
       "assets/candles/candles-064.webp"
-    ]
+    ],
+    "assignedScent": "jasmine-orange-blossom"
   },
   {
     "name": "Lavender Script",
@@ -1187,7 +1283,8 @@
     "images": [
       "assets/candles/standalone/9d79b7f4105f2367b2ef.png",
       "assets/candles/candles-065.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Smoke & Glass",
@@ -1200,7 +1297,8 @@
     "images": [
       "assets/candles/standalone/f6b477f0c3b990fbeb88.png",
       "assets/candles/candles-066.webp"
-    ]
+    ],
+    "assignedScent": "fireside-smoked-woods"
   },
   {
     "name": "Amber & Glass",
@@ -1213,7 +1311,8 @@
     "images": [
       "assets/candles/standalone/91bb101caae6a5c2663e.png",
       "assets/candles/candles-067.webp"
-    ]
+    ],
+    "assignedScent": "amber-vanilla"
   },
   {
     "name": "Amber Lavender Heirloom",
@@ -1226,7 +1325,8 @@
     "images": [
       "assets/candles/standalone/6f0311ca29677942dd5f.png",
       "assets/candles/candles-068.webp"
-    ]
+    ],
+    "assignedScent": "lavender-cedarwood"
   },
   {
     "name": "Golden Blossom",
@@ -1239,7 +1339,8 @@
     "images": [
       "assets/candles/standalone/9d23779d7859e33e8715.png",
       "assets/candles/candles-069.webp"
-    ]
+    ],
+    "assignedScent": "grapefruit-bergamot"
   },
   {
     "name": "Blue Blossom",
@@ -1252,7 +1353,8 @@
     "images": [
       "assets/candles/standalone/23dc77e24ddcda7b94b3.png",
       "assets/candles/candles-070.webp"
-    ]
+    ],
+    "assignedScent": "sea-salt-driftwood"
   },
   {
     "name": "Blush Blossom",
@@ -1265,7 +1367,8 @@
     "images": [
       "assets/candles/standalone/db617a3b004dd8b0deb3.png",
       "assets/candles/candles-071.webp"
-    ]
+    ],
+    "assignedScent": "peony-lychee"
   },
   {
     "name": "Golden Bamboo Ripple",
@@ -1278,7 +1381,8 @@
     "images": [
       "assets/candles/standalone/dfc3ae74dada1434df0a.png",
       "assets/candles/candles-075.webp"
-    ]
+    ],
+    "assignedScent": "bamboo-white-florals"
   },
   {
     "name": "Sage Bamboo Ripple",
@@ -1291,7 +1395,8 @@
     "images": [
       "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
       "assets/candles/candles-076.webp"
-    ]
+    ],
+    "assignedScent": "bamboo-white-florals"
   },
   {
     "name": "Slate Speckle",
@@ -1304,7 +1409,8 @@
     "images": [
       "assets/candles/standalone/556717fc8969681d3e0a.png",
       "assets/candles/candles-077.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Ivory Speckle",
@@ -1317,7 +1423,8 @@
     "images": [
       "assets/candles/standalone/af36ed53c560a3fdcc5d.png",
       "assets/candles/candles-078.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Ivory Soft Square",
@@ -1330,7 +1437,8 @@
     "images": [
       "assets/candles/standalone/770c18767b941a79a4e7.png",
       "assets/candles/candles-079.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Noir Soft Square",
@@ -1343,7 +1451,8 @@
     "images": [
       "assets/candles/standalone/4349a13679c7cfb1a734.png",
       "assets/candles/candles-080.webp"
-    ]
+    ],
+    "assignedScent": "incense-myrrh"
   },
   {
     "name": "Terracotta Muse",
@@ -1356,7 +1465,8 @@
     "images": [
       "assets/candles/standalone/31b214292532aa437ef8.png",
       "assets/candles/candles-081.webp"
-    ]
+    ],
+    "assignedScent": "rose-green-leaves"
   },
   {
     "name": "Ivory Muse",
@@ -1369,7 +1479,8 @@
     "images": [
       "assets/candles/standalone/f027f73d9bd7ffa078a9.png",
       "assets/candles/candles-082.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Snow Muse",
@@ -1382,7 +1493,8 @@
     "images": [
       "assets/candles/standalone/c7bb37286a562de02e63.png",
       "assets/candles/candles-083.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   },
   {
     "name": "Puppy Dreams",
@@ -1395,7 +1507,8 @@
     "images": [
       "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
       "assets/candles/paired/f7043e9f6a3b212501a1.png"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Panda Slumber",
@@ -1408,7 +1521,8 @@
     "images": [
       "assets/candles/standalone/d160e808ad7656acaeef.png",
       "assets/candles/paired/5b236214a19d352a5565.png"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Little Pumpkin Ghost",
@@ -1421,7 +1535,8 @@
     "images": [
       "assets/candles/standalone/dde508f3788aea3c327f.png",
       "assets/candles/paired/1fef6394f15230e857c4.png"
-    ]
+    ],
+    "assignedScent": "pumpkin-spice"
   },
   {
     "name": "Kitten Daydream",
@@ -1434,7 +1549,8 @@
     "images": [
       "assets/candles/standalone/d7fead12effc63071c64.png",
       "assets/candles/paired/93a77b5015a7c3857dd5.png"
-    ]
+    ],
+    "assignedScent": "pear-freesia"
   },
   {
     "name": "Ivory Pebble",
@@ -1447,6 +1563,7 @@
     "images": [
       "assets/candles/standalone/159db9e5fab778fb8824.png",
       "assets/candles/candles-088.webp"
-    ]
+    ],
+    "assignedScent": "sandalwood-cashmere"
   }
 ]

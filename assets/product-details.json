@@ -12,6 +12,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -25,7 +26,10 @@
     "series": "Vintage Florals",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -42,6 +46,7 @@
     "suggestedScents": [
       "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -55,7 +60,10 @@
     "series": "Lucky Charms",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -69,7 +77,10 @@
     "series": "Lucky Charms",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -83,7 +94,10 @@
     "series": "Lucky Charms",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -98,8 +112,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "rose-green-leaves"
+      "blackcurrant-rose"
     ],
+    "primaryScent": "blackcurrant-rose",
     "specifications": {},
     "documents": []
   },
@@ -114,8 +129,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "pear-freesia"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -130,11 +146,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "sandalwood-cashmere",
-      "fireside-smoked-woods",
-      "oud-saffron",
-      "incense-myrrh"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -149,10 +163,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "pomegranate-amber",
-      "amber-vanilla",
-      "apple-cinnamon"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -166,7 +179,10 @@
     "series": "Lace Glass",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "osmanthus-green-tea"
+    ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -183,6 +199,7 @@
     "suggestedScents": [
       "orange-clove"
     ],
+    "primaryScent": "orange-clove",
     "specifications": {},
     "documents": []
   },
@@ -197,9 +214,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "jasmine-orange-blossom",
-      "bergamot-neroli"
+      "jasmine-orange-blossom"
     ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -214,9 +231,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "lavender-cedarwood",
-      "lemon-lavender"
+      "lavender-cedarwood"
     ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -231,10 +248,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "bergamot-neroli",
-      "clean-cotton",
-      "soft-linen"
+      "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -251,6 +267,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -265,9 +282,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "lavender-cedarwood",
       "lemon-lavender"
     ],
+    "primaryScent": "lemon-lavender",
     "specifications": {},
     "documents": []
   },
@@ -282,10 +299,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "amber-vanilla",
-      "vanilla-tonka",
-      "caramel-cream"
+      "vanilla-tonka"
     ],
+    "primaryScent": "vanilla-tonka",
     "specifications": {},
     "documents": []
   },
@@ -302,6 +318,7 @@
     "suggestedScents": [
       "osmanthus-green-tea"
     ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -316,9 +333,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "lavender-cedarwood",
-      "lemon-lavender"
+      "lavender-cedarwood"
     ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -332,7 +349,10 @@
     "series": "Postbox",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "osmanthus-green-tea"
+    ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -349,6 +369,7 @@
     "suggestedScents": [
       "lime-basil"
     ],
+    "primaryScent": "lime-basil",
     "specifications": {},
     "documents": []
   },
@@ -365,6 +386,7 @@
     "suggestedScents": [
       "clean-cotton"
     ],
+    "primaryScent": "clean-cotton",
     "specifications": {},
     "documents": []
   },
@@ -379,9 +401,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "clean-cotton",
-      "soft-linen"
+      "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -396,8 +418,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "soft-linen"
+      "pear-freesia"
     ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -412,9 +435,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "black-tea-cedarwood",
       "incense-myrrh"
     ],
+    "primaryScent": "incense-myrrh",
     "specifications": {},
     "documents": []
   },
@@ -428,7 +451,10 @@
     "series": "Sunflower",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -442,7 +468,10 @@
     "series": "Sunflower",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -457,9 +486,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "mugwort-incense",
-      "oud-saffron"
+      "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -474,9 +503,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose"
+      "rose-green-leaves"
     ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -490,7 +519,10 @@
     "series": "Deer Collection",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -505,8 +537,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "fireside-smoked-woods"
+      "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -521,8 +554,9 @@
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
     "suggestedScents": [
-      "caramel-cream"
+      "pear-freesia"
     ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -539,6 +573,7 @@
     "suggestedScents": [
       "pumpkin-spice"
     ],
+    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
@@ -552,7 +587,10 @@
     "series": "Stone & Stillness",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -566,7 +604,10 @@
     "series": "Stone & Stillness",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -580,7 +621,10 @@
     "series": "Botanical Cylinder",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -594,7 +638,10 @@
     "series": "Passing Hours",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -608,7 +655,10 @@
     "series": "Passing Hours",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -622,7 +672,10 @@
     "series": "Lustre",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -636,7 +689,10 @@
     "series": "Lustre",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -651,8 +707,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "fig-green-leaves"
+      "grapefruit-bergamot"
     ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -667,8 +724,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "grapefruit-bergamot"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -682,7 +740,10 @@
     "series": "Botanical Keepsakes",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -696,7 +757,10 @@
     "series": "Pedestal Glow",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -710,7 +774,10 @@
     "series": "Pedestal Glow",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fireside-smoked-woods"
+    ],
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
@@ -724,7 +791,10 @@
     "series": "Little Companions",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -738,7 +808,10 @@
     "series": "Little Companions",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -752,7 +825,10 @@
     "series": "Little Companions",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -766,7 +842,10 @@
     "series": "Little Companions",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -780,7 +859,10 @@
     "series": "Earth Tones",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "apple-cinnamon"
+    ],
+    "primaryScent": "apple-cinnamon",
     "specifications": {},
     "documents": []
   },
@@ -794,7 +876,10 @@
     "series": "Earth Tones",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -808,7 +893,10 @@
     "series": "Earth Tones",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -823,9 +911,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "peony-lychee",
-      "vanilla-tonka"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -840,9 +928,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "peony-lychee",
       "vanilla-tonka"
     ],
+    "primaryScent": "vanilla-tonka",
     "specifications": {},
     "documents": []
   },
@@ -857,9 +945,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "mugwort-incense",
       "green-tea-cedarwood"
     ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -873,7 +961,10 @@
     "series": "Everyday Botanicals",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -887,7 +978,10 @@
     "series": "Everyday Botanicals",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -901,7 +995,10 @@
     "series": "Everyday Botanicals",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
     "specifications": {},
     "documents": []
   },
@@ -915,7 +1012,10 @@
     "series": "Botanical Sketches",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -929,7 +1029,10 @@
     "series": "Botanical Sketches",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -943,7 +1046,10 @@
     "series": "Botanical Sketches",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -957,7 +1063,10 @@
     "series": "Gilded Skies",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -974,6 +1083,7 @@
     "suggestedScents": [
       "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -987,7 +1097,10 @@
     "series": "Jellyfish",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1001,7 +1114,10 @@
     "series": "Jellyfish",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1015,7 +1131,10 @@
     "series": "Birthday Wishes",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1029,7 +1148,10 @@
     "series": "Quiet Domes",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "caramel-cream"
+    ],
+    "primaryScent": "caramel-cream",
     "specifications": {},
     "documents": []
   },
@@ -1043,7 +1165,10 @@
     "series": "Quiet Domes",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1057,7 +1182,10 @@
     "series": "Quiet Domes",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
     "specifications": {},
     "documents": []
   },
@@ -1071,7 +1199,10 @@
     "series": "Quiet Domes",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1085,7 +1216,10 @@
     "series": "Quiet Domes",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1100,9 +1234,9 @@
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -1116,7 +1250,10 @@
     "series": "Moments Together",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -1130,7 +1267,10 @@
     "series": "Moments Together",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1144,7 +1284,10 @@
     "series": "Botanical Teacups",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "blackcurrant-rose"
+    ],
+    "primaryScent": "blackcurrant-rose",
     "specifications": {},
     "documents": []
   },
@@ -1158,7 +1301,10 @@
     "series": "Botanical Teacups",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -1172,7 +1318,10 @@
     "series": "Botanical Teacups",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "bamboo-white-florals"
+    ],
+    "primaryScent": "bamboo-white-florals",
     "specifications": {},
     "documents": []
   },
@@ -1186,7 +1335,10 @@
     "series": "Botanical Teacups",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1200,7 +1352,10 @@
     "series": "Ribbon & Glow",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1214,7 +1369,10 @@
     "series": "Ribbon & Glow",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -1228,7 +1386,10 @@
     "series": "Ribbon & Glow",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1242,7 +1403,10 @@
     "series": "Garden Jars",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1256,7 +1420,10 @@
     "series": "Garden Jars",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1270,7 +1437,10 @@
     "series": "Garden Jars",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1284,7 +1454,10 @@
     "series": "Garden Jars",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1299,10 +1472,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "grapefruit-bergamot"
     ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1317,10 +1489,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -1334,7 +1505,10 @@
     "series": "Painted Gardens",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1348,7 +1522,10 @@
     "series": "Painted Gardens",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -1362,7 +1539,10 @@
     "series": "Painted Gardens",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1376,7 +1556,10 @@
     "series": "Floral Trio",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1390,7 +1573,10 @@
     "series": "Floral Trio",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -1404,7 +1590,10 @@
     "series": "Botanical Script",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
     "specifications": {},
     "documents": []
   },
@@ -1418,7 +1607,10 @@
     "series": "Botanical Script",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1432,7 +1624,10 @@
     "series": "Botanical Script",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -1446,7 +1641,10 @@
     "series": "Botanical Script",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1460,7 +1658,10 @@
     "series": "Essential Glass",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fireside-smoked-woods"
+    ],
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
@@ -1474,7 +1675,10 @@
     "series": "Essential Glass",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -1489,9 +1693,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "lavender-cedarwood",
-      "lemon-lavender"
+      "lavender-cedarwood"
     ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1505,7 +1709,10 @@
     "series": "Chromatic Bloom",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1519,7 +1726,10 @@
     "series": "Chromatic Bloom",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -1533,7 +1743,10 @@
     "series": "Chromatic Bloom",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1548,10 +1761,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "lemon-verbena",
-      "fig-green-leaves",
       "bamboo-white-florals"
     ],
+    "primaryScent": "bamboo-white-florals",
     "specifications": {},
     "documents": []
   },
@@ -1566,9 +1778,9 @@
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
     "suggestedScents": [
-      "lemon-verbena",
       "bamboo-white-florals"
     ],
+    "primaryScent": "bamboo-white-florals",
     "specifications": {},
     "documents": []
   },
@@ -1582,7 +1794,10 @@
     "series": "Speckled Forms",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1596,7 +1811,10 @@
     "series": "Speckled Forms",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1610,7 +1828,10 @@
     "series": "Soft Squares",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1624,7 +1845,10 @@
     "series": "Soft Squares",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "incense-myrrh"
+    ],
+    "primaryScent": "incense-myrrh",
     "specifications": {},
     "documents": []
   },
@@ -1638,7 +1862,10 @@
     "series": "Classical Relief",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -1652,7 +1879,10 @@
     "series": "Classical Relief",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1666,7 +1896,10 @@
     "series": "Classical Relief",
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1680,7 +1913,10 @@
     "series": "Little Dreamers",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1694,7 +1930,10 @@
     "series": "Little Dreamers",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1708,7 +1947,10 @@
     "series": "Little Dreamers",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
@@ -1722,7 +1964,10 @@
     "series": "Little Dreamers",
     "collection": "Little Joys",
     "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -1737,9 +1982,9 @@
     "collection": "A Moment of Quiet",
     "collectionHref": "candles-a-moment-of-quiet.html",
     "suggestedScents": [
-      "clean-cotton",
-      "soft-linen"
+      "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1753,7 +1998,10 @@
     "series": "Ribbon Glass",
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -1767,7 +2015,10 @@
     "series": "Ribbon Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1781,7 +2032,10 @@
     "series": "Ribbon Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1796,10 +2050,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-bergamot",
-      "black-tea-cedarwood",
-      "green-tea-cedarwood"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -1816,6 +2069,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -1832,6 +2086,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -1848,6 +2103,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1864,6 +2120,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -1878,9 +2135,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "blackcurrant-rose",
-      "oud-saffron"
+      "rose-green-leaves"
     ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -1897,6 +2154,7 @@
     "suggestedScents": [
       "jasmine-orange-blossom"
     ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -1911,9 +2169,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "eucalyptus-mint",
-      "sea-salt-driftwood"
+      "lemon-verbena"
     ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -1928,10 +2186,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "fir-cedarwood",
       "pine-cedarwood"
     ],
+    "primaryScent": "pine-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -1948,6 +2205,7 @@
     "suggestedScents": [
       "osmanthus-green-tea"
     ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -1964,6 +2222,7 @@
     "suggestedScents": [
       "osmanthus-green-tea"
     ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -1977,7 +2236,10 @@
     "series": "Floral Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -1991,7 +2253,10 @@
     "series": "Floral Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2005,7 +2270,10 @@
     "series": "Sculpted Floral",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2020,8 +2288,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "mugwort-incense"
+      "white-tea-rosemary"
     ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -2036,8 +2305,9 @@
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
     "suggestedScents": [
-      "bergamot-neroli"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2052,9 +2322,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "clean-cotton",
       "soft-linen"
     ],
+    "primaryScent": "soft-linen",
     "specifications": {},
     "documents": []
   },
@@ -2069,8 +2339,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "incense-myrrh"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2084,7 +2355,10 @@
     "series": "Oval Diffuser",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2098,7 +2372,10 @@
     "series": "Double Glass",
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -2115,6 +2392,7 @@
     "suggestedScents": [
       "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2131,6 +2409,7 @@
     "suggestedScents": [
       "pear-freesia"
     ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -2144,7 +2423,10 @@
     "series": "Colour Collection",
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -2159,9 +2441,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "sea-salt-driftwood",
-      "bamboo-white-florals"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2176,9 +2458,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "black-tea-cedarwood",
-      "green-tea-cedarwood"
+      "black-tea-cedarwood"
     ],
+    "primaryScent": "black-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -2195,6 +2477,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -2211,6 +2494,7 @@
     "suggestedScents": [
       "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2227,6 +2511,7 @@
     "suggestedScents": [
       "black-tea-cedarwood"
     ],
+    "primaryScent": "black-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -2240,7 +2525,10 @@
     "series": "Quiet Clarity",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2255,9 +2543,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "grapefruit-bergamot",
       "orange-clove"
     ],
+    "primaryScent": "orange-clove",
     "specifications": {},
     "documents": []
   },
@@ -2272,9 +2560,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-bergamot",
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2289,9 +2577,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "lemon-lavender",
       "green-tea-cedarwood"
     ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -2308,6 +2596,7 @@
     "suggestedScents": [
       "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2322,9 +2611,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-bergamot",
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2338,7 +2627,10 @@
     "series": "Mountain Light",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2353,8 +2645,9 @@
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
     "suggestedScents": [
-      "gardenia-tuberose"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2369,9 +2662,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "lime-basil",
-      "grapefruit-bergamot"
+      "lime-basil"
     ],
+    "primaryScent": "lime-basil",
     "specifications": {},
     "documents": []
   },
@@ -2386,9 +2679,9 @@
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
     "suggestedScents": [
-      "bamboo-white-florals",
-      "mugwort-incense"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -2402,7 +2695,10 @@
     "series": "Atelier Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -2419,6 +2715,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -2435,6 +2732,7 @@
     "suggestedScents": [
       "pear-freesia"
     ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -2449,9 +2747,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "lime-basil",
-      "lemon-verbena"
+      "lime-basil"
     ],
+    "primaryScent": "lime-basil",
     "specifications": {},
     "documents": []
   },
@@ -2466,9 +2764,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "oud-saffron",
-      "incense-myrrh"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2485,6 +2783,7 @@
     "suggestedScents": [
       "fig-green-leaves"
     ],
+    "primaryScent": "fig-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -2501,6 +2800,7 @@
     "suggestedScents": [
       "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -2515,9 +2815,9 @@
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose"
+      "rose-green-leaves"
     ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -2534,6 +2834,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -2547,7 +2848,10 @@
     "series": "Reserve Glass",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2562,9 +2866,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-bergamot",
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2581,6 +2885,7 @@
     "suggestedScents": [
       "jasmine-orange-blossom"
     ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -2594,7 +2899,10 @@
     "series": "Botanical Infusions",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -2608,7 +2916,10 @@
     "series": "Botanical Infusions",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -2622,7 +2933,10 @@
     "series": "Botanical Infusions",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2637,9 +2951,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "lemon-verbena",
-      "bergamot-neroli"
+      "incense-myrrh"
     ],
+    "primaryScent": "incense-myrrh",
     "specifications": {},
     "documents": []
   },
@@ -2653,7 +2967,10 @@
     "series": "Fluid Silhouettes",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2667,7 +2984,10 @@
     "series": "Golden Curves",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2681,7 +3001,10 @@
     "series": "Botanical Gleam",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -2695,7 +3018,10 @@
     "series": "Botanical Gleam",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -2709,7 +3035,10 @@
     "series": "Blush Arch",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -2723,7 +3052,10 @@
     "series": "Glass Orbs",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -2737,7 +3069,10 @@
     "series": "Glass Orbs",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -2751,7 +3086,10 @@
     "series": "Glass Orbs",
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -2766,9 +3104,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "pomegranate-amber",
       "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -2783,8 +3121,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "black-tea-cedarwood"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2801,6 +3140,7 @@
     "suggestedScents": [
       "sandalwood-cashmere"
     ],
+    "primaryScent": "sandalwood-cashmere",
     "specifications": {},
     "documents": []
   },
@@ -2815,9 +3155,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "pomegranate-amber",
       "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -2832,9 +3172,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "black-tea-cedarwood",
-      "amber-vanilla"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2849,9 +3189,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-bergamot",
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2865,7 +3205,10 @@
     "series": "Floral Bouquet",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -2882,6 +3225,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -2896,10 +3240,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-rosemary",
-      "osmanthus-green-tea",
-      "green-tea-cedarwood"
+      "white-tea-rosemary"
     ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -2914,10 +3257,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "gardenia-tuberose",
-      "white-tea-bergamot",
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2932,9 +3274,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "osmanthus-green-tea",
-      "green-tea-cedarwood"
+      "osmanthus-green-tea"
     ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -2951,6 +3293,7 @@
     "suggestedScents": [
       "green-tea-cedarwood"
     ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -2964,7 +3307,10 @@
     "series": "Floral Tea",
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -2978,7 +3324,10 @@
     "series": "Floral Tea",
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "osmanthus-green-tea"
+    ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -2993,9 +3342,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "jasmine-orange-blossom",
       "green-tea-cedarwood"
     ],
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3009,7 +3358,10 @@
     "series": "Seven-Day Rituals",
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -3024,9 +3376,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "lime-basil",
       "eucalyptus-mint"
     ],
+    "primaryScent": "eucalyptus-mint",
     "specifications": {},
     "documents": []
   },
@@ -3040,7 +3392,10 @@
     "series": "Seven-Day Rituals",
     "collection": "In Bloom",
     "collectionHref": "reeds-in-bloom.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -3055,8 +3410,9 @@
     "collection": "A Quiet Pause",
     "collectionHref": "reeds-a-quiet-pause.html",
     "suggestedScents": [
-      "white-tea-rosemary"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3071,8 +3427,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "grapefruit-bergamot"
+      "lemon-verbena"
     ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -3087,8 +3444,9 @@
     "collection": "A Breath of Fresh Air",
     "collectionHref": "reeds-a-breath-of-fresh-air.html",
     "suggestedScents": [
-      "eucalyptus-mint"
+      "lemon-verbena"
     ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -3102,7 +3460,10 @@
     "series": "Seven-Day Rituals",
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3117,8 +3478,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "lavender-cedarwood"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3135,6 +3497,7 @@
     "suggestedScents": [
       "fireside-smoked-woods"
     ],
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
@@ -3149,9 +3512,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "amber-vanilla",
-      "orange-clove"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3166,9 +3529,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "fireside-smoked-woods",
-      "apple-cinnamon"
+      "fireside-smoked-woods"
     ],
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
@@ -3183,11 +3546,9 @@
     "collection": "At Home, At Ease",
     "collectionHref": "reeds-at-home-at-ease.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "fireside-smoked-woods",
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3201,7 +3562,10 @@
     "series": "Glass dome",
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3216,9 +3580,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "lavender-cedarwood",
-      "lemon-lavender"
+      "lavender-cedarwood"
     ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3233,9 +3597,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "bergamot-neroli",
-      "eucalyptus-mint"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3250,11 +3614,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "fig-green-leaves",
-      "white-tea-rosemary",
-      "bamboo-white-florals",
-      "mugwort-incense"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3269,9 +3631,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "incense-myrrh"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3286,8 +3648,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "soft-linen"
+      "white-tea-bergamot"
     ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3301,7 +3664,10 @@
     "series": "Sculpted bowl",
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3316,11 +3682,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "pomegranate-amber",
-      "amber-vanilla",
-      "oud-saffron",
-      "incense-myrrh"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3337,6 +3701,7 @@
     "suggestedScents": [
       "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -3350,7 +3715,10 @@
     "series": "Botanical glass",
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3364,7 +3732,10 @@
     "series": "Botanical glass",
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -3378,7 +3749,10 @@
     "series": "Botanical glass",
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
     "specifications": {},
     "documents": []
   },
@@ -3393,11 +3767,9 @@
     "collection": "Crystal diffusers",
     "collectionHref": "products-crystal-1.html",
     "suggestedScents": [
-      "bamboo-white-florals",
-      "cedarwood-vetiver",
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3411,7 +3783,10 @@
     "series": "Colourful Rituals",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3425,7 +3800,10 @@
     "series": "Colourful Rituals",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3439,7 +3817,10 @@
     "series": "Colourful Rituals",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3454,9 +3835,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "apple-cinnamon",
       "orange-clove"
     ],
+    "primaryScent": "orange-clove",
     "specifications": {},
     "documents": []
   },
@@ -3470,7 +3851,10 @@
     "series": "Colourful Rituals",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3485,12 +3869,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "sandalwood-cashmere",
-      "fireside-smoked-woods",
-      "mugwort-incense",
-      "oud-saffron",
-      "incense-myrrh"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3505,10 +3886,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose",
       "pomegranate-amber"
     ],
+    "primaryScent": "pomegranate-amber",
     "specifications": {},
     "documents": []
   },
@@ -3523,10 +3903,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "bergamot-neroli",
-      "fig-green-leaves",
-      "white-tea-bergamot"
+      "white-tea-rosemary"
     ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -3540,7 +3919,10 @@
     "series": "Fragrance & Lifestyle",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3554,7 +3936,10 @@
     "series": "Fragrance & Lifestyle",
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "blackcurrant-rose"
+    ],
+    "primaryScent": "blackcurrant-rose",
     "specifications": {},
     "documents": []
   },
@@ -3569,10 +3954,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "pomegranate-amber",
-      "fireside-smoked-woods",
-      "vanilla-tonka"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3587,9 +3971,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "fig-green-leaves",
-      "mugwort-incense"
+      "white-tea-rosemary"
     ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
@@ -3606,6 +3990,7 @@
     "suggestedScents": [
       "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -3620,8 +4005,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "black-tea-cedarwood"
+      "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -3636,11 +4022,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "pear-freesia",
-      "peony-lychee",
-      "clean-cotton",
-      "soft-linen"
+      "peony-lychee"
     ],
+    "primaryScent": "peony-lychee",
     "specifications": {},
     "documents": []
   },
@@ -3655,10 +4039,9 @@
     "collection": "Gift setting",
     "collectionHref": "gift-collection.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose",
       "oud-saffron"
     ],
+    "primaryScent": "oud-saffron",
     "specifications": {},
     "documents": []
   },
@@ -3673,8 +4056,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "apple-cinnamon"
+      "blackcurrant-rose"
     ],
+    "primaryScent": "blackcurrant-rose",
     "specifications": {},
     "documents": []
   },
@@ -3689,9 +4073,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "apple-cinnamon",
       "orange-clove"
     ],
+    "primaryScent": "orange-clove",
     "specifications": {},
     "documents": []
   },
@@ -3705,7 +4089,10 @@
     "series": "Festive Glass Domes",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3720,10 +4107,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "cedarwood-vetiver",
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "cedarwood-vetiver"
     ],
+    "primaryScent": "cedarwood-vetiver",
     "specifications": {},
     "documents": []
   },
@@ -3738,9 +4124,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3757,6 +4143,7 @@
     "suggestedScents": [
       "lime-basil"
     ],
+    "primaryScent": "lime-basil",
     "specifications": {},
     "documents": []
   },
@@ -3773,6 +4160,7 @@
     "suggestedScents": [
       "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -3789,6 +4177,7 @@
     "suggestedScents": [
       "pear-freesia"
     ],
+    "primaryScent": "pear-freesia",
     "specifications": {},
     "documents": []
   },
@@ -3803,9 +4192,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3819,7 +4208,10 @@
     "series": "Botanical Christmas Trees",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   },
@@ -3834,9 +4226,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3851,9 +4243,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3867,7 +4259,10 @@
     "series": "Winter Glass",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fireside-smoked-woods"
+    ],
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
@@ -3882,9 +4277,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3899,11 +4294,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "amber-vanilla",
-      "vanilla-tonka",
-      "caramel-cream",
-      "gingerbread-vanilla"
+      "amber-vanilla"
     ],
+    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -3918,9 +4311,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3934,7 +4327,10 @@
     "series": "Winter Glass",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3948,7 +4344,10 @@
     "series": "Winter Glass",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3962,7 +4361,10 @@
     "series": "Winter Glass",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3977,9 +4379,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -3994,9 +4396,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "sea-salt-driftwood"
     ],
+    "primaryScent": "sea-salt-driftwood",
     "specifications": {},
     "documents": []
   },
@@ -4011,9 +4413,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4028,9 +4430,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4045,9 +4447,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4061,7 +4463,10 @@
     "series": "Botanical Wax Ornaments",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
     "specifications": {},
     "documents": []
   },
@@ -4075,7 +4480,10 @@
     "series": "Christmas Pillars",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4090,9 +4498,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4109,6 +4517,7 @@
     "suggestedScents": [
       "gingerbread-vanilla"
     ],
+    "primaryScent": "gingerbread-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -4122,7 +4531,10 @@
     "series": "Festive Wax Ornaments",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4136,7 +4548,10 @@
     "series": "Festive Wax Ornaments",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4151,9 +4566,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
       "pine-cedarwood"
     ],
+    "primaryScent": "pine-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4168,9 +4583,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4184,7 +4599,10 @@
     "series": "Christmas Characters",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4198,7 +4616,10 @@
     "series": "Christmas Characters",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4213,9 +4634,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "fir-cedarwood",
-      "pine-cedarwood"
+      "fir-cedarwood"
     ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4230,10 +4651,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "vanilla-tonka",
-      "orange-clove",
       "gingerbread-vanilla"
     ],
+    "primaryScent": "gingerbread-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -4248,10 +4668,9 @@
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
     "suggestedScents": [
-      "vanilla-tonka",
-      "caramel-cream",
       "gingerbread-vanilla"
     ],
+    "primaryScent": "gingerbread-vanilla",
     "specifications": {},
     "documents": []
   },
@@ -4265,7 +4684,10 @@
     "series": "Playful Christmas",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4279,7 +4701,10 @@
     "series": "Winter Glass Duos",
     "collection": "Christmas",
     "collectionHref": "christmas-collection.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -4296,6 +4721,7 @@
     "suggestedScents": [
       "gardenia-tuberose"
     ],
+    "primaryScent": "gardenia-tuberose",
     "specifications": {},
     "documents": []
   },
@@ -4310,9 +4736,9 @@
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
     "suggestedScents": [
-      "lime-basil",
       "lemon-verbena"
     ],
+    "primaryScent": "lemon-verbena",
     "specifications": {},
     "documents": []
   },
@@ -4326,7 +4752,10 @@
     "series": "Botanical Wax Tablets",
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -4343,6 +4772,7 @@
     "suggestedScents": [
       "jasmine-orange-blossom"
     ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -4357,8 +4787,9 @@
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
     "suggestedScents": [
-      "osmanthus-green-tea"
+      "jasmine-orange-blossom"
     ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -4373,8 +4804,9 @@
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
     "suggestedScents": [
-      "eucalyptus-mint"
+      "mugwort-incense"
     ],
+    "primaryScent": "mugwort-incense",
     "specifications": {},
     "documents": []
   },
@@ -4388,7 +4820,10 @@
     "series": "Fabric Fragrance Sachets",
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
     "specifications": {},
     "documents": []
   },
@@ -4403,9 +4838,9 @@
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
     "suggestedScents": [
-      "grapefruit-bergamot",
-      "lemon-lavender"
+      "bergamot-neroli"
     ],
+    "primaryScent": "bergamot-neroli",
     "specifications": {},
     "documents": []
   },
@@ -4419,7 +4854,10 @@
     "series": "Fabric Fragrance Sachets",
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
-    "suggestedScents": [],
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
     "specifications": {},
     "documents": []
   },
@@ -4434,9 +4872,9 @@
     "collection": "Tablets & Sachets",
     "collectionHref": "sachets.html",
     "suggestedScents": [
-      "rose-green-leaves",
-      "blackcurrant-rose"
+      "rose-green-leaves"
     ],
+    "primaryScent": "rose-green-leaves",
     "specifications": {},
     "documents": []
   }

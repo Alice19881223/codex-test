@@ -10,19 +10,18 @@
   'Oriental Mystery':'Think of glowing resins, textured woods and a lingering trail of spice. A deeper fragrance direction for intimate evenings and reflective spaces.'
  };
  function group(label,items){if(!items.length)return '';return `<optgroup label="${escapeHtml(label)}">${items.map(s=>`<option value="${s.id}">${escapeHtml(s.name)}</option>`).join('')}</optgroup>`;}
- const suggested=scents.filter(s=>product.suggestedScents.includes(s.id));
- field.innerHTML='<option value="">Discuss fragrance options</option>'+group('Suggested for this design',suggested)+group('Other directions to discuss',scents.filter(s=>!product.suggestedScents.includes(s.id)));
- const requested=new URLSearchParams(location.search).get('scent');
- if(scents.some(s=>s.id===requested))field.value=requested;
- else if(suggested.length){const ranked=suggested.map(s=>({s,score:s.name.toLowerCase().split(/[^a-z]+/).filter(word=>word.length>3&&product.name.toLowerCase().includes(word)).length})).sort((a,b)=>b.score-a.score);field.value=ranked[0].s.id;}
+ const assigned=scents.find(s=>s.id===product.primaryScent);
+ if(!assigned)throw new Error('Missing assigned fragrance for '+product.itemNo);
+ field.innerHTML=`<option value="${escapeHtml(assigned.id)}">${escapeHtml(assigned.name)}</option>`;
+ field.value=assigned.id;
  function selectedScent(){return scents.find(s=>s.id===field.value);}
  function updateScent(){
   const s=selectedScent();$('#product-short-description').textContent=s?s.description:'A thoughtfully presented fragrance design for beautiful everyday spaces.';
   $('#product-scent-tags').innerHTML=s?s.themes.map(theme=>`<span>${escapeHtml(theme)}</span>`).join(''):'';
-  $('#product-key-notes').textContent=s?'Key notes: '+[...new Set([...s.heart,...s.base])].slice(0,4).join(' · '):'';
+  $('#product-key-notes').textContent=s?s.keyNotes.join('. ')+'.':'';
   $('#product-smells-like').textContent=s?`${s.description.split(';')[0]}. A first impression of ${s.top.join(' and ').toLowerCase()} opens into ${s.heart.join(' and ').toLowerCase()}, resting on ${s.base.join(' and ').toLowerCase()}.`:'Choose a fragrance direction above to explore its notes and mood.';
   $('#product-notes').innerHTML=s?notePyramid(s):'';
-  $('#product-character').innerHTML=s?`<h3>Scent Character</h3><p>${escapeHtml(s.description.split(';')[0])}</p>`:'';
+  $('#product-character').innerHTML=s?`<h3>Scent Character</h3><div class="scent-character-bar" role="img" aria-label="Illustrative scent character: ${escapeHtml(s.character.map(c=>c.label+' '+c.value+'%').join(', '))}">${s.character.map((c,i)=>`<span class="character-tone-${i}" style="width:${c.value}%"></span>`).join('')}</div><ul class="scent-character-legend">${s.character.map((c,i)=>`<li><i class="character-tone-${i}"></i><span>${escapeHtml(c.label)}</span> <small>${c.value}%</small></li>`).join('')}</ul><p class="scent-character-note">Illustrative scent impression, not ingredient percentages.</p>`:'';
   $('#product-inspiration').textContent=s?inspirations[s.themes[0]]:'Create a fragrance moment around your brand and the spaces your customers love.';
   $('#product-mood').textContent=s?s.description:'Discuss your intended room, season and gifting occasion with our team.';
   $('#product-spaces').textContent=s?(s.description.split(';')[1]||s.description).trim().replace(/^./,c=>c.toUpperCase()):'Space and atmosphere suggestions follow the selected fragrance direction.';
@@ -47,7 +46,17 @@
   return item.name;
  }
 
- function basket(){try{const data=JSON.parse(localStorage.getItem(storageKey)||'[]');return Array.isArray(data)?data.filter(item=>item&&typeof item.itemNo==='string'&&typeof item.key==='string'&&['name','fragrance','capacity','presentation','url'].every(key=>typeof item[key]==='string')&&Number.isSafeInteger(item.quantity)&&item.quantity>0&&item.quantity<=10000000).slice(0,200).map(item=>({...item,name:savedProductName(item)})):[];}catch{return [];}}
+ function normalizeSavedItem(item){
+  const path=item.url.split('?')[0];
+  for(const category of Object.keys(productPages)){
+   const entry=Object.entries(productPages[category]).find(([,url])=>url===path);
+   if(!entry)continue;
+   const photo=catalogues[category].find(p=>p.image===entry[0]);const scent=scents.find(s=>s.id===photo?.assignedScent);
+   if(scent){item={...item,name:savedProductName(item),fragrance:scent.name,url:path+'?scent='+encodeURIComponent(scent.id)};item.key=JSON.stringify([item.itemNo,item.fragrance,item.capacity,item.presentation]);}
+  }
+  return item;
+ }
+ function basket(){try{const data=JSON.parse(localStorage.getItem(storageKey)||'[]');return Array.isArray(data)?data.filter(item=>item&&typeof item.itemNo==='string'&&typeof item.key==='string'&&['name','fragrance','capacity','presentation','url'].every(key=>typeof item[key]==='string')&&Number.isSafeInteger(item.quantity)&&item.quantity>0&&item.quantity<=10000000).slice(0,200).map(normalizeSavedItem):[];}catch{return [];}}
  function currentItem(){
   const quantityInput=$('#product-quantity');if(!quantityInput.reportValidity())return null;
   const s=selectedScent();const item={itemNo:product.itemNo,name:product.title,url:location.pathname.split('/').pop()+location.search,fragrance:s?.name||'Discuss fragrance options',capacity:$('#product-capacity').value.trim()||'Specification to confirm',presentation:$('#product-presentation').value,quantity:Number(quantityInput.value)};
