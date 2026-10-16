@@ -41,4 +41,16 @@ for p in Path('.').glob('*.html'):
  icon=active if active in icons else 'candle'
  s=s.replace('← Previous',f'<img class="page-picture" src="assets/nav-{icon}.svg" alt="" width="26" height="26"><span>‹ Previous</span>').replace('Next →',f'<span>Next ›</span><img class="page-picture" src="assets/nav-{icon}.svg" alt="" width="26" height="26">')
  s=s.replace('aria-label="Previous banner">←','aria-label="Previous banner"><span aria-hidden="true">‹</span><img src="assets/nav-candle.svg" alt="" width="22" height="22">').replace('aria-label="Next banner">→','aria-label="Next banner"><img src="assets/nav-candle.svg" alt="" width="22" height="22"><span aria-hidden="true">›</span>')
+ # Keep the two sales email addresses available on every full-page contact footer.
+ s=re.sub(r'<div class="company-emails">.*?</div>','',s,flags=re.S)
+ email_icon='<svg class="contact-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>'
+ emails=['alicechen@lanarve.com','lisachen@lanarve.com']
+ email_links=''.join(f'<a class="contact-row" href="mailto:{email}">{email_icon}<span>{email}</span></a>' for email in emails)
+ if 'class="company-contact"' in s:
+  s=s.replace('<div class="social-links"','<div class="company-emails">'+email_links+'</div><div class="social-links"',1)
+ if p.name=='contact.html':
+  s=s.replace('using the phone, WhatsApp and social links below.','by email, phone, WhatsApp or the social links below.')
+  s=re.sub(r'<div class="contact-email-actions">.*?</div>','',s,flags=re.S)
+  actions='<div class="contact-email-actions">'+''.join(f'<a href="mailto:{email}">{email}<span aria-hidden="true"> ↗</span></a>' for email in emails)+'</div>'
+  s=s.replace('</section></main>',actions+'</section></main>',1)
  p.write_text(s)

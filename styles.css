@@ -331,3 +331,5 @@ header{position:relative;z-index:30}
 .scent-character-legend li>span em{display:block;font-size:11px;font-style:normal;letter-spacing:.4px;text-transform:none;color:#756f64;margin-top:3px}.scent-character-legend li{align-items:baseline}.scent-character-legend{column-gap:24px;row-gap:14px}
 
 .product-options .fragrance-options-help{display:block;font-size:14px;line-height:1.65;color:#556c53;font-weight:400;margin-top:8px}
+
+.company-emails{margin:12px 0 16px}.company-emails .contact-row span{overflow-wrap:anywhere}.contact-email-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:28px}.contact-email-actions a{display:inline-flex;gap:18px;align-items:center;border:1px solid #bacbb0;border-radius:28px;background:#faf8f1;color:#294b31;padding:14px 20px;font-size:17px;overflow-wrap:anywhere}.contact-email-actions a:hover{background:#e0ead6}.contact-email-actions a:focus-visible{outline:3px solid #9b7b4b;outline-offset:3px}@media(max-width:650px){.contact-email-actions{flex-direction:column;align-items:flex-start}.contact-email-actions a{font-size:15px;max-width:100%}}
