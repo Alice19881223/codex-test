@@ -51,16 +51,10 @@
     "description": "Tea-inspired reed diffusers",
     "icon": "quiet",
     "productKeys": [
-      "Soft Matte | White Tea Soft Matte",
       "Quiet Clarity | White Tea Clarity",
       "Quiet Clarity | Green Tea Clarity",
-      "Reserve Glass | White Tea Reserve",
-      "Amber Classics | Smoked Tea Classic",
       "Ribbed Retreat | Cold Brew Retreat",
       "Ribbed Retreat | Black Tea Ritual",
-      "Ribbon Glass | Zen Tea",
-      "Floral Bouquet | Amber Tea",
-      "Floral Bouquet | White Tea Blossom",
       "Seven-Day Rituals | Focus",
       "Floral Tea | Four Seasons Tea",
       "Floral Tea | Gardenia & White Tea",
@@ -68,23 +62,21 @@
       "Floral Tea | Plum & Sencha",
       "Floral Tea | Olive Magnolia",
       "Floral Tea | White Peach & Oolong",
-      "Floral Tea | Jasmine Green Tea"
+      "Floral Tea | Jasmine Green Tea",
+      "Soft Matte | White Tea Soft Matte",
+      "Reserve Glass | White Tea Reserve",
+      "Amber Classics | Smoked Tea Classic",
+      "Ribbon Glass | Zen Tea",
+      "Floral Bouquet | Amber Tea",
+      "Floral Bouquet | White Tea Blossom"
     ],
     "pages": [
       [
-        "Soft Matte | White Tea Soft Matte",
         "Quiet Clarity | White Tea Clarity",
         "Quiet Clarity | Green Tea Clarity",
-        "Reserve Glass | White Tea Reserve",
-        "Amber Classics | Smoked Tea Classic",
         "Ribbed Retreat | Cold Brew Retreat",
         "Ribbed Retreat | Black Tea Ritual",
-        "Ribbon Glass | Zen Tea",
-        "Floral Bouquet | Amber Tea",
-        "Floral Bouquet | White Tea Blossom",
-        "Seven-Day Rituals | Focus"
-      ],
-      [
+        "Seven-Day Rituals | Focus",
         "Floral Tea | Four Seasons Tea",
         "Floral Tea | Gardenia & White Tea",
         "Floral Tea | Osmanthus & Longjing",
@@ -92,8 +84,17 @@
         "Floral Tea | Olive Magnolia",
         "Floral Tea | White Peach & Oolong",
         "Floral Tea | Jasmine Green Tea"
+      ],
+      [
+        "Soft Matte | White Tea Soft Matte",
+        "Reserve Glass | White Tea Reserve",
+        "Amber Classics | Smoked Tea Classic",
+        "Ribbon Glass | Zen Tea",
+        "Floral Bouquet | Amber Tea",
+        "Floral Bouquet | White Tea Blossom"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   },
   {
     "slug": "in-bloom",

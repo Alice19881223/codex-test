@@ -306,3 +306,11 @@ header{position:relative;z-index:30}
 .product-enquiry .enquiry-delivery-note{font-size:13px}
 .product-selection-summary,.inquiry-basket,.product-secondary-button,#product-action-status,#enquiry-status{font-size:14px}
 .inquiry-line strong{font-size:14px}.inquiry-line small,.inquiry-line button{font-size:12px}
+
+/* Emphasize the four reed diffuser collection choices. */
+body[data-category="reed"] .candle-mood-nav{gap:12px;padding:16px;background:#edf1e7;border:1px solid #c7d4bf;border-radius:18px}
+body[data-category="reed"] .candle-mood-nav a{display:flex;align-items:center;justify-content:center;flex:1 1 160px;min-height:54px;padding:12px 18px;font-size:16px;font-weight:500;border:2px solid #b8c9ae;background:#fffdf8;color:#294b31;transition:background .2s ease,box-shadow .2s ease}
+body[data-category="reed"] .candle-mood-nav a[aria-current="page"]{background:#294b31;border-color:#294b31;color:#fff;box-shadow:0 3px 9px #294b3126}
+body[data-category="reed"] .candle-mood-nav a:hover{background:#dfe9d5;color:#294b31}
+body[data-category="reed"] .candle-mood-nav a:focus-visible{outline:3px solid #9b7b4b;outline-offset:3px}
+@media(max-width:650px){body[data-category="reed"] .candle-mood-nav{gap:8px;padding:10px}body[data-category="reed"] .candle-mood-nav a{flex-basis:calc(50% - 8px);min-height:54px;font-size:14px;padding:10px 8px}}

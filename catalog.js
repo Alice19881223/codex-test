@@ -270,7 +270,7 @@ const scents = [
         "name": "Jasmine Green Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=jasmine-orange-blossom",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -352,7 +352,7 @@ const scents = [
         "name": "Gardenia & White Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-c330164b.html?scent=gardenia-tuberose",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "candle",
@@ -1140,7 +1140,7 @@ const scents = [
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-bergamot",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1156,7 +1156,7 @@ const scents = [
         "name": "White Tea Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-b0c8dd88.html?scent=white-tea-bergamot",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1164,7 +1164,7 @@ const scents = [
         "name": "Gardenia & White Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-c330164b.html?scent=white-tea-bergamot",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -1172,7 +1172,7 @@ const scents = [
         "name": "Zen Tea",
         "series": "Ribbon Glass",
         "href": "product-lnv-rd-67b172c8.html?scent=white-tea-bergamot",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1180,7 +1180,7 @@ const scents = [
         "name": "White Tea Blossom",
         "series": "Floral Bouquet",
         "href": "product-lnv-rd-8d53a083.html?scent=white-tea-bergamot",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "gift",
@@ -1222,7 +1222,7 @@ const scents = [
         "name": "White Tea Soft Matte",
         "series": "Soft Matte",
         "href": "product-lnv-rd-a5c91961.html?scent=white-tea-rosemary",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1230,7 +1230,7 @@ const scents = [
         "name": "White Tea Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-b0c8dd88.html?scent=white-tea-rosemary",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1246,7 +1246,7 @@ const scents = [
         "name": "Four Seasons Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-2b6c8254.html?scent=white-tea-rosemary",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -1254,7 +1254,7 @@ const scents = [
         "name": "Gardenia & White Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-c330164b.html?scent=white-tea-rosemary",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -1262,7 +1262,7 @@ const scents = [
         "name": "White Tea Blossom",
         "series": "Floral Bouquet",
         "href": "product-lnv-rd-8d53a083.html?scent=white-tea-rosemary",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1314,7 +1314,7 @@ const scents = [
         "name": "Smoked Tea Classic",
         "series": "Amber Classics",
         "href": "product-lnv-rd-9fb7b57f.html?scent=black-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1338,7 +1338,7 @@ const scents = [
         "name": "Zen Tea",
         "series": "Ribbon Glass",
         "href": "product-lnv-rd-67b172c8.html?scent=black-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "reed",
@@ -1346,7 +1346,7 @@ const scents = [
         "name": "Amber Tea",
         "series": "Floral Bouquet",
         "href": "product-lnv-rd-c5b6870c.html?scent=black-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "gift",
@@ -1405,7 +1405,7 @@ const scents = [
         "name": "Osmanthus & Longjing",
         "series": "Floral Tea",
         "href": "product-lnv-rd-e5de9f0c.html?scent=osmanthus-green-tea",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -1413,7 +1413,7 @@ const scents = [
         "name": "Four Seasons Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-2b6c8254.html?scent=osmanthus-green-tea",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "candle",
@@ -2088,7 +2088,7 @@ const scents = [
         "name": "Amber Tea",
         "series": "Floral Bouquet",
         "href": "product-lnv-rd-c5b6870c.html?scent=amber-vanilla",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       },
       {
         "category": "christmas",
@@ -2811,7 +2811,7 @@ const scents = [
         "name": "Jasmine Green Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=green-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -2819,7 +2819,7 @@ const scents = [
         "name": "Four Seasons Tea",
         "series": "Floral Tea",
         "href": "product-lnv-rd-2b6c8254.html?scent=green-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -2827,7 +2827,7 @@ const scents = [
         "name": "Osmanthus & Longjing",
         "series": "Floral Tea",
         "href": "product-lnv-rd-e5de9f0c.html?scent=green-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -2835,7 +2835,7 @@ const scents = [
         "name": "Plum & Sencha",
         "series": "Floral Tea",
         "href": "product-lnv-rd-d1f9ec10.html?scent=green-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause-2.html"
+        "catalogueHref": "reeds-a-quiet-pause.html"
       },
       {
         "category": "reed",
@@ -2851,7 +2851,7 @@ const scents = [
         "name": "Zen Tea",
         "series": "Ribbon Glass",
         "href": "product-lnv-rd-67b172c8.html?scent=green-tea-cedarwood",
-        "catalogueHref": "reeds-a-quiet-pause.html"
+        "catalogueHref": "reeds-a-quiet-pause-2.html"
       }
     ],
     "family": "Oriental Mystery",
