@@ -1663,6 +1663,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/paired/07364c9f90024c16265a.png",
+        "name": "Lavender Dusk Sand Wax Candle",
+        "series": "Sand Wax",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "href": "product-lnv-cnd-fdef4397.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
         "name": "Violet Eight",
         "series": "Lucky Charms",
@@ -6251,6 +6259,19 @@ const candleProducts = [
       "assets/candles/candles-088.webp"
     ],
     "assignedScent": "sandalwood-cashmere"
+  },
+  {
+    "name": "Lavender Dusk Sand Wax Candle",
+    "series": "Sand Wax",
+    "productType": "Sand wax candle",
+    "designDescription": "Soft lavender, blush and ivory layers form a flowing sand-wax pattern in a rounded glass vessel. A gentle accent for a bedside table or quiet reading corner.",
+    "image": "assets/candles/paired/07364c9f90024c16265a.png",
+    "packagingImage": "assets/candles/paired/4bc80166a85682c59e24.png",
+    "images": [
+      "assets/candles/paired/07364c9f90024c16265a.png",
+      "assets/candles/paired/4bc80166a85682c59e24.png"
+    ],
+    "assignedScent": "lavender-cedarwood"
   }
 ];
 const reedProducts = [
@@ -8436,7 +8457,8 @@ const productPages = {
     "assets/candles/standalone/d160e808ad7656acaeef.png": "product-lnv-cnd-382db110.html",
     "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-cnd-d0f5e24f.html",
     "assets/candles/standalone/d7fead12effc63071c64.png": "product-lnv-cnd-13297d04.html",
-    "assets/candles/standalone/159db9e5fab778fb8824.png": "product-lnv-cnd-cffb251f.html"
+    "assets/candles/standalone/159db9e5fab778fb8824.png": "product-lnv-cnd-cffb251f.html",
+    "assets/candles/paired/07364c9f90024c16265a.png": "product-lnv-cnd-fdef4397.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",

@@ -1,0 +1,17 @@
+{
+  "upload": "file_00000000637c81f58b2f5c4c17a912e3",
+  "product": {
+    "name": "Lavender Dusk Sand Wax Candle",
+    "series": "Sand Wax",
+    "productType": "Sand wax candle",
+    "designDescription": "Soft lavender, blush and ivory layers form a flowing sand-wax pattern in a rounded glass vessel. A gentle accent for a bedside table or quiet reading corner.",
+    "image": "assets/candles/paired/07364c9f90024c16265a.png",
+    "packagingImage": "assets/candles/paired/4bc80166a85682c59e24.png",
+    "images": [
+      "assets/candles/paired/07364c9f90024c16265a.png",
+      "assets/candles/paired/4bc80166a85682c59e24.png"
+    ],
+    "assignedScent": "lavender-cedarwood"
+  },
+  "itemNo": "LNV-CND-FDEF4397"
+}

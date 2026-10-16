@@ -1989,6 +1989,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-FDEF4397",
+    "category": "candle",
+    "image": "assets/candles/paired/07364c9f90024c16265a.png",
+    "name": "Lavender Dusk Sand Wax Candle",
+    "title": "Lavender Dusk Sand Wax Candle",
+    "url": "product-lnv-cnd-fdef4397.html",
+    "series": "Sand Wax",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",
