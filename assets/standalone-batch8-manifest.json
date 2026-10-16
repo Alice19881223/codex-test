@@ -1,0 +1,90 @@
+[
+  {
+    "category": "candle",
+    "name": "Little Pumpkin Ghost",
+    "itemNo": "LNV-CND-D0F5E24F",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "previousImage": "assets/candles/candles-086.webp",
+    "sourceFile": "5.png",
+    "sha256": "dde508f3788aea3c327f723191d29acf152d09bbcc22941b29bca200e52bba7f",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Puppy Dreams",
+    "itemNo": "LNV-CND-9533BDDB",
+    "image": "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
+    "packagingImage": "assets/candles/paired/f7043e9f6a3b212501a1.png",
+    "previousImage": "assets/candles/candles-084.webp",
+    "sourceFile": "6.png",
+    "sha256": "efbe8eaba2ba33ed22f48aee3d3818b2fd2fdb47b185fade6138200816c50413",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Kitten Daydream",
+    "itemNo": "LNV-CND-13297D04",
+    "image": "assets/candles/standalone/d7fead12effc63071c64.png",
+    "packagingImage": "assets/candles/paired/93a77b5015a7c3857dd5.png",
+    "previousImage": "assets/candles/candles-087.webp",
+    "sourceFile": "7.png",
+    "sha256": "d7fead12effc63071c6460ba8271abbba5427d364ec82a7261a34f64f59c6d8b",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Jellyfish Glass Candle",
+    "itemNo": "LNV-CND-0B1420A3",
+    "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+    "packagingImage": "assets/candles/candles-089.webp",
+    "previousImage": "assets/candles/candles-089.webp",
+    "sourceFile": "8.png",
+    "sha256": "af548d5ba9a0251bccb14f4880d39aeb05f3fce8803492befb3c0bd1f40a6f7d",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Panda Slumber",
+    "itemNo": "LNV-CND-382DB110",
+    "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
+    "packagingImage": "assets/candles/paired/5b236214a19d352a5565.png",
+    "previousImage": "assets/candles/candles-085.webp",
+    "sourceFile": "9.png",
+    "sha256": "d160e808ad7656acaeefdff3281e527c31ede10560b59ceb3349c75c64cd46b9",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Pebble",
+    "itemNo": "LNV-CND-CFFB251F",
+    "image": "assets/candles/standalone/159db9e5fab778fb8824.png",
+    "packagingImage": "assets/candles/candles-088.webp",
+    "previousImage": "assets/candles/candles-088.webp",
+    "sourceFile": "10.png",
+    "sha256": "159db9e5fab778fb882449a7e31baefab046af9b96e7a0b96ee453b1d110e601",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Rice Blossom",
+    "itemNo": "LNV-CND-A94E8956",
+    "image": "assets/candles/standalone/c16e84d4b08163a71109.png",
+    "packagingImage": "assets/candles/candles-038.webp",
+    "previousImage": "assets/candles/standalone/81478e2cf39fa14ce385.png",
+    "sourceFile": "11.png",
+    "sha256": "c16e84d4b08163a7110991351cba2f4f7455486c95ba8fc509c253f0b49edd0a",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  },
+  {
+    "category": "candle",
+    "name": "Cashmere Mist",
+    "itemNo": "LNV-CND-B870C50A",
+    "image": "assets/candles/standalone/5e849d0d38808ac70402.png",
+    "packagingImage": "assets/candles/candles-039.webp",
+    "previousImage": "assets/candles/candles-039.webp",
+    "sourceFile": "12.png",
+    "sha256": "5e849d0d38808ac704022d39e827435b2101bc8caeab68380ff4286913a05900",
+    "upload": "file_00000000910082309ff5676b1081fd07"
+  }
+]

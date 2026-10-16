@@ -1491,7 +1491,7 @@ const scents = [
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-088.webp",
+        "image": "assets/candles/standalone/159db9e5fab778fb8824.png",
         "name": "Ivory Pebble",
         "series": "Pebble Forms",
         "href": "product-lnv-cnd-cffb251f.html?scent=clean-cotton",
@@ -1573,7 +1573,7 @@ const scents = [
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-088.webp",
+        "image": "assets/candles/standalone/159db9e5fab778fb8824.png",
         "name": "Ivory Pebble",
         "series": "Pebble Forms",
         "href": "product-lnv-cnd-cffb251f.html?scent=soft-linen",
@@ -4007,8 +4007,16 @@ const candleProducts = [
   },
   {
     "name": "Jellyfish Glass Candle",
-    "image": "assets/candles/candles-089.webp",
-    "series": "Jellyfish"
+    "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+    "series": "Jellyfish",
+    "legacyImages": [
+      "assets/candles/candles-089.webp"
+    ],
+    "packagingImage": "assets/candles/candles-089.webp",
+    "images": [
+      "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+      "assets/candles/candles-089.webp"
+    ]
   },
   {
     "name": "Birthday Surprise Egg",
@@ -4043,21 +4051,30 @@ const candleProducts = [
   },
   {
     "name": "Ivory Rice Blossom",
-    "image": "assets/candles/standalone/81478e2cf39fa14ce385.png",
+    "image": "assets/candles/standalone/c16e84d4b08163a71109.png",
     "series": "Quiet Domes",
     "legacyImages": [
-      "assets/candles/candles-038.webp"
+      "assets/candles/candles-038.webp",
+      "assets/candles/standalone/81478e2cf39fa14ce385.png"
     ],
     "packagingImage": "assets/candles/candles-038.webp",
     "images": [
-      "assets/candles/standalone/81478e2cf39fa14ce385.png",
+      "assets/candles/standalone/c16e84d4b08163a71109.png",
       "assets/candles/candles-038.webp"
     ]
   },
   {
     "name": "Cashmere Mist",
-    "image": "assets/candles/candles-039.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/5e849d0d38808ac70402.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-039.webp"
+    ],
+    "packagingImage": "assets/candles/candles-039.webp",
+    "images": [
+      "assets/candles/standalone/5e849d0d38808ac70402.png",
+      "assets/candles/candles-039.webp"
+    ]
   },
   {
     "name": "Sage Oolong",
@@ -4594,28 +4611,68 @@ const candleProducts = [
   },
   {
     "name": "Puppy Dreams",
-    "image": "assets/candles/candles-084.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-084.webp"
+    ],
+    "packagingImage": "assets/candles/paired/f7043e9f6a3b212501a1.png",
+    "images": [
+      "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
+      "assets/candles/paired/f7043e9f6a3b212501a1.png"
+    ]
   },
   {
     "name": "Panda Slumber",
-    "image": "assets/candles/candles-085.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-085.webp"
+    ],
+    "packagingImage": "assets/candles/paired/5b236214a19d352a5565.png",
+    "images": [
+      "assets/candles/standalone/d160e808ad7656acaeef.png",
+      "assets/candles/paired/5b236214a19d352a5565.png"
+    ]
   },
   {
     "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/candles-086.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ]
   },
   {
     "name": "Kitten Daydream",
-    "image": "assets/candles/candles-087.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/d7fead12effc63071c64.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-087.webp"
+    ],
+    "packagingImage": "assets/candles/paired/93a77b5015a7c3857dd5.png",
+    "images": [
+      "assets/candles/standalone/d7fead12effc63071c64.png",
+      "assets/candles/paired/93a77b5015a7c3857dd5.png"
+    ]
   },
   {
     "name": "Ivory Pebble",
-    "image": "assets/candles/candles-088.webp",
-    "series": "Pebble Forms"
+    "image": "assets/candles/standalone/159db9e5fab778fb8824.png",
+    "series": "Pebble Forms",
+    "legacyImages": [
+      "assets/candles/candles-088.webp"
+    ],
+    "packagingImage": "assets/candles/candles-088.webp",
+    "images": [
+      "assets/candles/standalone/159db9e5fab778fb8824.png",
+      "assets/candles/candles-088.webp"
+    ]
   }
 ];
 const reedProducts = [
@@ -6530,12 +6587,12 @@ const productPages = {
     "assets/candles/standalone/1d3004493e9cb3cbcf21.png": "product-lnv-cnd-6039213d.html",
     "assets/candles/standalone/6492af01cbbb6169e661.png": "product-lnv-cnd-1587bb24.html",
     "assets/candles/candles-033.webp": "product-lnv-cnd-3f1053f9.html",
-    "assets/candles/candles-089.webp": "product-lnv-cnd-0b1420a3.html",
+    "assets/candles/standalone/af548d5ba9a0251bccb1.png": "product-lnv-cnd-0b1420a3.html",
     "assets/candles/candles-034.webp": "product-lnv-cnd-ee6d247e.html",
     "assets/candles/standalone/a4b969666dce519b8354.png": "product-lnv-cnd-03d3255d.html",
     "assets/candles/standalone/1955de468656656e5d1c.png": "product-lnv-cnd-908bb9eb.html",
-    "assets/candles/standalone/81478e2cf39fa14ce385.png": "product-lnv-cnd-a94e8956.html",
-    "assets/candles/candles-039.webp": "product-lnv-cnd-b870c50a.html",
+    "assets/candles/standalone/c16e84d4b08163a71109.png": "product-lnv-cnd-a94e8956.html",
+    "assets/candles/standalone/5e849d0d38808ac70402.png": "product-lnv-cnd-b870c50a.html",
     "assets/candles/standalone/d5d690296e053af7d4f1.png": "product-lnv-cnd-6872f2be.html",
     "assets/candles/standalone/fe428fed40d350de6a12.png": "product-lnv-cnd-2c0fa029.html",
     "assets/candles/standalone/9d32db279b0d48a889ca.png": "product-lnv-cnd-29e722e6.html",
@@ -6577,11 +6634,11 @@ const productPages = {
     "assets/candles/standalone/31b214292532aa437ef8.png": "product-lnv-cnd-51e684b9.html",
     "assets/candles/standalone/f027f73d9bd7ffa078a9.png": "product-lnv-cnd-681133a8.html",
     "assets/candles/standalone/c7bb37286a562de02e63.png": "product-lnv-cnd-fc69a435.html",
-    "assets/candles/candles-084.webp": "product-lnv-cnd-9533bddb.html",
-    "assets/candles/candles-085.webp": "product-lnv-cnd-382db110.html",
-    "assets/candles/candles-086.webp": "product-lnv-cnd-d0f5e24f.html",
-    "assets/candles/candles-087.webp": "product-lnv-cnd-13297d04.html",
-    "assets/candles/candles-088.webp": "product-lnv-cnd-cffb251f.html"
+    "assets/candles/standalone/efbe8eaba2ba33ed22f4.png": "product-lnv-cnd-9533bddb.html",
+    "assets/candles/standalone/d160e808ad7656acaeef.png": "product-lnv-cnd-382db110.html",
+    "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-cnd-d0f5e24f.html",
+    "assets/candles/standalone/d7fead12effc63071c64.png": "product-lnv-cnd-13297d04.html",
+    "assets/candles/standalone/159db9e5fab778fb8824.png": "product-lnv-cnd-cffb251f.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",

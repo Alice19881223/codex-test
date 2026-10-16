@@ -782,8 +782,16 @@
   },
   {
     "name": "Jellyfish Glass Candle",
-    "image": "assets/candles/candles-089.webp",
-    "series": "Jellyfish"
+    "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+    "series": "Jellyfish",
+    "legacyImages": [
+      "assets/candles/candles-089.webp"
+    ],
+    "packagingImage": "assets/candles/candles-089.webp",
+    "images": [
+      "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+      "assets/candles/candles-089.webp"
+    ]
   },
   {
     "name": "Birthday Surprise Egg",
@@ -818,21 +826,30 @@
   },
   {
     "name": "Ivory Rice Blossom",
-    "image": "assets/candles/standalone/81478e2cf39fa14ce385.png",
+    "image": "assets/candles/standalone/c16e84d4b08163a71109.png",
     "series": "Quiet Domes",
     "legacyImages": [
-      "assets/candles/candles-038.webp"
+      "assets/candles/candles-038.webp",
+      "assets/candles/standalone/81478e2cf39fa14ce385.png"
     ],
     "packagingImage": "assets/candles/candles-038.webp",
     "images": [
-      "assets/candles/standalone/81478e2cf39fa14ce385.png",
+      "assets/candles/standalone/c16e84d4b08163a71109.png",
       "assets/candles/candles-038.webp"
     ]
   },
   {
     "name": "Cashmere Mist",
-    "image": "assets/candles/candles-039.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/5e849d0d38808ac70402.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-039.webp"
+    ],
+    "packagingImage": "assets/candles/candles-039.webp",
+    "images": [
+      "assets/candles/standalone/5e849d0d38808ac70402.png",
+      "assets/candles/candles-039.webp"
+    ]
   },
   {
     "name": "Sage Oolong",
@@ -1369,27 +1386,67 @@
   },
   {
     "name": "Puppy Dreams",
-    "image": "assets/candles/candles-084.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-084.webp"
+    ],
+    "packagingImage": "assets/candles/paired/f7043e9f6a3b212501a1.png",
+    "images": [
+      "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
+      "assets/candles/paired/f7043e9f6a3b212501a1.png"
+    ]
   },
   {
     "name": "Panda Slumber",
-    "image": "assets/candles/candles-085.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-085.webp"
+    ],
+    "packagingImage": "assets/candles/paired/5b236214a19d352a5565.png",
+    "images": [
+      "assets/candles/standalone/d160e808ad7656acaeef.png",
+      "assets/candles/paired/5b236214a19d352a5565.png"
+    ]
   },
   {
     "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/candles-086.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ]
   },
   {
     "name": "Kitten Daydream",
-    "image": "assets/candles/candles-087.webp",
-    "series": "Little Dreamers"
+    "image": "assets/candles/standalone/d7fead12effc63071c64.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-087.webp"
+    ],
+    "packagingImage": "assets/candles/paired/93a77b5015a7c3857dd5.png",
+    "images": [
+      "assets/candles/standalone/d7fead12effc63071c64.png",
+      "assets/candles/paired/93a77b5015a7c3857dd5.png"
+    ]
   },
   {
     "name": "Ivory Pebble",
-    "image": "assets/candles/candles-088.webp",
-    "series": "Pebble Forms"
+    "image": "assets/candles/standalone/159db9e5fab778fb8824.png",
+    "series": "Pebble Forms",
+    "legacyImages": [
+      "assets/candles/candles-088.webp"
+    ],
+    "packagingImage": "assets/candles/candles-088.webp",
+    "images": [
+      "assets/candles/standalone/159db9e5fab778fb8824.png",
+      "assets/candles/candles-088.webp"
+    ]
   }
 ]

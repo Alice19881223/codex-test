@@ -1159,5 +1159,29 @@
   },
   "assets/candles/standalone/d5d690296e053af7d4f1.png": {
     "palette": "sage"
+  },
+  "assets/candles/standalone/dde508f3788aea3c327f.png": {
+    "palette": "amber"
+  },
+  "assets/candles/standalone/efbe8eaba2ba33ed22f4.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/d7fead12effc63071c64.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/af548d5ba9a0251bccb1.png": {
+    "palette": "sage"
+  },
+  "assets/candles/standalone/d160e808ad7656acaeef.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/159db9e5fab778fb8824.png": {
+    "palette": "ivory"
+  },
+  "assets/candles/standalone/c16e84d4b08163a71109.png": {
+    "palette": "sand"
+  },
+  "assets/candles/standalone/5e849d0d38808ac70402.png": {
+    "palette": "sand"
   }
 }
