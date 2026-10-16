@@ -79,6 +79,13 @@ for cat,rows in catalogues.items():
  for product in rows:
   ref=item_no(cat,product['image']);assigned=product['assignedScent']
   assert assignments[ref]['scent']==assigned and assigned in scent_lookup
+  from product_records import product_url
+  product_html=(stage/product_url(cat,product['image'])).read_text()
+  option_html=re.search(r'<select id="product-fragrance"[^>]*>(.*?)</select>',product_html,re.S)[1]
+  option_ids=re.findall(r'<option value="([^"]+)"',option_html)
+  assert len(option_ids)==len(set(option_ids))==len(scent_lookup) and set(option_ids)==set(scent_lookup),f'{ref}: all fragrance options must be present before scripts load'
+  assert f'value="{assigned}" selected' in option_html,f'{ref}: recommended default missing'
+
   memberships=[s['id'] for s in fragrances if any(m['category']==cat and m['image']==product['image'] for m in s['matches'])]
   assert memberships==[assigned],f'{ref}: inconsistent fragrance membership'
 themes={'Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'}
