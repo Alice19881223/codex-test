@@ -2170,7 +2170,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=vanilla-tonka",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "candle",
@@ -2235,7 +2235,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=caramel-cream",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "candle",
@@ -2486,7 +2486,7 @@ const scents = [
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
         "href": "product-lnv-xms-ec3e85a9.html?scent=fir-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "reed",
@@ -2653,7 +2653,7 @@ const scents = [
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
         "href": "product-lnv-xms-e392fac4.html?scent=gingerbread-vanilla",
-        "catalogueHref": "christmas-collection-3.html"
+        "catalogueHref": "christmas-collection-2.html"
       },
       {
         "category": "christmas",
@@ -3158,7 +3158,7 @@ const scents = [
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood",
-        "catalogueHref": "christmas-collection-2.html"
+        "catalogueHref": "christmas-collection-3.html"
       },
       {
         "category": "reed",

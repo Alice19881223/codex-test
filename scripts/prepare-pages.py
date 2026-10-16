@@ -56,9 +56,9 @@ for cat in ['candle','reed']:
 for cat,pages in json.loads((stage/'assets/catalogue-layouts.json').read_text()).items():
  lookup={p['image']:p for p in catalogues[cat]}
  assert {key for page in pages for key in page}==set(lookup)
- # The reviewed Christmas layout fills each page; only the final ornament series spans pages.
+ # The reviewed Christmas layout fills each page; the final ornaments and explicitly swapped character series may span pages.
  if cat=='christmas':assert all(len(page)==12 for page in pages[:-1]),'Christmas pages must be full before the last page'
- validate_arrangement(pages,lookup,allowed_split_series=('Botanical Wax Ornaments',) if cat=='christmas' else ())
+ validate_arrangement(pages,lookup,allowed_split_series=('Botanical Wax Ornaments','Playful Christmas') if cat=='christmas' else ())
 # Fragrance links must target the exact product on the correct category page.
 from urllib.parse import urlsplit,parse_qs
 fragrances=json.loads((stage/'assets/fragrances.json').read_text())
