@@ -535,7 +535,7 @@
     "matches": [
       {
         "category": "candle",
-        "image": "assets/candles/candles-075.webp",
+        "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
         "name": "Golden Bamboo Ripple",
         "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=lemon-verbena",
@@ -543,7 +543,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-076.webp",
+        "image": "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
         "name": "Sage Bamboo Ripple",
         "series": "Bamboo Grove",
         "href": "product-lnv-cnd-f9db0840.html?scent=lemon-verbena",
@@ -692,7 +692,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-075.webp",
+        "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
         "name": "Golden Bamboo Ripple",
         "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=fig-green-leaves",
@@ -916,7 +916,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-068.webp",
+        "image": "assets/candles/standalone/6f0311ca29677942dd5f.png",
         "name": "Amber Lavender Heirloom",
         "series": "Amber Heirloom",
         "href": "product-lnv-cnd-6e161c20.html?scent=lavender-cedarwood",
@@ -1062,7 +1062,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-068.webp",
+        "image": "assets/candles/standalone/6f0311ca29677942dd5f.png",
         "name": "Amber Lavender Heirloom",
         "series": "Amber Heirloom",
         "href": "product-lnv-cnd-6e161c20.html?scent=lemon-lavender",
@@ -1631,7 +1631,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-032.webp",
+        "image": "assets/candles/standalone/6492af01cbbb6169e661.png",
         "name": "Sea Glass Glow",
         "series": "Sea Glass",
         "href": "product-lnv-cnd-1587bb24.html?scent=sea-salt-driftwood",
@@ -1705,7 +1705,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-075.webp",
+        "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
         "name": "Golden Bamboo Ripple",
         "series": "Bamboo Grove",
         "href": "product-lnv-cnd-870785b5.html?scent=bamboo-white-florals",
@@ -1713,7 +1713,7 @@
       },
       {
         "category": "candle",
-        "image": "assets/candles/candles-076.webp",
+        "image": "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
         "name": "Sage Bamboo Ripple",
         "series": "Bamboo Grove",
         "href": "product-lnv-cnd-f9db0840.html?scent=bamboo-white-florals",

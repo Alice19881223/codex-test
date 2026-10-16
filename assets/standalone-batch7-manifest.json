@@ -1,0 +1,222 @@
+[
+  {
+    "category": "candle",
+    "name": "Slate Speckle",
+    "itemNo": "LNV-CND-2B6E0FFE",
+    "image": "assets/candles/standalone/556717fc8969681d3e0a.png",
+    "packagingImage": "assets/candles/candles-077.webp",
+    "previousImage": "assets/candles/candles-077.webp",
+    "sourceFile": "1.png",
+    "sha256": "556717fc8969681d3e0aa0681ca223c0d28c0881baaf91e452cd13058de25962",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Smoke & Glass",
+    "itemNo": "LNV-CND-20D9446E",
+    "image": "assets/candles/standalone/f6b477f0c3b990fbeb88.png",
+    "packagingImage": "assets/candles/candles-066.webp",
+    "previousImage": "assets/candles/candles-066.webp",
+    "sourceFile": "2.png",
+    "sha256": "f6b477f0c3b990fbeb88aece28eb0e7d554641cc5e00b5fc2e3a5012a99a4861",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Champagne Lustre",
+    "itemNo": "LNV-CND-F4FEAF59",
+    "image": "assets/candles/standalone/0aa8c97412903d87ae90.png",
+    "packagingImage": "assets/candles/candles-006.webp",
+    "previousImage": "assets/candles/candles-006.webp",
+    "sourceFile": "3.png",
+    "sha256": "0aa8c97412903d87ae90bdc64de4e44aa6e5d24ba6abd841315be158d9c0296d",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Golden Bamboo Ripple",
+    "itemNo": "LNV-CND-870785B5",
+    "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
+    "packagingImage": "assets/candles/candles-075.webp",
+    "previousImage": "assets/candles/candles-075.webp",
+    "sourceFile": "4.png",
+    "sha256": "dfc3ae74dada1434df0a11ec264287177f120ad5e41b39a72f69ba5055fe41da",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Sea Glass Glow",
+    "itemNo": "LNV-CND-1587BB24",
+    "image": "assets/candles/standalone/6492af01cbbb6169e661.png",
+    "packagingImage": "assets/candles/candles-032.webp",
+    "previousImage": "assets/candles/candles-032.webp",
+    "sourceFile": "5.png",
+    "sha256": "6492af01cbbb6169e6610ccdfbd87c9861301dc238ca9b1bc9dc4c479145e22e",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Mocha Serenity",
+    "itemNo": "LNV-CND-03D3255D",
+    "image": "assets/candles/standalone/a4b969666dce519b8354.png",
+    "packagingImage": "assets/candles/candles-036.webp",
+    "previousImage": "assets/candles/candles-036.webp",
+    "sourceFile": "6.png",
+    "sha256": "a4b969666dce519b8354e91efb2ea7bf56ab123c61c8fb508d8625e54eba3d5d",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Blush Daydream",
+    "itemNo": "LNV-CND-908BB9EB",
+    "image": "assets/candles/standalone/1955de468656656e5d1c.png",
+    "packagingImage": "assets/candles/candles-037.webp",
+    "previousImage": "assets/candles/candles-037.webp",
+    "sourceFile": "7.png",
+    "sha256": "1955de468656656e5d1ce379af27b7ccce578a0870e5db9a905b6d7fbb7c35c7",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Snow Muse",
+    "itemNo": "LNV-CND-FC69A435",
+    "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
+    "packagingImage": "assets/candles/candles-083.webp",
+    "previousImage": "assets/candles/candles-083.webp",
+    "sourceFile": "8.png",
+    "sha256": "c7bb37286a562de02e63fc06af5988f5bf91822537a48550cfb8a2b7280b47b7",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Amber Lavender Heirloom",
+    "itemNo": "LNV-CND-6E161C20",
+    "image": "assets/candles/standalone/6f0311ca29677942dd5f.png",
+    "packagingImage": "assets/candles/candles-068.webp",
+    "previousImage": "assets/candles/candles-068.webp",
+    "sourceFile": "9.png",
+    "sha256": "6f0311ca29677942dd5f20d9be3cfb76bae83e4d58e9ce442fd3276ac829ccac",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Amber & Glass",
+    "itemNo": "LNV-CND-4918CA83",
+    "image": "assets/candles/standalone/91bb101caae6a5c2663e.png",
+    "packagingImage": "assets/candles/candles-067.webp",
+    "previousImage": "assets/candles/candles-067.webp",
+    "sourceFile": "10.png",
+    "sha256": "91bb101caae6a5c2663ec1710a55e73da5ff6155084d92ec7ef8154f8d144297",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Terracotta Muse",
+    "itemNo": "LNV-CND-51E684B9",
+    "image": "assets/candles/standalone/31b214292532aa437ef8.png",
+    "packagingImage": "assets/candles/candles-081.webp",
+    "previousImage": "assets/candles/candles-081.webp",
+    "sourceFile": "11.png",
+    "sha256": "31b214292532aa437ef816304d9ac9add4f5a43eac83dfe94537751eaf552cfa",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Muse",
+    "itemNo": "LNV-CND-681133A8",
+    "image": "assets/candles/standalone/f027f73d9bd7ffa078a9.png",
+    "packagingImage": "assets/candles/candles-082.webp",
+    "previousImage": "assets/candles/candles-082.webp",
+    "sourceFile": "12.png",
+    "sha256": "f027f73d9bd7ffa078a9dafa342c3be7369e0506c768e89bceb8742ccff5a8fe",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Rice Blossom",
+    "itemNo": "LNV-CND-A94E8956",
+    "image": "assets/candles/standalone/81478e2cf39fa14ce385.png",
+    "packagingImage": "assets/candles/candles-038.webp",
+    "previousImage": "assets/candles/candles-038.webp",
+    "sourceFile": "13.png",
+    "sha256": "81478e2cf39fa14ce385b45310e788ec825bf91a413faf09f45e04533a7dd57b",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Noir Soft Square",
+    "itemNo": "LNV-CND-1ABBB5E4",
+    "image": "assets/candles/standalone/4349a13679c7cfb1a734.png",
+    "packagingImage": "assets/candles/candles-080.webp",
+    "previousImage": "assets/candles/candles-080.webp",
+    "sourceFile": "14.png",
+    "sha256": "4349a13679c7cfb1a734dfbe92b52192261288d1e99d0a5884974c385a1a4a42",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Graphite Lustre",
+    "itemNo": "LNV-CND-DA0DFDB4",
+    "image": "assets/candles/standalone/5bf2a69080deb25af267.png",
+    "packagingImage": "assets/candles/candles-007.webp",
+    "previousImage": "assets/candles/candles-007.webp",
+    "sourceFile": "15.png",
+    "sha256": "5bf2a69080deb25af2677e1229de4d74cfa9427bbfee91d9246c7dd39799d721",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Speckle",
+    "itemNo": "LNV-CND-F1F08177",
+    "image": "assets/candles/standalone/af36ed53c560a3fdcc5d.png",
+    "packagingImage": "assets/candles/candles-078.webp",
+    "previousImage": "assets/candles/candles-078.webp",
+    "sourceFile": "16.png",
+    "sha256": "af36ed53c560a3fdcc5d4df86478ccc95d691bb53b56768364dd36c877fdeac1",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Ivory Soft Square",
+    "itemNo": "LNV-CND-C8706653",
+    "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
+    "packagingImage": "assets/candles/candles-079.webp",
+    "previousImage": "assets/candles/candles-079.webp",
+    "sourceFile": "17.png",
+    "sha256": "770c18767b941a79a4e77cd5d2824894f720dbfabe3fd78424299078965d49c3",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Gilded Azure",
+    "itemNo": "LNV-CND-6039213D",
+    "image": "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
+    "packagingImage": "assets/candles/candles-031.webp",
+    "previousImage": "assets/candles/candles-031.webp",
+    "sourceFile": "18.png",
+    "sha256": "1d3004493e9cb3cbcf2118aa964f19069d6a855c895f709ea0962448a9ed5293",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Sage Bamboo Ripple",
+    "itemNo": "LNV-CND-F9DB0840",
+    "image": "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
+    "packagingImage": "assets/candles/candles-076.webp",
+    "previousImage": "assets/candles/candles-076.webp",
+    "sourceFile": "19.png",
+    "sha256": "24ee05d2fc0410a7edf9f3d06d1d7607d25da271855dec76386dd0664f73ae70",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  },
+  {
+    "category": "candle",
+    "name": "Sage Oolong",
+    "itemNo": "LNV-CND-6872F2BE",
+    "image": "assets/candles/standalone/d5d690296e053af7d4f1.png",
+    "packagingImage": "assets/candles/candles-040.webp",
+    "previousImage": "assets/candles/candles-040.webp",
+    "sourceFile": "20.png",
+    "sha256": "d5d690296e053af7d4f1f8af1e67558295ef53a1e87e809e1b2b2557857d095c",
+    "upload": "file_00000000b374820e968371353d8c3fec"
+  }
+]

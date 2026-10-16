@@ -440,13 +440,29 @@
   },
   {
     "name": "Champagne Lustre",
-    "image": "assets/candles/candles-006.webp",
-    "series": "Lustre"
+    "image": "assets/candles/standalone/0aa8c97412903d87ae90.png",
+    "series": "Lustre",
+    "legacyImages": [
+      "assets/candles/candles-006.webp"
+    ],
+    "packagingImage": "assets/candles/candles-006.webp",
+    "images": [
+      "assets/candles/standalone/0aa8c97412903d87ae90.png",
+      "assets/candles/candles-006.webp"
+    ]
   },
   {
     "name": "Graphite Lustre",
-    "image": "assets/candles/candles-007.webp",
-    "series": "Lustre"
+    "image": "assets/candles/standalone/5bf2a69080deb25af267.png",
+    "series": "Lustre",
+    "legacyImages": [
+      "assets/candles/candles-007.webp"
+    ],
+    "packagingImage": "assets/candles/candles-007.webp",
+    "images": [
+      "assets/candles/standalone/5bf2a69080deb25af267.png",
+      "assets/candles/candles-007.webp"
+    ]
   },
   {
     "name": "Woven Hearth",
@@ -725,13 +741,29 @@
   },
   {
     "name": "Gilded Azure",
-    "image": "assets/candles/candles-031.webp",
-    "series": "Gilded Skies"
+    "image": "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
+    "series": "Gilded Skies",
+    "legacyImages": [
+      "assets/candles/candles-031.webp"
+    ],
+    "packagingImage": "assets/candles/candles-031.webp",
+    "images": [
+      "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
+      "assets/candles/candles-031.webp"
+    ]
   },
   {
     "name": "Sea Glass Glow",
-    "image": "assets/candles/candles-032.webp",
-    "series": "Sea Glass"
+    "image": "assets/candles/standalone/6492af01cbbb6169e661.png",
+    "series": "Sea Glass",
+    "legacyImages": [
+      "assets/candles/candles-032.webp"
+    ],
+    "packagingImage": "assets/candles/candles-032.webp",
+    "images": [
+      "assets/candles/standalone/6492af01cbbb6169e661.png",
+      "assets/candles/candles-032.webp"
+    ]
   },
   {
     "name": "Jellyfish Egg Candle",
@@ -760,18 +792,42 @@
   },
   {
     "name": "Mocha Serenity",
-    "image": "assets/candles/candles-036.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/a4b969666dce519b8354.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-036.webp"
+    ],
+    "packagingImage": "assets/candles/candles-036.webp",
+    "images": [
+      "assets/candles/standalone/a4b969666dce519b8354.png",
+      "assets/candles/candles-036.webp"
+    ]
   },
   {
     "name": "Blush Daydream",
-    "image": "assets/candles/candles-037.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/1955de468656656e5d1c.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-037.webp"
+    ],
+    "packagingImage": "assets/candles/candles-037.webp",
+    "images": [
+      "assets/candles/standalone/1955de468656656e5d1c.png",
+      "assets/candles/candles-037.webp"
+    ]
   },
   {
     "name": "Ivory Rice Blossom",
-    "image": "assets/candles/candles-038.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/81478e2cf39fa14ce385.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-038.webp"
+    ],
+    "packagingImage": "assets/candles/candles-038.webp",
+    "images": [
+      "assets/candles/standalone/81478e2cf39fa14ce385.png",
+      "assets/candles/candles-038.webp"
+    ]
   },
   {
     "name": "Cashmere Mist",
@@ -780,8 +836,16 @@
   },
   {
     "name": "Sage Oolong",
-    "image": "assets/candles/candles-040.webp",
-    "series": "Quiet Domes"
+    "image": "assets/candles/standalone/d5d690296e053af7d4f1.png",
+    "series": "Quiet Domes",
+    "legacyImages": [
+      "assets/candles/candles-040.webp"
+    ],
+    "packagingImage": "assets/candles/candles-040.webp",
+    "images": [
+      "assets/candles/standalone/d5d690296e053af7d4f1.png",
+      "assets/candles/candles-040.webp"
+    ]
   },
   {
     "name": "His Quiet Moment",
@@ -1110,18 +1174,42 @@
   },
   {
     "name": "Smoke & Glass",
-    "image": "assets/candles/candles-066.webp",
-    "series": "Essential Glass"
+    "image": "assets/candles/standalone/f6b477f0c3b990fbeb88.png",
+    "series": "Essential Glass",
+    "legacyImages": [
+      "assets/candles/candles-066.webp"
+    ],
+    "packagingImage": "assets/candles/candles-066.webp",
+    "images": [
+      "assets/candles/standalone/f6b477f0c3b990fbeb88.png",
+      "assets/candles/candles-066.webp"
+    ]
   },
   {
     "name": "Amber & Glass",
-    "image": "assets/candles/candles-067.webp",
-    "series": "Essential Glass"
+    "image": "assets/candles/standalone/91bb101caae6a5c2663e.png",
+    "series": "Essential Glass",
+    "legacyImages": [
+      "assets/candles/candles-067.webp"
+    ],
+    "packagingImage": "assets/candles/candles-067.webp",
+    "images": [
+      "assets/candles/standalone/91bb101caae6a5c2663e.png",
+      "assets/candles/candles-067.webp"
+    ]
   },
   {
     "name": "Amber Lavender Heirloom",
-    "image": "assets/candles/candles-068.webp",
-    "series": "Amber Heirloom"
+    "image": "assets/candles/standalone/6f0311ca29677942dd5f.png",
+    "series": "Amber Heirloom",
+    "legacyImages": [
+      "assets/candles/candles-068.webp"
+    ],
+    "packagingImage": "assets/candles/candles-068.webp",
+    "images": [
+      "assets/candles/standalone/6f0311ca29677942dd5f.png",
+      "assets/candles/candles-068.webp"
+    ]
   },
   {
     "name": "Golden Blossom",
@@ -1164,48 +1252,120 @@
   },
   {
     "name": "Golden Bamboo Ripple",
-    "image": "assets/candles/candles-075.webp",
-    "series": "Bamboo Grove"
+    "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
+    "series": "Bamboo Grove",
+    "legacyImages": [
+      "assets/candles/candles-075.webp"
+    ],
+    "packagingImage": "assets/candles/candles-075.webp",
+    "images": [
+      "assets/candles/standalone/dfc3ae74dada1434df0a.png",
+      "assets/candles/candles-075.webp"
+    ]
   },
   {
     "name": "Sage Bamboo Ripple",
-    "image": "assets/candles/candles-076.webp",
-    "series": "Bamboo Grove"
+    "image": "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
+    "series": "Bamboo Grove",
+    "legacyImages": [
+      "assets/candles/candles-076.webp"
+    ],
+    "packagingImage": "assets/candles/candles-076.webp",
+    "images": [
+      "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
+      "assets/candles/candles-076.webp"
+    ]
   },
   {
     "name": "Slate Speckle",
-    "image": "assets/candles/candles-077.webp",
-    "series": "Speckled Forms"
+    "image": "assets/candles/standalone/556717fc8969681d3e0a.png",
+    "series": "Speckled Forms",
+    "legacyImages": [
+      "assets/candles/candles-077.webp"
+    ],
+    "packagingImage": "assets/candles/candles-077.webp",
+    "images": [
+      "assets/candles/standalone/556717fc8969681d3e0a.png",
+      "assets/candles/candles-077.webp"
+    ]
   },
   {
     "name": "Ivory Speckle",
-    "image": "assets/candles/candles-078.webp",
-    "series": "Speckled Forms"
+    "image": "assets/candles/standalone/af36ed53c560a3fdcc5d.png",
+    "series": "Speckled Forms",
+    "legacyImages": [
+      "assets/candles/candles-078.webp"
+    ],
+    "packagingImage": "assets/candles/candles-078.webp",
+    "images": [
+      "assets/candles/standalone/af36ed53c560a3fdcc5d.png",
+      "assets/candles/candles-078.webp"
+    ]
   },
   {
     "name": "Ivory Soft Square",
-    "image": "assets/candles/candles-079.webp",
-    "series": "Soft Squares"
+    "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
+    "series": "Soft Squares",
+    "legacyImages": [
+      "assets/candles/candles-079.webp"
+    ],
+    "packagingImage": "assets/candles/candles-079.webp",
+    "images": [
+      "assets/candles/standalone/770c18767b941a79a4e7.png",
+      "assets/candles/candles-079.webp"
+    ]
   },
   {
     "name": "Noir Soft Square",
-    "image": "assets/candles/candles-080.webp",
-    "series": "Soft Squares"
+    "image": "assets/candles/standalone/4349a13679c7cfb1a734.png",
+    "series": "Soft Squares",
+    "legacyImages": [
+      "assets/candles/candles-080.webp"
+    ],
+    "packagingImage": "assets/candles/candles-080.webp",
+    "images": [
+      "assets/candles/standalone/4349a13679c7cfb1a734.png",
+      "assets/candles/candles-080.webp"
+    ]
   },
   {
     "name": "Terracotta Muse",
-    "image": "assets/candles/candles-081.webp",
-    "series": "Classical Relief"
+    "image": "assets/candles/standalone/31b214292532aa437ef8.png",
+    "series": "Classical Relief",
+    "legacyImages": [
+      "assets/candles/candles-081.webp"
+    ],
+    "packagingImage": "assets/candles/candles-081.webp",
+    "images": [
+      "assets/candles/standalone/31b214292532aa437ef8.png",
+      "assets/candles/candles-081.webp"
+    ]
   },
   {
     "name": "Ivory Muse",
-    "image": "assets/candles/candles-082.webp",
-    "series": "Classical Relief"
+    "image": "assets/candles/standalone/f027f73d9bd7ffa078a9.png",
+    "series": "Classical Relief",
+    "legacyImages": [
+      "assets/candles/candles-082.webp"
+    ],
+    "packagingImage": "assets/candles/candles-082.webp",
+    "images": [
+      "assets/candles/standalone/f027f73d9bd7ffa078a9.png",
+      "assets/candles/candles-082.webp"
+    ]
   },
   {
     "name": "Snow Muse",
-    "image": "assets/candles/candles-083.webp",
-    "series": "Classical Relief"
+    "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
+    "series": "Classical Relief",
+    "legacyImages": [
+      "assets/candles/candles-083.webp"
+    ],
+    "packagingImage": "assets/candles/candles-083.webp",
+    "images": [
+      "assets/candles/standalone/c7bb37286a562de02e63.png",
+      "assets/candles/candles-083.webp"
+    ]
   },
   {
     "name": "Puppy Dreams",
