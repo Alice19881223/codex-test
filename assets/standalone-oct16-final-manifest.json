@@ -1,0 +1,57 @@
+[
+  {
+    "category": "reed",
+    "name": "Fig Reserve",
+    "itemNo": "LNV-RD-8E5C34E4",
+    "image": "assets/reeds/standalone/79b6663ac0152009cd81.png",
+    "packagingImage": "assets/reeds/reeds-109.webp",
+    "previousImage": "assets/reeds/reeds-109.webp",
+    "sourceFile": "1.png",
+    "sha256": "79b6663ac0152009cd8125b1771629d8aca21a21a0df25b218c403a8d323d5fb",
+    "upload": "file_0000000006048243915058bda5517e28"
+  },
+  {
+    "category": "reed",
+    "name": "Peony Reserve",
+    "itemNo": "LNV-RD-8F40C037",
+    "image": "assets/reeds/standalone/c592a458daf5a9c2c574.png",
+    "packagingImage": "assets/reeds/reeds-113.webp",
+    "previousImage": "assets/reeds/reeds-113.webp",
+    "sourceFile": "2.png",
+    "sha256": "c592a458daf5a9c2c5745f76751e93394145afb162e56153d8be16a3a6524e80",
+    "upload": "file_0000000006048243915058bda5517e28"
+  },
+  {
+    "category": "reed",
+    "name": "Botanical Leaf",
+    "itemNo": "LNV-RD-38069535",
+    "image": "assets/reeds/standalone/c821eba660237cc578b0.png",
+    "packagingImage": "assets/reeds/reeds-117.webp",
+    "previousImage": "assets/reeds/reeds-117.webp",
+    "sourceFile": "3.png",
+    "sha256": "c821eba660237cc578b00e1295e348a6ca8cf7389ac29e75ac37735b3c8d4be3",
+    "upload": "file_0000000006048243915058bda5517e28"
+  },
+  {
+    "category": "reed",
+    "name": "Jasmine Reserve",
+    "itemNo": "LNV-RD-87093553",
+    "image": "assets/reeds/standalone/aab336d571bb3ae38f55.png",
+    "packagingImage": "assets/reeds/reeds-115.webp",
+    "previousImage": "assets/reeds/reeds-115.webp",
+    "sourceFile": "4.png",
+    "sha256": "aab336d571bb3ae38f5553faaca107c2b0f175db1cfd70f6fb44712a336db228",
+    "upload": "file_0000000006048243915058bda5517e28"
+  },
+  {
+    "category": "reed",
+    "name": "Damask Rose Reserve",
+    "itemNo": "LNV-RD-D2E2464D",
+    "image": "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
+    "packagingImage": "assets/reeds/reeds-111.webp",
+    "previousImage": "assets/reeds/reeds-111.webp",
+    "sourceFile": "5.png",
+    "sha256": "c8492d4ed292f4f84eed6826a8f0c1357fc4b8c660f8527a07a677bc90d53788",
+    "upload": "file_0000000006048243915058bda5517e28"
+  }
+]

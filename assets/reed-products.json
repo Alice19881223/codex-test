@@ -529,8 +529,16 @@
   },
   {
     "name": "Fig Reserve",
-    "image": "assets/reeds/reeds-109.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/79b6663ac0152009cd81.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-109.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-109.webp",
+    "images": [
+      "assets/reeds/standalone/79b6663ac0152009cd81.png",
+      "assets/reeds/reeds-109.webp"
+    ]
   },
   {
     "name": "Ocean Reserve",
@@ -544,8 +552,16 @@
   },
   {
     "name": "Damask Rose Reserve",
-    "image": "assets/reeds/reeds-111.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-111.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-111.webp",
+    "images": [
+      "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
+      "assets/reeds/reeds-111.webp"
+    ]
   },
   {
     "name": "Sandalwood Reserve",
@@ -559,8 +575,16 @@
   },
   {
     "name": "Peony Reserve",
-    "image": "assets/reeds/reeds-113.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/c592a458daf5a9c2c574.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-113.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-113.webp",
+    "images": [
+      "assets/reeds/standalone/c592a458daf5a9c2c574.png",
+      "assets/reeds/reeds-113.webp"
+    ]
   },
   {
     "name": "White Tea Reserve",
@@ -574,8 +598,16 @@
   },
   {
     "name": "Jasmine Reserve",
-    "image": "assets/reeds/reeds-115.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/aab336d571bb3ae38f55.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-115.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-115.webp",
+    "images": [
+      "assets/reeds/standalone/aab336d571bb3ae38f55.png",
+      "assets/reeds/reeds-115.webp"
+    ]
   },
   {
     "name": "Botanical Branch",
@@ -592,8 +624,16 @@
   },
   {
     "name": "Botanical Leaf",
-    "image": "assets/reeds/reeds-117.webp",
-    "series": "Botanical Infusions"
+    "image": "assets/reeds/standalone/c821eba660237cc578b0.png",
+    "series": "Botanical Infusions",
+    "legacyImages": [
+      "assets/reeds/reeds-117.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-117.webp",
+    "images": [
+      "assets/reeds/standalone/c821eba660237cc578b0.png",
+      "assets/reeds/reeds-117.webp"
+    ]
   },
   {
     "name": "Botanical Citrus",

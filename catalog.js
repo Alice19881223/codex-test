@@ -103,7 +103,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-111.webp",
+        "image": "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
         "name": "Damask Rose Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-d2e2464d.html?scent=rose-green-leaves",
@@ -274,7 +274,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-115.webp",
+        "image": "assets/reeds/standalone/aab336d571bb3ae38f55.png",
         "name": "Jasmine Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-87093553.html?scent=jasmine-orange-blossom",
@@ -692,7 +692,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-109.webp",
+        "image": "assets/reeds/standalone/79b6663ac0152009cd81.png",
         "name": "Fig Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-8e5c34e4.html?scent=fig-green-leaves",
@@ -773,7 +773,7 @@ const scents = [
       },
       {
         "category": "reed",
-        "image": "assets/reeds/reeds-111.webp",
+        "image": "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
         "name": "Damask Rose Reserve",
         "series": "Reserve Glass",
         "href": "product-lnv-rd-d2e2464d.html?scent=blackcurrant-rose",
@@ -5206,8 +5206,16 @@ const reedProducts = [
   },
   {
     "name": "Fig Reserve",
-    "image": "assets/reeds/reeds-109.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/79b6663ac0152009cd81.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-109.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-109.webp",
+    "images": [
+      "assets/reeds/standalone/79b6663ac0152009cd81.png",
+      "assets/reeds/reeds-109.webp"
+    ]
   },
   {
     "name": "Ocean Reserve",
@@ -5221,8 +5229,16 @@ const reedProducts = [
   },
   {
     "name": "Damask Rose Reserve",
-    "image": "assets/reeds/reeds-111.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-111.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-111.webp",
+    "images": [
+      "assets/reeds/standalone/c8492d4ed292f4f84eed.png",
+      "assets/reeds/reeds-111.webp"
+    ]
   },
   {
     "name": "Sandalwood Reserve",
@@ -5236,8 +5252,16 @@ const reedProducts = [
   },
   {
     "name": "Peony Reserve",
-    "image": "assets/reeds/reeds-113.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/c592a458daf5a9c2c574.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-113.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-113.webp",
+    "images": [
+      "assets/reeds/standalone/c592a458daf5a9c2c574.png",
+      "assets/reeds/reeds-113.webp"
+    ]
   },
   {
     "name": "White Tea Reserve",
@@ -5251,8 +5275,16 @@ const reedProducts = [
   },
   {
     "name": "Jasmine Reserve",
-    "image": "assets/reeds/reeds-115.webp",
-    "series": "Reserve Glass"
+    "image": "assets/reeds/standalone/aab336d571bb3ae38f55.png",
+    "series": "Reserve Glass",
+    "legacyImages": [
+      "assets/reeds/reeds-115.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-115.webp",
+    "images": [
+      "assets/reeds/standalone/aab336d571bb3ae38f55.png",
+      "assets/reeds/reeds-115.webp"
+    ]
   },
   {
     "name": "Botanical Branch",
@@ -5269,8 +5301,16 @@ const reedProducts = [
   },
   {
     "name": "Botanical Leaf",
-    "image": "assets/reeds/reeds-117.webp",
-    "series": "Botanical Infusions"
+    "image": "assets/reeds/standalone/c821eba660237cc578b0.png",
+    "series": "Botanical Infusions",
+    "legacyImages": [
+      "assets/reeds/reeds-117.webp"
+    ],
+    "packagingImage": "assets/reeds/reeds-117.webp",
+    "images": [
+      "assets/reeds/standalone/c821eba660237cc578b0.png",
+      "assets/reeds/reeds-117.webp"
+    ]
   },
   {
     "name": "Botanical Citrus",
@@ -6687,15 +6727,15 @@ const productPages = {
     "assets/companions/eb66283958ad1067c60b.webp": "product-lnv-rd-91404dad.html",
     "assets/companions/7ca9a742e8adc548081d.webp": "product-lnv-rd-4810afdd.html",
     "assets/companions/47d5d503511846e0926c.webp": "product-lnv-rd-65e320ea.html",
-    "assets/reeds/reeds-109.webp": "product-lnv-rd-8e5c34e4.html",
+    "assets/reeds/standalone/79b6663ac0152009cd81.png": "product-lnv-rd-8e5c34e4.html",
     "assets/companions/1b5ead3137dec1267c9b.webp": "product-lnv-rd-db3ec78c.html",
-    "assets/reeds/reeds-111.webp": "product-lnv-rd-d2e2464d.html",
+    "assets/reeds/standalone/c8492d4ed292f4f84eed.png": "product-lnv-rd-d2e2464d.html",
     "assets/companions/f034578ed7703c8e8eda.webp": "product-lnv-rd-10bb8c1a.html",
-    "assets/reeds/reeds-113.webp": "product-lnv-rd-8f40c037.html",
+    "assets/reeds/standalone/c592a458daf5a9c2c574.png": "product-lnv-rd-8f40c037.html",
     "assets/companions/97b297ac3d3b797368fa.webp": "product-lnv-rd-b0c8dd88.html",
-    "assets/reeds/reeds-115.webp": "product-lnv-rd-87093553.html",
+    "assets/reeds/standalone/aab336d571bb3ae38f55.png": "product-lnv-rd-87093553.html",
     "assets/reeds/standalone/df81d60110cf03605d3b.png": "product-lnv-rd-ac44abb7.html",
-    "assets/reeds/reeds-117.webp": "product-lnv-rd-38069535.html",
+    "assets/reeds/standalone/c821eba660237cc578b0.png": "product-lnv-rd-38069535.html",
     "assets/companions/9a2ccca3988e0e6b8bbb.webp": "product-lnv-rd-94b28ee9.html",
     "assets/companions/27e4b122a9b559ae799d.webp": "product-lnv-rd-63cb0545.html",
     "assets/companions/d83b888e65240d5a7203.webp": "product-lnv-rd-8620180a.html",

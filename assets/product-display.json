@@ -1183,5 +1183,20 @@
   },
   "assets/candles/standalone/5e849d0d38808ac70402.png": {
     "palette": "sand"
+  },
+  "assets/reeds/standalone/79b6663ac0152009cd81.png": {
+    "palette": "sand"
+  },
+  "assets/reeds/standalone/c592a458daf5a9c2c574.png": {
+    "palette": "blush"
+  },
+  "assets/reeds/standalone/c821eba660237cc578b0.png": {
+    "palette": "sand"
+  },
+  "assets/reeds/standalone/aab336d571bb3ae38f55.png": {
+    "palette": "sage"
+  },
+  "assets/reeds/standalone/c8492d4ed292f4f84eed.png": {
+    "palette": "burgundy"
   }
 }
