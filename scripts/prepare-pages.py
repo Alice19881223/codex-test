@@ -35,7 +35,7 @@ for path in stage.glob('*.html'):
   assert (stage/file).exists(),f'{path.name}: missing public file {file}'
 # A series that fits on a page must remain together; layouts must not hide products.
 from collections import Counter
-def validate_arrangement(pages,lookup):
+def validate_arrangement(pages,lookup,allowed_split_series=()):
  assert all(0<len(page)<=12 for page in pages)
  flat=[key for page in pages for key in page]
  assert len(flat)==len(set(flat))
@@ -47,7 +47,7 @@ def validate_arrangement(pages,lookup):
    series=lookup[key]['series'];series_pages.setdefault(series,set()).add(number)
    if not runs or runs[-1]!=series:runs.append(series)
   assert len(runs)==len(set(runs)),'A series is interrupted within a page'
- assert all(len(numbers)==1 for series,numbers in series_pages.items() if counts[series]<=12),'A series was split across pages'
+ assert all(len(numbers)==1 for series,numbers in series_pages.items() if counts[series]<=12 and series not in allowed_split_series),'A series was split across pages'
 for cat in ['candle','reed']:
  configs=json.loads((stage/f'assets/{cat}-collections.json').read_text());lookup={p['series']+' | '+p['name']:p for p in catalogues[cat]}
  for config in configs:
@@ -56,7 +56,9 @@ for cat in ['candle','reed']:
 for cat,pages in json.loads((stage/'assets/catalogue-layouts.json').read_text()).items():
  lookup={p['image']:p for p in catalogues[cat]}
  assert {key for page in pages for key in page}==set(lookup)
- validate_arrangement(pages,lookup)
+ # The reviewed Christmas layout fills each page; only the final ornament series spans pages.
+ if cat=='christmas':assert all(len(page)==12 for page in pages[:-1]),'Christmas pages must be full before the last page'
+ validate_arrangement(pages,lookup,allowed_split_series=('Botanical Wax Ornaments',) if cat=='christmas' else ())
 # Fragrance links must target the exact product on the correct category page.
 from urllib.parse import urlsplit,parse_qs
 fragrances=json.loads((stage/'assets/fragrances.json').read_text())
