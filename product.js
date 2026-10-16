@@ -16,12 +16,14 @@
  field.value=assigned.id;
  function selectedScent(){return scents.find(s=>s.id===field.value);}
  function updateScent(){
-  const s=selectedScent();$('#product-short-description').textContent=s?s.description:'A thoughtfully presented fragrance design for beautiful everyday spaces.';
+  const s=selectedScent();
+  const character=s?['top','heart','base'].map(stage=>s.character.find(c=>c.source===stage)).filter(Boolean):[];
+  $('#product-short-description').textContent=s?s.description:'A thoughtfully presented fragrance design for beautiful everyday spaces.';
   $('#product-scent-tags').innerHTML=s?s.themes.map(theme=>`<span>${escapeHtml(theme)}</span>`).join(''):'';
   $('#product-key-notes').textContent=s?s.keyNotes.join('. ')+'.':'';
   $('#product-smells-like').textContent=s?`${s.description.split(';')[0]}. A first impression of ${s.top.join(' and ').toLowerCase()} opens into ${s.heart.join(' and ').toLowerCase()}, resting on ${s.base.join(' and ').toLowerCase()}.`:'Choose a fragrance direction above to explore its notes and mood.';
   $('#product-notes').innerHTML=s?notePyramid(s):'';
-  $('#product-character').innerHTML=s?`<h3>Scent Character</h3><div class="scent-character-bar" role="img" aria-label="Illustrative scent character: ${escapeHtml(s.character.map(c=>c.label+' ('+c.source+' notes) '+c.value+'%').join(', '))}">${s.character.map((c,i)=>`<span class="character-tone-${i}" style="width:${c.value}%"></span>`).join('')}</div><ul class="scent-character-legend">${s.character.map((c,i)=>`<li><i class="character-tone-${i}"></i><span>${escapeHtml(c.label)}<em>${escapeHtml(c.source==='heart'?'Heart notes':c.source==='top'?'Top notes':'Base notes')}</em></span> <small>${c.value}%</small></li>`).join('')}</ul><p class="scent-character-note">Illustrative scent impression, not ingredient percentages.</p>`:'';
+  $('#product-character').innerHTML=s?`<h3>Scent Character</h3><div class="scent-character-bar" role="img" aria-label="Illustrative scent character: ${escapeHtml(character.map(c=>c.label+' ('+c.source+' notes) '+c.value+'%').join(', '))}">${character.map((c,i)=>`<span class="character-tone-${i}" style="width:${c.value}%"></span>`).join('')}</div><ul class="scent-character-legend">${character.map((c,i)=>`<li><i class="character-tone-${i}"></i><span>${escapeHtml(c.label)}<em>${escapeHtml(c.source==='heart'?'Heart notes':c.source==='top'?'Top notes':'Base notes')}</em></span> <small>${c.value}%</small></li>`).join('')}</ul><p class="scent-character-note">Illustrative scent impression, not ingredient percentages.</p>`:'';
   $('#product-inspiration').textContent=s?inspirations[s.themes[0]]:'Create a fragrance moment around your brand and the spaces your customers love.';
   $('#product-mood').textContent=s?s.description:'Discuss your intended room, season and gifting occasion with our team.';
   $('#product-spaces').textContent=s?(s.description.split(';')[1]||s.description).trim().replace(/^./,c=>c.toUpperCase()):'Space and atmosphere suggestions follow the selected fragrance direction.';
