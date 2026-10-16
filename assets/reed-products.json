@@ -286,17 +286,17 @@
   },
   {
     "name": "Rain Forest Reed Diffuser",
-    "image": "assets/reeds/reed-03.webp",
+    "image": "assets/reeds/standalone/71b8b741712233d95541.png",
     "series": "Reed diffuser",
-    "packagingImage": "assets/reeds/reed-04.webp",
+    "packagingImage": "assets/reeds/paired/ef92979637b6a7022e66.png",
     "images": [
-      "assets/reeds/reed-03.webp",
-      "assets/reeds/reed-04.webp"
+      "assets/reeds/standalone/71b8b741712233d95541.png",
+      "assets/reeds/paired/ef92979637b6a7022e66.png"
     ],
     "legacyImages": [
-      "assets/reeds/reed-04.webp"
-    ],
-    "alternateView": true
+      "assets/reeds/reed-04.webp",
+      "assets/reeds/reed-03.webp"
+    ]
   },
   {
     "name": "Cold Brew Retreat",
