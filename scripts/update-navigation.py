@@ -53,5 +53,7 @@ for p in Path('.').glob('*.html'):
   s=re.sub(r'<div class="contact-email-actions">.*?</div>','',s,flags=re.S)
   actions='<div class="contact-email-actions">'+''.join(f'<a href="mailto:{email}">{email}<span aria-hidden="true"> ↗</span></a>' for email in emails)+'</div>'
   s=s.replace('</section></main>',actions+'</section></main>',1)
+ # Display the user-supplied copyright wording clearly on every shared footer.
+ s=s.replace('<div class="footer-bottom">© <span id="year"></span> Lanarve. ', '<div class="footer-bottom"><span class="footer-copyright" style="font-size:15px;font-weight:600;color:var(--ink)">copyright@lanarve</span> ')
  s=s.replace('LanXin Ningbo Technology Development Co., Ltd.','Lanarve (Ningbo) Technology Development Co., Ltd.')
  p.write_text(s)
