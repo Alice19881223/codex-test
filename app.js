@@ -11,7 +11,8 @@ function notePyramid(scent){return `<dl class="note-pyramid">${[['Top notes',sce
 document.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());
 dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
 const menu=document.querySelector('.menu-toggle');menu.addEventListener('click',()=>{const open=document.querySelector('header nav').classList.toggle('open');menu.setAttribute('aria-expanded',String(open));});
-document.querySelector('#year').textContent=new Date().getFullYear();
+const yearLabel=document.querySelector('#year');
+if(yearLabel)yearLabel.textContent=new Date().getFullYear();
 const grid=document.querySelector('#catalogue-grid');
 if(grid){
  const category=document.body.dataset.category;
