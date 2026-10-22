@@ -1,0 +1,56 @@
+[
+  {
+    "url": "http://lanarve.com/",
+    "exitCode": 0,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://lanarve.com/",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "http://www.lanarve.com/",
+    "exitCode": 0,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\n\n",
+    "error": ""
+  },
+  {
+    "url": "https://www.lanarve.com/",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "https://www.lanarve.com/contact.html",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "https://www.lanarve.com/robots.txt",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "https://www.lanarve.com/sitemap.xml",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "https://www.lanarve.com/__seo-test-missing-20261022.html",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  },
+  {
+    "url": "https://alice19881223.github.io/codex-test/",
+    "exitCode": 56,
+    "headers": "HTTP/1.1 403 Forbidden\ncontent-length: 16\ncontent-type: text/plain\ndate: Thu, 22 Oct 2026 04:29:36 GMT\nserver: envoy\nconnection: close\n\n",
+    "error": "curl: (56) CONNECT tunnel failed, response 403\n"
+  }
+]

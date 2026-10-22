@@ -1,0 +1,9 @@
+{
+  "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+  "sourceTTFSHA256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+  "woffSHA256": "4ba07089239400a43fcf75f0afd499f87a131a6e19810dd13b13d62b0c7e57c6",
+  "family": "Manrope",
+  "weightRange": "200\u2013800",
+  "license": "SIL Open Font License 1.1",
+  "conversion": "Full variable TTF converted to WOFF with fontTools; no subsetting or glyph changes"
+}

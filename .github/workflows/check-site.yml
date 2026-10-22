@@ -1,0 +1,25 @@
+name: Review static site
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install browser-test dependency
+        run: npm ci
+      - name: Install test browser
+        run: npx playwright install --with-deps chromium
+      - name: Build static output
+        run: npm run build
+      - name: Validate SEO and all local resources
+        run: npm run check
+      - name: Exercise navigation, product options and enquiries
+        run: npm run test:browser

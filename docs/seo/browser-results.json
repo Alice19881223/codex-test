@@ -1,0 +1,17 @@
+{
+  "pageChecks": 26,
+  "viewports": [
+    1440,
+    390
+  ],
+  "fragranceHover": true,
+  "mobileTap": true,
+  "escape": true,
+  "staticProductWithoutJS": true,
+  "fragranceSelectionAndReload": true,
+  "gallerySrcsetSwitch": true,
+  "inquiryBasket": true,
+  "whatsAppDraftIntercepted": true,
+  "local404": true,
+  "scope": "Local staged output; not proof of live host TLS/redirects or field CWV"
+}

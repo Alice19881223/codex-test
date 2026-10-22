@@ -1,0 +1,13 @@
+{
+  "name": "lanarve-static-site",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "python3 scripts/version-site-assets.py && python3 scripts/prepare-pages.py",
+    "check": "python3 scripts/check-seo.py",
+    "test:browser": "node tests/browser-smoke.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "method": "Local Chromium, cold context per page, 390x844, 4x CPU, 40ms latency, 200000 bytes/s download, 100000 bytes/s upload; single run, no compression; not field CWV",
+  "pages": [
+    {
+      "route": "index.html",
+      "errors": [],
+      "metrics": {
+        "lcp": 968,
+        "cls": 0.0018775621731951329
+      },
+      "resources": [
+        {
+          "name": "styles-a4d2fc19b0e6.css",
+          "bytes": 62960,
+          "decoded": 62660,
+          "type": "link"
+        },
+        {
+          "name": "app-c63968b4ec8f.js",
+          "bytes": 8212,
+          "decoded": 7912,
+          "type": "script"
+        },
+        {
+          "name": "lanarve-logo-green.svg",
+          "bytes": 1152,
+          "decoded": 852,
+          "type": "img"
+        },
+        {
+          "name": "nav-home.svg",
+          "bytes": 580,
+          "decoded": 280,
+          "type": "img"
+        },
+        {
+          "name": "nav-candle.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-reed.svg",
+          "bytes": 599,
+          "decoded": 299,
+          "type": "img"
+        },
+        {
+          "name": "nav-crystal.svg",
+          "bytes": 639,
+          "decoded": 339,
+          "type": "img"
+        },
+        {
+          "name": "nav-gift.svg",
+          "bytes": 598,
+          "decoded": 298,
+          "type": "img"
+        },
+        {
+          "name": "nav-christmas.svg",
+          "bytes": 685,
+          "decoded": 385,
+          "type": "img"
+        },
+        {
+          "name": "nav-sachets.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-fragrance.svg",
+          "bytes": 707,
+          "decoded": 407,
+          "type": "img"
+        },
+        {
+          "name": "nav-contact.svg",
+          "bytes": 612,
+          "decoded": 312,
+          "type": "img"
+        },
+        {
+          "name": "d1d247a04c83d43c-480.webp",
+          "bytes": 28792,
+          "decoded": 28492,
+          "type": "img"
+        },
+        {
+          "name": "manrope-variable.woff",
+          "bytes": 68212,
+          "decoded": 67912,
+          "type": "css"
+        },
+        {
+          "name": "ec3455e8eb8ed178-480.webp",
+          "bytes": 35248,
+          "decoded": 34948,
+          "type": "img"
+        },
+        {
+          "name": "cd5850ea82b07889-480.webp",
+          "bytes": 40300,
+          "decoded": 40000,
+          "type": "img"
+        },
+        {
+          "name": "1b73e8c939e3f30b-480.webp",
+          "bytes": 46682,
+          "decoded": 46382,
+          "type": "img"
+        },
+        {
+          "name": "lanarve-mark-green.svg",
+          "bytes": 908,
+          "decoded": 608,
+          "type": "other"
+        }
+      ],
+      "navigation": [
+        {
+          "domContentLoaded": 967.5,
+          "load": 1972.2999999821186,
+          "bytes": 31766
+        }
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "route": "products-current.html",
+      "errors": [],
+      "metrics": {
+        "lcp": 736,
+        "cls": 0
+      },
+      "resources": [
+        {
+          "name": "styles-a4d2fc19b0e6.css",
+          "bytes": 62960,
+          "decoded": 62660,
+          "type": "link"
+        },
+        {
+          "name": "app-c63968b4ec8f.js",
+          "bytes": 8212,
+          "decoded": 7912,
+          "type": "script"
+        },
+        {
+          "name": "lanarve-logo-green.svg",
+          "bytes": 1152,
+          "decoded": 852,
+          "type": "img"
+        },
+        {
+          "name": "nav-candle.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-home.svg",
+          "bytes": 580,
+          "decoded": 280,
+          "type": "img"
+        },
+        {
+          "name": "nav-reed.svg",
+          "bytes": 599,
+          "decoded": 299,
+          "type": "img"
+        },
+        {
+          "name": "nav-crystal.svg",
+          "bytes": 639,
+          "decoded": 339,
+          "type": "img"
+        },
+        {
+          "name": "nav-gift.svg",
+          "bytes": 598,
+          "decoded": 298,
+          "type": "img"
+        },
+        {
+          "name": "nav-christmas.svg",
+          "bytes": 685,
+          "decoded": 385,
+          "type": "img"
+        },
+        {
+          "name": "nav-sachets.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-fragrance.svg",
+          "bytes": 707,
+          "decoded": 407,
+          "type": "img"
+        },
+        {
+          "name": "nav-contact.svg",
+          "bytes": 612,
+          "decoded": 312,
+          "type": "img"
+        },
+        {
+          "name": "mood-sun.svg",
+          "bytes": 605,
+          "decoded": 305,
+          "type": "img"
+        },
+        {
+          "name": "mood-quiet.svg",
+          "bytes": 612,
+          "decoded": 312,
+          "type": "img"
+        },
+        {
+          "name": "mood-heart.svg",
+          "bytes": 576,
+          "decoded": 276,
+          "type": "img"
+        },
+        {
+          "name": "mood-joy.svg",
+          "bytes": 632,
+          "decoded": 332,
+          "type": "img"
+        },
+        {
+          "name": "manrope-variable.woff",
+          "bytes": 68212,
+          "decoded": 67912,
+          "type": "css"
+        },
+        {
+          "name": "whatsapp-8615968902361.png",
+          "bytes": 1000,
+          "decoded": 700,
+          "type": "img"
+        },
+        {
+          "name": "whatsapp-8618368239527.png",
+          "bytes": 972,
+          "decoded": 672,
+          "type": "img"
+        },
+        {
+          "name": "lanarve-mark-green.svg",
+          "bytes": 908,
+          "decoded": 608,
+          "type": "other"
+        }
+      ],
+      "navigation": [
+        {
+          "domContentLoaded": 722.6999999880791,
+          "load": 1117.199999988079,
+          "bytes": 23151
+        }
+      ],
+      "horizontalOverflow": false
+    },
+    {
+      "route": "product-lnv-cnd-02454833.html",
+      "errors": [],
+      "metrics": {
+        "lcp": 1456,
+        "cls": 0.0013789336247220414
+      },
+      "resources": [
+        {
+          "name": "styles-a4d2fc19b0e6.css",
+          "bytes": 62960,
+          "decoded": 62660,
+          "type": "link"
+        },
+        {
+          "name": "catalog-6ca5aa25034b.js",
+          "bytes": 283105,
+          "decoded": 282805,
+          "type": "script"
+        },
+        {
+          "name": "app-c63968b4ec8f.js",
+          "bytes": 8212,
+          "decoded": 7912,
+          "type": "script"
+        },
+        {
+          "name": "product-252da2effd9f.js",
+          "bytes": 11669,
+          "decoded": 11369,
+          "type": "script"
+        },
+        {
+          "name": "lanarve-logo-green.svg",
+          "bytes": 1152,
+          "decoded": 852,
+          "type": "img"
+        },
+        {
+          "name": "nav-home.svg",
+          "bytes": 580,
+          "decoded": 280,
+          "type": "img"
+        },
+        {
+          "name": "nav-candle.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-reed.svg",
+          "bytes": 599,
+          "decoded": 299,
+          "type": "img"
+        },
+        {
+          "name": "nav-crystal.svg",
+          "bytes": 639,
+          "decoded": 339,
+          "type": "img"
+        },
+        {
+          "name": "nav-gift.svg",
+          "bytes": 598,
+          "decoded": 298,
+          "type": "img"
+        },
+        {
+          "name": "nav-christmas.svg",
+          "bytes": 685,
+          "decoded": 385,
+          "type": "img"
+        },
+        {
+          "name": "nav-sachets.svg",
+          "bytes": 645,
+          "decoded": 345,
+          "type": "img"
+        },
+        {
+          "name": "nav-fragrance.svg",
+          "bytes": 707,
+          "decoded": 407,
+          "type": "img"
+        },
+        {
+          "name": "nav-contact.svg",
+          "bytes": 612,
+          "decoded": 312,
+          "type": "img"
+        },
+        {
+          "name": "706a9cb934df23f1ce96.webp",
+          "bytes": 41852,
+          "decoded": 41552,
+          "type": "img"
+        },
+        {
+          "name": "manrope-variable.woff",
+          "bytes": 68212,
+          "decoded": 67912,
+          "type": "css"
+        },
+        {
+          "name": "a2e5095ea428772230e4.webp",
+          "bytes": 75126,
+          "decoded": 74826,
+          "type": "img"
+        },
+        {
+          "name": "lanarve-mark-green.svg",
+          "bytes": 908,
+          "decoded": 608,
+          "type": "other"
+        }
+      ],
+      "navigation": [
+        {
+          "domContentLoaded": 3133.300000011921,
+          "load": 3159.100000023842,
+          "bytes": 39111
+        }
+      ],
+      "horizontalOverflow": false
+    }
+  ]
+}

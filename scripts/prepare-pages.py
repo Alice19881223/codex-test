@@ -2,9 +2,11 @@
 from pathlib import Path
 import shutil,json,re
 root=Path(__file__).resolve().parents[1];stage=root/'_site'
+import runpy
+runpy.run_path(str(root/'scripts/build-seo.py'),run_name='__main__')
 if stage.exists():shutil.rmtree(stage)
 stage.mkdir()
-for pattern in ['*.html','*.css','*.js']:
+for pattern in ['*.html','*.css','*.js','robots.txt','sitemap.xml']:
  for path in root.glob(pattern):shutil.copy2(path,stage/path.name)
 shutil.copytree(root/'assets',stage/'assets')
 (stage/'.nojekyll').touch()
@@ -32,7 +34,7 @@ for path in stage.glob('*.html'):
  for url in re.findall(r'(?:src|href)="([^"#]+)"',path.read_text()):
   if re.match(r'^[a-z]+:',url):continue
   file=url.split('#')[0].split('?')[0]
-  assert (stage/file).exists(),f'{path.name}: missing public file {file}'
+  assert (stage/(file.lstrip('/') or 'index.html')).exists(),f'{path.name}: missing public file {file}'
 # A series that fits on a page must remain together; layouts must not hide products.
 from collections import Counter
 def validate_arrangement(pages,lookup,allowed_split_series=()):
