@@ -1,0 +1,24 @@
+name: Open SEO review request
+on:
+  push:
+    branches: [feat/seo-b2b-audit]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  open-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open the explicitly requested review PR; never merge or deploy
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if url=$(gh pr view feat/seo-b2b-audit --json url --jq .url 2>/dev/null); then
+            echo "$url"
+          else
+            gh pr create --base main --head feat/seo-b2b-audit \
+              --title "Improve B2B SEO, static product content and image delivery" \
+              --body-file docs/seo/PR_DESCRIPTION.md
+          fi
