@@ -3,7 +3,7 @@ const dialog=document.querySelector('#product-dialog');
 const content=document.querySelector('#dialog-content');
 const escapeHtml=str=>str.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections',christmas:'Christmas collection',sachets:'Scented tablets and sachets'};
-const catalogues={candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts,christmas:christmasProducts,sachets:sachetsProducts};
+const catalogues=typeof candleProducts==='undefined'?{}:{candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts,christmas:christmasProducts,sachets:sachetsProducts};
 function openPhoto(photo,category,scent){
  const page=productPages[category]?.[photo.image];if(page)location.assign(page+(scent?'?scent='+encodeURIComponent(scent.id):''));
 }

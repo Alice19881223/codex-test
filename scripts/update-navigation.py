@@ -30,7 +30,7 @@ for p in Path('.').glob('*.html'):
   for theme,image in themes:
    fragrances=[row for row in rows if theme in row['themes']]
    links=''.join(f'<li><a class="fragrance-scent-link" href="{html.escape(row["collectionHref"],quote=True)}">{html.escape(row["name"])}<span aria-hidden="true">↗</span></a></li>' for row in fragrances)
-   columns.append(f'<section class="fragrance-theme"><img src="assets/fragrance-{image}.png" alt="{html.escape(theme)} fragrance inspiration" width="200" height="120"><h2>{html.escape(theme)}</h2><ul class="fragrance-scent-list">{links}</ul></section>')
+   columns.append(f'<section class="fragrance-theme"><img src="assets/fragrance-{image}.png" alt="{html.escape(theme)} fragrance inspiration" width="200" height="120"><p class="fragrance-theme-title">{html.escape(theme)}</p><ul class="fragrance-scent-list">{links}</ul></section>')
   toggle=f'<button type="button" class="nav-picture fragrance-toggle {"active" if active=="fragrance" else ""}" aria-expanded="false" aria-controls="fragrance-menu"><img src="assets/nav-fragrance.svg" alt="" width="38" height="38"><span>Fragrance</span></button>'
   return '<div class="fragrance-navigation">'+toggle+'<div id="fragrance-menu" class="fragrance-dropdown" aria-label="Fragrances by theme">'+''.join(columns)+'</div></div>'
 
@@ -53,6 +53,10 @@ for p in Path('.').glob('*.html'):
   s=re.sub(r'<div class="contact-email-actions">.*?</div>','',s,flags=re.S)
   actions='<div class="contact-email-actions">'+''.join(f'<a href="mailto:{email}">{email}<span aria-hidden="true"> ↗</span></a>' for email in emails)+'</div>'
   s=s.replace('</section></main>',actions+'</section></main>',1)
+ # Include stable sourcing destinations in shared footers, without duplicating on rebuild.
+ s=re.sub(r'<div class="sourcing-links">.*?</div>','',s,flags=re.S)
+ sourcing='<div class="sourcing-links"><a href="private-label.html">Private label &amp; OEM/ODM</a><a href="fragrance.html">Fragrance library</a><a href="brochures.html">Seasonal brochures</a><a href="company-film.html">Company film</a></div>'
+ s=s.replace('<div class="footer-bottom">',sourcing+'<div class="footer-bottom">',1)
  # Keep social destinations consistent when regenerating shared page footers.
  from html import escape
  facebook_url='https://www.facebook.com/share/1BxoJeV4Cf/?mibextid=wwXIfr'

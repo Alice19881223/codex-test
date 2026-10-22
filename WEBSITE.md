@@ -103,3 +103,9 @@ assets/candle-collections.json stores ordered series/name keys, so original prod
 ## Woven candle consolidation and series grouping
 
 The lighting photograph candles-008.webp and the glass-vessel/woven-cover photograph candles-009.webp are two alternate views of the single Woven — 01 card. The former Woven — 02 card is merged; Woven — 03 (candles-010.webp) is removed from all active catalogue pages. Both selected photographs already contain the box, so the toggle and dialog use alternate-view labels instead of incorrectly calling the second view a packaging-only change. Original source assets are retained for provenance. Candle counts are now 121 overall and Morning Light 36; the other mood selections remain unchanged. All-candle and mood directories group each series into a continuous block. The collection builder normalizes series ordering, refreshes all-candle pages and redirects obsolete final mood pages.
+
+## SEO maintenance update (October 2026)
+
+The historical notes above describe earlier iterations and counts. The current supported build
+and SEO workflow is in README.md and docs/seo/. Product identities, scent assignments and URLs
+remain data-driven; run `npm run build` rather than modifying only generated pages.

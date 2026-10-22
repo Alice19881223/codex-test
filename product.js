@@ -34,7 +34,9 @@
  }
  field.addEventListener('change',updateScent);updateScent();
  document.querySelectorAll('[data-gallery-src]').forEach(button=>button.addEventListener('click',()=>{
-  $('#product-main-image').src=button.dataset.gallerySrc;$('#product-main-image').alt=product.title+' — '+button.getAttribute('aria-label');
+  const mainImage=$('#product-main-image');
+  if(button.dataset.gallerySrcset)mainImage.srcset=button.dataset.gallerySrcset;else mainImage.removeAttribute('srcset');
+  mainImage.src=button.dataset.gallerySrc;mainImage.alt=product.title+' — '+button.getAttribute('aria-label');
   document.querySelectorAll('[data-gallery-src]').forEach(other=>other.setAttribute('aria-pressed',String(other===button)));
   $('#gallery-caption').textContent=button.querySelector('img').alt;
  }));
@@ -79,7 +81,7 @@
  function enquiry(){
   const item=currentItem();if(!item)return null;const form=$('#product-inquiry-form');if(!form.reportValidity())return null;const values=new FormData(form);
   const items=$('#include-inquiry-list').checked?basket():[];const index=items.findIndex(saved=>saved.key===item.key);if(index>=0)items[index]=item;else items.push(item);
-  const lines=[`Lanarve — ${values.get('requestType')}`,`Company: ${values.get('company')}`,`Contact: ${values.get('contactName')}`,`Email: ${values.get('email')}`,`Destination: ${values.get('destination')}`,'',...items.flatMap((line,i)=>[`${i+1}. ${line.name}`,`Item No.: ${line.itemNo}`,`Fragrance direction: ${line.fragrance}`,`Capacity / net weight: ${line.capacity}`,`Presentation: ${line.presentation}`,`Quantity requested: ${line.quantity}`,`Product: https://alice19881223.github.io/codex-test/${line.url}`,'']),`Customization / packing / documentation: ${values.get('requirements')||'Please advise'}`];
+  const lines=[`Lanarve — ${values.get('requestType')}`,`Company: ${values.get('company')}`,`Contact: ${values.get('contactName')}`,`Email: ${values.get('email')}`,`Destination: ${values.get('destination')}`,'',...items.flatMap((line,i)=>[`${i+1}. ${line.name}`,`Item No.: ${line.itemNo}`,`Fragrance direction: ${line.fragrance}`,`Capacity / net weight: ${line.capacity}`,`Presentation: ${line.presentation}`,`Quantity requested: ${line.quantity}`,`Product: ${new URL(line.url,document.querySelector('link[rel="canonical"]')?.href||location.href).href}`,'']),`Customization / packing / documentation: ${values.get('requirements')||'Please advise'}`];
   return {text:lines.join('\n'),contact:values.get('salesContact')};
  }
  $('#product-inquiry-form').addEventListener('submit',event=>{event.preventDefault();const message=enquiry();if(!message)return;$('#enquiry-status').textContent='Opening WhatsApp with your enquiry. Review and send it there.';window.open('https://wa.me/'+message.contact+'?text='+encodeURIComponent(message.text),'_blank','noopener,noreferrer');});

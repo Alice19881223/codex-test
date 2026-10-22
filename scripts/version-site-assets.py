@@ -13,6 +13,7 @@ runpy.run_path(str(root/'scripts/build-fragrance-library.py'))
 runpy.run_path(str(root/'scripts/build-fragrance-collections.py'))
 runpy.run_path(str(root/'scripts/build-product-pages.py'))
 runpy.run_path(str(root/'scripts/update-navigation.py'))
+runpy.run_path(str(root/'scripts/build-seo.py'),run_name='__main__')
 for original in ['app.js','catalog.js','product.js','styles.css']:
  data=(root/original).read_bytes();stem,suffix=original.rsplit('.',1);v=hashlib.sha256(data).hexdigest()[:12];filename=f'{stem}-{v}.{suffix}';(root/filename).write_bytes(data)
  pattern=re.escape(stem)+r'(?:-[a-f0-9]{12})?\.'+suffix+r'(?:\?v=[^"\s]*)?'
