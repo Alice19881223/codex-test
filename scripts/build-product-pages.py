@@ -104,6 +104,15 @@ for path in root.glob('*.html'):
   return card
  text=re.sub(r'<a\b[^>]*class="[^"]*\bcrystal-item\b[^"]*"[^>]*>.*?</a>',clean_card,text,flags=re.S)
  text=re.sub(r'<button\b[^>]*class="photo-toggle"[^>]*>.*?</button>','',text,flags=re.S)
+ # Touch screens have no hover. Keep a separate compact second-view control
+ # outside the product link, so tapping the image always opens its detail page.
+ def paired_control(match):
+  anchor=match[1]
+  if 'photo-packaging' not in anchor:return match[0]
+  label=re.search(r'<h3>(.*?)</h3>',anchor,re.S)
+  name=html.unescape(label[1]) if label else 'this product'
+  return match[0]+'<button type="button" class="photo-toggle" aria-pressed="false" aria-label="'+esc('Show second image for '+name)+'"><span aria-hidden="true">⇄</span></button>'
+ text=re.sub(r'(<a\b[^>]*class="[^"\n]*\bcrystal-item\b[^"\n]*"[^>]*>.*?</a>)',paired_control,text,flags=re.S)
  if text!=original:path.write_text(text)
 
 p=root/'catalog.js';text=re.sub(r'\nconst productPages = \{.*?\n\};\n?', '\n',p.read_text(),flags=re.S);p.write_text(text.rstrip()+'\n\nconst productPages = '+json.dumps(page_map,indent=2)+';\n')

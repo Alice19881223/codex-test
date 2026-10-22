@@ -11,8 +11,35 @@ try{
  const buttons=p.locator('[data-gallery-src]');assert.ok(await buttons.count()>1);await buttons.nth(1).click();const image=p.locator('#product-main-image');assert.equal(await image.getAttribute('src'),await buttons.nth(1).getAttribute('data-gallery-src'));assert.equal(await image.getAttribute('srcset'),await buttons.nth(1).getAttribute('data-gallery-srcset'));await p.locator('#add-to-inquiry').click();assert.equal(await p.locator('#inquiry-count').textContent(),'1');assert.ok((await p.evaluate(()=>localStorage.getItem('lanarve-product-inquiry-v1')))?.includes('pear-freesia'));await p.locator('#request-sample').click();assert.equal(await p.locator('#enquiry-request-type').inputValue(),'Sample request');
  await p.locator('[name=company]').fill('SEO smoke test');await p.locator('[name=contactName]').fill('Test Buyer');await p.locator('[name=email]').fill('test@example.com');await p.locator('[name=destination]').fill('United Kingdom');let opened='';await context.route('https://wa.me/**',route=>{opened=route.request().url();return route.fulfill({status:200,body:'Test interception: no message sent'});});await p.getByRole('button',{name:'Open WhatsApp with enquiry'}).click();await p.waitForTimeout(200);const popupPages=context.pages().filter(x=>x!==p);for(const popup of popupPages)await popup.close();assert.ok(opened.includes('wa.me/'),'enquiry should open WhatsApp draft, no message is sent');assert.ok(decodeURIComponent(opened).includes('Product: https://www.lanarve.com/product-lnv-cnd-02454833.html?scent=pear-freesia'),'draft must use the canonical production domain');assert.deepEqual(errors,[]);
  const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:900}});const staticPage=await nojs.newPage();await staticPage.goto(base+'/product-lnv-cnd-02454833.html');assert.match(await staticPage.locator('#product-key-notes').textContent(),/Gardenia/);assert.equal(await staticPage.locator('#product-notes dd').count(),3);assert.ok((await staticPage.locator('#product-character').textContent()).includes('Top notes'));assert.equal(await staticPage.locator('noscript a[href="contact.html"]').count(),1);await nojs.close();
- const mobile=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});const mp=await mobile.newPage();await mp.goto(base+'/index.html');await mp.locator('.menu-toggle').tap();await mp.locator('.fragrance-toggle').tap();await mp.waitForFunction(()=>getComputedStyle(document.querySelector('.fragrance-dropdown')).visibility==='visible');assert.equal(await mp.locator('.fragrance-toggle').getAttribute('aria-expanded'),'true');await mobile.close();
+ const mobile=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});const mp=await mobile.newPage();await mp.goto(base+'/index.html');await mp.locator('.menu-toggle').tap();await mp.locator('.fragrance-toggle').tap();await mp.waitForFunction(()=>getComputedStyle(document.querySelector('.fragrance-dropdown')).visibility==='visible');assert.equal(await mp.locator('.fragrance-toggle').getAttribute('aria-expanded'),'true');// Regression: real taps must follow every catalogue page's product links,
+ // including candle collection templates that have no catalogue script.
+ const catalogueRoutes=fs.readdirSync(root).filter(name=>name.endsWith('.html')&&fs.readFileSync(path.join(root,name),'utf8').includes('id="catalogue-grid"'));
+ const mobileErrors=[];mp.on('pageerror',e=>mobileErrors.push(e.message));
+ for(const route of catalogueRoutes){
+  await mp.goto(base+'/'+route);const first=mp.locator('#catalogue-grid a[data-photo]').first();
+  if(!await first.count())continue;
+  const destination=await first.getAttribute('href');
+  const toggle=mp.locator('.paired-product>.photo-toggle').first();
+  if(await toggle.count()){
+   const before=mp.url();await toggle.tap();assert.equal(mp.url(),before,'second-view button must not navigate');
+   assert.equal(await toggle.getAttribute('aria-pressed'),'true');
+   const second=toggle.locator('..').locator('.photo-packaging');
+   await mp.waitForFunction(img=>Number(getComputedStyle(img).opacity)===1,await second.elementHandle());
+   assert.ok(await second.evaluate(img=>img.complete&&img.naturalWidth>0),'second image must load');
+   await toggle.tap();assert.equal(await toggle.getAttribute('aria-pressed'),'false');
+  }
+  await first.tap();await mp.waitForURL(base+'/'+destination);assert.equal(await mp.locator('#product-page-data').count(),1,route+' must open product detail');
+ }
+ assert.deepEqual(mobileErrors,[],'catalogue tap JS errors');
+ await p.goto(base+'/candles-little-joys.html');
+ const paired=p.locator('.paired-product .crystal-item').first();await paired.hover();
+ await p.waitForFunction(img=>Number(getComputedStyle(img).opacity)===1,await paired.locator('.photo-packaging').elementHandle());
+ assert.ok(await paired.locator('.photo-packaging').evaluate(img=>img.complete&&img.naturalWidth>0),'desktop hover image must load');
+ // Native links must also survive absent optional catalogue data.
+ await mp.route('**/catalog*.js',route=>route.abort());await mp.goto(base+'/candles-little-joys.html');
+ const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
+ await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],fragranceHover:true,mobileTap:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});
