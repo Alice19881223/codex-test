@@ -44,7 +44,7 @@ and lazy-loads secondary/hidden imagery. The gallery updates both src and srcset
 ## Deployment contract
 
 Only `.github/workflows/deploy-pages.yml` on **main** can deploy to GitHub Pages. The review
-workflow runs on pull requests and does not deploy. Work on a feature branch and open a PR;
+workflow runs on the SEO feature branch and pull requests and does not deploy. Work on a feature branch and open a PR;
 merging or publishing requires the owner's separate authorization.
 
 Actual HTTPS enforcement, custom domain and www/apex redirects belong to GitHub Pages/DNS.

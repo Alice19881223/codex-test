@@ -77,6 +77,8 @@ def build_special_pages():
  (ROOT/'private-label.html').write_text(service)
  base=remove_managed((ROOT/'products-crystal-1.html').read_text())
  base=re.sub(r'<body[^>]*>','<body>',base)
+ base=base.replace('class="nav-picture active"','class="nav-picture"').replace(' aria-current="page"','')
+ base=re.sub(r'class="nav-picture fragrance-toggle[^"]*"','class="nav-picture fragrance-toggle active"',base)
  cards=''.join('<article><h2><a href="'+esc(s['collectionHref'])+'">'+esc(s['name'])+'</a></h2><p>'+esc(s['description'])+'</p><p class="seo-fragrance-notes">'+esc(' · '.join(s['keyNotes']))+'</p></article>' for s in SCENTS.values())
  library='<main><section class="section seo-library-intro"><p class="eyebrow">FRAGRANCE DIRECTIONS</p><h1>Fragrance options for your home fragrance collection</h1><p>Explore scent directions for candles, reed diffusers, crystals and gift sets. These are suggested design pairings; final formulation and availability are confirmed with your sample or quotation.</p><p><a class="text-link" href="private-label.html">Plan a private label collection ↗</a></p><div class="seo-fragrance-library">'+cards+'</div></section></main>'
  base=replace_main(base,library);base=re.sub(r'<meta\b[^>]*http-equiv="refresh"[^>]*>','',base)
@@ -192,6 +194,9 @@ def build():
     text=text.replace('</main>',block('buyer-intro',intro)+'</main>',1)
     schema.extend([{'@type':'Organization','@id':ORIGIN+'/#organization','name':CONFIG['brand'],'legalName':CONFIG['legalName'],'url':ORIGIN+'/','logo':absolute('assets/lanarve-logo-green.svg'),'address':{'@type':'PostalAddress','addressLocality':'Ningbo','addressRegion':'Zhejiang','addressCountry':'CN'},'contactPoint':[{'@type':'ContactPoint','contactType':'sales','email':email,'telephone':phone,'availableLanguage':'English'} for email,phone in zip(CONFIG['emails'],CONFIG['phones'])]},{'@type':'WebSite','@id':ORIGIN+'/#website','url':ORIGIN+'/','name':CONFIG['brand'],'publisher':{'@id':ORIGIN+'/#organization'}}])
    if name!='index.html':crumbs.append(({'private-label.html':'Private label & OEM/ODM','fragrance.html':'Fragrance library','contact.html':'Contact','brochures.html':'Brochures','company-film.html':'Company film'}.get(rootname,CATEGORY_INTROS.get(rootname,(plain(title.split('|')[0]),))[0])+(f' — Page {page}' if page>1 else ''),name))
+  if not target and 'id="catalogue-grid"' in text:
+   catalogue_heading=COLLECTIONS[name][1]['name']+' designs' if name in COLLECTIONS else 'Explore available designs'
+   text=text.replace('<div id="catalogue-grid"',block('catalogue-heading','<h2 class="seo-catalogue-heading">'+esc(catalogue_heading)+'</h2>')+'<div id="catalogue-grid"',1)
   # Strip inherited/generated SEO metadata before writing the page's own values.
   text=re.sub(r'<title>.*?</title>',lambda m:'<title>'+esc(title)+'</title>',text,count=1,flags=re.S)
   text=re.sub(r'<meta\b[^>]*(?:name="(?:description|robots|twitter:[^"]+)"|property="og:[^"]+")[^>]*>','',text)

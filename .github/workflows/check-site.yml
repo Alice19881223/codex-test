@@ -1,5 +1,7 @@
 name: Review static site
 on:
+  push:
+    branches: [feat/seo-b2b-audit]
   pull_request:
   workflow_dispatch:
 permissions:

@@ -10,7 +10,7 @@
 4. **结构化数据**：首页Organization/WebSite，相关页面BreadcrumbList，288个Product。仅用已有品牌、SKU、图片、系列及建议香型。不添加Offer、库存、评价、评分、GTIN、证书或未经确认的规格，不承诺富媒体结果。
 5. **性能**：314组响应式WebP副本；原图、产品身份与图对顺序不变。图片尺寸、首屏优先级、次要图片延迟加载；非目录/详情页不再加载完整catalog数据。保留并本地提供Manrope变量字体及OFL许可，移除Google Fonts外部依赖和未使用的字体族。图库切图同时更新src/srcset，避免只改src而仍显示旧图。
 6. **询盘与内容边界**：询盘摘要中的产品链接使用canonical域名，不再硬编码旧GitHub地址。空的验证文档登记表不支撑全面出口资质宣称，改为按具体产品/市场确认资料。没有新增容量、材料、MOQ、认证、产能、生产交期或效果数据；既有用户提供的打样条款未擅自更改。
-7. **可维护性**：SEO后处理已接入现有生成与staging流程；新增只读PR检查工作流。正式部署工作流仍仅响应main。README说明正式构建方法，WEBSITE的旧记录标为历史信息。
+7. **可维护性**：SEO后处理已接入现有生成与staging流程；新增只读功能分支/PR检查工作流。正式部署工作流仍仅响应main。README说明正式构建方法，WEBSITE的旧记录标为历史信息。
 
 ## 关键词与页面对应（全部为假设）
 
@@ -56,3 +56,11 @@
 ## 尚待外部/业主确认
 
 线上HTTP/HTTPS、www与非www跳转、真实状态码、TLS、robots/sitemap可访问性被当前环境代理阻断；不得把代理403归因给网站。Search Console中的收录、Google canonical、抓取、搜索查询及现场CWV未验证。具体检查步骤和待补产品/认证资料见 `OWNER-CHECKLIST.md`；原始线上探测见 `live-probes-2026-10-22.json`。审核通过也不自动授权合并/部署。
+
+## 审核入口与PR创建限制
+
+所有更改位于 `feat/seo-b2b-audit`，未推送正式分支。直接 `gh pr create` 被环境对 `api.github.com/graphql` 的访问规则拒绝（Forbidden）。随后一次仓库自身的自动建PR任务也失败（run 39725255126，创建步骤退出码1；当前环境无法读取其受限日志，因此不推定具体仓库设置原因）。临时建PR工作流已移除，没有修改仓库权限设置或尝试自动合并。
+
+如果最终未能由平台创建PR，可在GitHub比较页手动点击“Create pull request”，并使用 `docs/seo/PR_DESCRIPTION.md` 的标题/正文审核。本说明不把分支或比较链接冒充已经创建的PR。
+
+截图：`screenshots/home-desktop.png` 与 `screenshots/home-mobile.png`，用于核对保留的品牌视觉及首屏按钮布局。
