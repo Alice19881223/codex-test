@@ -212,6 +212,11 @@ def build():
    nav='<nav class="seo-breadcrumbs" aria-label="Breadcrumb">'+''.join(('<span aria-current="page">'+esc(label)+'</span>' if i==len(crumbs)-1 else '<a href="'+esc(url)+'">'+esc(label)+'</a>')+(' <span aria-hidden="true">/</span> ' if i<len(crumbs)-1 else '') for i,(label,url) in enumerate(crumbs))+'</nav>'
    text=insert_main(text,block('breadcrumbs',nav))
   if not target:
+   # Collection pages can inherit an informational landing template on a rebuild.
+   # Restore the data needed by legacy query redirects on actual catalogue grids.
+   if 'id="catalogue-grid"' in text:
+    text=re.sub(r'<script\b[^>]*src="catalog(?:-[a-f0-9]{12})?\.js"[^>]*></script>','',text)
+    text=re.sub(r'(<script\b[^>]*src="app(?:-[a-f0-9]{12})?\.js"[^>]*></script>)',r'<script src="catalog.js" defer></script>\1',text,count=1)
    # Shared navigation no longer requires the 283 KB catalogue on informational pages.
    if name not in BY_URL and 'id="catalogue-grid"' not in text:text=re.sub(r'<script\b[^>]*src="catalog(?:-[a-f0-9]{12})?\.js"[^>]*></script>','',text)
    # A useful no-script path to enquire, alongside the enhanced WhatsApp form.

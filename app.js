@@ -16,13 +16,13 @@ if(yearLabel)yearLabel.textContent=new Date().getFullYear();
 const grid=document.querySelector('#catalogue-grid');
 if(grid){
  const category=document.body.dataset.category;
- const photos=catalogues[category];
- grid.querySelectorAll('[data-photo]').forEach(card=>card.addEventListener('click',event=>{event.preventDefault();openPhoto(photos[Number(card.dataset.photo)],category);}));
+ // Product cards use their real HTML links on touch, mouse and keyboard.
+ // Do not cancel navigation or require the optional catalogue data to open a detail page.
  grid.querySelectorAll('.photo-toggle').forEach(button=>button.addEventListener('click',()=>{
   const card=button.closest('.paired-product');const packaged=card.classList.toggle('is-packaging');
-  const photo=photos[Number(card.querySelector('[data-photo]').dataset.photo)];
-  button.setAttribute('aria-pressed',String(packaged));button.textContent=photo.alternateView?(packaged?'View first image':'View another angle'):(packaged?'View product':'View packaging');
-  button.setAttribute('aria-label',`Show ${photo.alternateView?(packaged?'first view':'another angle'):(packaged?'product':'packaging')} for ${photo.name}`);
+  const name=card.querySelector('h3')?.textContent||'this product';
+  button.setAttribute('aria-pressed',String(packaged));
+  button.setAttribute('aria-label',`Show ${packaged?'product image':'second image'} for ${name}`);
  }));
  // Preserve older bookmarked category/page query links.
  const query=new URLSearchParams(location.search);
