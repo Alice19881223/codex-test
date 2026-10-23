@@ -4726,6 +4726,142 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-XMS-CB84EB5D",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+    "name": "Festive Confetti Candle",
+    "title": "Festive Confetti Candle Scented candle",
+    "url": "product-lnv-xms-cb84eb5d.html",
+    "series": "Christmas Keepsake Candles",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "apple-cinnamon"
+    ],
+    "primaryScent": "apple-cinnamon",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-9D8A877E",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+    "name": "Starlight Red Candle",
+    "title": "Starlight Red Candle Scented candle",
+    "url": "product-lnv-xms-9d8a877e.html",
+    "series": "Christmas Keepsake Candles",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-A0612EAA",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+    "name": "Christmas Stocking Candle",
+    "title": "Christmas Stocking Candle Scented candle",
+    "url": "product-lnv-xms-a0612eaa.html",
+    "series": "Christmas Keepsake Candles",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "gingerbread-vanilla"
+    ],
+    "primaryScent": "gingerbread-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-E9A5AE53",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+    "name": "Evergreen Tree Candle",
+    "title": "Evergreen Tree Candle Scented candle",
+    "url": "product-lnv-xms-e9a5ae53.html",
+    "series": "Christmas Keepsake Candles",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-A6468AD9",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+    "name": "Festive Confetti Reed Diffuser",
+    "title": "Festive Confetti Reed Diffuser",
+    "url": "product-lnv-xms-a6468ad9.html",
+    "series": "Christmas Keepsake Diffusers",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "apple-cinnamon"
+    ],
+    "primaryScent": "apple-cinnamon",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-FA4E13AE",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+    "name": "Starlight Red Reed Diffuser",
+    "title": "Starlight Red Reed Diffuser",
+    "url": "product-lnv-xms-fa4e13ae.html",
+    "series": "Christmas Keepsake Diffusers",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-9E275C5C",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+    "name": "Christmas Stocking Reed Diffuser",
+    "title": "Christmas Stocking Reed Diffuser",
+    "url": "product-lnv-xms-9e275c5c.html",
+    "series": "Christmas Keepsake Diffusers",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "gingerbread-vanilla"
+    ],
+    "primaryScent": "gingerbread-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-0354628E",
+    "category": "christmas",
+    "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+    "name": "Evergreen Tree Reed Diffuser",
+    "title": "Evergreen Tree Reed Diffuser",
+    "url": "product-lnv-xms-0354628e.html",
+    "series": "Christmas Keepsake Diffusers",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "pine-cedarwood"
+    ],
+    "primaryScent": "pine-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-SCH-C9143779",
     "category": "sachets",
     "image": "assets/sachets/paired/2e09dbec67e3048635e7.webp",

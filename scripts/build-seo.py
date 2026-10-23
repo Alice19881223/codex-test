@@ -246,8 +246,8 @@ def build():
  report=ROOT/'docs/seo';report.mkdir(parents=True,exist_ok=True)
  (report/'page-metadata.json').write_text(json.dumps(allmeta,indent=2)+'\n')
  with (report/'keyword-map.csv').open('w',newline='') as f:
-  w=csv.writer(f);w.writerow(['URL path','Primary phrase / topic','Search intent','Evidence status','Title']);w.writerows(keyword_rows)
+  w=csv.writer(f,lineterminator="\n");w.writerow(['URL path','Primary phrase / topic','Search intent','Evidence status','Title']);w.writerows(keyword_rows)
  with (report/'url-map.csv').open('w',newline='') as f:
-  w=csv.writer(f);w.writerow(['Existing URL (retained)','Preferred destination','Mechanism / hosting limitation']);w.writerows(redirects)
+  w=csv.writer(f,lineterminator="\n");w.writerow(['Existing URL (retained)','Preferred destination','Mechanism / hosting limitation']);w.writerows(redirects)
  print(f'SEO: {len(indexable)} indexable URLs, {len(PRODUCTS)} static product profiles, {len(redirects)} legacy/alias mappings')
 if __name__=='__main__':build()

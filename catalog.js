@@ -3797,6 +3797,22 @@ const scents = [
     "description": "Warm baked fruit and spice; autumn and winter gatherings.",
     "matches": [
       {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+        "name": "Festive Confetti Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-cb84eb5d.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+        "name": "Festive Confetti Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-a6468ad9.html?scent=apple-cinnamon"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
         "name": "Ochre Wild",
@@ -3927,7 +3943,7 @@ const scents = [
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -3967,7 +3983,7 @@ const scents = [
         "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
         "name": "Ivory Tree, Snowflake & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-15cdd6ab.html?scent=fir-cedarwood"
       },
       {
@@ -3975,7 +3991,7 @@ const scents = [
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
       },
       {
@@ -4049,6 +4065,14 @@ const scents = [
         "series": "Winter Botanicals",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+        "name": "Evergreen Tree Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-e9a5ae53.html?scent=fir-cedarwood"
       }
     ],
     "family": "Warm & Woody",
@@ -4144,6 +4168,22 @@ const scents = [
         "series": "Lace Glass",
         "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+        "name": "Starlight Red Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-9d8a877e.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+        "name": "Starlight Red Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-fa4e13ae.html?scent=orange-clove"
       }
     ],
     "family": "Warm & Woody",
@@ -4210,6 +4250,22 @@ const scents = [
     "matches": [
       {
         "category": "christmas",
+        "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+        "name": "Christmas Stocking Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-a0612eaa.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+        "name": "Christmas Stocking Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-9e275c5c.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
@@ -4221,7 +4277,7 @@ const scents = [
         "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla"
       },
       {
@@ -4647,6 +4703,14 @@ const scents = [
         "series": "Colour Glass",
         "catalogueHref": "reeds-at-home-at-ease-2.html",
         "href": "product-lnv-rd-396c287d.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+        "name": "Evergreen Tree Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-0354628e.html?scent=pine-cedarwood"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",
@@ -8213,6 +8277,118 @@ const christmasProducts = [
       "assets/christmas/paired/8e9ad83f13bebc16a6ee.png"
     ],
     "assignedScent": "lavender-cedarwood"
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-cb84eb5d",
+    "name": "Festive Confetti Candle",
+    "series": "Christmas Keepsake Candles",
+    "productType": "Scented candle",
+    "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+    "packagingImage": "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp",
+    "images": [
+      "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+      "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "Ivory-coloured vessel with red, green and gold-toned dots and a fine red rim."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-9d8a877e",
+    "name": "Starlight Red Candle",
+    "series": "Christmas Keepsake Candles",
+    "productType": "Scented candle",
+    "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+    "packagingImage": "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp",
+    "images": [
+      "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+      "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "A festive red vessel with an ivory-coloured star motif, colourful dots and small gold-toned stars."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-a0612eaa",
+    "name": "Christmas Stocking Candle",
+    "series": "Christmas Keepsake Candles",
+    "productType": "Scented candle",
+    "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+    "packagingImage": "assets/christmas/keepsakes/648afba6947e4720032d.webp",
+    "images": [
+      "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+      "assets/christmas/keepsakes/648afba6947e4720032d.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "An ivory-coloured vessel with a red stocking motif, holly details and a contrasting green rim."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-e9a5ae53",
+    "name": "Evergreen Tree Candle",
+    "series": "Christmas Keepsake Candles",
+    "productType": "Scented candle",
+    "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+    "packagingImage": "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp",
+    "images": [
+      "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+      "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "A forest-green vessel with a decorated Christmas tree motif and scattered star details."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-a6468ad9",
+    "name": "Festive Confetti Reed Diffuser",
+    "series": "Christmas Keepsake Diffusers",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+    "packagingImage": "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp",
+    "images": [
+      "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+      "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "An ivory-coloured diffuser bottle decorated with red, green and gold-toned dots, shown with natural-coloured reeds."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-fa4e13ae",
+    "name": "Starlight Red Reed Diffuser",
+    "series": "Christmas Keepsake Diffusers",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+    "packagingImage": "assets/christmas/keepsakes/d25ceda740b8135464ba.webp",
+    "images": [
+      "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+      "assets/christmas/keepsakes/d25ceda740b8135464ba.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "A red diffuser bottle with an ivory-coloured star motif and small gold-toned stars, shown with natural-coloured reeds."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-9e275c5c",
+    "name": "Christmas Stocking Reed Diffuser",
+    "series": "Christmas Keepsake Diffusers",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+    "packagingImage": "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp",
+    "images": [
+      "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+      "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "An ivory-coloured diffuser bottle with a red stocking motif and holly details, shown with natural-coloured reeds."
+  },
+  {
+    "id": "christmas-keepsake-lnv-xms-0354628e",
+    "name": "Evergreen Tree Reed Diffuser",
+    "series": "Christmas Keepsake Diffusers",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+    "packagingImage": "assets/christmas/keepsakes/dd21641583981ee694c4.webp",
+    "images": [
+      "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+      "assets/christmas/keepsakes/dd21641583981ee694c4.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "A forest-green diffuser bottle featuring a decorated Christmas tree motif and star details, shown with natural-coloured reeds."
   }
 ];
 
@@ -8626,7 +8802,15 @@ const productPages = {
     "assets/christmas/paired/6d52f0817361816118b7.webp": "product-lnv-xms-d5956a72.html",
     "assets/christmas/paired/1383bf46ac80e1d62944.webp": "product-lnv-xms-e392fac4.html",
     "assets/christmas/paired/5702fcfafd2123c3f93e.webp": "product-lnv-xms-7a217650.html",
-    "assets/christmas/paired/b6c2bb5498f24b8f6f65.png": "product-lnv-xms-acae1bf4.html"
+    "assets/christmas/paired/b6c2bb5498f24b8f6f65.png": "product-lnv-xms-acae1bf4.html",
+    "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp": "product-lnv-xms-cb84eb5d.html",
+    "assets/christmas/keepsakes/96d02957ef3560c8be50.webp": "product-lnv-xms-9d8a877e.html",
+    "assets/christmas/keepsakes/f99787d33158a98b6247.webp": "product-lnv-xms-a0612eaa.html",
+    "assets/christmas/keepsakes/92668bd909217dd6409e.webp": "product-lnv-xms-e9a5ae53.html",
+    "assets/christmas/keepsakes/5b85eac4c577468800ec.webp": "product-lnv-xms-a6468ad9.html",
+    "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp": "product-lnv-xms-fa4e13ae.html",
+    "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp": "product-lnv-xms-9e275c5c.html",
+    "assets/christmas/keepsakes/034f13f183324b50b10b.webp": "product-lnv-xms-0354628e.html"
   },
   "sachets": {
     "assets/sachets/paired/2e09dbec67e3048635e7.webp": "product-lnv-sch-c9143779.html",

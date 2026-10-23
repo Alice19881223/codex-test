@@ -10,6 +10,7 @@
   "productCardNativeNavigation": true,
   "secondViewTouchToggle": true,
   "productImageHover": true,
+  "importedChristmasPairs": true,
   "escape": true,
   "staticProductWithoutJS": true,
   "fragranceSelectionAndReload": true,

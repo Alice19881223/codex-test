@@ -13,17 +13,18 @@ dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoun
 const menu=document.querySelector('.menu-toggle');menu.addEventListener('click',()=>{const open=document.querySelector('header nav').classList.toggle('open');menu.setAttribute('aria-expanded',String(open));});
 const yearLabel=document.querySelector('#year');
 if(yearLabel)yearLabel.textContent=new Date().getFullYear();
-const grid=document.querySelector('#catalogue-grid');
-if(grid){
- const category=document.body.dataset.category;
- // Product cards use their real HTML links on touch, mouse and keyboard.
- // Do not cancel navigation or require the optional catalogue data to open a detail page.
- grid.querySelectorAll('.photo-toggle').forEach(button=>button.addEventListener('click',()=>{
+document.querySelectorAll('.photo-toggle').forEach(button=>button.addEventListener('click',()=>{
   const card=button.closest('.paired-product');const packaged=card.classList.toggle('is-packaging');
   const name=card.querySelector('h3')?.textContent||'this product';
   button.setAttribute('aria-pressed',String(packaged));
   button.setAttribute('aria-label',`Show ${packaged?'product image':'second image'} for ${name}`);
  }));
+const grid=document.querySelector('#catalogue-grid');
+if(grid){
+ const category=document.body.dataset.category;
+ // Product cards use their real HTML links on touch, mouse and keyboard.
+ // Do not cancel navigation or require the optional catalogue data to open a detail page.
+
  // Preserve older bookmarked category/page query links.
  const query=new URLSearchParams(location.search);
  if(query.has('category')||query.has('page')){

@@ -3935,6 +3935,246 @@
       }
     ]
   },
+  "assets/christmas/keepsakes/034f13f183324b50b10b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 63726,
+    "src": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 137536,
+    "src": "assets/optimized/b61d0dbc6b254de1-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/b61d0dbc6b254de1-480.webp",
+        "width": 480,
+        "bytes": 21482
+      },
+      {
+        "src": "assets/optimized/b61d0dbc6b254de1-960.webp",
+        "width": 960,
+        "bytes": 69498
+      },
+      {
+        "src": "assets/optimized/b61d0dbc6b254de1-1254.webp",
+        "width": 1254,
+        "bytes": 115274
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 86686,
+    "src": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 63446,
+    "src": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 162668,
+    "src": "assets/optimized/2c4ffca1f6836175-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/2c4ffca1f6836175-480.webp",
+        "width": 480,
+        "bytes": 23544
+      },
+      {
+        "src": "assets/optimized/2c4ffca1f6836175-960.webp",
+        "width": 960,
+        "bytes": 86550
+      },
+      {
+        "src": "assets/optimized/2c4ffca1f6836175-1254.webp",
+        "width": 1254,
+        "bytes": 141518
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 120048,
+    "src": "assets/optimized/3885aedf35a9abcf-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/3885aedf35a9abcf-480.webp",
+        "width": 480,
+        "bytes": 23616
+      },
+      {
+        "src": "assets/optimized/3885aedf35a9abcf-960.webp",
+        "width": 960,
+        "bytes": 65402
+      },
+      {
+        "src": "assets/optimized/3885aedf35a9abcf-1254.webp",
+        "width": 1254,
+        "bytes": 101472
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/5b85eac4c577468800ec.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 67452,
+    "src": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/648afba6947e4720032d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 153306,
+    "src": "assets/optimized/f122825670ea9ae6-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/f122825670ea9ae6-480.webp",
+        "width": 480,
+        "bytes": 25708
+      },
+      {
+        "src": "assets/optimized/f122825670ea9ae6-960.webp",
+        "width": 960,
+        "bytes": 81322
+      },
+      {
+        "src": "assets/optimized/f122825670ea9ae6-1254.webp",
+        "width": 1254,
+        "bytes": 129216
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 139514,
+    "src": "assets/optimized/6ca0f44b1add7587-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/6ca0f44b1add7587-480.webp",
+        "width": 480,
+        "bytes": 21256
+      },
+      {
+        "src": "assets/optimized/6ca0f44b1add7587-960.webp",
+        "width": 960,
+        "bytes": 73380
+      },
+      {
+        "src": "assets/optimized/6ca0f44b1add7587-1254.webp",
+        "width": 1254,
+        "bytes": 116714
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 60324,
+    "src": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/92668bd909217dd6409e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 120686,
+    "src": "assets/optimized/c52f220e13437f7c-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/c52f220e13437f7c-480.webp",
+        "width": 480,
+        "bytes": 18946
+      },
+      {
+        "src": "assets/optimized/c52f220e13437f7c-960.webp",
+        "width": 960,
+        "bytes": 63076
+      },
+      {
+        "src": "assets/optimized/c52f220e13437f7c-1254.webp",
+        "width": 1254,
+        "bytes": 101804
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/96d02957ef3560c8be50.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 91470,
+    "src": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 109594,
+    "src": "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp",
+    "variants": []
+  },
+  "assets/christmas/keepsakes/d25ceda740b8135464ba.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 122726,
+    "src": "assets/optimized/612a1151d9bb567d-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/612a1151d9bb567d-480.webp",
+        "width": 480,
+        "bytes": 21702
+      },
+      {
+        "src": "assets/optimized/612a1151d9bb567d-960.webp",
+        "width": 960,
+        "bytes": 65414
+      },
+      {
+        "src": "assets/optimized/612a1151d9bb567d-1254.webp",
+        "width": 1254,
+        "bytes": 101674
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/dd21641583981ee694c4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 150490,
+    "src": "assets/optimized/0b7285da76831aba-1254.webp",
+    "variants": [
+      {
+        "src": "assets/optimized/0b7285da76831aba-480.webp",
+        "width": 480,
+        "bytes": 23848
+      },
+      {
+        "src": "assets/optimized/0b7285da76831aba-960.webp",
+        "width": 960,
+        "bytes": 80172
+      },
+      {
+        "src": "assets/optimized/0b7285da76831aba-1254.webp",
+        "width": 1254,
+        "bytes": 127894
+      }
+    ]
+  },
+  "assets/christmas/keepsakes/f99787d33158a98b6247.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 83386,
+    "src": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+    "variants": []
+  },
   "assets/christmas/paired/01ff7b30cf151c744439.webp": {
     "width": 1254,
     "height": 1254,
