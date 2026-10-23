@@ -3789,6 +3789,22 @@
     "description": "Warm baked fruit and spice; autumn and winter gatherings.",
     "matches": [
       {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+        "name": "Festive Confetti Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-cb84eb5d.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+        "name": "Festive Confetti Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-a6468ad9.html?scent=apple-cinnamon"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
         "name": "Ochre Wild",
@@ -3919,7 +3935,7 @@
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -3959,7 +3975,7 @@
         "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
         "name": "Ivory Tree, Snowflake & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-15cdd6ab.html?scent=fir-cedarwood"
       },
       {
@@ -3967,7 +3983,7 @@
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
       },
       {
@@ -4041,6 +4057,14 @@
         "series": "Winter Botanicals",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+        "name": "Evergreen Tree Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-e9a5ae53.html?scent=fir-cedarwood"
       }
     ],
     "family": "Warm & Woody",
@@ -4136,6 +4160,22 @@
         "series": "Lace Glass",
         "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+        "name": "Starlight Red Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-9d8a877e.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+        "name": "Starlight Red Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-fa4e13ae.html?scent=orange-clove"
       }
     ],
     "family": "Warm & Woody",
@@ -4202,6 +4242,22 @@
     "matches": [
       {
         "category": "christmas",
+        "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+        "name": "Christmas Stocking Candle",
+        "series": "Christmas Keepsake Candles",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-a0612eaa.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+        "name": "Christmas Stocking Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-9e275c5c.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
@@ -4213,7 +4269,7 @@
         "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla"
       },
       {
@@ -4639,6 +4695,14 @@
         "series": "Colour Glass",
         "catalogueHref": "reeds-at-home-at-ease-2.html",
         "href": "product-lnv-rd-396c287d.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+        "name": "Evergreen Tree Reed Diffuser",
+        "series": "Christmas Keepsake Diffusers",
+        "catalogueHref": "christmas-collection-4.html",
+        "href": "product-lnv-xms-0354628e.html?scent=pine-cedarwood"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",

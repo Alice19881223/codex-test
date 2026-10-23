@@ -1,0 +1,231 @@
+{
+  "sourceArchive": "圣诞系列.zip",
+  "products": [
+    {
+      "id": "christmas-keepsake-lnv-xms-cb84eb5d",
+      "name": "Festive Confetti Candle",
+      "series": "Christmas Keepsake Candles",
+      "productType": "Scented candle",
+      "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+      "packagingImage": "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp",
+      "images": [
+        "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+        "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "Ivory-coloured vessel with red, green and gold-toned dots and a fine red rim."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-9d8a877e",
+      "name": "Starlight Red Candle",
+      "series": "Christmas Keepsake Candles",
+      "productType": "Scented candle",
+      "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+      "packagingImage": "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp",
+      "images": [
+        "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+        "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "A festive red vessel with an ivory-coloured star motif, colourful dots and small gold-toned stars."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-a0612eaa",
+      "name": "Christmas Stocking Candle",
+      "series": "Christmas Keepsake Candles",
+      "productType": "Scented candle",
+      "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+      "packagingImage": "assets/christmas/keepsakes/648afba6947e4720032d.webp",
+      "images": [
+        "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+        "assets/christmas/keepsakes/648afba6947e4720032d.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "An ivory-coloured vessel with a red stocking motif, holly details and a contrasting green rim."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-e9a5ae53",
+      "name": "Evergreen Tree Candle",
+      "series": "Christmas Keepsake Candles",
+      "productType": "Scented candle",
+      "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+      "packagingImage": "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp",
+      "images": [
+        "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+        "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "A forest-green vessel with a decorated Christmas tree motif and scattered star details."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-a6468ad9",
+      "name": "Festive Confetti Reed Diffuser",
+      "series": "Christmas Keepsake Diffusers",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+      "packagingImage": "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp",
+      "images": [
+        "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+        "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "An ivory-coloured diffuser bottle decorated with red, green and gold-toned dots, shown with natural-coloured reeds."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-fa4e13ae",
+      "name": "Starlight Red Reed Diffuser",
+      "series": "Christmas Keepsake Diffusers",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+      "packagingImage": "assets/christmas/keepsakes/d25ceda740b8135464ba.webp",
+      "images": [
+        "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+        "assets/christmas/keepsakes/d25ceda740b8135464ba.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "A red diffuser bottle with an ivory-coloured star motif and small gold-toned stars, shown with natural-coloured reeds."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-9e275c5c",
+      "name": "Christmas Stocking Reed Diffuser",
+      "series": "Christmas Keepsake Diffusers",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+      "packagingImage": "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp",
+      "images": [
+        "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+        "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "An ivory-coloured diffuser bottle with a red stocking motif and holly details, shown with natural-coloured reeds."
+    },
+    {
+      "id": "christmas-keepsake-lnv-xms-0354628e",
+      "name": "Evergreen Tree Reed Diffuser",
+      "series": "Christmas Keepsake Diffusers",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+      "packagingImage": "assets/christmas/keepsakes/dd21641583981ee694c4.webp",
+      "images": [
+        "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+        "assets/christmas/keepsakes/dd21641583981ee694c4.webp"
+      ],
+      "assignedScent": "pine-cedarwood",
+      "designDescription": "A forest-green diffuser bottle featuring a decorated Christmas tree motif and star details, shown with natural-coloured reeds."
+    }
+  ],
+  "images": [
+    {
+      "source": "圣诞彩点象牙瓷烛杯-2.png",
+      "sha256": "20e63ca8f18aff8205d2addea992d57d3f492727962d0623df04a24c75b4af72",
+      "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞奢华香薰蜡烛礼盒-5.png",
+      "sha256": "8448ddbbd70dc8a6e33ca720bbb27494fc12a13e771b6e8539c1cd6008cc167d",
+      "image": "assets/christmas/keepsakes/8448ddbbd70dc8a6e33c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "星耀圣诞红釉瓷杯蜡烛-1.png",
+      "sha256": "96d02957ef3560c8be5097fde19098827ca658bdba1d2d3c9381ad80ac9b9dfd",
+      "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "奢雅圣诞香薰蜡烛礼盒-6.png",
+      "sha256": "1cd0b31af68498315b6b732538b158bed4989d2985b8cf4656c6c90b48434c46",
+      "image": "assets/christmas/keepsakes/1cd0b31af68498315b6b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞红袜瓷杯蜡烛-3.png",
+      "sha256": "f99787d33158a98b62475baffc204456f8295066615687bcc1ad9b6268557842",
+      "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞香薰蜡烛与礼盒-8.png",
+      "sha256": "648afba6947e4720032d48cd177e80ac44ce3a92f3ae86847c3ede780c7849ae",
+      "image": "assets/christmas/keepsakes/648afba6947e4720032d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "森林绿圣诞树浮雕蜡烛杯-4.png",
+      "sha256": "92668bd909217dd6409e71099107a751a1de80184989c6075153c5f4f25e8a03",
+      "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "森林绿圣诞蜡烛礼盒-7.png",
+      "sha256": "3d4c9711548a356ff8ded64881e0d52613dd68542adb0d788a100390848912ca",
+      "image": "assets/christmas/keepsakes/3d4c9711548a356ff8de.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "象牙红绿波点五枝圣诞扩香瓶-1.png",
+      "sha256": "5b85eac4c577468800ecfbc9a89c4cd51920c56f7b2ca5adc482dc9d339a7a4f",
+      "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞香氛扩香礼盒-5.png",
+      "sha256": "bfcb7486f3ee2771f65b18c684feee90f2b26ee55fa7d79160bf285fdceb2db3",
+      "image": "assets/christmas/keepsakes/bfcb7486f3ee2771f65b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "红色星纹圣诞扩香瓶-2.png",
+      "sha256": "921e3cccce60df75dbc4151475d9b34067181612dadeff76b681e9e2af1e669f",
+      "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞红盒藤条香薰礼盒-6.png",
+      "sha256": "d25ceda740b8135464ba80f1f60ee0c28c4d2aa254ed92657939510e4096c478",
+      "image": "assets/christmas/keepsakes/d25ceda740b8135464ba.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞红袜象牙扩香瓶-4.png",
+      "sha256": "3c943b3a6768dbd437d6ff32ffeedc9566096c34fefc55876dc4dd98335585ef",
+      "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞香氛扩香瓶与礼盒-7.png",
+      "sha256": "4a1c19e833190e9d9750f3b75e1069a5f02b950f931ca832a664eb34ac83a51a",
+      "image": "assets/christmas/keepsakes/4a1c19e833190e9d9750.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "奢华深松绿圣诞扩香瓶-3.png",
+      "sha256": "034f13f183324b50b10bca65dcc79a30d9918d5aa2b612770bacd90fdf34b000",
+      "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞森林绿扩香礼盒-8.png",
+      "sha256": "dd21641583981ee694c485697499820c0afc4296c71ea4f6cd15f43b7e42ef69",
+      "image": "assets/christmas/keepsakes/dd21641583981ee694c4.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

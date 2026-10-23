@@ -35,11 +35,37 @@ try{
  const paired=p.locator('.paired-product .crystal-item').first();await paired.hover();
  await p.waitForFunction(img=>Number(getComputedStyle(img).opacity)===1,await paired.locator('.photo-packaging').elementHandle());
  assert.ok(await paired.locator('.photo-packaging').evaluate(img=>img.complete&&img.naturalWidth>0),'desktop hover image must load');
+ // Imported Christmas pairs must keep their recommended scent, care and links.
+ const christmasManifest=path.join(root,'assets/christmas-keepsakes-source-manifest.json');
+ if(fs.existsSync(christmasManifest)){
+  const imported=JSON.parse(fs.readFileSync(christmasManifest)).products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  const layouts=JSON.parse(fs.readFileSync(path.join(root,'assets/catalogue-layouts.json'))).christmas;
+  for(const product of imported){
+   const record=records.find(r=>r.category==='christmas'&&r.image===product.image);
+   const number=layouts.findIndex(page=>page.includes(product.image))+1;
+   const collection='christmas-collection'+(number===1?'':'-'+number)+'.html';
+   await mp.goto(base+'/'+collection);
+   const card=mp.locator('#catalogue-grid a[href="'+record.url+'"]');
+   const toggle=card.locator('..').locator('.photo-toggle');await toggle.tap();
+   assert.equal(await toggle.getAttribute('aria-pressed'),'true');
+   await mp.waitForFunction(img=>img.complete&&img.naturalWidth>0&&Number(getComputedStyle(img).opacity)===1,await card.locator('.photo-packaging').elementHandle());
+   await card.tap();await mp.waitForURL(base+'/'+record.url);
+   assert.equal(await mp.locator('#product-fragrance').inputValue(),product.assignedScent);
+   assert.match(await mp.locator('main h1').textContent(),new RegExp(product.name));
+   assert.match(await mp.locator('main').textContent(),new RegExp(product.productType));
+   const care=await mp.locator('details').filter({has:mp.getByText('Use & Care',{exact:true})}).textContent();
+   if(product.productType==='Reed diffuser'){assert.match(care,/inserting or turning reeds/);assert.doesNotMatch(care,/burning candle/);}
+   else assert.match(care,/Never leave a burning candle unattended/);
+   await p.goto(base+'/'+collection);const desktopCard=p.locator('#catalogue-grid a[href="'+record.url+'"]');
+   await desktopCard.hover();await p.waitForFunction(img=>img.complete&&img.naturalWidth>0&&Number(getComputedStyle(img).opacity)===1,await desktopCard.locator('.photo-packaging').elementHandle());
+  }
+ }
  // Native links must also survive absent optional catalogue data.
  await mp.route('**/catalog*.js',route=>route.abort());await mp.goto(base+'/candles-little-joys.html');
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});
