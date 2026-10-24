@@ -58,9 +58,18 @@ for cat in ['candle','reed']:
 for cat,pages in json.loads((stage/'assets/catalogue-layouts.json').read_text()).items():
  lookup={p['image']:p for p in catalogues[cat]}
  assert {key for page in pages for key in page}==set(lookup)
- # The reviewed Christmas layout fills each page; the final ornaments and explicitly swapped character series may span pages.
- if cat=='christmas':assert all(len(page)==12 for page in pages[:-1]),'Christmas pages must be full before the last page'
- validate_arrangement(pages,lookup,allowed_split_series=('Botanical Wax Ornaments','Playful Christmas','Christmas Characters') if cat=='christmas' else ())
+ # The owner's reviewed Christmas order takes priority over keeping series together.
+ if cat=='christmas':
+  assert all(0<len(page)<=12 for page in pages),'Christmas pages must contain 1–12 products'
+  assert sum(len(page) for page in pages)==len(lookup),'Christmas products must appear exactly once'
+  assert all(len(page)==12 for page in pages[:-1]),'Christmas pages must be full before the last page'
+  reviewed=json.loads((root/'assets/catalogue-order.json').read_text())['christmas']
+  assert [[lookup[image]['name'] for image in page] for page in pages]==reviewed,'Christmas pages must match the reviewed order'
+  flat=[lookup[image] for page in pages for image in page]
+  ornament_series={'Festive Wax Ornaments','Botanical Wax Ornaments'}
+  first_ornament=next(i for i,p in enumerate(flat) if p['series'] in ornament_series)
+  assert all(p['series'] in ornament_series for p in flat[first_ornament:]),'Christmas ornaments must follow all candles and diffusers'
+ else:validate_arrangement(pages,lookup)
 # Fragrance links must target the exact product on the correct category page.
 from urllib.parse import urlsplit,parse_qs
 fragrances=json.loads((stage/'assets/fragrances.json').read_text())

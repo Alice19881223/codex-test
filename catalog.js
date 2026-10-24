@@ -152,7 +152,7 @@ const scents = [
         "image": "assets/christmas/paired/e710e9777530e1a2f07e.webp",
         "name": "English Pear & Freesia",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-5a010473.html?scent=pear-freesia"
       },
       {
@@ -923,7 +923,7 @@ const scents = [
         "image": "assets/christmas/paired/1480094b012dbf961dae.webp",
         "name": "Coastal Lime",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-a8811e93.html?scent=lime-basil"
       },
       {
@@ -1429,7 +1429,7 @@ const scents = [
         "image": "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
         "name": "Winter Berry Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-80c34b43.html?scent=blackcurrant-rose"
       },
       {
@@ -1650,7 +1650,7 @@ const scents = [
         "image": "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
         "name": "Violet Christmas Village",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-3cc7b61f.html?scent=lavender-cedarwood"
       },
       {
@@ -1658,7 +1658,7 @@ const scents = [
         "image": "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
         "name": "Violet Christmas Village Duo",
         "series": "Winter Glass Duos",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-acae1bf4.html?scent=lavender-cedarwood"
       },
       {
@@ -2617,7 +2617,7 @@ const scents = [
         "image": "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
         "name": "Blue Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-7c89fb28.html?scent=sea-salt-driftwood"
       },
       {
@@ -2625,7 +2625,7 @@ const scents = [
         "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
         "name": "Sea Salt & Sage",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-bed2d989.html?scent=sea-salt-driftwood"
       }
     ],
@@ -3293,7 +3293,7 @@ const scents = [
         "image": "assets/christmas/paired/35a8205a0dcc5801c828.webp",
         "name": "Charcoal Golden Reindeer",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-00898c2e.html?scent=fireside-smoked-woods"
       }
     ],
@@ -3491,7 +3491,7 @@ const scents = [
         "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-2222a11f.html?scent=amber-vanilla"
       },
       {
@@ -3801,7 +3801,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/20e63ca8f18aff8205d2.webp",
         "name": "Festive Confetti Candle",
         "series": "Christmas Keepsake Candles",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-cb84eb5d.html?scent=apple-cinnamon"
       },
       {
@@ -3809,7 +3809,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/5b85eac4c577468800ec.webp",
         "name": "Festive Confetti Reed Diffuser",
         "series": "Christmas Keepsake Diffusers",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-a6468ad9.html?scent=apple-cinnamon"
       },
       {
@@ -3887,7 +3887,7 @@ const scents = [
         "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp",
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-a71be608.html?scent=fir-cedarwood"
       },
       {
@@ -3895,7 +3895,7 @@ const scents = [
         "image": "assets/christmas/paired/7244c0a1884379c3fc46.webp",
         "name": "Silver Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-2ba5d180.html?scent=fir-cedarwood"
       },
       {
@@ -3903,7 +3903,7 @@ const scents = [
         "image": "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
         "name": "Champagne Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-c969e77f.html?scent=fir-cedarwood"
       },
       {
@@ -3911,7 +3911,7 @@ const scents = [
         "image": "assets/christmas/paired/6db267b2806699718c15.webp",
         "name": "Silver Snowflakes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-2d5f8d8e.html?scent=fir-cedarwood"
       },
       {
@@ -3935,7 +3935,7 @@ const scents = [
         "image": "assets/christmas/paired/ff765036bc45dff2513b.webp",
         "name": "Olive Christmas Wishes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-73fbf427.html?scent=fir-cedarwood"
       },
       {
@@ -4007,7 +4007,7 @@ const scents = [
         "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
         "name": "Forest Garland Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-b26959c2.html?scent=fir-cedarwood"
       },
       {
@@ -4031,7 +4031,7 @@ const scents = [
         "image": "assets/christmas/paired/df14c67cacea5845b494.webp",
         "name": "Santa & Tree Candle Duo",
         "series": "Christmas Characters",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-00beb3be.html?scent=fir-cedarwood"
       },
       {
@@ -4047,7 +4047,7 @@ const scents = [
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -4055,7 +4055,7 @@ const scents = [
         "image": "assets/christmas/paired/7f1e156495b0a459e0d6.webp",
         "name": "Forest Green Cone Candle",
         "series": "Botanical Christmas Trees",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-3765d8f2.html?scent=fir-cedarwood"
       },
       {
@@ -4063,7 +4063,7 @@ const scents = [
         "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood"
       },
       {
@@ -4071,7 +4071,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/92668bd909217dd6409e.webp",
         "name": "Evergreen Tree Candle",
         "series": "Christmas Keepsake Candles",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-e9a5ae53.html?scent=fir-cedarwood"
       }
     ],
@@ -4142,7 +4142,7 @@ const scents = [
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove"
       },
       {
@@ -4174,7 +4174,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/96d02957ef3560c8be50.webp",
         "name": "Starlight Red Candle",
         "series": "Christmas Keepsake Candles",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-9d8a877e.html?scent=orange-clove"
       },
       {
@@ -4182,7 +4182,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp",
         "name": "Starlight Red Reed Diffuser",
         "series": "Christmas Keepsake Diffusers",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-fa4e13ae.html?scent=orange-clove"
       }
     ],
@@ -4253,7 +4253,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/f99787d33158a98b6247.webp",
         "name": "Christmas Stocking Candle",
         "series": "Christmas Keepsake Candles",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-a0612eaa.html?scent=gingerbread-vanilla"
       },
       {
@@ -4261,7 +4261,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp",
         "name": "Christmas Stocking Reed Diffuser",
         "series": "Christmas Keepsake Diffusers",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-9e275c5c.html?scent=gingerbread-vanilla"
       },
       {
@@ -4269,7 +4269,7 @@ const scents = [
         "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-e392fac4.html?scent=gingerbread-vanilla"
       },
       {
@@ -4693,7 +4693,7 @@ const scents = [
         "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood"
       },
       {
@@ -4709,7 +4709,7 @@ const scents = [
         "image": "assets/christmas/keepsakes/034f13f183324b50b10b.webp",
         "name": "Evergreen Tree Reed Diffuser",
         "series": "Christmas Keepsake Diffusers",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-0354628e.html?scent=pine-cedarwood"
       }
     ],
