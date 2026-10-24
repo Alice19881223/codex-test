@@ -6199,16 +6199,7 @@ const candleProducts = [
     "name": "Jellyfish Egg Candle",
     "image": "assets/candles/candles-033.webp",
     "series": "Jellyfish",
-    "packagingImage": "assets/candles/candles-035.webp",
     "alternateView": true,
-    "viewLabels": [
-      "OPEN EGG CANDLE",
-      "CLOSED EGG CANDLE"
-    ],
-    "images": [
-      "assets/candles/candles-033.webp",
-      "assets/candles/candles-035.webp"
-    ],
     "assignedScent": "pear-freesia"
   },
   {
@@ -6216,11 +6207,6 @@ const candleProducts = [
     "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
     "series": "Jellyfish",
     "legacyImages": [
-      "assets/candles/candles-089.webp"
-    ],
-    "packagingImage": "assets/candles/candles-089.webp",
-    "images": [
-      "assets/candles/standalone/af548d5ba9a0251bccb1.png",
       "assets/candles/candles-089.webp"
     ],
     "assignedScent": "pear-freesia"
