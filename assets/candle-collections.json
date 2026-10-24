@@ -4,6 +4,13 @@
     "name": "Morning Light",
     "description": "Fresh scents for everyday rituals.",
     "productKeys": [
+      "Spring & Summer Light | Spring Muse",
+      "Spring & Summer Light | Sunlit Linen",
+      "Spring & Summer Light | Palm Coast",
+      "Spring & Summer Light | Blue Garden",
+      "Spring & Summer Light | Tangerine Stripes",
+      "Spring & Summer Light | Coastal Stripes",
+      "Spring & Summer Light | Sunlit Solstice",
       "Chromatic Bloom | Golden Blossom",
       "Chromatic Bloom | Blue Blossom",
       "Postbox | Lime Basil",
@@ -43,6 +50,15 @@
     ],
     "icon": "sun",
     "pages": [
+      [
+        "Spring & Summer Light | Spring Muse",
+        "Spring & Summer Light | Sunlit Linen",
+        "Spring & Summer Light | Palm Coast",
+        "Spring & Summer Light | Blue Garden",
+        "Spring & Summer Light | Tangerine Stripes",
+        "Spring & Summer Light | Coastal Stripes",
+        "Spring & Summer Light | Sunlit Solstice"
+      ],
       [
         "Chromatic Bloom | Golden Blossom",
         "Chromatic Bloom | Blue Blossom",
@@ -86,13 +102,23 @@
         "Botanical Cylinder | Olive Botanical Keepsake"
       ]
     ],
-    "manualPageOrder": true
+    "manualPageOrder": true,
+    "seasonalFeature": {
+      "title": "Spring light, summer breeze",
+      "description": "Meadow flowers, fresh linen, citrus stripes and coastal palms. A bright spring and summer edit with suggested floral, citrus and sea-air fragrances."
+    }
   },
   {
     "slug": "a-moment-of-quiet",
     "name": "A Moment of Quiet",
     "description": "Soft scents for slow, quiet moments.",
     "productKeys": [
+      "Spring & Summer Stillness | Violet Grove",
+      "Spring & Summer Stillness | Peace on Earth",
+      "Spring & Summer Stillness | Ivory Blessing",
+      "Spring & Summer Stillness | Mist Blue Blessing",
+      "Spring & Summer Stillness | Ivory Olive Dove",
+      "Spring & Summer Stillness | Sage Olive Dove",
       "Minimal Relief | Ivory Porcelain",
       "Oval Relief | Ivory Oval",
       "Iridescent | Pearl Ivory",
@@ -142,6 +168,14 @@
     ],
     "icon": "quiet",
     "pages": [
+      [
+        "Spring & Summer Stillness | Violet Grove",
+        "Spring & Summer Stillness | Peace on Earth",
+        "Spring & Summer Stillness | Ivory Blessing",
+        "Spring & Summer Stillness | Mist Blue Blessing",
+        "Spring & Summer Stillness | Ivory Olive Dove",
+        "Spring & Summer Stillness | Sage Olive Dove"
+      ],
       [
         "Minimal Relief | Ivory Porcelain",
         "Oval Relief | Ivory Oval",
@@ -196,13 +230,21 @@
         "Postbox | Lavender Postbox",
         "Sand Wax | Lavender Dusk Sand Wax Candle"
       ]
-    ]
+    ],
+    "manualPageOrder": true,
+    "seasonalFeature": {
+      "title": "A softer season",
+      "description": "Olive branches, doves and gentle garden colours. Quiet spring mornings and shaded summer afternoons, paired with suggested tea, lavender and soft-wood fragrances."
+    }
   },
   {
     "slug": "close-to-you",
     "name": "Close to You",
     "description": "Warm scents for moments shared.",
     "productKeys": [
+      "Spring & Summer Together | Garden Companions",
+      "Spring & Summer Together | Blush Heart",
+      "Spring & Summer Together | Palm Heart",
       "Moments Together | His Quiet Moment",
       "Moments Together | Her Soft Glow",
       "Moments Together | Our Shared Light",
@@ -227,6 +269,11 @@
     "icon": "heart",
     "pages": [
       [
+        "Spring & Summer Together | Garden Companions",
+        "Spring & Summer Together | Blush Heart",
+        "Spring & Summer Together | Palm Heart"
+      ],
+      [
         "Moments Together | His Quiet Moment",
         "Moments Together | Her Soft Glow",
         "Moments Together | Our Shared Light",
@@ -250,7 +297,12 @@
         "Passing Hours | Blush Hour",
         "Passing Hours | Sky Hour"
       ]
-    ]
+    ],
+    "manualPageOrder": true,
+    "seasonalFeature": {
+      "title": "Shared gardens, sunlit days",
+      "description": "Two birds, affectionate hearts and a palm-tree escape. A spring and summer gifting edit with suggested fresh floral and green-leaf fragrances."
+    }
   },
   {
     "slug": "little-joys",

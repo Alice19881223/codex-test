@@ -2448,6 +2448,278 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-45D7DA7A",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
+    "name": "Spring Muse",
+    "title": "Spring Muse Scented candle",
+    "url": "product-lnv-cnd-45d7da7a.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-1CDDA5AB",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/7f8534f40d7ba787dbdd.webp",
+    "name": "Sunlit Linen",
+    "title": "Sunlit Linen Scented candle",
+    "url": "product-lnv-cnd-1cdda5ab.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-B75F7A21",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/8bbda65aab37016c3ed1.webp",
+    "name": "Palm Coast",
+    "title": "Palm Coast Scented candle",
+    "url": "product-lnv-cnd-b75f7a21.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-3F41ABCF",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/7cc4f4111e3d257af8a1.webp",
+    "name": "Blue Garden",
+    "title": "Blue Garden Scented candle",
+    "url": "product-lnv-cnd-3f41abcf.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-E690A18E",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/360689c618a360131c9d.webp",
+    "name": "Tangerine Stripes",
+    "title": "Tangerine Stripes Scented candle",
+    "url": "product-lnv-cnd-e690a18e.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-ACC2B1C5",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/7c6cd05ddbeb691bacd0.webp",
+    "name": "Coastal Stripes",
+    "title": "Coastal Stripes Scented candle",
+    "url": "product-lnv-cnd-acc2b1c5.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "lime-basil"
+    ],
+    "primaryScent": "lime-basil",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-06068EB5",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/932f93b7d7a096117886.webp",
+    "name": "Sunlit Solstice",
+    "title": "Sunlit Solstice Scented candle",
+    "url": "product-lnv-cnd-06068eb5.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-76C2544C",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/c3fc467b19882d34222d.webp",
+    "name": "Violet Grove",
+    "title": "Violet Grove Scented candle",
+    "url": "product-lnv-cnd-76c2544c.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-FFD566DB",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/c74d1ae329f311a7438d.webp",
+    "name": "Peace on Earth",
+    "title": "Peace on Earth Scented candle",
+    "url": "product-lnv-cnd-ffd566db.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-8B6246DB",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/01e35605d785e50e532a.webp",
+    "name": "Ivory Blessing",
+    "title": "Ivory Blessing Scented candle",
+    "url": "product-lnv-cnd-8b6246db.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-69C32544",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/5c1aa14e631bbeef537a.webp",
+    "name": "Mist Blue Blessing",
+    "title": "Mist Blue Blessing Scented candle",
+    "url": "product-lnv-cnd-69c32544.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-6F0AECEC",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/e88eae4236f47274d7f2.webp",
+    "name": "Ivory Olive Dove",
+    "title": "Ivory Olive Dove Scented candle",
+    "url": "product-lnv-cnd-6f0aecec.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-AADA47CE",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/0a0184bafe3bd46bad89.webp",
+    "name": "Sage Olive Dove",
+    "title": "Sage Olive Dove Scented candle",
+    "url": "product-lnv-cnd-aada47ce.html",
+    "series": "Spring & Summer Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-C70C133B",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/7cb25f8146d7f850985c.webp",
+    "name": "Garden Companions",
+    "title": "Garden Companions Scented candle",
+    "url": "product-lnv-cnd-c70c133b.html",
+    "series": "Spring & Summer Together",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-BB0272FC",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/31a2a10a79215cede9ff.webp",
+    "name": "Blush Heart",
+    "title": "Blush Heart Scented candle",
+    "url": "product-lnv-cnd-bb0272fc.html",
+    "series": "Spring & Summer Together",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-B0EC5369",
+    "category": "candle",
+    "image": "assets/candles/spring-summer/bfa4ac622404f92741cc.webp",
+    "name": "Palm Heart",
+    "title": "Palm Heart Scented candle",
+    "url": "product-lnv-cnd-b0ec5369.html",
+    "series": "Spring & Summer Together",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "fig-green-leaves"
+    ],
+    "primaryScent": "fig-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",

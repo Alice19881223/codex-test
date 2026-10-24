@@ -1950,5 +1950,261 @@
     "assignedScent": "pomegranate-amber",
     "designDescription": "Peach pink, fine blue leaves, citrus slices and three illustrated fish evoke a sunlit postcard from the coast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
     "packagingImage": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp"
+  },
+  {
+    "id": "spring-summer-3659e325c668561f7eb2",
+    "name": "Spring Muse",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
+    "packagingImage": "assets/candles/spring-summer/8ea84e818d804db63a7f.webp",
+    "images": [
+      "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
+      "assets/candles/spring-summer/8ea84e818d804db63a7f.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "Lilac checks and small meadow flowers suggest the first flowers of spring. Peony & Lychee brings a bright, airy floral direction to the pastel palette. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-7f8534f40d7ba787dbdd",
+    "name": "Sunlit Linen",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/7f8534f40d7ba787dbdd.webp",
+    "packagingImage": "assets/candles/spring-summer/ee8a289371bba796e92b.webp",
+    "images": [
+      "assets/candles/spring-summer/7f8534f40d7ba787dbdd.webp",
+      "assets/candles/spring-summer/ee8a289371bba796e92b.webp"
+    ],
+    "assignedScent": "soft-linen",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "Butter-yellow and sky-blue stripes with a small bow recall freshly aired linen and open windows on a warm summer morning. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-8bbda65aab37016c3ed1",
+    "name": "Palm Coast",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/8bbda65aab37016c3ed1.webp",
+    "packagingImage": "assets/candles/spring-summer/f09eb0f7c8bf472cc183.webp",
+    "images": [
+      "assets/candles/spring-summer/8bbda65aab37016c3ed1.webp",
+      "assets/candles/spring-summer/f09eb0f7c8bf472cc183.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "A blue-framed palm tree and soft aqua waves evoke long, light summer days by the coast, paired with a sea-air and driftwood fragrance direction. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-7cc4f4111e3d257af8a1",
+    "name": "Blue Garden",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/7cc4f4111e3d257af8a1.webp",
+    "packagingImage": "assets/candles/spring-summer/85aff7bf8aa8d40d9c8a.webp",
+    "images": [
+      "assets/candles/spring-summer/7cc4f4111e3d257af8a1.webp",
+      "assets/candles/spring-summer/85aff7bf8aa8d40d9c8a.webp"
+    ],
+    "assignedScent": "bergamot-neroli",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "Cobalt garden scrollwork and fine ornamental borders recall a shaded Mediterranean courtyard in summer, paired with bright bergamot and neroli. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-360689c618a360131c9d",
+    "name": "Tangerine Stripes",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/360689c618a360131c9d.webp",
+    "packagingImage": "assets/candles/spring-summer/9ace47af8eb60f567472.webp",
+    "images": [
+      "assets/candles/spring-summer/360689c618a360131c9d.webp",
+      "assets/candles/spring-summer/9ace47af8eb60f567472.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "Ivory and tangerine stripes with a rounded bead-like handle suggest fresh citrus and sunlit spring-to-summer mornings. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-7c6cd05ddbeb691bacd0",
+    "name": "Coastal Stripes",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/7c6cd05ddbeb691bacd0.webp",
+    "packagingImage": "assets/candles/spring-summer/31e55d94700eac742c03.webp",
+    "images": [
+      "assets/candles/spring-summer/7c6cd05ddbeb691bacd0.webp",
+      "assets/candles/spring-summer/31e55d94700eac742c03.webp"
+    ],
+    "assignedScent": "lime-basil",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "Deep teal and ivory stripes with a warm orange bead-like handle bring a fresh coastal mood to a summer table; lime and basil add a crisp green direction. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-932f93b7d7a096117886",
+    "name": "Sunlit Solstice",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/932f93b7d7a096117886.webp",
+    "packagingImage": "assets/candles/spring-summer/ab3e62ef79312e386a09.webp",
+    "images": [
+      "assets/candles/spring-summer/932f93b7d7a096117886.webp",
+      "assets/candles/spring-summer/ab3e62ef79312e386a09.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light",
+    "designDescription": "A golden sun face and little stars on terracotta orange celebrate the long light of summer, paired with bright lemon and leafy verbena. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-c3fc467b19882d34222d",
+    "name": "Violet Grove",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/c3fc467b19882d34222d.webp",
+    "packagingImage": "assets/candles/spring-summer/310f83959a104aa77891.webp",
+    "images": [
+      "assets/candles/spring-summer/c3fc467b19882d34222d.webp",
+      "assets/candles/spring-summer/310f83959a104aa77891.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "Lilac and green stripes, a scalloped rim and a small bow suggest a quiet spring garden, paired with lavender and soft cedarwood. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-c74d1ae329f311a7438d",
+    "name": "Peace on Earth",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/c74d1ae329f311a7438d.webp",
+    "packagingImage": "assets/candles/spring-summer/3e8f5eab7edc3f85dbf1.webp",
+    "images": [
+      "assets/candles/spring-summer/c74d1ae329f311a7438d.webp",
+      "assets/candles/spring-summer/3e8f5eab7edc3f85dbf1.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "A soft sage-green vessel with a white dove and olive branch invites a calm spring pause, paired with fresh green tea and gentle cedarwood. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-01e35605d785e50e532a",
+    "name": "Ivory Blessing",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/01e35605d785e50e532a.webp",
+    "packagingImage": "assets/candles/spring-summer/4286d05946bc6335af44.webp",
+    "images": [
+      "assets/candles/spring-summer/01e35605d785e50e532a.webp",
+      "assets/candles/spring-summer/4286d05946bc6335af44.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "Ivory with an olive-branch blessing motif suggests a light, restful spring interior. White Tea & Bergamot offers a fresh, understated fragrance direction. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-5c1aa14e631bbeef537a",
+    "name": "Mist Blue Blessing",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/5c1aa14e631bbeef537a.webp",
+    "packagingImage": "assets/candles/spring-summer/ac8969139d325e1a3f13.webp",
+    "images": [
+      "assets/candles/spring-summer/5c1aa14e631bbeef537a.webp",
+      "assets/candles/spring-summer/ac8969139d325e1a3f13.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "Mist blue and a dark olive-branch blessing motif recall the quiet of an early summer shoreline, paired with sea salt and soft driftwood. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-e88eae4236f47274d7f2",
+    "name": "Ivory Olive Dove",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/e88eae4236f47274d7f2.webp",
+    "packagingImage": "assets/candles/spring-summer/c55052b6a3e0f361e6e4.webp",
+    "images": [
+      "assets/candles/spring-summer/e88eae4236f47274d7f2.webp",
+      "assets/candles/spring-summer/c55052b6a3e0f361e6e4.webp"
+    ],
+    "assignedScent": "soft-linen",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "An ivory-toned translucent vessel with a fine dove and olive branch recalls clean linen and gentle light through an open spring window. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-0a0184bafe3bd46bad89",
+    "name": "Sage Olive Dove",
+    "series": "Spring & Summer Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/0a0184bafe3bd46bad89.webp",
+    "packagingImage": "assets/candles/spring-summer/5ef91c6aa48deacfef53.webp",
+    "images": [
+      "assets/candles/spring-summer/0a0184bafe3bd46bad89.webp",
+      "assets/candles/spring-summer/5ef91c6aa48deacfef53.webp"
+    ],
+    "assignedScent": "white-tea-rosemary",
+    "season": "Spring & Summer",
+    "seasonalCollection": "a-moment-of-quiet",
+    "designDescription": "Muted sage green with a fine dove and olive branch suggests a shaded summer herb garden, paired with white tea and fresh rosemary. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-7cb25f8146d7f850985c",
+    "name": "Garden Companions",
+    "series": "Spring & Summer Together",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/7cb25f8146d7f850985c.webp",
+    "packagingImage": "assets/candles/spring-summer/8249913cdab25d7d2c5f.webp",
+    "images": [
+      "assets/candles/spring-summer/7cb25f8146d7f850985c.webp",
+      "assets/candles/spring-summer/8249913cdab25d7d2c5f.webp"
+    ],
+    "assignedScent": "jasmine-orange-blossom",
+    "season": "Spring & Summer",
+    "seasonalCollection": "close-to-you",
+    "designDescription": "Two birds in warm red and deep blue among small branches evoke a shared spring garden, paired with jasmine and orange blossom. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-31a2a10a79215cede9ff",
+    "name": "Blush Heart",
+    "series": "Spring & Summer Together",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/31a2a10a79215cede9ff.webp",
+    "packagingImage": "assets/candles/spring-summer/c045ccbcfe18c4316725.webp",
+    "images": [
+      "assets/candles/spring-summer/31a2a10a79215cede9ff.webp",
+      "assets/candles/spring-summer/c045ccbcfe18c4316725.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "season": "Spring & Summer",
+    "seasonalCollection": "close-to-you",
+    "designDescription": "A layered heart-and-eye motif, pastel pink and warm checks suggest an affectionate spring gift, paired with fresh rose and green leaves. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "spring-summer-bfa4ac622404f92741cc",
+    "name": "Palm Heart",
+    "series": "Spring & Summer Together",
+    "productType": "Scented candle",
+    "image": "assets/candles/spring-summer/bfa4ac622404f92741cc.webp",
+    "packagingImage": "assets/candles/spring-summer/7334c3ce7dc00d196a81.webp",
+    "images": [
+      "assets/candles/spring-summer/bfa4ac622404f92741cc.webp",
+      "assets/candles/spring-summer/7334c3ce7dc00d196a81.webp"
+    ],
+    "assignedScent": "fig-green-leaves",
+    "season": "Spring & Summer",
+    "seasonalCollection": "close-to-you",
+    "designDescription": "A warm ivory vessel with a palm tree, small hearts and a sun motif captures a summer escape together, paired with fig and green leaves. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

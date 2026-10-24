@@ -5,6 +5,42 @@ const server=http.createServer((req,res)=>{const pathname=decodeURIComponent(new
 try{
  const routes=['index.html','products-current.html','reed-collections.html','products-crystal-1.html','gift-collection.html','christmas-collection-2.html','sachets.html','candles-morning-light-2.html','fragrance.html','fragrance-pear-freesia.html','private-label.html','contact.html','product-lnv-cnd-02454833.html'];
  for(const width of [1440,390]){const context=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});for(const route of routes){const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));const response=await page.goto(base+'/'+route,{waitUntil:'load'});assert.equal(response.status(),200);assert.equal(await page.locator('main h1').count(),1,route+' H1');assert.equal(await page.locator('link[rel=canonical]').count(),1);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,route+' overflow at '+width);assert.deepEqual(errors,[],route+' JS errors');if(route==='index.html'){const cta=await page.locator('.hero-content .button').boundingBox();const hero=await page.locator('.hero').boundingBox();const controls=await page.locator('.hero-bottom').boundingBox();assert.ok(cta.y+cta.height<=hero.y+hero.height,'hero CTA must stay inside the hero');assert.ok(cta.y+cta.height<controls.y,'hero CTA must not overlap carousel controls');}results.push({route,width,errors});await page.close();}await context.close();}
+ // Spring/summer additions belong to three existing themes, with reviewed seasonal front pages.
+ const seasonalManifest=path.join(root,'assets/spring-summer-source-manifest.json');
+ if(fs.existsSync(seasonalManifest)){
+  const manifest=JSON.parse(fs.readFileSync(seasonalManifest)),designs=manifest.products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  const collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json')));
+  assert.equal(designs.length,16);assert.equal(manifest.images.length,32);assert.deepEqual(manifest.collectionCounts,{'morning-light':7,'a-moment-of-quiet':6,'close-to-you':3});
+  assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
+   for(const slug of Object.keys(manifest.collectionCounts)){
+    const collection=collections.find(c=>c.slug===slug),expected=designs.filter(d=>d.seasonalCollection===slug);
+    await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
+    await page.locator('.candle-mood-card').filter({hasText:collection.name}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
+    assert.equal(await page.locator('main h1').textContent(),collection.name);
+    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),expected.map(d=>d.name));
+    assert.match(await page.locator('.seasonal-feature').textContent(),/SPRING & SUMMER EDIT/);
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,slug+' seasonal overflow');
+    await page.locator('#pagination a').filter({hasText:/^2$/}).click();assert.equal(await page.locator('.seasonal-feature').count(),0);
+    await page.locator('#pagination a').filter({hasText:/^1$/}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
+    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),expected.map(d=>d.name));
+   }
+   for(const design of designs){
+    const record=records.find(r=>r.image===design.image);assert.ok(record);await page.goto(base+'/'+record.url);
+    assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);
+    assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.image);
+    assert.match(await page.locator('.product-design-description').textContent(),/spring|summer/i);
+    assert.equal(await page.locator('[data-gallery-src]').count(),2);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    await page.locator('[data-gallery-src]').nth(1).click();assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.packagingImage);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' seasonal detail overflow');
+   }
+   await ctx.close();
+  }
+  const ctx=await browser.newContext({javaScriptEnabled:false});const page=await ctx.newPage();
+  await page.goto(base+'/candles-morning-light.html');const first=page.locator('#catalogue-grid a[data-photo]').first(),href=await first.getAttribute('href');await first.click();await page.waitForURL(base+'/'+href);assert.equal(await page.locator('#product-notes dd').count(),3);await ctx.close();
+ }
  // The independent lifestyle theme must be reachable as a fifth collection.
  const poetryManifest=path.join(root,'assets/everyday-poetry-source-manifest.json');
  if(fs.existsSync(poetryManifest)){
@@ -151,6 +187,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

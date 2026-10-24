@@ -10,7 +10,7 @@ CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes
 CANDLE_VERSION=hashlib.sha256((ROOT/'assets/candle-collections.json').read_bytes()+(ROOT/'assets/candle-products.json').read_bytes()).hexdigest()[:12]
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
-VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry'}}
+VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together'}}
 SCENTS={s['id']:s for s in json.loads((ROOT/'assets/fragrances.json').read_text())}
 MEDIA=json.loads((ROOT/'assets/image-manifest.json').read_text()) if (ROOT/'assets/image-manifest.json').exists() else {}
 REVERSE={v['src']:k for k,v in MEDIA.items()}
