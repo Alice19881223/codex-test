@@ -1121,5 +1121,19 @@
       "assets/reeds/reed-5e8b9aaf6c03a6a0.webp"
     ],
     "assignedScent": "cedarwood-vetiver"
+  },
+  {
+    "id": "blue-landscape-import-4f266cd0f5592c455dac",
+    "name": "Blue & White Landscape Reed Diffuser",
+    "series": "Blue & White Landscapes",
+    "productType": "Reed diffuser",
+    "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+    "packagingImage": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+    "images": [
+      "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+      "assets/blue-landscapes/15a27f6b5202b95efa1a.webp"
+    ],
+    "assignedScent": "oud-saffron",
+    "designDescription": "A blue-and-white landscape bottle with mountains, pavilions and water, shown with natural-coloured reeds. Oud & Saffron from the Oriental Mystery fragrance family adds warm woods, saffron and a softly spiced sense of depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

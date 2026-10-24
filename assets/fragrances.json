@@ -715,7 +715,7 @@
         "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
         "name": "Orchid Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-126c54c6.html?scent=jasmine-orange-blossom"
       },
       {
@@ -981,6 +981,14 @@
         "series": "Spring & Summer Light",
         "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-acc2b1c5.html?scent=lime-basil"
+      },
+      {
+        "category": "candle",
+        "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+        "name": "Meadow Butterfly",
+        "series": "Spring & Summer Light",
+        "catalogueHref": "candles-morning-light.html",
+        "href": "product-lnv-cnd-abfca1e9.html?scent=lime-basil"
       },
       {
         "category": "reed",
@@ -1794,7 +1802,7 @@
         "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
         "name": "Lavender Garden",
         "series": "Garden Jars",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
         "href": "product-lnv-cnd-56bf11bf.html?scent=lavender-cedarwood"
       },
       {
@@ -2548,7 +2556,7 @@
         "image": "assets/candles/paired/986d2edec0865818a739.webp",
         "name": "Peach Oolong",
         "series": "Postbox",
-        "catalogueHref": "candles-morning-light.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-f0ac78c1.html?scent=osmanthus-green-tea"
       },
       {
@@ -3097,7 +3105,7 @@
         "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
         "name": "Ivory Soft Square",
         "series": "Soft Squares",
-        "catalogueHref": "candles-a-moment-of-quiet.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-c8706653.html?scent=sandalwood-cashmere"
       },
       {
@@ -3185,7 +3193,7 @@
         "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
         "name": "Snow Muse",
         "series": "Classical Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-fc69a435.html?scent=sandalwood-cashmere"
       },
       {
@@ -3707,7 +3715,7 @@
         "image": "assets/candles/paired/d9feede215a30484aa79.webp",
         "name": "Baltic Amber",
         "series": "Lace Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-c0404e25.html?scent=amber-vanilla"
       },
       {
@@ -4518,7 +4526,7 @@
         "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
         "name": "Blood Orange",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-4.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
       },
       {
@@ -4866,7 +4874,7 @@
         "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
         "name": "Jasmine Green Tea",
         "series": "Floral Tea",
-        "catalogueHref": "reeds-a-quiet-pause.html",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=green-tea-cedarwood"
       },
       {
@@ -4969,6 +4977,14 @@
         "series": "Square Glass",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-bb1d12af.html?scent=oud-saffron"
+      },
+      {
+        "category": "reed",
+        "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+        "name": "Blue & White Landscape Reed Diffuser",
+        "series": "Blue & White Landscapes",
+        "catalogueHref": "reeds-a-quiet-pause.html",
+        "href": "product-lnv-rd-2591b062.html?scent=oud-saffron"
       }
     ],
     "family": "Oriental Mystery",
@@ -5032,6 +5048,14 @@
     ],
     "description": "Smoky resin with a golden warmth; contemplative spaces and winter rituals.",
     "matches": [
+      {
+        "category": "candle",
+        "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+        "name": "Blue & White Landscape Candle",
+        "series": "Blue & White Landscapes",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
+        "href": "product-lnv-cnd-e94abf31.html?scent=incense-myrrh"
+      },
       {
         "category": "candle",
         "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",

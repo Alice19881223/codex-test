@@ -20,6 +20,30 @@ try{
  await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^2$/}).click();assert.ok(pagingPage.url().includes('-2.html'));
  assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),Math.min(12,pagedScent.matches.length-12));
  await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^1$/}).click();assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),12);await pagingContext.close();
+ // The butterfly belongs in Morning Light; both blue-and-white designs use Oriental Mystery.
+ const landscapeManifest=path.join(root,'assets/blue-landscapes-source-manifest.json');
+ if(fs.existsSync(landscapeManifest)){
+  const designs=JSON.parse(fs.readFileSync(landscapeManifest)).products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  const scents=JSON.parse(fs.readFileSync(path.join(root,'assets/fragrances.json')));
+  assert.equal(designs.length,3);assert.equal(designs.filter(d=>d.series==='Blue & White Landscapes').length,2);
+  for(const design of designs.filter(d=>d.series==='Blue & White Landscapes'))assert.equal(scents.find(s=>s.id===design.assignedScent).themes[0],'Oriental Mystery');
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
+   for(const design of designs){
+    const prefix=design.category==='candle'?'candles-':'reeds-',record=records.find(r=>r.category===design.category&&r.image===design.image);assert.ok(record);
+    await page.goto(base+'/'+prefix+design.collection+'.html');await page.locator('#catalogue-grid a[href^="'+record.url+'"]').click();await page.waitForURL(url=>url.pathname==='/'+record.url);
+    assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.ok(new URL(page.url()).searchParams.get('v'));
+    assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.image);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    assert.equal(await page.locator('[data-gallery-src]').count(),2);await page.locator('[data-gallery-src]').nth(1).click();assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.packagingImage);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    if(design.series==='Blue & White Landscapes')assert.match(await page.locator('#product-scent-tags').textContent(),/Oriental Mystery/);
+    const care=await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent();
+    if(design.category==='reed'){assert.match(care,/inserting or turning reeds/);assert.doesNotMatch(care,/burning candle/);}else assert.match(care,/Never leave a burning candle unattended/);
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' overflow');
+   }
+   await ctx.close();
+  }
+ }
  // New Christmas storybook products occupy page two, then continue on page three.
  const storybookManifest=path.join(root,'assets/christmas-storybook-source-manifest.json');
  if(fs.existsSync(storybookManifest)){
@@ -228,6 +252,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],christmasStorybookDesigns:fs.existsSync(storybookManifest)?15:0,fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],blueLandscapeAndButterflyDesigns:fs.existsSync(landscapeManifest)?3:0,christmasStorybookDesigns:fs.existsSync(storybookManifest)?15:0,fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

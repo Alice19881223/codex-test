@@ -12,7 +12,7 @@ LISTING_VERSION=hashlib.sha256(b''.join((ROOT/'assets'/name).read_bytes() for na
 LISTING_URLS={p.name for p in ROOT.glob('*.html') if re.search(r'id="(?:catalogue-grid|fragrance-products)"',p.read_text())}
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
-VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together','Christmas Storybook Glass'}}
+VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together','Christmas Storybook Glass','Blue & White Landscapes'}}
 SCENTS={s['id']:s for s in json.loads((ROOT/'assets/fragrances.json').read_text())}
 MEDIA=json.loads((ROOT/'assets/image-manifest.json').read_text()) if (ROOT/'assets/image-manifest.json').exists() else {}
 REVERSE={v['src']:k for k,v in MEDIA.items()}

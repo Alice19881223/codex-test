@@ -723,7 +723,7 @@ const scents = [
         "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
         "name": "Orchid Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-126c54c6.html?scent=jasmine-orange-blossom"
       },
       {
@@ -989,6 +989,14 @@ const scents = [
         "series": "Spring & Summer Light",
         "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-acc2b1c5.html?scent=lime-basil"
+      },
+      {
+        "category": "candle",
+        "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+        "name": "Meadow Butterfly",
+        "series": "Spring & Summer Light",
+        "catalogueHref": "candles-morning-light.html",
+        "href": "product-lnv-cnd-abfca1e9.html?scent=lime-basil"
       },
       {
         "category": "reed",
@@ -1802,7 +1810,7 @@ const scents = [
         "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
         "name": "Lavender Garden",
         "series": "Garden Jars",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
         "href": "product-lnv-cnd-56bf11bf.html?scent=lavender-cedarwood"
       },
       {
@@ -2556,7 +2564,7 @@ const scents = [
         "image": "assets/candles/paired/986d2edec0865818a739.webp",
         "name": "Peach Oolong",
         "series": "Postbox",
-        "catalogueHref": "candles-morning-light.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-f0ac78c1.html?scent=osmanthus-green-tea"
       },
       {
@@ -3105,7 +3113,7 @@ const scents = [
         "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
         "name": "Ivory Soft Square",
         "series": "Soft Squares",
-        "catalogueHref": "candles-a-moment-of-quiet.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-c8706653.html?scent=sandalwood-cashmere"
       },
       {
@@ -3193,7 +3201,7 @@ const scents = [
         "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
         "name": "Snow Muse",
         "series": "Classical Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-fc69a435.html?scent=sandalwood-cashmere"
       },
       {
@@ -3715,7 +3723,7 @@ const scents = [
         "image": "assets/candles/paired/d9feede215a30484aa79.webp",
         "name": "Baltic Amber",
         "series": "Lace Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-c0404e25.html?scent=amber-vanilla"
       },
       {
@@ -4526,7 +4534,7 @@ const scents = [
         "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
         "name": "Blood Orange",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-4.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
       },
       {
@@ -4874,7 +4882,7 @@ const scents = [
         "image": "assets/reeds/reed-640affaca6c8bc7e.webp",
         "name": "Jasmine Green Tea",
         "series": "Floral Tea",
-        "catalogueHref": "reeds-a-quiet-pause.html",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=green-tea-cedarwood"
       },
       {
@@ -4977,6 +4985,14 @@ const scents = [
         "series": "Square Glass",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-bb1d12af.html?scent=oud-saffron"
+      },
+      {
+        "category": "reed",
+        "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+        "name": "Blue & White Landscape Reed Diffuser",
+        "series": "Blue & White Landscapes",
+        "catalogueHref": "reeds-a-quiet-pause.html",
+        "href": "product-lnv-rd-2591b062.html?scent=oud-saffron"
       }
     ],
     "family": "Oriental Mystery",
@@ -5040,6 +5056,14 @@ const scents = [
     ],
     "description": "Smoky resin with a golden warmth; contemplative spaces and winter rituals.",
     "matches": [
+      {
+        "category": "candle",
+        "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+        "name": "Blue & White Landscape Candle",
+        "series": "Blue & White Landscapes",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
+        "href": "product-lnv-cnd-e94abf31.html?scent=incense-myrrh"
+      },
       {
         "category": "candle",
         "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",
@@ -7278,6 +7302,22 @@ const candleProducts = [
     "designDescription": "A golden sun face and little stars on terracotta orange celebrate the long light of summer, paired with bright lemon and leafy verbena. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "blue-landscape-import-480dbf21352300524026",
+    "name": "Meadow Butterfly",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+    "packagingImage": "assets/blue-landscapes/85b76771a912a827e663.webp",
+    "images": [
+      "assets/blue-landscapes/480dbf21352300524026.webp",
+      "assets/blue-landscapes/85b76771a912a827e663.webp"
+    ],
+    "assignedScent": "lime-basil",
+    "designDescription": "A smiling butterfly in yellow-green checks on an ivory-toned background captures the lightness of a spring meadow and early summer. Lime & Basil is a suggested crisp citrus-and-herb fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light"
+  },
+  {
     "id": "spring-summer-c3fc467b19882d34222d",
     "name": "Violet Grove",
     "series": "Spring & Summer Stillness",
@@ -7420,6 +7460,20 @@ const candleProducts = [
     "season": "Spring & Summer",
     "seasonalCollection": "close-to-you",
     "designDescription": "A warm ivory vessel with a palm tree, small hearts and a sun motif captures a summer escape together, paired with fig and green leaves. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-landscape-import-23065f06e2b23e8559c9",
+    "name": "Blue & White Landscape Candle",
+    "series": "Blue & White Landscapes",
+    "productType": "Scented candle",
+    "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+    "packagingImage": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+    "images": [
+      "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+      "assets/blue-landscapes/6693081721a391ebeab3.webp"
+    ],
+    "assignedScent": "incense-myrrh",
+    "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 const reedProducts = [
@@ -9962,6 +10016,7 @@ const productPages = {
     "assets/candles/spring-summer/360689c618a360131c9d.webp": "product-lnv-cnd-e690a18e.html",
     "assets/candles/spring-summer/7c6cd05ddbeb691bacd0.webp": "product-lnv-cnd-acc2b1c5.html",
     "assets/candles/spring-summer/932f93b7d7a096117886.webp": "product-lnv-cnd-06068eb5.html",
+    "assets/blue-landscapes/480dbf21352300524026.webp": "product-lnv-cnd-abfca1e9.html",
     "assets/candles/spring-summer/c3fc467b19882d34222d.webp": "product-lnv-cnd-76c2544c.html",
     "assets/candles/spring-summer/c74d1ae329f311a7438d.webp": "product-lnv-cnd-ffd566db.html",
     "assets/candles/spring-summer/01e35605d785e50e532a.webp": "product-lnv-cnd-8b6246db.html",
@@ -9970,7 +10025,8 @@ const productPages = {
     "assets/candles/spring-summer/0a0184bafe3bd46bad89.webp": "product-lnv-cnd-aada47ce.html",
     "assets/candles/spring-summer/7cb25f8146d7f850985c.webp": "product-lnv-cnd-c70c133b.html",
     "assets/candles/spring-summer/31a2a10a79215cede9ff.webp": "product-lnv-cnd-bb0272fc.html",
-    "assets/candles/spring-summer/bfa4ac622404f92741cc.webp": "product-lnv-cnd-b0ec5369.html"
+    "assets/candles/spring-summer/bfa4ac622404f92741cc.webp": "product-lnv-cnd-b0ec5369.html",
+    "assets/blue-landscapes/23065f06e2b23e8559c9.webp": "product-lnv-cnd-e94abf31.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",
@@ -10064,7 +10120,8 @@ const productPages = {
     "assets/companions/78919717797a963dc844.webp": "product-lnv-rd-b0ce534d.html",
     "assets/companions/cc0696772d15e3acdb9d.webp": "product-lnv-rd-9b526e19.html",
     "assets/companions/33ac66bd00830bdaa036.webp": "product-lnv-rd-f3b14975.html",
-    "assets/companions/b2b8111bb9e29b42d8ed.webp": "product-lnv-rd-8fe44f17.html"
+    "assets/companions/b2b8111bb9e29b42d8ed.webp": "product-lnv-rd-8fe44f17.html",
+    "assets/blue-landscapes/4f266cd0f5592c455dac.webp": "product-lnv-rd-2591b062.html"
   },
   "crystal": {
     "assets/companions/040856927401c5aa9fe5.webp": "product-lnv-cry-2961f11a.html",

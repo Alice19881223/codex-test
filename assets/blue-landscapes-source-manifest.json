@@ -1,0 +1,103 @@
+{
+  "sourceArchives": [
+    "春夏系列3.zip",
+    "青花瓷系列.zip"
+  ],
+  "products": [
+    {
+      "id": "blue-landscape-import-480dbf21352300524026",
+      "name": "Meadow Butterfly",
+      "series": "Spring & Summer Light",
+      "productType": "Scented candle",
+      "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+      "packagingImage": "assets/blue-landscapes/85b76771a912a827e663.webp",
+      "images": [
+        "assets/blue-landscapes/480dbf21352300524026.webp",
+        "assets/blue-landscapes/85b76771a912a827e663.webp"
+      ],
+      "assignedScent": "lime-basil",
+      "designDescription": "A smiling butterfly in yellow-green checks on an ivory-toned background captures the lightness of a spring meadow and early summer. Lime & Basil is a suggested crisp citrus-and-herb fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "season": "Spring & Summer",
+      "seasonalCollection": "morning-light",
+      "category": "candle",
+      "collection": "morning-light"
+    },
+    {
+      "id": "blue-landscape-import-23065f06e2b23e8559c9",
+      "name": "Blue & White Landscape Candle",
+      "series": "Blue & White Landscapes",
+      "productType": "Scented candle",
+      "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+      "packagingImage": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+      "images": [
+        "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+        "assets/blue-landscapes/6693081721a391ebeab3.webp"
+      ],
+      "assignedScent": "incense-myrrh",
+      "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "a-moment-of-quiet"
+    },
+    {
+      "id": "blue-landscape-import-4f266cd0f5592c455dac",
+      "name": "Blue & White Landscape Reed Diffuser",
+      "series": "Blue & White Landscapes",
+      "productType": "Reed diffuser",
+      "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+      "packagingImage": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+      "images": [
+        "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+        "assets/blue-landscapes/15a27f6b5202b95efa1a.webp"
+      ],
+      "assignedScent": "oud-saffron",
+      "designDescription": "A blue-and-white landscape bottle with mountains, pavilions and water, shown with natural-coloured reeds. Oud & Saffron from the Oriental Mystery fragrance family adds warm woods, saffron and a softly spiced sense of depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "a-quiet-pause"
+    }
+  ],
+  "images": [
+    {
+      "source": "黄绿色棋盘蝴蝶蜡烛-2.png",
+      "sha256": "480dbf21352300524026f3da74e215a11ccda6c58af89280ccfd0dd7c86688b7",
+      "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "黄绿棋盘格蝴蝶蜡烛礼盒-1.png",
+      "sha256": "85b76771a912a827e6630692ab7e54e58ec255d401a13a55cc418b2c04d478de",
+      "image": "assets/blue-landscapes/85b76771a912a827e663.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "蓝白山水香氛蜡烛.png",
+      "sha256": "23065f06e2b23e8559c971a6eb66d32680822e4edb66db0bf1e24cd6e1c652f5",
+      "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "微信图片_20261024142344_307_2.png",
+      "sha256": "6693081721a391ebeab3dad5921f4e5e45dfde865a55a73c4e6940007a0cec1b",
+      "image": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "青花山水香薰扩香瓶-1.png",
+      "sha256": "4f266cd0f5592c455dac573d61dd093f488c4af97ef64671c2bf3a9b6cc95890",
+      "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰维香薰与山水礼盒-2.png",
+      "sha256": "15a27f6b5202b95efa1ae31f65d472ba6e397f62c44650da2ca5a5ce863f55b0",
+      "image": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "fragranceRequirement": "Both blue-and-white landscape products use Oriental Mystery profiles."
+}

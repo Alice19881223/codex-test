@@ -2567,6 +2567,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-ABFCA1E9",
+    "category": "candle",
+    "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+    "name": "Meadow Butterfly",
+    "title": "Meadow Butterfly Scented candle",
+    "url": "product-lnv-cnd-abfca1e9.html",
+    "series": "Spring & Summer Light",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "lime-basil"
+    ],
+    "primaryScent": "lime-basil",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-CND-76C2544C",
     "category": "candle",
     "image": "assets/candles/spring-summer/c3fc467b19882d34222d.webp",
@@ -2716,6 +2733,23 @@
       "fig-green-leaves"
     ],
     "primaryScent": "fig-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-E94ABF31",
+    "category": "candle",
+    "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+    "name": "Blue & White Landscape Candle",
+    "title": "Blue & White Landscape Candle Scented candle",
+    "url": "product-lnv-cnd-e94abf31.html",
+    "series": "Blue & White Landscapes",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "incense-myrrh"
+    ],
+    "primaryScent": "incense-myrrh",
     "specifications": {},
     "documents": []
   },
@@ -4280,6 +4314,23 @@
       "cedarwood-vetiver"
     ],
     "primaryScent": "cedarwood-vetiver",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-2591B062",
+    "category": "reed",
+    "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+    "name": "Blue & White Landscape Reed Diffuser",
+    "title": "Blue & White Landscape Reed Diffuser",
+    "url": "product-lnv-rd-2591b062.html",
+    "series": "Blue & White Landscapes",
+    "collection": "A Quiet Pause",
+    "collectionHref": "reeds-a-quiet-pause.html",
+    "suggestedScents": [
+      "oud-saffron"
+    ],
+    "primaryScent": "oud-saffron",
     "specifications": {},
     "documents": []
   },

@@ -11,6 +11,7 @@
       "Spring & Summer Light | Tangerine Stripes",
       "Spring & Summer Light | Coastal Stripes",
       "Spring & Summer Light | Sunlit Solstice",
+      "Spring & Summer Light | Meadow Butterfly",
       "Chromatic Bloom | Golden Blossom",
       "Chromatic Bloom | Blue Blossom",
       "Postbox | Lime Basil",
@@ -58,13 +59,14 @@
         "Spring & Summer Light | Tangerine Stripes",
         "Spring & Summer Light | Coastal Stripes",
         "Spring & Summer Light | Sunlit Solstice",
+        "Spring & Summer Light | Meadow Butterfly",
         "Chromatic Bloom | Golden Blossom",
         "Chromatic Bloom | Blue Blossom",
         "Postbox | Lime Basil",
-        "Postbox | Osmanthus",
-        "Postbox | Peach Oolong"
+        "Postbox | Osmanthus"
       ],
       [
+        "Postbox | Peach Oolong",
         "Postbox | Island Cotton",
         "Gradient Glass | Golden Gardenia",
         "Bamboo Grove | Golden Bamboo Ripple",
@@ -75,10 +77,10 @@
         "Botanical Sketches | Sea Salt Sketch",
         "Botanical Sketches | White Tea Sketch",
         "Sunflower | Ivory Sunflower",
-        "Sunflower | Golden Sunflower",
-        "Botanical Teacups | Orchid Teacup"
+        "Sunflower | Golden Sunflower"
       ],
       [
+        "Botanical Teacups | Orchid Teacup",
         "Botanical Teacups | Bamboo Teacup",
         "Botanical Teacups | Chrysanthemum Teacup",
         "Botanical Teacups | Plum Blossom Teacup",
@@ -89,10 +91,10 @@
         "Vintage Florals | Gardenia Botanica",
         "Vintage Florals | Bluebell",
         "Lace Glass | White Peach Oolong",
-        "Lace Glass | White Florals",
-        "Lace Glass | Blood Orange"
+        "Lace Glass | White Florals"
       ],
       [
+        "Lace Glass | Blood Orange",
         "Stone & Stillness | Sage Stillness",
         "Woven Hearth | Woven Hearth",
         "Woodland Stories | Woodland Tale",
@@ -119,6 +121,7 @@
       "Spring & Summer Stillness | Mist Blue Blessing",
       "Spring & Summer Stillness | Ivory Olive Dove",
       "Spring & Summer Stillness | Sage Olive Dove",
+      "Blue & White Landscapes | Blue & White Landscape Candle",
       "Minimal Relief | Ivory Porcelain",
       "Oval Relief | Ivory Oval",
       "Iridescent | Pearl Ivory",
@@ -175,14 +178,15 @@
         "Spring & Summer Stillness | Mist Blue Blessing",
         "Spring & Summer Stillness | Ivory Olive Dove",
         "Spring & Summer Stillness | Sage Olive Dove",
+        "Blue & White Landscapes | Blue & White Landscape Candle",
         "Minimal Relief | Ivory Porcelain",
         "Oval Relief | Ivory Oval",
         "Iridescent | Pearl Ivory",
         "Iridescent | Obsidian",
-        "Everyday Botanicals | Vanilla Poetry",
-        "Soft Squares | Ivory Soft Square"
+        "Everyday Botanicals | Vanilla Poetry"
       ],
       [
+        "Soft Squares | Ivory Soft Square",
         "Soft Squares | Noir Soft Square",
         "Pebble Forms | Ivory Pebble",
         "Deer Collection | Ivory Deer",
@@ -193,10 +197,10 @@
         "Quiet Domes | Ivory Rice Blossom",
         "Quiet Domes | Mocha Serenity",
         "Quiet Domes | Sage Oolong",
-        "Lace Glass | Dark Woods",
-        "Lace Glass | Baltic Amber"
+        "Lace Glass | Dark Woods"
       ],
       [
+        "Lace Glass | Baltic Amber",
         "Lace Glass | Provence Lavender",
         "Lustre | Champagne Lustre",
         "Lustre | Graphite Lustre",
@@ -207,10 +211,10 @@
         "Essential Glass | Amber & Glass",
         "Speckled Forms | Slate Speckle",
         "Speckled Forms | Ivory Speckle",
-        "Classical Relief | Ivory Muse",
-        "Classical Relief | Snow Muse"
+        "Classical Relief | Ivory Muse"
       ],
       [
+        "Classical Relief | Snow Muse",
         "Ribbon & Glow | Lavender Ribbon",
         "Ribbon & Glow | Amber Ribbon",
         "Ribbon & Glow | Sky Ribbon",
@@ -221,10 +225,10 @@
         "Earth Tones | Cocoa Wild",
         "Earth Tones | Mauve Wild",
         "Amber Heirloom | Amber Lavender Heirloom",
-        "Gilded Skies | Gilded Azure",
-        "Garden Jars | Lavender Garden"
+        "Gilded Skies | Gilded Azure"
       ],
       [
+        "Garden Jars | Lavender Garden",
         "Gradient Glass | Lavender Ombre",
         "Gradient Glass | Vanilla",
         "Postbox | Lavender Postbox",

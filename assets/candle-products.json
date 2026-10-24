@@ -2064,6 +2064,22 @@
     "designDescription": "A golden sun face and little stars on terracotta orange celebrate the long light of summer, paired with bright lemon and leafy verbena. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "blue-landscape-import-480dbf21352300524026",
+    "name": "Meadow Butterfly",
+    "series": "Spring & Summer Light",
+    "productType": "Scented candle",
+    "image": "assets/blue-landscapes/480dbf21352300524026.webp",
+    "packagingImage": "assets/blue-landscapes/85b76771a912a827e663.webp",
+    "images": [
+      "assets/blue-landscapes/480dbf21352300524026.webp",
+      "assets/blue-landscapes/85b76771a912a827e663.webp"
+    ],
+    "assignedScent": "lime-basil",
+    "designDescription": "A smiling butterfly in yellow-green checks on an ivory-toned background captures the lightness of a spring meadow and early summer. Lime & Basil is a suggested crisp citrus-and-herb fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "season": "Spring & Summer",
+    "seasonalCollection": "morning-light"
+  },
+  {
     "id": "spring-summer-c3fc467b19882d34222d",
     "name": "Violet Grove",
     "series": "Spring & Summer Stillness",
@@ -2206,5 +2222,19 @@
     "season": "Spring & Summer",
     "seasonalCollection": "close-to-you",
     "designDescription": "A warm ivory vessel with a palm tree, small hearts and a sun motif captures a summer escape together, paired with fig and green leaves. Suggested seasonal fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-landscape-import-23065f06e2b23e8559c9",
+    "name": "Blue & White Landscape Candle",
+    "series": "Blue & White Landscapes",
+    "productType": "Scented candle",
+    "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+    "packagingImage": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+    "images": [
+      "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+      "assets/blue-landscapes/6693081721a391ebeab3.webp"
+    ],
+    "assignedScent": "incense-myrrh",
+    "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

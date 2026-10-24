@@ -12007,5 +12007,143 @@
         "bytes": 153242
       }
     ]
+  },
+  "assets/blue-landscapes/480dbf21352300524026.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 53466,
+    "src": "assets/blue-landscapes/480dbf21352300524026.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/480dbf21352300524026-480.webp",
+        "width": 480,
+        "bytes": 13788
+      },
+      {
+        "src": "assets/blue-landscapes/480dbf21352300524026-960.webp",
+        "width": 960,
+        "bytes": 33266
+      },
+      {
+        "src": "assets/blue-landscapes/480dbf21352300524026.webp",
+        "width": 1254,
+        "bytes": 53466
+      }
+    ]
+  },
+  "assets/blue-landscapes/85b76771a912a827e663.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 84348,
+    "src": "assets/blue-landscapes/85b76771a912a827e663.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/85b76771a912a827e663-480.webp",
+        "width": 480,
+        "bytes": 19652
+      },
+      {
+        "src": "assets/blue-landscapes/85b76771a912a827e663-960.webp",
+        "width": 960,
+        "bytes": 52888
+      },
+      {
+        "src": "assets/blue-landscapes/85b76771a912a827e663.webp",
+        "width": 1254,
+        "bytes": 84348
+      }
+    ]
+  },
+  "assets/blue-landscapes/23065f06e2b23e8559c9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 128658,
+    "src": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/23065f06e2b23e8559c9-480.webp",
+        "width": 480,
+        "bytes": 27676
+      },
+      {
+        "src": "assets/blue-landscapes/23065f06e2b23e8559c9-960.webp",
+        "width": 960,
+        "bytes": 79378
+      },
+      {
+        "src": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
+        "width": 1254,
+        "bytes": 128658
+      }
+    ]
+  },
+  "assets/blue-landscapes/6693081721a391ebeab3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 195388,
+    "src": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/6693081721a391ebeab3-480.webp",
+        "width": 480,
+        "bytes": 34216
+      },
+      {
+        "src": "assets/blue-landscapes/6693081721a391ebeab3-960.webp",
+        "width": 960,
+        "bytes": 114690
+      },
+      {
+        "src": "assets/blue-landscapes/6693081721a391ebeab3.webp",
+        "width": 1254,
+        "bytes": 195388
+      }
+    ]
+  },
+  "assets/blue-landscapes/4f266cd0f5592c455dac.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 57876,
+    "src": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/4f266cd0f5592c455dac-480.webp",
+        "width": 480,
+        "bytes": 11736
+      },
+      {
+        "src": "assets/blue-landscapes/4f266cd0f5592c455dac-960.webp",
+        "width": 960,
+        "bytes": 32946
+      },
+      {
+        "src": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+        "width": 1254,
+        "bytes": 57876
+      }
+    ]
+  },
+  "assets/blue-landscapes/15a27f6b5202b95efa1a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 163234,
+    "src": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+    "variants": [
+      {
+        "src": "assets/blue-landscapes/15a27f6b5202b95efa1a-480.webp",
+        "width": 480,
+        "bytes": 29620
+      },
+      {
+        "src": "assets/blue-landscapes/15a27f6b5202b95efa1a-960.webp",
+        "width": 960,
+        "bytes": 97960
+      },
+      {
+        "src": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+        "width": 1254,
+        "bytes": 163234
+      }
+    ]
   }
 }
