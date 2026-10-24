@@ -8,6 +8,8 @@ import csv,html,json,re,collections,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes()).hexdigest()[:12]
 CANDLE_VERSION=hashlib.sha256((ROOT/'assets/candle-collections.json').read_bytes()+(ROOT/'assets/candle-products.json').read_bytes()).hexdigest()[:12]
+LISTING_VERSION=hashlib.sha256(b''.join((ROOT/'assets'/name).read_bytes() for name in ['candle-collections.json','reed-collections.json','catalogue-layouts.json','fragrances.json'])).hexdigest()[:12]
+LISTING_URLS={p.name for p in ROOT.glob('*.html') if re.search(r'id="(?:catalogue-grid|fragrance-products)"',p.read_text())}
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
 VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together'}}
@@ -173,6 +175,9 @@ def build():
    text=insert_main(text,block('collection-context','<p class="seo-collection-context">'+esc(c['name'])+' '+noun.lower()+' for wholesale and private label collections. <a href="private-label.html">Explore customization options</a>.</p>'))
   elif re.search(r'data-fragrance="([^"]+)"',text):
    s=SCENTS[re.search(r'data-fragrance="([^"]+)"',text)[1]];title=s['name']+' Candles & Diffuser Options | Lanarve';description='Explore '+s['name']+' fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.';primary=s['name']+' home fragrance';intent='Scent discovery / product pairings';crumbs+=[('Fragrance library','fragrance.html'),(s['name'],name)]
+   page=int(attr(re.search(r'<body[^>]*>',text)[0],'data-fragrance-page') or 1)
+   if page>1:
+    title=title.replace(' | Lanarve',f' — Page {page} | Lanarve');description+=f' Page {page}.'
   else:
    # Give each paginated category its own canonical and metadata, not page 1's canonical.
    rootname=name
@@ -243,8 +248,8 @@ def build():
   text=re.sub(r'(<a\b[^>]*\bhref=")((?:products-current|candles-[a-z0-9-]+)\.html)(?:\?v=[a-f0-9]+)?(")',lambda m:m[1]+m[2]+'?v='+CANDLE_VERSION+m[3],text)
   def version_candle_product(m):
    url=urlsplit(html.unescape(m[2]))
-   if url.scheme or url.netloc or url.path not in VERSIONED_PRODUCT_URLS:return m[0]
-   query=dict(parse_qsl(url.query));query['v']=CANDLE_VERSION
+   if url.scheme or url.netloc or url.path not in VERSIONED_PRODUCT_URLS|LISTING_URLS:return m[0]
+   query=dict(parse_qsl(url.query));query['v']=LISTING_VERSION if url.path in LISTING_URLS else CANDLE_VERSION
    return m[1]+esc(urlunsplit(('','',url.path,urlencode(query),url.fragment)))+m[3]
   text=re.sub(r'(<a\b[^>]*\bhref=")([^\"]+)(")',version_candle_product,text)
   path.write_text(text)

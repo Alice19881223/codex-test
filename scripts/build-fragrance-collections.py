@@ -1,4 +1,4 @@
-"""Create one static, mixed-category product collection for each fragrance."""
+"""Create paginated static fragrance collections with 12 products per page."""
 from pathlib import Path
 import json,re,html
 root=Path(__file__).resolve().parents[1]
@@ -17,9 +17,21 @@ for scent in scents:
   card=f'<a class="crystal-item fragrance-collection-product" data-product-image="{esc(product["image"])}" href="{esc(match["href"])}">{images}<span class="eyebrow">{esc(categories[match["category"]])}</span><h3>{name}</h3><p class="fragrance-product-series">{esc(product["series"])}</p><span class="product-link">VIEW PRODUCT <span aria-hidden="true">↗</span></span></a>'
   cards.append('<div class="paired-product">'+card+'</div>' if product.get('packagingImage') else card)
  notes='<dl class="note-pyramid">'+''.join(f'<div><dt>{label}</dt><dd>{esc(" · ".join(scent[key]))}</dd></div>' for label,key in [('Top notes','top'),('Heart notes','heart'),('Base notes','base')])+'</dl>'
- main=f'<main><section class="section fragrance-collection-intro"><a class="mood-breadcrumb" href="index.html?fragrances=open">Fragrance collections /</a><p class="eyebrow">{esc(" · ".join(scent["themes"]))}</p><h1>{esc(scent["name"])}</h1><p class="fragrance-collection-description">{esc(scent["description"])}</p>{notes}</section><section class="section fragrance-collection-catalogue"><div class="fragrance-collection-heading"><h2>Explore this scent</h2><p>{len(cards)} suggested product pairings</p></div><div id="fragrance-products" class="crystal-gallery">'+''.join(cards)+'</div><p class="catalog-note">Suggested fragrance profile and design pairings. Contact us to confirm formulations and availability.</p></section></main>'
- text=re.sub(r'<body[^>]*>',f'<body data-fragrance="{scent["id"]}">',base)
- text=re.sub(r'<title>.*?</title>',lambda m:f'<title>{esc(scent["name"])} — Lanarve Fragrance Collection</title>',text)
- text=re.sub(r'<main\b[^>]*>.*?</main>',lambda m:main,text,flags=re.S)
- (root/scent['collectionHref']).write_text(text)
-print(f'Built {len(scents)} individual fragrance product collections.')
+ total=(len(cards)+11)//12
+ def filename(page):return scent['collectionHref'] if page==1 else scent['collectionHref'].replace('.html',f'-{page}.html')
+ for page in range(1,total+1):
+  shown=cards[(page-1)*12:page*12]
+  links=(f'<a href="{filename(page-1)}" aria-label="Previous page">← Previous</a>' if page>1 else '<span class="disabled">← Previous</span>')
+  links+=''.join(f'<a href="{filename(n)}"'+(' aria-current="page"' if n==page else '')+f'>{n}</a>' for n in range(1,total+1))
+  links+=(f'<a href="{filename(page+1)}" aria-label="Next page">Next →</a>' if page<total else '<span class="disabled">Next →</span>')
+  main=f'<main><section class="section fragrance-collection-intro"><a class="mood-breadcrumb" href="index.html?fragrances=open">Fragrance collections /</a><p class="eyebrow">{esc(" · ".join(scent["themes"]))}</p><h1>{esc(scent["name"])}</h1><p class="fragrance-collection-description">{esc(scent["description"])}</p>{notes}</section><section class="section fragrance-collection-catalogue"><div class="fragrance-collection-heading"><h2>Explore this scent</h2><p>{len(cards)} suggested product pairings</p></div><div id="fragrance-products" class="crystal-gallery">'+''.join(shown)+f'</div><p class="gallery-count">Showing {(page-1)*12+1}–{min(page*12,len(cards))} of {len(cards)} products · Page {page} of {total}</p><nav id="fragrance-pagination" class="pagination" aria-label="Fragrance collection pages">'+links+'</nav><p class="catalog-note">Suggested fragrance profile and design pairings. Contact us to confirm formulations and availability.</p></section></main>'
+  text=re.sub(r'<body[^>]*>',f'<body data-fragrance="{scent["id"]}" data-fragrance-page="{page}" data-fragrance-pages="{total}">',base)
+  text=re.sub(r'<title>.*?</title>',lambda m:f'<title>{esc(scent["name"])} — Lanarve Fragrance Collection</title>',text)
+  text=re.sub(r'<main\b[^>]*>.*?</main>',lambda m:main,text,flags=re.S)
+  (root/filename(page)).write_text(text)
+ for path in root.glob(scent['collectionHref'].replace('.html','-*.html')):
+  match=re.search(r'-(\d+)\.html$',path.name)
+  if match and int(match[1])>total:
+   target=filename(total)
+   path.write_text(f'<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="refresh" content="0;url={target}"><title>Lanarve fragrance collection</title></head><body><a href="{target}">Explore fragrance options</a></body></html>')
+print(f'Built {len(scents)} fragrance collections with 12 products per page.')

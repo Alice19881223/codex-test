@@ -24,7 +24,7 @@
         "image": "assets/candles/paired/ef573ef4b49c1af85848.webp",
         "name": "Pearl Ivory",
         "series": "Iridescent",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-12b2372b.html?scent=pear-freesia"
       },
       {
@@ -40,7 +40,7 @@
         "image": "assets/candles/paired/b053837f042853978ab8.webp",
         "name": "Birthday Celebration",
         "series": "Playful Birthday",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-0a9da5e2.html?scent=pear-freesia"
       },
       {
@@ -48,7 +48,7 @@
         "image": "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
         "name": "Puppy Dreams",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-9533bddb.html?scent=pear-freesia"
       },
       {
@@ -56,7 +56,7 @@
         "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
         "name": "Panda Slumber",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-382db110.html?scent=pear-freesia"
       },
       {
@@ -64,7 +64,7 @@
         "image": "assets/candles/standalone/d7fead12effc63071c64.png",
         "name": "Kitten Daydream",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-13297d04.html?scent=pear-freesia"
       },
       {
@@ -80,7 +80,7 @@
         "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
         "name": "Sunny Six",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-7ec0fa8f.html?scent=pear-freesia"
       },
       {
@@ -128,7 +128,7 @@
         "image": "assets/candles/candles-034.webp",
         "name": "Birthday Surprise Egg",
         "series": "Birthday Wishes",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-ee6d247e.html?scent=pear-freesia"
       },
       {
@@ -136,7 +136,7 @@
         "image": "assets/candles/candles-033.webp",
         "name": "Jellyfish Egg Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-3f1053f9.html?scent=pear-freesia"
       },
       {
@@ -144,7 +144,7 @@
         "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
         "name": "Jellyfish Glass Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-0b1420a3.html?scent=pear-freesia"
       },
       {
@@ -236,7 +236,7 @@
         "image": "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
         "name": "Sunlit Petals",
         "series": "Botanical Sketches",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-62d9dffc.html?scent=rose-green-leaves"
       },
       {
@@ -244,7 +244,7 @@
         "image": "assets/candles/standalone/9d32db279b0d48a889ca.png",
         "name": "Her Soft Glow",
         "series": "Moments Together",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-29e722e6.html?scent=rose-green-leaves"
       },
       {
@@ -252,7 +252,7 @@
         "image": "assets/candles/standalone/019a491870bb30c2f313.png",
         "name": "Rose Breeze Garden",
         "series": "Painted Gardens",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-52a81cc5.html?scent=rose-green-leaves"
       },
       {
@@ -260,7 +260,7 @@
         "image": "assets/candles/standalone/b802d8b0a302fa106390.png",
         "name": "Ivory Floral Trio",
         "series": "Floral Trio",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-40b74b94.html?scent=rose-green-leaves"
       },
       {
@@ -284,7 +284,7 @@
         "image": "assets/candles/paired/1f1fd2e0ca388db40ca3.webp",
         "name": "Desert Rose",
         "series": "Organic Glass",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-f2bcaa94.html?scent=rose-green-leaves"
       },
       {
@@ -340,7 +340,7 @@
         "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
         "name": "Sky Hour",
         "series": "Passing Hours",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-85838a61.html?scent=rose-green-leaves"
       },
       {
@@ -356,7 +356,7 @@
         "image": "assets/candles/standalone/c18ee38fb251983b7e3b.png",
         "name": "Botanical Keepsake",
         "series": "Botanical Keepsakes",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-b43852d7.html?scent=rose-green-leaves"
       }
     ],
@@ -463,7 +463,7 @@
         "image": "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
         "name": "Peony Keepsake",
         "series": "Botanical Keepsakes",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-0506d5e1.html?scent=peony-lychee"
       },
       {
@@ -535,7 +535,7 @@
         "image": "assets/candles/paired/14b03567b9e1d531039d.webp",
         "name": "Blush Bow",
         "series": "Lolita",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-da2db99f.html?scent=peony-lychee"
       },
       {
@@ -543,7 +543,7 @@
         "image": "assets/candles/standalone/d5ec5c9baca023c3e62b.png",
         "name": "Blush Hour",
         "series": "Passing Hours",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-d99ddd5d.html?scent=peony-lychee"
       },
       {
@@ -551,7 +551,7 @@
         "image": "assets/candles/standalone/1955de468656656e5d1c.png",
         "name": "Blush Daydream",
         "series": "Quiet Domes",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-908bb9eb.html?scent=peony-lychee"
       },
       {
@@ -559,7 +559,7 @@
         "image": "assets/candles/standalone/1bd4a0da8613e6df8a30.png",
         "name": "Peony Garden",
         "series": "Garden Jars",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-6b435c93.html?scent=peony-lychee"
       },
       {
@@ -567,7 +567,7 @@
         "image": "assets/candles/standalone/db617a3b004dd8b0deb3.png",
         "name": "Blush Blossom",
         "series": "Chromatic Bloom",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-e05bcc53.html?scent=peony-lychee"
       },
       {
@@ -699,7 +699,7 @@
         "image": "assets/candles/paired/10d7297ec4e2e39c4df6.webp",
         "name": "Bluebell",
         "series": "Vintage Florals",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-fb53a439.html?scent=jasmine-orange-blossom"
       },
       {
@@ -707,7 +707,7 @@
         "image": "assets/candles/paired/b2a6e2ce97db70ea6f8a.webp",
         "name": "White Florals",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-5d6e0589.html?scent=jasmine-orange-blossom"
       },
       {
@@ -715,7 +715,7 @@
         "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
         "name": "Orchid Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-126c54c6.html?scent=jasmine-orange-blossom"
       },
       {
@@ -839,7 +839,7 @@
         "image": "assets/candles/paired/706a9cb934df23f1ce96.webp",
         "name": "Gardenia Botanica",
         "series": "Vintage Florals",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-02454833.html?scent=gardenia-tuberose"
       },
       {
@@ -963,7 +963,7 @@
         "image": "assets/candles/paired/e2419ac62b562d3b0520.webp",
         "name": "Lime Basil",
         "series": "Postbox",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-59542ee6.html?scent=lime-basil"
       },
       {
@@ -1062,7 +1062,7 @@
         "image": "assets/candles/paired/a890e2a4dac981243da3.webp",
         "name": "Ivory Sunflower",
         "series": "Sunflower",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-ce7cfa4a.html?scent=grapefruit-bergamot"
       },
       {
@@ -1070,7 +1070,7 @@
         "image": "assets/candles/paired/2d960ad5048dc6d12875.webp",
         "name": "Golden Sunflower",
         "series": "Sunflower",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-1200010f.html?scent=grapefruit-bergamot"
       },
       {
@@ -1118,7 +1118,7 @@
         "image": "assets/candles/standalone/9d23779d7859e33e8715.png",
         "name": "Golden Blossom",
         "series": "Chromatic Bloom",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-799210c7.html?scent=grapefruit-bergamot"
       },
       {
@@ -1557,7 +1557,7 @@
         "image": "assets/candles/paired/7be1aa85d0170c284922.webp",
         "name": "Ruby Bow",
         "series": "Lolita",
-        "catalogueHref": "candles-close-to-you-3.html",
+        "catalogueHref": "candles-close-to-you-2.html",
         "href": "product-lnv-cnd-ac6ebb9c.html?scent=blackcurrant-rose"
       },
       {
@@ -1762,7 +1762,7 @@
         "image": "assets/candles/standalone/6f0311ca29677942dd5f.png",
         "name": "Amber Lavender Heirloom",
         "series": "Amber Heirloom",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-6e161c20.html?scent=lavender-cedarwood"
       },
       {
@@ -1794,7 +1794,7 @@
         "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
         "name": "Lavender Garden",
         "series": "Garden Jars",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-56bf11bf.html?scent=lavender-cedarwood"
       },
       {
@@ -1802,7 +1802,7 @@
         "image": "assets/companions/475614e9e2d215c64a93.webp",
         "name": "Lavender Reverie",
         "series": "Glass dome",
-        "catalogueHref": "products-crystal-2.html",
+        "catalogueHref": "products-crystal-1.html",
         "href": "product-lnv-cry-9c60ac39.html?scent=lavender-cedarwood"
       },
       {
@@ -2084,7 +2084,7 @@
         "image": "assets/candles/standalone/5f5b6808d37fdf2d0f13.png",
         "name": "White Tea Sketch",
         "series": "Botanical Sketches",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-1c58c28d.html?scent=white-tea-bergamot"
       },
       {
@@ -2188,7 +2188,7 @@
         "image": "assets/companions/040856927401c5aa9fe5.webp",
         "name": "Peach Whisper",
         "series": "Glass dome",
-        "catalogueHref": "products-crystal-2.html",
+        "catalogueHref": "products-crystal-1.html",
         "href": "product-lnv-cry-2961f11a.html?scent=white-tea-bergamot"
       },
       {
@@ -2196,7 +2196,7 @@
         "image": "assets/companions/6ee1d58cc46162d5a542.webp",
         "name": "Morning Mist",
         "series": "Glass dome",
-        "catalogueHref": "products-crystal-2.html",
+        "catalogueHref": "products-crystal-1.html",
         "href": "product-lnv-cry-f888698d.html?scent=white-tea-bergamot"
       },
       {
@@ -2212,7 +2212,7 @@
         "image": "assets/candles/standalone/01a1c253c9626b5ee0fc.png",
         "name": "Teal Floral Trio",
         "series": "Floral Trio",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-67e8533c.html?scent=white-tea-bergamot"
       },
       {
@@ -2516,7 +2516,7 @@
         "image": "assets/candles/paired/cdc473daed5f344ade64.webp",
         "name": "White Peach Oolong",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-592d7690.html?scent=osmanthus-green-tea"
       },
       {
@@ -2540,7 +2540,7 @@
         "image": "assets/candles/paired/7af4fa22a012b5c0ef40.webp",
         "name": "Osmanthus",
         "series": "Postbox",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-a78f1065.html?scent=osmanthus-green-tea"
       },
       {
@@ -2548,7 +2548,7 @@
         "image": "assets/candles/paired/986d2edec0865818a739.webp",
         "name": "Peach Oolong",
         "series": "Postbox",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-f0ac78c1.html?scent=osmanthus-green-tea"
       },
       {
@@ -2709,7 +2709,7 @@
         "image": "assets/candles/standalone/c16e84d4b08163a71109.png",
         "name": "Ivory Rice Blossom",
         "series": "Quiet Domes",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-a94e8956.html?scent=soft-linen"
       },
       {
@@ -2793,7 +2793,7 @@
         "image": "assets/candles/standalone/bbb7c7beab06bb5d6239.png",
         "name": "Sea Salt Sketch",
         "series": "Botanical Sketches",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-d2a9322a.html?scent=sea-salt-driftwood"
       },
       {
@@ -2825,7 +2825,7 @@
         "image": "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
         "name": "Gilded Azure",
         "series": "Gilded Skies",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-6039213d.html?scent=sea-salt-driftwood"
       },
       {
@@ -2857,7 +2857,7 @@
         "image": "assets/candles/standalone/23dc77e24ddcda7b94b3.png",
         "name": "Blue Blossom",
         "series": "Chromatic Bloom",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-8a77bff7.html?scent=sea-salt-driftwood"
       },
       {
@@ -3065,7 +3065,7 @@
         "image": "assets/candles/paired/4fbc33c9500b11ca9a9b.webp",
         "name": "Ivory Porcelain",
         "series": "Minimal Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-cffb4ddd.html?scent=sandalwood-cashmere"
       },
       {
@@ -3073,7 +3073,7 @@
         "image": "assets/candles/paired/522eb2b410541447b0fc.webp",
         "name": "Ivory Oval",
         "series": "Oval Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-e7e0db65.html?scent=sandalwood-cashmere"
       },
       {
@@ -3097,7 +3097,7 @@
         "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
         "name": "Ivory Soft Square",
         "series": "Soft Squares",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-c8706653.html?scent=sandalwood-cashmere"
       },
       {
@@ -3145,7 +3145,7 @@
         "image": "assets/candles/standalone/5e849d0d38808ac70402.png",
         "name": "Cashmere Mist",
         "series": "Quiet Domes",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-b870c50a.html?scent=sandalwood-cashmere"
       },
       {
@@ -3153,7 +3153,7 @@
         "image": "assets/candles/standalone/f790a90770604f869504.png",
         "name": "Our Shared Light",
         "series": "Moments Together",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-34c29725.html?scent=sandalwood-cashmere"
       },
       {
@@ -3161,7 +3161,7 @@
         "image": "assets/candles/standalone/556717fc8969681d3e0a.png",
         "name": "Slate Speckle",
         "series": "Speckled Forms",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-2b6e0ffe.html?scent=sandalwood-cashmere"
       },
       {
@@ -3169,7 +3169,7 @@
         "image": "assets/candles/standalone/af36ed53c560a3fdcc5d.png",
         "name": "Ivory Speckle",
         "series": "Speckled Forms",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-f1f08177.html?scent=sandalwood-cashmere"
       },
       {
@@ -3177,7 +3177,7 @@
         "image": "assets/candles/standalone/f027f73d9bd7ffa078a9.png",
         "name": "Ivory Muse",
         "series": "Classical Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-681133a8.html?scent=sandalwood-cashmere"
       },
       {
@@ -3185,7 +3185,7 @@
         "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
         "name": "Snow Muse",
         "series": "Classical Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-fc69a435.html?scent=sandalwood-cashmere"
       },
       {
@@ -3233,7 +3233,7 @@
         "image": "assets/candles/standalone/e7d024f3f8ff3706bcee.png",
         "name": "Cocoa Wild",
         "series": "Earth Tones",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-54c26556.html?scent=sandalwood-cashmere"
       },
       {
@@ -3241,7 +3241,7 @@
         "image": "assets/candles/standalone/99abaed16aca13894dc1.png",
         "name": "Mauve Wild",
         "series": "Earth Tones",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-401266a5.html?scent=sandalwood-cashmere"
       },
       {
@@ -3343,7 +3343,7 @@
         "image": "assets/candles/paired/b1a337722ec53404ae09.webp",
         "name": "Dark Woods",
         "series": "Lace Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-5ab33d07.html?scent=cedarwood-vetiver"
       },
       {
@@ -3351,7 +3351,7 @@
         "image": "assets/candles/standalone/fe428fed40d350de6a12.png",
         "name": "His Quiet Moment",
         "series": "Moments Together",
-        "catalogueHref": "candles-close-to-you-2.html",
+        "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-2c0fa029.html?scent=cedarwood-vetiver"
       },
       {
@@ -3557,7 +3557,7 @@
         "image": "assets/candles/standalone/f6b477f0c3b990fbeb88.png",
         "name": "Smoke & Glass",
         "series": "Essential Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-20d9446e.html?scent=fireside-smoked-woods"
       },
       {
@@ -3707,7 +3707,7 @@
         "image": "assets/candles/paired/d9feede215a30484aa79.webp",
         "name": "Baltic Amber",
         "series": "Lace Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-c0404e25.html?scent=amber-vanilla"
       },
       {
@@ -3715,7 +3715,7 @@
         "image": "assets/candles/standalone/91bb101caae6a5c2663e.png",
         "name": "Amber & Glass",
         "series": "Essential Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-4918ca83.html?scent=amber-vanilla"
       },
       {
@@ -3880,7 +3880,7 @@
         "image": "assets/candles/standalone/3165b9331fe5bf173ecc.png",
         "name": "Vanilla Poetry",
         "series": "Everyday Botanicals",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-46ce9dcd.html?scent=vanilla-tonka"
       },
       {
@@ -3972,7 +3972,7 @@
         "image": "assets/candles/standalone/a4b969666dce519b8354.png",
         "name": "Mocha Serenity",
         "series": "Quiet Domes",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-03d3255d.html?scent=caramel-cream"
       }
     ],
@@ -4042,7 +4042,7 @@
         "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
         "name": "Pumpkin & Ghost",
         "series": "Halloween",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-28f66704.html?scent=pumpkin-spice"
       },
       {
@@ -4050,7 +4050,7 @@
         "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
         "name": "Little Pumpkin Ghost",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
       }
     ],
@@ -4137,7 +4137,7 @@
         "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
         "name": "Ochre Wild",
         "series": "Earth Tones",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-024abdb4.html?scent=apple-cinnamon"
       }
     ],
@@ -4486,7 +4486,7 @@
         "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
         "name": "Blood Orange",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
       },
       {
@@ -4786,7 +4786,7 @@
         "image": "assets/candles/standalone/d5d690296e053af7d4f1.png",
         "name": "Sage Oolong",
         "series": "Quiet Domes",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-6872f2be.html?scent=green-tea-cedarwood"
       },
       {
@@ -4933,7 +4933,7 @@
         "image": "assets/candles/paired/947cbc1d98dee6da5d51.webp",
         "name": "Obsidian",
         "series": "Iridescent",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-1305faf1.html?scent=incense-myrrh"
       },
       {

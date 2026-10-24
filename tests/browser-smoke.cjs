@@ -5,6 +5,21 @@ const server=http.createServer((req,res)=>{const pathname=decodeURIComponent(new
 try{
  const routes=['index.html','products-current.html','reed-collections.html','products-crystal-1.html','gift-collection.html','christmas-collection-2.html','sachets.html','candles-morning-light-2.html','fragrance.html','fragrance-pear-freesia.html','private-label.html','contact.html','product-lnv-cnd-02454833.html'];
  for(const width of [1440,390]){const context=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});for(const route of routes){const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));const response=await page.goto(base+'/'+route,{waitUntil:'load'});assert.equal(response.status(),200);assert.equal(await page.locator('main h1').count(),1,route+' H1');assert.equal(await page.locator('link[rel=canonical]').count(),1);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,route+' overflow at '+width);assert.deepEqual(errors,[],route+' JS errors');if(route==='index.html'){const cta=await page.locator('.hero-content .button').boundingBox();const hero=await page.locator('.hero').boundingBox();const controls=await page.locator('.hero-bottom').boundingBox();assert.ok(cta.y+cta.height<=hero.y+hero.height,'hero CTA must stay inside the hero');assert.ok(cta.y+cta.height<controls.y,'hero CTA must not overlap carousel controls');}results.push({route,width,errors});await page.close();}await context.close();}
+ // Every product listing must be full except its final page, including fragrance results.
+ const listingFiles=fs.readdirSync(root).filter(name=>name.endsWith('.html')&&/id="(?:catalogue-grid|fragrance-products)"/.test(fs.readFileSync(path.join(root,name),'utf8')));
+ for(const name of listingFiles){
+  const text=fs.readFileSync(path.join(root,name),'utf8'),fragrance=text.includes('id="fragrance-products"');
+  const count=(text.match(fragrance?/data-product-image="/g:/data-photo="/g)||[]).length;
+  const current=Number(text.match(fragrance?/data-fragrance-page="(\d+)"/:/data-page="(\d+)"/)[1]);
+  const total=Number(text.match(fragrance?/data-fragrance-pages="(\d+)"/:/data-(?:collection|catalogue)-pages="(\d+)"/)[1]);
+  assert.ok(count>0&&count<=12,name+' must show 1–12 products');if(current<total)assert.equal(count,12,name+' must be full');
+ }
+ const scentsForPaging=JSON.parse(fs.readFileSync(path.join(root,'assets/fragrances.json'))),pagedScent=scentsForPaging.find(s=>s.matches.length>12);
+ assert.ok(pagedScent);const pagingContext=await browser.newContext();const pagingPage=await pagingContext.newPage();
+ await pagingPage.goto(base+'/'+pagedScent.collectionHref);assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),12);
+ await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^2$/}).click();assert.ok(pagingPage.url().includes('-2.html'));
+ assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),Math.min(12,pagedScent.matches.length-12));
+ await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^1$/}).click();assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),12);await pagingContext.close();
  // Spring/summer additions belong to three existing themes, with reviewed seasonal front pages.
  const seasonalManifest=path.join(root,'assets/spring-summer-source-manifest.json');
  if(fs.existsSync(seasonalManifest)){
@@ -20,12 +35,12 @@ try{
     await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
     await page.locator('.candle-mood-card').filter({hasText:collection.name}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
     assert.equal(await page.locator('main h1').textContent(),collection.name);
-    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),expected.map(d=>d.name));
+    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),collection.pages[0].map(k=>k.split(' | ')[1]));assert.equal(await page.locator('#catalogue-grid h3').count(),12);assert.deepEqual((await page.locator('#catalogue-grid h3').allTextContents()).slice(0,expected.length),expected.map(d=>d.name));
     assert.match(await page.locator('.seasonal-feature').textContent(),/SPRING & SUMMER EDIT/);
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,slug+' seasonal overflow');
     await page.locator('#pagination a').filter({hasText:/^2$/}).click();assert.equal(await page.locator('.seasonal-feature').count(),0);
     await page.locator('#pagination a').filter({hasText:/^1$/}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
-    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),expected.map(d=>d.name));
+    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),collection.pages[0].map(k=>k.split(' | ')[1]));assert.equal(await page.locator('#catalogue-grid h3').count(),12);assert.deepEqual((await page.locator('#catalogue-grid h3').allTextContents()).slice(0,expected.length),expected.map(d=>d.name));
    }
    for(const design of designs){
     const record=records.find(r=>r.image===design.image);assert.ok(record);await page.goto(base+'/'+record.url);
@@ -89,7 +104,7 @@ try{
    await animalPage.goto(base+'/index.html');if(width===390)await animalPage.locator('.menu-toggle').tap();await animalPage.locator('header a.nav-picture').filter({hasText:'Scented candles'}).click();
    await animalPage.locator('.candle-mood-card').filter({hasText:'Little Joys'}).click();assert.ok(new URL(animalPage.url()).searchParams.get('v'));
    await animalContext.unroute(base+'/candles-little-joys.html');
-   assert.deepEqual(await animalPage.locator('#catalogue-grid h3').allTextContents(),designs.map(d=>d.name));
+   assert.equal(await animalPage.locator('#catalogue-grid h3').count(),12);assert.deepEqual((await animalPage.locator('#catalogue-grid h3').allTextContents()).slice(0,designs.length),designs.map(d=>d.name));
    for(const image of await animalPage.locator('#catalogue-grid .photo-single').all()){const box=await image.boundingBox();assert.ok(Math.abs(box.height-box.width)<2,'Animal-print card photographs must remain square');}
    for(const design of designs){
     const record=records.find(r=>r.image===design.image&&r.category==='candle');assert.ok(record);
@@ -187,6 +202,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

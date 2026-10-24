@@ -43,17 +43,17 @@
   },
   "candles-close-to-you-2.html": {
     "title": "Close to You Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
+    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 2 of 2.",
     "canonical": "https://www.lanarve.com/candles-close-to-you-2.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-close-to-you-3.html": {
-    "title": "Close to You Candles \u2014 Page 3 | Lanarve",
-    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 3 of 3.",
-    "canonical": "https://www.lanarve.com/candles-close-to-you-3.html",
-    "indexable": true,
-    "type": "collection"
+    "title": "Collection moved | Lanarve",
+    "description": "Explore the current Lanarve product collection.",
+    "canonical": "https://www.lanarve.com/candles-close-to-you-2.html",
+    "indexable": false,
+    "type": "redirect"
   },
   "candles-close-to-you.html": {
     "title": "Close to You Candles | Lanarve",
@@ -78,17 +78,17 @@
   },
   "candles-little-joys-2.html": {
     "title": "Little Joys Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 2 of 2.",
     "canonical": "https://www.lanarve.com/candles-little-joys-2.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys-3.html": {
-    "title": "Little Joys Candles \u2014 Page 3 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 3 of 3.",
-    "canonical": "https://www.lanarve.com/candles-little-joys-3.html",
-    "indexable": true,
-    "type": "collection"
+    "title": "Collection moved | Lanarve",
+    "description": "Explore the current Lanarve product collection.",
+    "canonical": "https://www.lanarve.com/candles-little-joys-2.html",
+    "indexable": false,
+    "type": "redirect"
   },
   "candles-little-joys.html": {
     "title": "Little Joys Candles | Lanarve",
@@ -188,6 +188,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-amber-vanilla-2.html": {
+    "title": "Amber & Vanilla Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Amber & Vanilla fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-amber-vanilla-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-amber-vanilla.html": {
     "title": "Amber & Vanilla Candles & Diffuser Options | Lanarve",
     "description": "Explore Amber & Vanilla fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -237,6 +244,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-cedarwood-vetiver-2.html": {
+    "title": "Cedarwood & Vetiver Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Cedarwood & Vetiver fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-cedarwood-vetiver-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-cedarwood-vetiver.html": {
     "title": "Cedarwood & Vetiver Candles & Diffuser Options | Lanarve",
     "description": "Explore Cedarwood & Vetiver fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -262,6 +276,13 @@
     "title": "Fig & Green Leaves Candles & Diffuser Options | Lanarve",
     "description": "Explore Fig & Green Leaves fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-fig-green-leaves.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-fir-cedarwood-2.html": {
+    "title": "Fir & Cedarwood Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Fir & Cedarwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-fir-cedarwood-2.html",
     "indexable": true,
     "type": "page"
   },
@@ -293,6 +314,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-grapefruit-bergamot-2.html": {
+    "title": "Grapefruit & Bergamot Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Grapefruit & Bergamot fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-grapefruit-bergamot-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-grapefruit-bergamot.html": {
     "title": "Grapefruit & Bergamot Candles & Diffuser Options | Lanarve",
     "description": "Explore Grapefruit & Bergamot fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -318,6 +346,13 @@
     "title": "Jasmine & Orange Blossom Candles & Diffuser Options | Lanarve",
     "description": "Explore Jasmine & Orange Blossom fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-jasmine-orange-blossom.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-lavender-cedarwood-2.html": {
+    "title": "Lavender & Cedarwood Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Lavender & Cedarwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-lavender-cedarwood-2.html",
     "indexable": true,
     "type": "page"
   },
@@ -377,10 +412,31 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-pear-freesia-2.html": {
+    "title": "Pear & Freesia Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Pear & Freesia fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-pear-freesia-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-pear-freesia.html": {
     "title": "Pear & Freesia Candles & Diffuser Options | Lanarve",
     "description": "Explore Pear & Freesia fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-pear-freesia.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-peony-lychee-2.html": {
+    "title": "Peony & Lychee Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Peony & Lychee fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-peony-lychee-2.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-peony-lychee-3.html": {
+    "title": "Peony & Lychee Candles & Diffuser Options \u2014 Page 3 | Lanarve",
+    "description": "Explore Peony & Lychee fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 3.",
+    "canonical": "https://www.lanarve.com/fragrance-peony-lychee-3.html",
     "indexable": true,
     "type": "page"
   },
@@ -412,6 +468,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-rose-green-leaves-2.html": {
+    "title": "Rose & Green Leaves Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Rose & Green Leaves fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-rose-green-leaves-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-rose-green-leaves.html": {
     "title": "Rose & Green Leaves Candles & Diffuser Options | Lanarve",
     "description": "Explore Rose & Green Leaves fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -419,10 +482,31 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-sandalwood-cashmere-2.html": {
+    "title": "Sandalwood & Cashmere Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Sandalwood & Cashmere fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-sandalwood-cashmere-2.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-sandalwood-cashmere-3.html": {
+    "title": "Sandalwood & Cashmere Candles & Diffuser Options \u2014 Page 3 | Lanarve",
+    "description": "Explore Sandalwood & Cashmere fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 3.",
+    "canonical": "https://www.lanarve.com/fragrance-sandalwood-cashmere-3.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-sandalwood-cashmere.html": {
     "title": "Sandalwood & Cashmere Candles & Diffuser Options | Lanarve",
     "description": "Explore Sandalwood & Cashmere fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-sandalwood-cashmere.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-sea-salt-driftwood-2.html": {
+    "title": "Sea Salt & Driftwood Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Sea Salt & Driftwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-sea-salt-driftwood-2.html",
     "indexable": true,
     "type": "page"
   },
@@ -444,6 +528,13 @@
     "title": "Vanilla & Tonka Candles & Diffuser Options | Lanarve",
     "description": "Explore Vanilla & Tonka fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-vanilla-tonka.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-white-tea-bergamot-2.html": {
+    "title": "White Tea & Bergamot Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore White Tea & Bergamot fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-white-tea-bergamot-2.html",
     "indexable": true,
     "type": "page"
   },

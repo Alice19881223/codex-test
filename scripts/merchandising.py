@@ -17,15 +17,5 @@ def series_blocks(entries):
  return sorted(blocks,key=lambda b:b[0])
 def arrange(entries):return [p for _,items in series_blocks(entries) for p in items]
 def paginate(entries,limit=12):
- blocks=series_blocks(entries);pending=[]
- for tone,items in blocks:
-  pending.extend((tone,items[i:i+limit]) for i in range(0,len(items),limit))
- pages=[]
- while pending:
-  tone,items=pending.pop(0);page=list(items)
-  while len(page)<limit:
-   candidates=[(abs(tone-other),i) for i,(other,items) in enumerate(pending) if len(items)<=limit-len(page)]
-   if not candidates:break
-   _,i=min(candidates);page.extend(pending.pop(i)[1])
-  pages.append(page)
- return pages
+ ordered=arrange(entries)
+ return [ordered[i:i+limit] for i in range(0,len(ordered),limit)]

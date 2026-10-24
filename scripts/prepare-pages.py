@@ -35,21 +35,12 @@ for path in stage.glob('*.html'):
   if re.match(r'^[a-z]+:',url):continue
   file=url.split('#')[0].split('?')[0]
   assert (stage/(file.lstrip('/') or 'index.html')).exists(),f'{path.name}: missing public file {file}'
-# A series that fits on a page must remain together; layouts must not hide products.
-from collections import Counter
-def validate_arrangement(pages,lookup,allowed_split_series=()):
- assert all(0<len(page)<=12 for page in pages)
+# Every listing is full except its final page, with no hidden or duplicated products.
+def validate_arrangement(pages,lookup):
+ assert pages and all(0<len(page)<=12 for page in pages)
+ assert all(len(page)==12 for page in pages[:-1]),'Only the final page may contain fewer than 12 products'
  flat=[key for page in pages for key in page]
- assert len(flat)==len(set(flat))
- counts=Counter(lookup[key]['series'] for key in flat)
- series_pages={}
- for number,page in enumerate(pages):
-  runs=[]
-  for key in page:
-   series=lookup[key]['series'];series_pages.setdefault(series,set()).add(number)
-   if not runs or runs[-1]!=series:runs.append(series)
-  assert len(runs)==len(set(runs)),'A series is interrupted within a page'
- assert all(len(numbers)==1 for series,numbers in series_pages.items() if counts[series]<=12 and series not in allowed_split_series),'A series was split across pages'
+ assert len(flat)==len(set(flat)) and all(key in lookup for key in flat)
 for cat in ['candle','reed']:
  configs=json.loads((stage/f'assets/{cat}-collections.json').read_text());lookup={p['series']+' | '+p['name']:p for p in catalogues[cat]}
  for config in configs:
@@ -113,18 +104,23 @@ for scent in fragrances:
   page=(stage/match['catalogueHref']).read_text()
   assert f'data-category="{match["category"]}"' in page and f'data-photo="{index}"' in page,match['href']
 for scent in fragrances:
- collection=(stage/scent['collectionHref']).read_text()
- assert f'data-fragrance="{scent["id"]}"' in collection
  from html import unescape
- images=[unescape(image) for image in re.findall(r'data-product-image="([^"]+)"',collection)]
- assert images==[match['image'] for match in scent['matches']],f'{scent["id"]}: fragrance collection must contain every associated product'
+ images=[];pages=[]
+ for offset in range(0,len(scent['matches']),12):
+  page=offset//12+1;filename=scent['collectionHref'] if page==1 else scent['collectionHref'].replace('.html',f'-{page}.html')
+  collection=(stage/filename).read_text()
+  assert f'data-fragrance="{scent["id"]}"' in collection
+  found=[unescape(image) for image in re.findall(r'data-product-image="([^"]+)"',collection)]
+  pages.append(found);images.extend(found)
+ validate_arrangement(pages,{match['image']:match for match in scent['matches']})
+ assert images==[match['image'] for match in scent['matches']],f'{scent["id"]}: fragrance pages must contain every associated product in order'
 from html import unescape
 expected_menu_links=[match['collectionHref'] for theme in ['Floral & Fruity','Warm & Woody','Fresh & Natural','Tea & Tranquility','Oriental Mystery'] for match in fragrances if theme in match['themes']]
 for path in stage.glob('*.html'):
  text=path.read_text()
  if '<header>' in text:
   links=[unescape(url) for url in re.findall(r'class="fragrance-scent-link" href="([^"]+)"',text)]
-  assert links==expected_menu_links,f'{path.name}: compact fragrance links are incomplete'
+  assert [urlsplit(url).path for url in links]==expected_menu_links,f'{path.name}: compact fragrance links are incomplete'
   assert 'id="scent-grid"' not in text,'The retired fragrance-card view must not be published'
 # Every product has a stable, nonempty detail page and uses only its supplied images.
 records=json.loads((stage/'assets/product-details.json').read_text())
