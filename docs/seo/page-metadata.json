@@ -48,6 +48,20 @@
     "indexable": true,
     "type": "collection"
   },
+  "candles-everyday-poetry-2.html": {
+    "title": "Everyday Poetry Candles \u2014 Page 2 | Lanarve",
+    "description": "Explore Everyday Poetry, a Lanarve candles collection. Slow mornings, little table rituals and postcards from the coast. Illustrated candles that turn ordinary moments into stories worth keeping. Discuss wholesale, fragrance and private label options. Page 2 of 2.",
+    "canonical": "https://www.lanarve.com/candles-everyday-poetry-2.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "candles-everyday-poetry.html": {
+    "title": "Everyday Poetry Candles | Lanarve",
+    "description": "Explore Everyday Poetry, a Lanarve candles collection. Slow mornings, little table rituals and postcards from the coast. Illustrated candles that turn ordinary moments into stories worth keeping. Discuss wholesale, fragrance and private label options.",
+    "canonical": "https://www.lanarve.com/candles-everyday-poetry.html",
+    "indexable": true,
+    "type": "collection"
+  },
   "candles-little-joys-2.html": {
     "title": "Little Joys Candles \u2014 Page 2 | Lanarve",
     "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
@@ -496,6 +510,20 @@
     "indexable": true,
     "type": "page"
   },
+  "product-lnv-cnd-01ccfab9.html": {
+    "title": "Dolce Vita Berries Scented candle | Lanarve",
+    "description": "Explore Dolce Vita Berries from Lanarve\u2019s Everyday Poetry designs. Discuss Blackcurrant & Rose fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-01ccfab9.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-021b5237.html": {
+    "title": "Mediterranean Days Scented candle | Lanarve",
+    "description": "Explore Mediterranean Days from Lanarve\u2019s Everyday Poetry designs. Discuss Lime & Basil fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-021b5237.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-02454833.html": {
     "title": "Gardenia Botanica Scented Candle | Lanarve",
     "description": "Explore Gardenia Botanica from Lanarve\u2019s Vintage Florals designs. Discuss Gardenia & Tuberose fragrance, private label presentation and packaging for your collection.",
@@ -521,6 +549,13 @@
     "title": "Peony Keepsake Scented Candle | Lanarve",
     "description": "Explore Peony Keepsake from Lanarve\u2019s Botanical Keepsakes designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-0506d5e1.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-050a1850.html": {
+    "title": "Sunset Shoal Scented candle | Lanarve",
+    "description": "Explore Sunset Shoal from Lanarve\u2019s Everyday Poetry designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-050a1850.html",
     "indexable": true,
     "type": "product"
   },
@@ -584,6 +619,13 @@
     "title": "Noir Soft Square Scented Candle | Lanarve",
     "description": "Explore Noir Soft Square from Lanarve\u2019s Soft Squares designs. Discuss Incense & Myrrh fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-1abbb5e4.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-1b0a2181.html": {
+    "title": "Morning Ritual Scented candle | Lanarve",
+    "description": "Explore Morning Ritual from Lanarve\u2019s Everyday Poetry designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-1b0a2181.html",
     "indexable": true,
     "type": "product"
   },
@@ -748,6 +790,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-4f7b0030.html": {
+    "title": "Midnight Catch Scented candle | Lanarve",
+    "description": "Explore Midnight Catch from Lanarve\u2019s Everyday Poetry designs. Discuss Black Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-4f7b0030.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-51e684b9.html": {
     "title": "Terracotta Muse Scented Candle | Lanarve",
     "description": "Explore Terracotta Muse from Lanarve\u2019s Classical Relief designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
@@ -762,6 +811,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-52178592.html": {
+    "title": "Lagoon & Lemon Scented candle | Lanarve",
+    "description": "Explore Lagoon & Lemon from Lanarve\u2019s Everyday Poetry designs. Discuss Lemon & Verbena fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-52178592.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-52a81cc5.html": {
     "title": "Rose Breeze Garden Scented Candle | Lanarve",
     "description": "Explore Rose Breeze Garden from Lanarve\u2019s Painted Gardens designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
@@ -773,6 +829,13 @@
     "title": "Morning Garden Scented Candle | Lanarve",
     "description": "Explore Morning Garden from Lanarve\u2019s Garden Jars designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-52d64837.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-5409fad2.html": {
+    "title": "Peach Anchovies Scented candle | Lanarve",
+    "description": "Explore Peach Anchovies from Lanarve\u2019s Everyday Poetry designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-5409fad2.html",
     "indexable": true,
     "type": "product"
   },
@@ -888,6 +951,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-69083a05.html": {
+    "title": "Crab & Tide Scented candle | Lanarve",
+    "description": "Explore Crab & Tide from Lanarve\u2019s Everyday Poetry designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-69083a05.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-6914f87e.html": {
     "title": "Lavender Script Scented Candle | Lanarve",
     "description": "Explore Lavender Script from Lanarve\u2019s Botanical Script designs. Discuss Lavender & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -965,10 +1035,31 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-7be42d86.html": {
+    "title": "Riviera Three Fish Scented candle | Lanarve",
+    "description": "Explore Riviera Three Fish from Lanarve\u2019s Everyday Poetry designs. Discuss Fig & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-7be42d86.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-7e0b7a2f.html": {
+    "title": "Salt & Sunshine Scented candle | Lanarve",
+    "description": "Explore Salt & Sunshine from Lanarve\u2019s Everyday Poetry designs. Discuss Bergamot & Neroli fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-7e0b7a2f.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-7ec0fa8f.html": {
     "title": "Sunny Six Scented Candle | Lanarve",
     "description": "Explore Sunny Six from Lanarve\u2019s Lucky Charms designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-7ec0fa8f.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-7efa78fe.html": {
+    "title": "Coastal Days Scented candle | Lanarve",
+    "description": "Explore Coastal Days from Lanarve\u2019s Everyday Poetry designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-7efa78fe.html",
     "indexable": true,
     "type": "product"
   },
@@ -1049,6 +1140,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-970fe140.html": {
+    "title": "Blue Harbour Scented candle | Lanarve",
+    "description": "Explore Blue Harbour from Lanarve\u2019s Everyday Poetry designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-970fe140.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-993a48f5.html": {
+    "title": "Coastal Muse Scented candle | Lanarve",
+    "description": "Explore Coastal Muse from Lanarve\u2019s Everyday Poetry designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-993a48f5.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-9c6ce7c7.html": {
     "title": "Vanilla Scented Candle | Lanarve",
     "description": "Explore Vanilla from Lanarve\u2019s Gradient Glass designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
@@ -1074,6 +1179,13 @@
     "title": "Golden Gardenia Scented Candle | Lanarve",
     "description": "Explore Golden Gardenia from Lanarve\u2019s Gradient Glass designs. Discuss Gardenia & Tuberose fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-a10a6d55.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-a36de348.html": {
+    "title": "Ciao Bella Scented candle | Lanarve",
+    "description": "Explore Ciao Bella from Lanarve\u2019s Everyday Poetry designs. Discuss Bergamot & Neroli fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-a36de348.html",
     "indexable": true,
     "type": "product"
   },
@@ -1112,6 +1224,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-b407d637.html": {
+    "title": "Sweet Pear Scented candle | Lanarve",
+    "description": "Explore Sweet Pear from Lanarve\u2019s Everyday Poetry designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-b407d637.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-b43852d7.html": {
     "title": "Botanical Keepsake Scented Candle | Lanarve",
     "description": "Explore Botanical Keepsake from Lanarve\u2019s Botanical Keepsakes designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
@@ -1123,6 +1242,13 @@
     "title": "Cashmere Mist Scented Candle | Lanarve",
     "description": "Explore Cashmere Mist from Lanarve\u2019s Quiet Domes designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-b870c50a.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-b9d83f6b.html": {
+    "title": "Harbour Parade Scented candle | Lanarve",
+    "description": "Explore Harbour Parade from Lanarve\u2019s Everyday Poetry designs. Discuss Lemon & Verbena fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-b9d83f6b.html",
     "indexable": true,
     "type": "product"
   },
@@ -1189,6 +1315,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-d0b61d41.html": {
+    "title": "Sea Breeze Scented candle | Lanarve",
+    "description": "Explore Sea Breeze from Lanarve\u2019s Everyday Poetry designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-d0b61d41.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-d0f5e24f.html": {
     "title": "Little Pumpkin Ghost Scented Candle | Lanarve",
     "description": "Explore Little Pumpkin Ghost from Lanarve\u2019s Little Dreamers designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
@@ -1221,6 +1354,13 @@
     "title": "Ember Leopard Scented candle | Lanarve",
     "description": "Explore Ember Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-d7f8bbb8.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-d999c0e0.html": {
+    "title": "Crimson Currents Scented candle | Lanarve",
+    "description": "Explore Crimson Currents from Lanarve\u2019s Everyday Poetry designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-d999c0e0.html",
     "indexable": true,
     "type": "product"
   },
@@ -1270,6 +1410,20 @@
     "title": "Olive Botanical Keepsake Scented Candle | Lanarve",
     "description": "Explore Olive Botanical Keepsake from Lanarve\u2019s Botanical Cylinder designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-e96d2f2b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-ed4b6ff3.html": {
+    "title": "Coral Reverie Scented candle | Lanarve",
+    "description": "Explore Coral Reverie from Lanarve\u2019s Everyday Poetry designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-ed4b6ff3.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-ed8930a6.html": {
+    "title": "Dolce Vita Pasta Scented candle | Lanarve",
+    "description": "Explore Dolce Vita Pasta from Lanarve\u2019s Everyday Poetry designs. Discuss Lime & Basil fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-ed8930a6.html",
     "indexable": true,
     "type": "product"
   },

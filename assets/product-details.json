@@ -2108,6 +2108,346 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-B407D637",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+    "name": "Sweet Pear",
+    "title": "Sweet Pear Scented candle",
+    "url": "product-lnv-cnd-b407d637.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-1B0A2181",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+    "name": "Morning Ritual",
+    "title": "Morning Ritual Scented candle",
+    "url": "product-lnv-cnd-1b0a2181.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-A36DE348",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+    "name": "Ciao Bella",
+    "title": "Ciao Bella Scented candle",
+    "url": "product-lnv-cnd-a36de348.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-ED8930A6",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+    "name": "Dolce Vita Pasta",
+    "title": "Dolce Vita Pasta Scented candle",
+    "url": "product-lnv-cnd-ed8930a6.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lime-basil"
+    ],
+    "primaryScent": "lime-basil",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-01CCFAB9",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+    "name": "Dolce Vita Berries",
+    "title": "Dolce Vita Berries Scented candle",
+    "url": "product-lnv-cnd-01ccfab9.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "blackcurrant-rose"
+    ],
+    "primaryScent": "blackcurrant-rose",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-7EFA78FE",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+    "name": "Coastal Days",
+    "title": "Coastal Days Scented candle",
+    "url": "product-lnv-cnd-7efa78fe.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D0B61D41",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+    "name": "Sea Breeze",
+    "title": "Sea Breeze Scented candle",
+    "url": "product-lnv-cnd-d0b61d41.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-7E0B7A2F",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+    "name": "Salt & Sunshine",
+    "title": "Salt & Sunshine Scented candle",
+    "url": "product-lnv-cnd-7e0b7a2f.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-993A48F5",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+    "name": "Coastal Muse",
+    "title": "Coastal Muse Scented candle",
+    "url": "product-lnv-cnd-993a48f5.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-52178592",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+    "name": "Lagoon & Lemon",
+    "title": "Lagoon & Lemon Scented candle",
+    "url": "product-lnv-cnd-52178592.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-970FE140",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+    "name": "Blue Harbour",
+    "title": "Blue Harbour Scented candle",
+    "url": "product-lnv-cnd-970fe140.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-B9D83F6B",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+    "name": "Harbour Parade",
+    "title": "Harbour Parade Scented candle",
+    "url": "product-lnv-cnd-b9d83f6b.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-7BE42D86",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+    "name": "Riviera Three Fish",
+    "title": "Riviera Three Fish Scented candle",
+    "url": "product-lnv-cnd-7be42d86.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "fig-green-leaves"
+    ],
+    "primaryScent": "fig-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-ED4B6FF3",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+    "name": "Coral Reverie",
+    "title": "Coral Reverie Scented candle",
+    "url": "product-lnv-cnd-ed4b6ff3.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D999C0E0",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+    "name": "Crimson Currents",
+    "title": "Crimson Currents Scented candle",
+    "url": "product-lnv-cnd-d999c0e0.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-050A1850",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+    "name": "Sunset Shoal",
+    "title": "Sunset Shoal Scented candle",
+    "url": "product-lnv-cnd-050a1850.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-4F7B0030",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+    "name": "Midnight Catch",
+    "title": "Midnight Catch Scented candle",
+    "url": "product-lnv-cnd-4f7b0030.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "black-tea-cedarwood"
+    ],
+    "primaryScent": "black-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-021B5237",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+    "name": "Mediterranean Days",
+    "title": "Mediterranean Days Scented candle",
+    "url": "product-lnv-cnd-021b5237.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lime-basil"
+    ],
+    "primaryScent": "lime-basil",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-69083A05",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+    "name": "Crab & Tide",
+    "title": "Crab & Tide Scented candle",
+    "url": "product-lnv-cnd-69083a05.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-5409FAD2",
+    "category": "candle",
+    "image": "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+    "name": "Peach Anchovies",
+    "title": "Peach Anchovies Scented candle",
+    "url": "product-lnv-cnd-5409fad2.html",
+    "series": "Everyday Poetry",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",

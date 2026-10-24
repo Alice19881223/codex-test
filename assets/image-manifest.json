@@ -9661,5 +9661,879 @@
         "bytes": 97986
       }
     ]
+  },
+  "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 90748,
+    "src": "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/c07b4070c5694fd96902-480.webp",
+        "width": 480,
+        "bytes": 22256
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c07b4070c5694fd96902-960.webp",
+        "width": 960,
+        "bytes": 58756
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+        "width": 1254,
+        "bytes": 90748
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/db8f035e7e59cb865c73.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 196560,
+    "src": "assets/candles/everyday-poetry/db8f035e7e59cb865c73.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/db8f035e7e59cb865c73-480.webp",
+        "width": 480,
+        "bytes": 42384
+      },
+      {
+        "src": "assets/candles/everyday-poetry/db8f035e7e59cb865c73-960.webp",
+        "width": 960,
+        "bytes": 123524
+      },
+      {
+        "src": "assets/candles/everyday-poetry/db8f035e7e59cb865c73.webp",
+        "width": 1254,
+        "bytes": 196560
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 120470,
+    "src": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc-480.webp",
+        "width": 480,
+        "bytes": 26820
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc-960.webp",
+        "width": 960,
+        "bytes": 75380
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+        "width": 1254,
+        "bytes": 120470
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/c66db06c966ed5d681e5.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 218462,
+    "src": "assets/candles/everyday-poetry/c66db06c966ed5d681e5.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/c66db06c966ed5d681e5-480.webp",
+        "width": 480,
+        "bytes": 42750
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c66db06c966ed5d681e5-960.webp",
+        "width": 960,
+        "bytes": 132592
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c66db06c966ed5d681e5.webp",
+        "width": 1254,
+        "bytes": 218462
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 108152,
+    "src": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/853f5897b06085e31eb7-480.webp",
+        "width": 480,
+        "bytes": 24256
+      },
+      {
+        "src": "assets/candles/everyday-poetry/853f5897b06085e31eb7-960.webp",
+        "width": 960,
+        "bytes": 67898
+      },
+      {
+        "src": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+        "width": 1254,
+        "bytes": 108152
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 195006,
+    "src": "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec-480.webp",
+        "width": 480,
+        "bytes": 37974
+      },
+      {
+        "src": "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec-960.webp",
+        "width": 960,
+        "bytes": 115740
+      },
+      {
+        "src": "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec.webp",
+        "width": 1254,
+        "bytes": 195006
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/47fd199133788744e866.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 177310,
+    "src": "assets/candles/everyday-poetry/47fd199133788744e866.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/47fd199133788744e866-480.webp",
+        "width": 480,
+        "bytes": 34664
+      },
+      {
+        "src": "assets/candles/everyday-poetry/47fd199133788744e866-960.webp",
+        "width": 960,
+        "bytes": 104754
+      },
+      {
+        "src": "assets/candles/everyday-poetry/47fd199133788744e866.webp",
+        "width": 1254,
+        "bytes": 177310
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 114984,
+    "src": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3-480.webp",
+        "width": 480,
+        "bytes": 26730
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3-960.webp",
+        "width": 960,
+        "bytes": 72378
+      },
+      {
+        "src": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+        "width": 1254,
+        "bytes": 114984
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 158072,
+    "src": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e-480.webp",
+        "width": 480,
+        "bytes": 35384
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e-960.webp",
+        "width": 960,
+        "bytes": 99828
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+        "width": 1254,
+        "bytes": 158072
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 189658,
+    "src": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d-480.webp",
+        "width": 480,
+        "bytes": 41072
+      },
+      {
+        "src": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d-960.webp",
+        "width": 960,
+        "bytes": 118130
+      },
+      {
+        "src": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+        "width": 1254,
+        "bytes": 189658
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 175094,
+    "src": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/73c1168b38036e170fc7-480.webp",
+        "width": 480,
+        "bytes": 35914
+      },
+      {
+        "src": "assets/candles/everyday-poetry/73c1168b38036e170fc7-960.webp",
+        "width": 960,
+        "bytes": 108298
+      },
+      {
+        "src": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+        "width": 1254,
+        "bytes": 175094
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 147286,
+    "src": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b-480.webp",
+        "width": 480,
+        "bytes": 32766
+      },
+      {
+        "src": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b-960.webp",
+        "width": 960,
+        "bytes": 92420
+      },
+      {
+        "src": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+        "width": 1254,
+        "bytes": 147286
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 251840,
+    "src": "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47-480.webp",
+        "width": 480,
+        "bytes": 53382
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47-960.webp",
+        "width": 960,
+        "bytes": 157542
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47.webp",
+        "width": 1254,
+        "bytes": 251840
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 189960,
+    "src": "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/7d7c5baecae869966cd9-480.webp",
+        "width": 480,
+        "bytes": 36520
+      },
+      {
+        "src": "assets/candles/everyday-poetry/7d7c5baecae869966cd9-960.webp",
+        "width": 960,
+        "bytes": 114426
+      },
+      {
+        "src": "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+        "width": 1254,
+        "bytes": 189960
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 234974,
+    "src": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf-480.webp",
+        "width": 480,
+        "bytes": 43530
+      },
+      {
+        "src": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf-960.webp",
+        "width": 960,
+        "bytes": 144234
+      },
+      {
+        "src": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+        "width": 1254,
+        "bytes": 234974
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 193566,
+    "src": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2-480.webp",
+        "width": 480,
+        "bytes": 40452
+      },
+      {
+        "src": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2-960.webp",
+        "width": 960,
+        "bytes": 119592
+      },
+      {
+        "src": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+        "width": 1254,
+        "bytes": 193566
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/727694e2152a846c0201.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 204060,
+    "src": "assets/candles/everyday-poetry/727694e2152a846c0201.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/727694e2152a846c0201-480.webp",
+        "width": 480,
+        "bytes": 42572
+      },
+      {
+        "src": "assets/candles/everyday-poetry/727694e2152a846c0201-960.webp",
+        "width": 960,
+        "bytes": 129142
+      },
+      {
+        "src": "assets/candles/everyday-poetry/727694e2152a846c0201.webp",
+        "width": 1254,
+        "bytes": 204060
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 155324,
+    "src": "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/6c8a7034b2678af27058-480.webp",
+        "width": 480,
+        "bytes": 37218
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6c8a7034b2678af27058-960.webp",
+        "width": 960,
+        "bytes": 99276
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+        "width": 1254,
+        "bytes": 155324
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/bf73a46c94fef9e929a4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 233550,
+    "src": "assets/candles/everyday-poetry/bf73a46c94fef9e929a4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/bf73a46c94fef9e929a4-480.webp",
+        "width": 480,
+        "bytes": 53694
+      },
+      {
+        "src": "assets/candles/everyday-poetry/bf73a46c94fef9e929a4-960.webp",
+        "width": 960,
+        "bytes": 150036
+      },
+      {
+        "src": "assets/candles/everyday-poetry/bf73a46c94fef9e929a4.webp",
+        "width": 1254,
+        "bytes": 233550
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 152488,
+    "src": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/941fbd919b2ce936c45e-480.webp",
+        "width": 480,
+        "bytes": 34214
+      },
+      {
+        "src": "assets/candles/everyday-poetry/941fbd919b2ce936c45e-960.webp",
+        "width": 960,
+        "bytes": 95562
+      },
+      {
+        "src": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+        "width": 1254,
+        "bytes": 152488
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/0af54641c413df8aed01.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 244058,
+    "src": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/0af54641c413df8aed01-480.webp",
+        "width": 480,
+        "bytes": 52068
+      },
+      {
+        "src": "assets/candles/everyday-poetry/0af54641c413df8aed01-960.webp",
+        "width": 960,
+        "bytes": 151900
+      },
+      {
+        "src": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+        "width": 1254,
+        "bytes": 244058
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 135140,
+    "src": "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/ee99bcf180831034dd3c-480.webp",
+        "width": 480,
+        "bytes": 28826
+      },
+      {
+        "src": "assets/candles/everyday-poetry/ee99bcf180831034dd3c-960.webp",
+        "width": 960,
+        "bytes": 82374
+      },
+      {
+        "src": "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+        "width": 1254,
+        "bytes": 135140
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/a1a2bf196a70bc62b356.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 225324,
+    "src": "assets/candles/everyday-poetry/a1a2bf196a70bc62b356.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/a1a2bf196a70bc62b356-480.webp",
+        "width": 480,
+        "bytes": 47174
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a1a2bf196a70bc62b356-960.webp",
+        "width": 960,
+        "bytes": 140892
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a1a2bf196a70bc62b356.webp",
+        "width": 1254,
+        "bytes": 225324
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 104670,
+    "src": "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/64b17146c8b02e70c57b-480.webp",
+        "width": 480,
+        "bytes": 23572
+      },
+      {
+        "src": "assets/candles/everyday-poetry/64b17146c8b02e70c57b-960.webp",
+        "width": 960,
+        "bytes": 66134
+      },
+      {
+        "src": "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+        "width": 1254,
+        "bytes": 104670
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 185836,
+    "src": "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5-480.webp",
+        "width": 480,
+        "bytes": 36138
+      },
+      {
+        "src": "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5-960.webp",
+        "width": 960,
+        "bytes": 110506
+      },
+      {
+        "src": "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5.webp",
+        "width": 1254,
+        "bytes": 185836
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 265198,
+    "src": "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b-480.webp",
+        "width": 480,
+        "bytes": 55624
+      },
+      {
+        "src": "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b-960.webp",
+        "width": 960,
+        "bytes": 167440
+      },
+      {
+        "src": "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b.webp",
+        "width": 1254,
+        "bytes": 265198
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/a299bb2673c80bab03cd.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 324672,
+    "src": "assets/candles/everyday-poetry/a299bb2673c80bab03cd.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/a299bb2673c80bab03cd-480.webp",
+        "width": 480,
+        "bytes": 67564
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a299bb2673c80bab03cd-960.webp",
+        "width": 960,
+        "bytes": 202650
+      },
+      {
+        "src": "assets/candles/everyday-poetry/a299bb2673c80bab03cd.webp",
+        "width": 1254,
+        "bytes": 324672
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 206290,
+    "src": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/6583ab0762da4903a5b7-480.webp",
+        "width": 480,
+        "bytes": 44494
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6583ab0762da4903a5b7-960.webp",
+        "width": 960,
+        "bytes": 128142
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+        "width": 1254,
+        "bytes": 206290
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/57a781f6d69d045a4a0b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 271628,
+    "src": "assets/candles/everyday-poetry/57a781f6d69d045a4a0b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/57a781f6d69d045a4a0b-480.webp",
+        "width": 480,
+        "bytes": 59752
+      },
+      {
+        "src": "assets/candles/everyday-poetry/57a781f6d69d045a4a0b-960.webp",
+        "width": 960,
+        "bytes": 171804
+      },
+      {
+        "src": "assets/candles/everyday-poetry/57a781f6d69d045a4a0b.webp",
+        "width": 1254,
+        "bytes": 271628
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/dc5a0fa2553804f5c197.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 276256,
+    "src": "assets/candles/everyday-poetry/dc5a0fa2553804f5c197.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/dc5a0fa2553804f5c197-480.webp",
+        "width": 480,
+        "bytes": 55358
+      },
+      {
+        "src": "assets/candles/everyday-poetry/dc5a0fa2553804f5c197-960.webp",
+        "width": 960,
+        "bytes": 168444
+      },
+      {
+        "src": "assets/candles/everyday-poetry/dc5a0fa2553804f5c197.webp",
+        "width": 1254,
+        "bytes": 276256
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/e3310d432ccb09f6d409.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 284504,
+    "src": "assets/candles/everyday-poetry/e3310d432ccb09f6d409.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/e3310d432ccb09f6d409-480.webp",
+        "width": 480,
+        "bytes": 52504
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e3310d432ccb09f6d409-960.webp",
+        "width": 960,
+        "bytes": 167260
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e3310d432ccb09f6d409.webp",
+        "width": 1254,
+        "bytes": 284504
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/e5db59e94817c2a759fc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 329366,
+    "src": "assets/candles/everyday-poetry/e5db59e94817c2a759fc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/e5db59e94817c2a759fc-480.webp",
+        "width": 480,
+        "bytes": 63472
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e5db59e94817c2a759fc-960.webp",
+        "width": 960,
+        "bytes": 202554
+      },
+      {
+        "src": "assets/candles/everyday-poetry/e5db59e94817c2a759fc.webp",
+        "width": 1254,
+        "bytes": 329366
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/527f391819ed6508388e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 301206,
+    "src": "assets/candles/everyday-poetry/527f391819ed6508388e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/527f391819ed6508388e-480.webp",
+        "width": 480,
+        "bytes": 61964
+      },
+      {
+        "src": "assets/candles/everyday-poetry/527f391819ed6508388e-960.webp",
+        "width": 960,
+        "bytes": 184762
+      },
+      {
+        "src": "assets/candles/everyday-poetry/527f391819ed6508388e.webp",
+        "width": 1254,
+        "bytes": 301206
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 121472,
+    "src": "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/9acd22294ced693ddf35-480.webp",
+        "width": 480,
+        "bytes": 29236
+      },
+      {
+        "src": "assets/candles/everyday-poetry/9acd22294ced693ddf35-960.webp",
+        "width": 960,
+        "bytes": 77494
+      },
+      {
+        "src": "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+        "width": 1254,
+        "bytes": 121472
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 138174,
+    "src": "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/1c7e9377088aca455fb7-480.webp",
+        "width": 480,
+        "bytes": 30526
+      },
+      {
+        "src": "assets/candles/everyday-poetry/1c7e9377088aca455fb7-960.webp",
+        "width": 960,
+        "bytes": 85406
+      },
+      {
+        "src": "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+        "width": 1254,
+        "bytes": 138174
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 241982,
+    "src": "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d-480.webp",
+        "width": 480,
+        "bytes": 48470
+      },
+      {
+        "src": "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d-960.webp",
+        "width": 960,
+        "bytes": 146096
+      },
+      {
+        "src": "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d.webp",
+        "width": 1254,
+        "bytes": 241982
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 191146,
+    "src": "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/6b704086578c7f2cef46-480.webp",
+        "width": 480,
+        "bytes": 41028
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6b704086578c7f2cef46-960.webp",
+        "width": 960,
+        "bytes": 120230
+      },
+      {
+        "src": "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+        "width": 1254,
+        "bytes": 191146
+      }
+    ]
+  },
+  "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 292058,
+    "src": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/everyday-poetry/d901793ae14876b4d3f4-480.webp",
+        "width": 480,
+        "bytes": 56804
+      },
+      {
+        "src": "assets/candles/everyday-poetry/d901793ae14876b4d3f4-960.webp",
+        "width": 960,
+        "bytes": 176360
+      },
+      {
+        "src": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp",
+        "width": 1254,
+        "bytes": 292058
+      }
+    ]
   }
 }

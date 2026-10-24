@@ -4,11 +4,12 @@
     1440,
     390
   ],
+  "everydayPoetryDesigns": 20,
   "wildEleganceDesigns": 6,
   "christmasPaginationCacheBypass": true,
   "fragranceHover": true,
   "mobileTap": true,
-  "catalogueTapPages": 31,
+  "catalogueTapPages": 33,
   "productCardNativeNavigation": true,
   "secondViewTouchToggle": true,
   "productImageHover": true,

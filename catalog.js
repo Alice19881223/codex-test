@@ -93,6 +93,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+        "name": "Sweet Pear",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-b407d637.html?scent=pear-freesia"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/43582c41f2669d4f7495.png",
         "name": "Silver Kitten",
         "series": "Little Companions",
@@ -920,6 +928,22 @@ const scents = [
     "matches": [
       {
         "category": "candle",
+        "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+        "name": "Dolce Vita Pasta",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-ed8930a6.html?scent=lime-basil"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+        "name": "Mediterranean Days",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-021b5237.html?scent=lime-basil"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/paired/e2419ac62b562d3b0520.webp",
         "name": "Lime Basil",
         "series": "Postbox",
@@ -1075,6 +1099,22 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+        "name": "Coastal Days",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-7efa78fe.html?scent=grapefruit-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+        "name": "Coral Reverie",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-ed4b6ff3.html?scent=grapefruit-bergamot"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
         "series": "Woodland Stories",
@@ -1179,6 +1219,22 @@ const scents = [
         "series": "Seven-Day Rituals",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html",
         "href": "product-lnv-rd-d67549e7.html?scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+        "name": "Harbour Parade",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-b9d83f6b.html?scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+        "name": "Lagoon & Lemon",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-52178592.html?scent=lemon-verbena"
       },
       {
         "category": "reed",
@@ -1287,6 +1343,22 @@ const scents = [
         "series": "Fabric Fragrance Sachets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-8a37ff04.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+        "name": "Ciao Bella",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-a36de348.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+        "name": "Salt & Sunshine",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-7e0b7a2f.html?scent=bergamot-neroli"
       }
     ],
     "family": "Fresh & Natural",
@@ -1356,6 +1428,14 @@ const scents = [
         "series": "Reserve Glass",
         "catalogueHref": "reeds-in-bloom-2.html",
         "href": "product-lnv-rd-8e5c34e4.html?scent=fig-green-leaves"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+        "name": "Riviera Three Fish",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-7be42d86.html?scent=fig-green-leaves"
       }
     ],
     "family": "Floral & Fruity",
@@ -1447,6 +1527,14 @@ const scents = [
         "series": "Botanical Teacups",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+        "name": "Dolce Vita Berries",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-01ccfab9.html?scent=blackcurrant-rose"
       }
     ],
     "family": "Floral & Fruity",
@@ -1534,6 +1622,22 @@ const scents = [
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-d7f8bbb8.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+        "name": "Crimson Currents",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-d999c0e0.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+        "name": "Peach Anchovies",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-5409fad2.html?scent=pomegranate-amber"
       }
     ],
     "family": "Floral & Fruity",
@@ -2008,6 +2112,14 @@ const scents = [
         "href": "product-lnv-rd-8d53a083.html?scent=white-tea-bergamot"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+        "name": "Coastal Muse",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-993a48f5.html?scent=white-tea-bergamot"
+      },
+      {
         "category": "crystal",
         "image": "assets/companions/040856927401c5aa9fe5.webp",
         "name": "Peach Whisper",
@@ -2240,6 +2352,14 @@ const scents = [
         "series": "Ribbed Retreat",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-4d8d9cc7.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+        "name": "Midnight Catch",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-4f7b0030.html?scent=black-tea-cedarwood"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2579,6 +2699,30 @@ const scents = [
         "series": "Botanical Sketches",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-d2a9322a.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+        "name": "Blue Harbour",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-970fe140.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+        "name": "Crab & Tide",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-69083a05.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+        "name": "Sea Breeze",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-d0b61d41.html?scent=sea-salt-driftwood"
       },
       {
         "category": "candle",
@@ -3543,6 +3687,14 @@ const scents = [
         "href": "product-lnv-xms-2222a11f.html?scent=amber-vanilla"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+        "name": "Sunset Shoal",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-050a1850.html?scent=amber-vanilla"
+      },
+      {
         "category": "gift",
         "image": "assets/gifts/paired/5cd23250a05e889b2fc5.webp",
         "name": "Fragrance Ritual Trio",
@@ -3626,6 +3778,14 @@ const scents = [
         "series": "Botanical Warmth",
         "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-1f173fc3.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+        "name": "Morning Ritual",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-1b0a2181.html?scent=vanilla-tonka"
       },
       {
         "category": "candle",
@@ -6472,6 +6632,286 @@ const candleProducts = [
     "assignedScent": "black-tea-cedarwood",
     "designDescription": "Ivory with sweeping black zebra stripes. Black Tea & Cedarwood is suggested for its crisp bergamot, dark tea and dry cedarwood contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
     "packagingImage": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
+  },
+  {
+    "id": "everyday-poetry-c07b4070c5694fd96902",
+    "name": "Sweet Pear",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+    "images": [
+      "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp",
+      "assets/candles/everyday-poetry/db8f035e7e59cb865c73.webp"
+    ],
+    "assignedScent": "pear-freesia",
+    "designDescription": "Orange-and-cream stripes frame illustrated golden pears: a small orchard story for an everyday table. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/db8f035e7e59cb865c73.webp"
+  },
+  {
+    "id": "everyday-poetry-c9e93c5bc81278cba9fc",
+    "name": "Morning Ritual",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+    "images": [
+      "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp",
+      "assets/candles/everyday-poetry/c66db06c966ed5d681e5.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Lavender-coloured stripes, a breakfast cup, pastry and newspaper turn a slow morning into a little ritual. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/c66db06c966ed5d681e5.webp"
+  },
+  {
+    "id": "everyday-poetry-6c8a7034b2678af27058",
+    "name": "Ciao Bella",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+    "images": [
+      "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp",
+      "assets/candles/everyday-poetry/bf73a46c94fef9e929a4.webp"
+    ],
+    "assignedScent": "bergamot-neroli",
+    "designDescription": "Strawberries, lemons and a blue ornamental border surround a warm Italian greeting on a vivid red field. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/bf73a46c94fef9e929a4.webp"
+  },
+  {
+    "id": "everyday-poetry-941fbd919b2ce936c45e",
+    "name": "Dolce Vita Pasta",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+    "images": [
+      "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp"
+    ],
+    "assignedScent": "lime-basil",
+    "designDescription": "An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "everyday-poetry-0af54641c413df8aed01",
+    "name": "Dolce Vita Berries",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+    "images": [
+      "assets/candles/everyday-poetry/0af54641c413df8aed01.webp"
+    ],
+    "assignedScent": "blackcurrant-rose",
+    "designDescription": "A berry-topped bowl and a pink decorative border tell a sweet table story, shown beside a coordinated gift box. This is a separate design from Dolce Vita Pasta. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "view": "packaging",
+    "viewLabels": [
+      "Product & gift packaging"
+    ]
+  },
+  {
+    "id": "everyday-poetry-ee99bcf180831034dd3c",
+    "name": "Coastal Days",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+    "images": [
+      "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp",
+      "assets/candles/everyday-poetry/a1a2bf196a70bc62b356.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "Orange-and-cream stripes frame three blue fish, bringing the feel of an easy coastal lunch to a favourite table. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/a1a2bf196a70bc62b356.webp"
+  },
+  {
+    "id": "everyday-poetry-853f5897b06085e31eb7",
+    "name": "Sea Breeze",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+    "images": [
+      "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
+      "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "A mint-coloured vessel with a blue sardine-tin illustration, inspired by unhurried coastal afternoons. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/3f32b3a7839f7c06fcec.webp"
+  },
+  {
+    "id": "everyday-poetry-64b17146c8b02e70c57b",
+    "name": "Salt & Sunshine",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+    "images": [
+      "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp",
+      "assets/candles/everyday-poetry/47fd199133788744e866.webp"
+    ],
+    "assignedScent": "bergamot-neroli",
+    "designDescription": "Pale blue, a coral-red sardine tin and three illustrated fish capture a cheerful seaside pantry. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/47fd199133788744e866.webp"
+  },
+  {
+    "id": "everyday-poetry-c9144ffe51db2e83abe3",
+    "name": "Coastal Muse",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+    "images": [
+      "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp",
+      "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "A coral-red vessel with a blue-framed fish illustration recalls a handwritten note from a quiet harbour. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/7e4a4707246f0cbff0c5.webp"
+  },
+  {
+    "id": "everyday-poetry-a2ec28fbbd8aed41438e",
+    "name": "Lagoon & Lemon",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+    "images": [
+      "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp",
+      "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "designDescription": "Turquoise water colours, bright lemons, little flowers and sardines evoke an easy summer lunch beside the sea. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/cf795dc6fb3baf7ef27b.webp"
+  },
+  {
+    "id": "everyday-poetry-0cca117b0aa525e1ba7d",
+    "name": "Blue Harbour",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+    "images": [
+      "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
+      "assets/candles/everyday-poetry/a299bb2673c80bab03cd.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "Sunny yellow, blue fish and a small anchor celebrate a bright harbour and a table open to the sea breeze. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/a299bb2673c80bab03cd.webp"
+  },
+  {
+    "id": "everyday-poetry-6583ab0762da4903a5b7",
+    "name": "Harbour Parade",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+    "images": [
+      "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
+      "assets/candles/everyday-poetry/57a781f6d69d045a4a0b.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "designDescription": "Rows of blue fish, little stars and warm yellow borders capture the bustle and sunshine of a harbour morning. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/57a781f6d69d045a4a0b.webp"
+  },
+  {
+    "id": "everyday-poetry-73c1168b38036e170fc7",
+    "name": "Riviera Three Fish",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+    "images": [
+      "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
+      "assets/candles/everyday-poetry/dc5a0fa2553804f5c197.webp"
+    ],
+    "assignedScent": "fig-green-leaves",
+    "designDescription": "Three illustrated fish, green checks and a coral-red rim bring the relaxed colour of a Riviera market to everyday spaces. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/dc5a0fa2553804f5c197.webp"
+  },
+  {
+    "id": "everyday-poetry-f5a6b56d247d44f7ab6b",
+    "name": "Coral Reverie",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+    "images": [
+      "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp",
+      "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "Coral pink, golden fish and dark blue leaves form a lively coastal postcard with coordinated gift packaging. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/e9f8540ef40d1caa2b47.webp"
+  },
+  {
+    "id": "everyday-poetry-7d7c5baecae869966cd9",
+    "name": "Crimson Currents",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+    "images": [
+      "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp",
+      "assets/candles/everyday-poetry/e3310d432ccb09f6d409.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Silver-blue fish move through a deep red field with small stars and flowing botanical details. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/e3310d432ccb09f6d409.webp"
+  },
+  {
+    "id": "everyday-poetry-405d4c9f473d440dc1bf",
+    "name": "Sunset Shoal",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+    "images": [
+      "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
+      "assets/candles/everyday-poetry/e5db59e94817c2a759fc.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "A radiant sunset, a dark blue ground and a colourful shoal suggest the last warm light over a harbour. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/e5db59e94817c2a759fc.webp"
+  },
+  {
+    "id": "everyday-poetry-65b6f3d971a5fbc5cfc2",
+    "name": "Midnight Catch",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+    "images": [
+      "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp",
+      "assets/candles/everyday-poetry/527f391819ed6508388e.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "Warm orange fish, a midnight-blue background and little stars tell the story of a quiet harbour after dusk. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/527f391819ed6508388e.webp"
+  },
+  {
+    "id": "everyday-poetry-9acd22294ced693ddf35",
+    "name": "Mediterranean Days",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+    "images": [
+      "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp",
+      "assets/candles/everyday-poetry/727694e2152a846c0201.webp"
+    ],
+    "assignedScent": "lime-basil",
+    "designDescription": "Navy blue, fine red borders and stacked colourful sardines recall a Mediterranean pantry. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/727694e2152a846c0201.webp"
+  },
+  {
+    "id": "everyday-poetry-1c7e9377088aca455fb7",
+    "name": "Crab & Tide",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+    "images": [
+      "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp",
+      "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "A bright red crab, blue-and-ivory stripes and small seashells turn a seaside memory into a cheerful everyday ritual. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/71aa5bc257518ddd0f0d.webp"
+  },
+  {
+    "id": "everyday-poetry-6b704086578c7f2cef46",
+    "name": "Peach Anchovies",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+    "images": [
+      "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp",
+      "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Peach pink, fine blue leaves, citrus slices and three illustrated fish evoke a sunlit postcard from the coast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp"
   }
 ];
 const reedProducts = [
@@ -8776,7 +9216,27 @@ const productPages = {
     "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp": "product-lnv-cnd-2e6a0e69.html",
     "assets/candles/wild-elegance/f2124667481eefe268ae.webp": "product-lnv-cnd-c29ff4da.html",
     "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp": "product-lnv-cnd-5bf92384.html",
-    "assets/candles/wild-elegance/fb12693e394999130647.webp": "product-lnv-cnd-300dcebb.html"
+    "assets/candles/wild-elegance/fb12693e394999130647.webp": "product-lnv-cnd-300dcebb.html",
+    "assets/candles/everyday-poetry/c07b4070c5694fd96902.webp": "product-lnv-cnd-b407d637.html",
+    "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp": "product-lnv-cnd-1b0a2181.html",
+    "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp": "product-lnv-cnd-a36de348.html",
+    "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp": "product-lnv-cnd-ed8930a6.html",
+    "assets/candles/everyday-poetry/0af54641c413df8aed01.webp": "product-lnv-cnd-01ccfab9.html",
+    "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp": "product-lnv-cnd-7efa78fe.html",
+    "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp": "product-lnv-cnd-d0b61d41.html",
+    "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp": "product-lnv-cnd-7e0b7a2f.html",
+    "assets/candles/everyday-poetry/c9144ffe51db2e83abe3.webp": "product-lnv-cnd-993a48f5.html",
+    "assets/candles/everyday-poetry/a2ec28fbbd8aed41438e.webp": "product-lnv-cnd-52178592.html",
+    "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp": "product-lnv-cnd-970fe140.html",
+    "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp": "product-lnv-cnd-b9d83f6b.html",
+    "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp": "product-lnv-cnd-7be42d86.html",
+    "assets/candles/everyday-poetry/f5a6b56d247d44f7ab6b.webp": "product-lnv-cnd-ed4b6ff3.html",
+    "assets/candles/everyday-poetry/7d7c5baecae869966cd9.webp": "product-lnv-cnd-d999c0e0.html",
+    "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp": "product-lnv-cnd-050a1850.html",
+    "assets/candles/everyday-poetry/65b6f3d971a5fbc5cfc2.webp": "product-lnv-cnd-4f7b0030.html",
+    "assets/candles/everyday-poetry/9acd22294ced693ddf35.webp": "product-lnv-cnd-021b5237.html",
+    "assets/candles/everyday-poetry/1c7e9377088aca455fb7.webp": "product-lnv-cnd-69083a05.html",
+    "assets/candles/everyday-poetry/6b704086578c7f2cef46.webp": "product-lnv-cnd-5409fad2.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",

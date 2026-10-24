@@ -10,7 +10,7 @@ CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes
 CANDLE_VERSION=hashlib.sha256((ROOT/'assets/candle-collections.json').read_bytes()+(ROOT/'assets/candle-products.json').read_bytes()).hexdigest()[:12]
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
-WILD_URLS={r['url'] for r in PRODUCTS if r['series']=='Wild Elegance'}
+VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry'}}
 SCENTS={s['id']:s for s in json.loads((ROOT/'assets/fragrances.json').read_text())}
 MEDIA=json.loads((ROOT/'assets/image-manifest.json').read_text()) if (ROOT/'assets/image-manifest.json').exists() else {}
 REVERSE={v['src']:k for k,v in MEDIA.items()}
@@ -240,13 +240,13 @@ def build():
   # Version collection navigation with the reviewed order so pagination cannot
   # return visitors to an older cached Christmas assortment. Canonicals stay clean.
   text=re.sub(r'(<a\b[^>]*\bhref=")(christmas-collection(?:-\d+)?\.html)(?:\?v=[a-f0-9]+)?(")',lambda m:m[1]+m[2]+'?v='+CHRISTMAS_VERSION+m[3],text)
-  text=re.sub(r'(<a\b[^>]*\bhref=")((?:products-current|candles-little-joys(?:-\d+)?)\.html)(?:\?v=[a-f0-9]+)?(")',lambda m:m[1]+m[2]+'?v='+CANDLE_VERSION+m[3],text)
-  def version_wild_product(m):
+  text=re.sub(r'(<a\b[^>]*\bhref=")((?:products-current|candles-[a-z0-9-]+)\.html)(?:\?v=[a-f0-9]+)?(")',lambda m:m[1]+m[2]+'?v='+CANDLE_VERSION+m[3],text)
+  def version_candle_product(m):
    url=urlsplit(html.unescape(m[2]))
-   if url.scheme or url.netloc or url.path not in WILD_URLS:return m[0]
+   if url.scheme or url.netloc or url.path not in VERSIONED_PRODUCT_URLS:return m[0]
    query=dict(parse_qsl(url.query));query['v']=CANDLE_VERSION
    return m[1]+esc(urlunsplit(('','',url.path,urlencode(query),url.fragment)))+m[3]
-  text=re.sub(r'(<a\b[^>]*\bhref=")([^\"]+)(")',version_wild_product,text)
+  text=re.sub(r'(<a\b[^>]*\bhref=")([^\"]+)(")',version_candle_product,text)
   path.write_text(text)
   allmeta[name]={'title':title,'description':description,'canonical':canonical,'indexable':not noindex and canonical_name==name,'type':'product' if name in BY_URL else 'redirect' if target else 'collection' if name in COLLECTIONS else 'page'}
   if canonical_name!=name and not target:redirects.append((name,canonical_name,'Canonical alias (preserved HTTP 200 content; no new server redirect)'))

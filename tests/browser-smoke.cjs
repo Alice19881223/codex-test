@@ -5,6 +5,40 @@ const server=http.createServer((req,res)=>{const pathname=decodeURIComponent(new
 try{
  const routes=['index.html','products-current.html','reed-collections.html','products-crystal-1.html','gift-collection.html','christmas-collection-2.html','sachets.html','candles-morning-light-2.html','fragrance.html','fragrance-pear-freesia.html','private-label.html','contact.html','product-lnv-cnd-02454833.html'];
  for(const width of [1440,390]){const context=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});for(const route of routes){const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));const response=await page.goto(base+'/'+route,{waitUntil:'load'});assert.equal(response.status(),200);assert.equal(await page.locator('main h1').count(),1,route+' H1');assert.equal(await page.locator('link[rel=canonical]').count(),1);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,route+' overflow at '+width);assert.deepEqual(errors,[],route+' JS errors');if(route==='index.html'){const cta=await page.locator('.hero-content .button').boundingBox();const hero=await page.locator('.hero').boundingBox();const controls=await page.locator('.hero-bottom').boundingBox();assert.ok(cta.y+cta.height<=hero.y+hero.height,'hero CTA must stay inside the hero');assert.ok(cta.y+cta.height<controls.y,'hero CTA must not overlap carousel controls');}results.push({route,width,errors});await page.close();}await context.close();}
+ // The independent lifestyle theme must be reachable as a fifth collection.
+ const poetryManifest=path.join(root,'assets/everyday-poetry-source-manifest.json');
+ if(fs.existsSync(poetryManifest)){
+  const designs=JSON.parse(fs.readFileSync(poetryManifest)).products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  const collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='everyday-poetry');
+  assert.equal(designs.length,20);
+  assert.equal(designs.filter(d=>d.packagingImage).length,18);
+  assert.equal(designs.find(d=>d.name==='Dolce Vita Pasta').images.length,1);
+  assert.equal(designs.find(d=>d.name==='Dolce Vita Berries').images.length,1);
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
+   await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
+   await page.locator('.candle-mood-card').filter({hasText:'Everyday Poetry'}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
+   assert.equal(await page.locator('main h1').textContent(),'Everyday Poetry');assert.ok(await page.locator('.everyday-story').isVisible());
+   for(let i=0;i<collection.pages.length;i++){
+    if(i)await page.locator('#pagination a').filter({hasText:new RegExp('^'+(i+1)+'$')}).click();
+    assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),collection.pages[i].map(k=>k.split(' | ')[1]));
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'Everyday Poetry collection overflow');
+   }
+   await page.locator('#pagination a').filter({hasText:/^1$/}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
+   for(const design of designs){
+    const record=records.find(r=>r.image===design.image);assert.ok(record);
+    await page.goto(base+'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);
+    assert.equal(await page.locator('[data-gallery-src]').count(),design.images.length);assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.image);
+    await page.locator('#product-main-image').evaluate(img=>img.decode());
+    if(design.packagingImage){await page.locator('[data-gallery-src]').nth(1).click();await page.locator('#product-main-image').evaluate(img=>img.decode());}
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' detail overflow');
+   }
+   await ctx.close();
+  }
+  const ctx=await browser.newContext({javaScriptEnabled:false});const page=await ctx.newPage();
+  await page.goto(base+'/candles-everyday-poetry.html');const first=page.locator('#catalogue-grid a[data-photo]').first();const href=await first.getAttribute('href');await first.click();await page.waitForURL(base+'/'+href);assert.equal(await page.locator('#product-notes dd').count(),3);await ctx.close();
+ }
  // Each imported animal-print design must open from the collection with its own scent and supplied views.
  const wildManifest=path.join(root,'assets/wild-elegance-source-manifest.json');
  if(fs.existsSync(wildManifest)){
@@ -115,6 +149,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});
