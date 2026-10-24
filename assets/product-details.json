@@ -4420,6 +4420,57 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-RD-CFEE83A2",
+    "category": "reed",
+    "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+    "name": "Sunlit Mosaic Reed Diffuser",
+    "title": "Sunlit Mosaic Reed Diffuser",
+    "url": "product-lnv-rd-cfee83a2.html",
+    "series": "Art Glass Reverie",
+    "collection": "A Breath of Fresh Air",
+    "collectionHref": "reeds-a-breath-of-fresh-air.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-488767E2",
+    "category": "reed",
+    "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+    "name": "Coral Petal Reed Diffuser",
+    "title": "Coral Petal Reed Diffuser",
+    "url": "product-lnv-rd-488767e2.html",
+    "series": "Art Glass Reverie",
+    "collection": "In Bloom",
+    "collectionHref": "reeds-in-bloom.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-99CA634F",
+    "category": "reed",
+    "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+    "name": "Forest Veil Reed Diffuser",
+    "title": "Forest Veil Reed Diffuser",
+    "url": "product-lnv-rd-99ca634f.html",
+    "series": "Art Glass Reverie",
+    "collection": "A Quiet Pause",
+    "collectionHref": "reeds-a-quiet-pause.html",
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-CRY-2961F11A",
     "category": "crystal",
     "image": "assets/companions/040856927401c5aa9fe5.webp",

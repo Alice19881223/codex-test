@@ -12513,5 +12513,143 @@
         "bytes": 202190
       }
     ]
+  },
+  "assets/art-glass-reverie/940aa38d16ccfcadac46.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 44948,
+    "src": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/940aa38d16ccfcadac46-480.webp",
+        "width": 480,
+        "bytes": 9282
+      },
+      {
+        "src": "assets/art-glass-reverie/940aa38d16ccfcadac46-960.webp",
+        "width": 960,
+        "bytes": 25956
+      },
+      {
+        "src": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+        "width": 1254,
+        "bytes": 44948
+      }
+    ]
+  },
+  "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 65862,
+    "src": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4-480.webp",
+        "width": 480,
+        "bytes": 13406
+      },
+      {
+        "src": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4-960.webp",
+        "width": 960,
+        "bytes": 36670
+      },
+      {
+        "src": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+        "width": 1254,
+        "bytes": 65862
+      }
+    ]
+  },
+  "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 44482,
+    "src": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/62c95ae7bb850aa7f867-480.webp",
+        "width": 480,
+        "bytes": 10366
+      },
+      {
+        "src": "assets/art-glass-reverie/62c95ae7bb850aa7f867-960.webp",
+        "width": 960,
+        "bytes": 27470
+      },
+      {
+        "src": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+        "width": 1254,
+        "bytes": 44482
+      }
+    ]
+  },
+  "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 78430,
+    "src": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/578cf84f83c1b87e6a09-480.webp",
+        "width": 480,
+        "bytes": 14662
+      },
+      {
+        "src": "assets/art-glass-reverie/578cf84f83c1b87e6a09-960.webp",
+        "width": 960,
+        "bytes": 43768
+      },
+      {
+        "src": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+        "width": 1254,
+        "bytes": 78430
+      }
+    ]
+  },
+  "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 46968,
+    "src": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/8c4702d37beaf6f9aa68-480.webp",
+        "width": 480,
+        "bytes": 10642
+      },
+      {
+        "src": "assets/art-glass-reverie/8c4702d37beaf6f9aa68-960.webp",
+        "width": 960,
+        "bytes": 27928
+      },
+      {
+        "src": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+        "width": 1254,
+        "bytes": 46968
+      }
+    ]
+  },
+  "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 76814,
+    "src": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+    "variants": [
+      {
+        "src": "assets/art-glass-reverie/c5d7673d6c77e089e1f1-480.webp",
+        "width": 480,
+        "bytes": 14446
+      },
+      {
+        "src": "assets/art-glass-reverie/c5d7673d6c77e089e1f1-960.webp",
+        "width": 960,
+        "bytes": 43770
+      },
+      {
+        "src": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+        "width": 1254,
+        "bytes": 76814
+      }
+    ]
   }
 }

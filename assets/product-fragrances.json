@@ -1454,5 +1454,17 @@
   "LNV-RD-64253A72": {
     "scent": "lavender-cedarwood",
     "basis": "Suggested pairing based on the reviewed design, colour and seasonal atmosphere"
+  },
+  "LNV-RD-CFEE83A2": {
+    "scent": "grapefruit-bergamot",
+    "basis": "Suggested pairing based on the reviewed art-glass colour and atmosphere"
+  },
+  "LNV-RD-488767E2": {
+    "scent": "peony-lychee",
+    "basis": "Suggested pairing based on the reviewed art-glass colour and atmosphere"
+  },
+  "LNV-RD-99CA634F": {
+    "scent": "green-tea-cedarwood",
+    "basis": "Suggested pairing based on the reviewed art-glass colour and atmosphere"
   }
 }

@@ -1163,5 +1163,47 @@
     ],
     "assignedScent": "lavender-cedarwood",
     "designDescription": "A lilac square bottle with flowing blue waves, warm coral shapes and a red spherical stopper brings an artistic splash of colour to everyday rituals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-940aa38d16ccfcadac46",
+    "name": "Sunlit Mosaic Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+    "packagingImage": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+    "images": [
+      "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+      "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "Yellow and ivory-toned flowing marks on a rounded bottle recall sunlight dancing through glass. Grapefruit & Bergamot offers a bright citrus fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-62c95ae7bb850aa7f867",
+    "name": "Coral Petal Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+    "packagingImage": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+    "images": [
+      "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+      "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Soft coral-pink and ivory-toned organic markings resemble scattered petals. Peony & Lychee suggests an airy floral fragrance with a gently fruity opening. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-8c4702d37beaf6f9aa68",
+    "name": "Forest Veil Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+    "packagingImage": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+    "images": [
+      "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+      "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "Deep green vertical forms and pale translucent accents evoke light filtering through a quiet forest. Green Tea & Cedarwood provides a fresh tea-and-wood fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

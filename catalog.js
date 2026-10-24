@@ -591,7 +591,7 @@ const scents = [
         "image": "assets/reeds/standalone/4d34d18499bce0ec0d09.png",
         "name": "Blush Arch",
         "series": "Blush Arch",
-        "catalogueHref": "reeds-in-bloom-2.html",
+        "catalogueHref": "reeds-in-bloom-3.html",
         "href": "product-lnv-rd-6213bdae.html?scent=peony-lychee"
       },
       {
@@ -617,6 +617,14 @@ const scents = [
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-c29ff4da.html?scent=peony-lychee"
+      },
+      {
+        "category": "reed",
+        "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+        "name": "Coral Petal Reed Diffuser",
+        "series": "Art Glass Reverie",
+        "catalogueHref": "reeds-in-bloom.html",
+        "href": "product-lnv-rd-488767e2.html?scent=peony-lychee"
       },
       {
         "category": "candle",
@@ -863,7 +871,7 @@ const scents = [
         "image": "assets/reeds/paired/89098584f61f10212aea.webp",
         "name": "Moonlit Gardenia \u2014 Rounded",
         "series": "Ribbed Ceramic",
-        "catalogueHref": "reeds-in-bloom.html",
+        "catalogueHref": "reeds-in-bloom-2.html",
         "href": "product-lnv-rd-04bd538d.html?scent=gardenia-tuberose"
       },
       {
@@ -1152,6 +1160,14 @@ const scents = [
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-ed4b6ff3.html?scent=grapefruit-bergamot"
+      },
+      {
+        "category": "reed",
+        "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+        "name": "Sunlit Mosaic Reed Diffuser",
+        "series": "Art Glass Reverie",
+        "catalogueHref": "reeds-a-breath-of-fresh-air.html",
+        "href": "product-lnv-rd-cfee83a2.html?scent=grapefruit-bergamot"
       },
       {
         "category": "candle",
@@ -2360,7 +2376,7 @@ const scents = [
         "image": "assets/reeds/paired/9317be016ed63d39b67c.webp",
         "name": "Sage Daisy",
         "series": "Sculpted Floral",
-        "catalogueHref": "reeds-a-breath-of-fresh-air.html",
+        "catalogueHref": "reeds-a-breath-of-fresh-air-2.html",
         "href": "product-lnv-rd-121c22b0.html?scent=white-tea-rosemary"
       },
       {
@@ -2580,7 +2596,7 @@ const scents = [
         "image": "assets/reeds/reed-6ffc48159c0055e0.webp",
         "name": "White Peach & Oolong",
         "series": "Floral Tea",
-        "catalogueHref": "reeds-a-quiet-pause.html",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-66d0ed88.html?scent=osmanthus-green-tea"
       },
       {
@@ -4980,6 +4996,14 @@ const scents = [
         "series": "Christmas Storybook Glass",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-3a143340.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+        "name": "Forest Veil Reed Diffuser",
+        "series": "Art Glass Reverie",
+        "catalogueHref": "reeds-a-quiet-pause.html",
+        "href": "product-lnv-rd-99ca634f.html?scent=green-tea-cedarwood"
       }
     ],
     "family": "Oriental Mystery",
@@ -10274,7 +10298,10 @@ const productPages = {
     "assets/companions/b2b8111bb9e29b42d8ed.webp": "product-lnv-rd-8fe44f17.html",
     "assets/blue-landscapes/4f266cd0f5592c455dac.webp": "product-lnv-rd-2591b062.html",
     "assets/poetic-moments/321d87c7e34259e0095a.webp": "product-lnv-rd-7d3434c1.html",
-    "assets/poetic-moments/5bc38799b6a3de21bfc3.webp": "product-lnv-rd-64253a72.html"
+    "assets/poetic-moments/5bc38799b6a3de21bfc3.webp": "product-lnv-rd-64253a72.html",
+    "assets/art-glass-reverie/940aa38d16ccfcadac46.webp": "product-lnv-rd-cfee83a2.html",
+    "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp": "product-lnv-rd-488767e2.html",
+    "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp": "product-lnv-rd-99ca634f.html"
   },
   "crystal": {
     "assets/companions/040856927401c5aa9fe5.webp": "product-lnv-cry-2961f11a.html",

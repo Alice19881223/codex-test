@@ -1,0 +1,100 @@
+{
+  "sourceArchives": [
+    "网站上图1.zip"
+  ],
+  "products": [
+    {
+      "id": "art-glass-import-940aa38d16ccfcadac46",
+      "name": "Sunlit Mosaic Reed Diffuser",
+      "series": "Art Glass Reverie",
+      "productType": "Reed diffuser",
+      "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+      "packagingImage": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+      "images": [
+        "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+        "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp"
+      ],
+      "assignedScent": "grapefruit-bergamot",
+      "designDescription": "Yellow and ivory-toned flowing marks on a rounded bottle recall sunlight dancing through glass. Grapefruit & Bergamot offers a bright citrus fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "a-breath-of-fresh-air"
+    },
+    {
+      "id": "art-glass-import-62c95ae7bb850aa7f867",
+      "name": "Coral Petal Reed Diffuser",
+      "series": "Art Glass Reverie",
+      "productType": "Reed diffuser",
+      "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+      "packagingImage": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+      "images": [
+        "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+        "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Soft coral-pink and ivory-toned organic markings resemble scattered petals. Peony & Lychee suggests an airy floral fragrance with a gently fruity opening. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "in-bloom"
+    },
+    {
+      "id": "art-glass-import-8c4702d37beaf6f9aa68",
+      "name": "Forest Veil Reed Diffuser",
+      "series": "Art Glass Reverie",
+      "productType": "Reed diffuser",
+      "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+      "packagingImage": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+      "images": [
+        "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+        "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "Deep green vertical forms and pale translucent accents evoke light filtering through a quiet forest. Green Tea & Cedarwood provides a fresh tea-and-wood fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "a-quiet-pause"
+    }
+  ],
+  "images": [
+    {
+      "source": "阳光黄白艺术玻璃扩香瓶-1.png",
+      "sha256": "940aa38d16ccfcadac46c982e03d86428227ccf4c167641a900e39ee5c67d238",
+      "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "黄色艺术玻璃香薰与礼盒-2.png",
+      "sha256": "bf8c18a0ebaa9d4c04a4f9bd4a66153cce8cb9961ab5eca355d1eb57ddf4f635",
+      "image": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "珊瑚粉斑驳玻璃香薰-3.png",
+      "sha256": "62c95ae7bb850aa7f867ecfcf928b960d33792487e9b91e17603fddd1de3a1ee",
+      "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "珊瑚粉香薰与配套礼盒-4.png",
+      "sha256": "578cf84f83c1b87e6a098570dcf1a805d71cf5d22e5f733eecbe0671eaa0c287",
+      "image": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "深林绿条纹香薰瓶-5.png",
+      "sha256": "8c4702d37beaf6f9aa684decb221ebff87dcb0ecec2c74ae5d2c8788d0565a95",
+      "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "森林绿玻璃扩香与象牙礼盒-6.png",
+      "sha256": "c5d7673d6c77e089e1f19a1a9dfa8485c62ee22cf5b25e15ae360adbb28bd689",
+      "image": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "fragranceRequirement": "Existing blue-and-white products retain Oriental Mystery profiles."
+}
