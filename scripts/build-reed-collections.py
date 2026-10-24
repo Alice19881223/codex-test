@@ -24,7 +24,12 @@ def card(p,index):
  return f'<div class="paired-product">{link}<button type="button" class="photo-toggle" aria-pressed="false" aria-label="{label} for {name}">{label}</button></div>' if paired else link
 def related_card(p):
  name=esc(p['name']);src=esc(p['image']);url=product_url('candle',p['image'])
- return f'<a class="crystal-item little-daydream-related" href="{url}" aria-label="View {name}"><img class="photo-single" src="{src}" alt="Lanarve {name} — candle" loading="lazy"><span class="eyebrow">More of her drawings · Candle</span><h3>{name}</h3><span class="product-link">VIEW PRODUCT <span>↗</span></span></a>'
+ paired=bool(p.get('packagingImage'))
+ images=f'<img class="photo-single" src="{src}" alt="Lanarve {name} — product" loading="lazy">'
+ if paired:images+=f'<img class="photo-packaging" src="{esc(p["packagingImage"])}" alt="Lanarve {name} — alternate view" loading="lazy">'
+ visual=f'<span class="paired-photo">{images}</span>' if paired else images
+ link=f'<a class="crystal-item little-daydream-related" href="{url}" aria-label="View {name}">{visual}<h3>{name}</h3><span class="product-link">VIEW PRODUCT <span>↗</span></span></a>'
+ return f'<div class="paired-product">{link}<button type="button" class="photo-toggle" aria-pressed="false" aria-label="View another angle for {name}">View another angle</button></div>' if paired else link
 base=(ROOT/'products-reed-1.html').read_text()
 base=re.sub(r'<body[^>]*>', '<body data-category="reed" data-page="1">',base)
 overview='<main class="section candle-theme-landing"><section class="candle-mood-overview"><div class="candle-mood-grid">'+''.join(f'<a class="candle-mood-card" href="{filename(c["slug"])}"><img src="assets/mood-{c["icon"]}.svg" alt="" width="54" height="54"><h2>{esc(c["name"])}</h2><p>{esc(c["description"])}</p><span class="mood-count">{len(c["productKeys"])+len(c.get("relatedProducts",[]))} {"designs" if c.get("relatedProducts") else "reed diffusers"} <span aria-hidden="true">↗</span></span></a>' for c in collections)+'</div></section></main>'

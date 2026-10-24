@@ -40,9 +40,10 @@ def main():
  collections=read('reed-collections.json');collections=[c for c in collections if c['slug']!='little-daydreams'];keys=[p['series']+' | '+p['name'] for p in added]
  collections.append({'slug':'little-daydreams','name':'Little Daydreams','description':'An innocent and joyful expression from my daughter.','icon':'little-daydreams','productKeys':keys,'pages':[keys],'relatedProducts':[{'category':'candle','series':'Jellyfish','name':'Jellyfish Egg Candle'},{'category':'candle','series':'Jellyfish','name':'Jellyfish Glass Candle'},{'category':'candle','series':'Birthday Wishes','name':'Birthday Surprise Egg'}]})
  candle_products=read('candle-products.json')
+ jellyfish_views={'Jellyfish Egg Candle':'assets/candles/candles-035.webp','Jellyfish Glass Candle':'assets/candles/candles-089.webp'}
  for candle in candle_products:
-  if candle['name'] in {'Jellyfish Egg Candle','Jellyfish Glass Candle'}:
-   candle.pop('packagingImage',None);candle.pop('images',None);candle.pop('viewLabels',None)
+  if candle['name'] in jellyfish_views:
+   candle['packagingImage']=jellyfish_views[candle['name']];candle['images']=[candle['image'],candle['packagingImage']]
  for name,data in [('reed-products.json',products),('candle-products.json',candle_products),('reed-collections.json',collections),('fragrances.json',scents),('image-manifest.json',media),('product-display.json',display),('product-fragrances.json',assignments),('little-daydreams-source-manifest.json',{'sourceArchives':[Path(sys.argv[1]).name],'theme':'Little Daydreams','introduction':'An innocent and joyful expression from my daughter.','products':added,'images':sources,'relatedProducts':collections[-1]['relatedProducts']})]:write(name,data)
  catalog=ROOT/'catalog.js';text=catalog.read_text();text=re.sub(r'const reedProducts = \[.*?\n\];',lambda m:'const reedProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';',text,count=1,flags=re.S);catalog.write_text(text)
  print('Imported five Little Daydreams reed diffusers with ten reviewed photographs.')

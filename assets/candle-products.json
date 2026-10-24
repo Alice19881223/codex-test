@@ -834,7 +834,12 @@
     "image": "assets/candles/candles-033.webp",
     "series": "Jellyfish",
     "alternateView": true,
-    "assignedScent": "pear-freesia"
+    "assignedScent": "pear-freesia",
+    "packagingImage": "assets/candles/candles-035.webp",
+    "images": [
+      "assets/candles/candles-033.webp",
+      "assets/candles/candles-035.webp"
+    ]
   },
   {
     "name": "Jellyfish Glass Candle",
@@ -843,7 +848,12 @@
     "legacyImages": [
       "assets/candles/candles-089.webp"
     ],
-    "assignedScent": "pear-freesia"
+    "assignedScent": "pear-freesia",
+    "packagingImage": "assets/candles/candles-089.webp",
+    "images": [
+      "assets/candles/standalone/af548d5ba9a0251bccb1.png",
+      "assets/candles/candles-089.webp"
+    ]
   },
   {
     "name": "Birthday Surprise Egg",
