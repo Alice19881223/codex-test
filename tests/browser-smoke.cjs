@@ -5,6 +5,38 @@ const server=http.createServer((req,res)=>{const pathname=decodeURIComponent(new
 try{
  const routes=['index.html','products-current.html','reed-collections.html','products-crystal-1.html','gift-collection.html','christmas-collection-2.html','sachets.html','candles-morning-light-2.html','fragrance.html','fragrance-pear-freesia.html','private-label.html','contact.html','product-lnv-cnd-02454833.html'];
  for(const width of [1440,390]){const context=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});for(const route of routes){const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));const response=await page.goto(base+'/'+route,{waitUntil:'load'});assert.equal(response.status(),200);assert.equal(await page.locator('main h1').count(),1,route+' H1');assert.equal(await page.locator('link[rel=canonical]').count(),1);assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,route+' overflow at '+width);assert.deepEqual(errors,[],route+' JS errors');if(route==='index.html'){const cta=await page.locator('.hero-content .button').boundingBox();const hero=await page.locator('.hero').boundingBox();const controls=await page.locator('.hero-bottom').boundingBox();assert.ok(cta.y+cta.height<=hero.y+hero.height,'hero CTA must stay inside the hero');assert.ok(cta.y+cta.height<controls.y,'hero CTA must not overlap carousel controls');}results.push({route,width,errors});await page.close();}await context.close();}
+ // Each imported animal-print design must open from the collection with its own scent and supplied views.
+ const wildManifest=path.join(root,'assets/wild-elegance-source-manifest.json');
+ if(fs.existsSync(wildManifest)){
+  const designs=JSON.parse(fs.readFileSync(wildManifest)).products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  assert.equal(designs.length,6);
+  for(const width of [1440,390]){
+   const animalContext=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const animalPage=await animalContext.newPage();
+   await animalContext.route(base+'/candles-little-joys.html',route=>route.fulfill({status:200,contentType:'text/html',body:'<h1>Old Little Joys collection</h1>'}));
+   await animalPage.goto(base+'/index.html');if(width===390)await animalPage.locator('.menu-toggle').tap();await animalPage.locator('header a.nav-picture').filter({hasText:'Scented candles'}).click();
+   await animalPage.locator('.candle-mood-card').filter({hasText:'Little Joys'}).click();assert.ok(new URL(animalPage.url()).searchParams.get('v'));
+   await animalContext.unroute(base+'/candles-little-joys.html');
+   assert.deepEqual(await animalPage.locator('#catalogue-grid h3').allTextContents(),designs.map(d=>d.name));
+   for(const image of await animalPage.locator('#catalogue-grid .photo-single').all()){const box=await image.boundingBox();assert.ok(Math.abs(box.height-box.width)<2,'Animal-print card photographs must remain square');}
+   for(const design of designs){
+    const record=records.find(r=>r.image===design.image&&r.category==='candle');assert.ok(record);
+    await animalPage.goto(base+'/candles-little-joys.html');
+    await animalPage.locator('#catalogue-grid a[href="'+record.url+'"]').click();await animalPage.waitForURL(base+'/'+record.url);
+    assert.equal(await animalPage.locator('#product-fragrance').inputValue(),design.assignedScent);
+    assert.ok((await animalPage.locator('h1').textContent()).includes(design.name));
+    assert.equal(await animalPage.locator('[data-gallery-src]').count(),design.images.length);
+    await animalPage.locator('#product-main-image').evaluate(img=>img.decode());
+    if(design.packagingImage){await animalPage.locator('[data-gallery-src]').nth(1).click();await animalPage.locator('#product-main-image').evaluate(img=>img.decode());assert.match(await animalPage.locator('#gallery-caption').textContent(),/packaging/i);}
+    else assert.match(await animalPage.locator('#gallery-caption').textContent(),/Product & gift packaging/);
+    assert.equal(await animalPage.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' overflow');
+   }
+   await animalContext.close();
+  }
+  const animalNoJS=await browser.newContext({javaScriptEnabled:false});const animalPage=await animalNoJS.newPage();
+  for(const design of designs){const record=records.find(r=>r.image===design.image);await animalPage.goto(base+'/'+record.url);assert.equal(await animalPage.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await animalPage.locator('#product-notes dd').count(),3);}
+  await animalNoJS.close();
+ }
  // Simulate an older cached unversioned page and exercise the real 1 -> 2 -> 1 links.
  const christmasContext=await browser.newContext();const christmasPage=await christmasContext.newPage();
  await christmasContext.route(base+'/christmas-collection.html',route=>route.fulfill({status:200,contentType:'text/html',body:'<h1>Old cached Christmas assortment</h1>'}));
@@ -81,6 +113,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

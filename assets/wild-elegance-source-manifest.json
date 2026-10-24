@@ -1,0 +1,175 @@
+{
+  "sourceArchive": "豹纹系列.zip",
+  "series": "Wild Elegance",
+  "collection": "little-joys",
+  "products": [
+    {
+      "id": "wild-elegance-e9cace32dbb1fbfede74",
+      "name": "Golden Leopard",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+      "images": [
+        "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+        "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "designDescription": "Golden cream with warm brown leopard rosettes. Amber & Vanilla is suggested for its soft resinous warmth and golden, enveloping character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+    },
+    {
+      "id": "wild-elegance-ae489410c585e74effa1",
+      "name": "Ember Leopard",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+      "images": [
+        "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+        "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "Vivid orange-red with dark leopard rosettes. Pomegranate & Amber is suggested for its juicy fruit, pink pepper and warm amber contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+    },
+    {
+      "id": "wild-elegance-abb5ce6d23605d03f76a",
+      "name": "Blue Leopard",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+      "images": [
+        "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+        "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+      ],
+      "assignedScent": "sea-salt-driftwood",
+      "designDescription": "Powder blue with deep blue leopard rosettes. Sea Salt & Driftwood is suggested for its cool sea-breeze, sage and softly weathered wood character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+    },
+    {
+      "id": "wild-elegance-6bde233d6245ac44f727",
+      "name": "Blush Leopard",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+      "images": [
+        "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Blush pink with dark rose-toned leopard rosettes, photographed beside a coordinated gift box. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "view": "packaging",
+      "viewLabels": [
+        "Product & gift packaging"
+      ]
+    },
+    {
+      "id": "wild-elegance-43d5c33b23c8d6362009",
+      "name": "Sandstone Spots",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+      "images": [
+        "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+        "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+      ],
+      "assignedScent": "sandalwood-cashmere",
+      "designDescription": "Warm apricot-ivory with small dark animal-inspired spots. Sandalwood & Cashmere is suggested for its tactile, softly spiced woods and warm musk. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+    },
+    {
+      "id": "wild-elegance-fb12693e394999130647",
+      "name": "Ivory Zebra",
+      "series": "Wild Elegance",
+      "productType": "Scented candle",
+      "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+      "images": [
+        "assets/candles/wild-elegance/fb12693e394999130647.webp",
+        "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
+      ],
+      "assignedScent": "black-tea-cedarwood",
+      "designDescription": "Ivory with sweeping black zebra stripes. Black Tea & Cedarwood is suggested for its crisp bergamot, dark tea and dry cedarwood contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
+    }
+  ],
+  "images": [
+    {
+      "source": "exec-7175ac31-4a4d-4f6f-b753-29f98d8e3b31.png",
+      "sha256": "e9cace32dbb1fbfede7485e81220114feb8b98a02f3622230da34f1af99c616b",
+      "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-f9feeafa-371d-44ca-8a7f-e515bd92e62f.png",
+      "sha256": "ad6915419a6cdde77d771ecc550a9977be4277d4aa38b0200f76d6d6d680afc0",
+      "image": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-775f473e-d31e-48f3-bd23-5295e15440d6.png",
+      "sha256": "ae489410c585e74effa1a22f66e5148752f2d07221eb6f89a236a34c400129f4",
+      "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-c84c9bd2-67ab-4863-9db2-991cb1eb07f2.png",
+      "sha256": "d7fdf6b1ff42b7a8449373a64c0019b7e15cf841e2406d5085b0f0a8a5d9f9f8",
+      "image": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-4a801a00-b00a-4d33-843e-1f8e84c9ebf7.png",
+      "sha256": "abb5ce6d23605d03f76a2f4f76fc214bdb4a64a769edad57d1d184725d992793",
+      "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-7efab03a-c9c8-43c5-9e94-1190f765be88.png",
+      "sha256": "f67d972b8a837c3df82ce0130817b8a8de4e999718096cfaa87d184adb3b5c37",
+      "image": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "exec-68772946-a067-4e35-a817-60bc3e0f2782.png",
+      "sha256": "6bde233d6245ac44f7275c1e09d0dca3718172653f2361ac47372e216cf164c3",
+      "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "杏色斑点陶瓷香薰蜡烛-3.png",
+      "sha256": "43d5c33b23c8d6362009cb3f7526081049d1c2bb84cde6d637e71d4ae7b455cd",
+      "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "暖杏斑点香氛蜡烛礼盒-4.png",
+      "sha256": "2c6ffc1d31e43567583e7a31c8cdebadfe17e8c6ce2cfa01c7fd5154aaac0331",
+      "image": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "黑白斑马纹陶瓷蜡烛-1.png",
+      "sha256": "fb12693e39499913064722a8991b5cf906b6767d0c495047d7f197856eebdb2f",
+      "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "斑马纹瓷香薰蜡烛与精品礼盒-2.png",
+      "sha256": "e381a44984e03ab5694de65e95db7bf71033ef8b678ac50f358ace439eeeecc4",
+      "image": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "missingStandalone": [
+    "Blush Leopard"
+  ]
+}

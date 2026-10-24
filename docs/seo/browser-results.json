@@ -4,9 +4,11 @@
     1440,
     390
   ],
+  "wildEleganceDesigns": 6,
+  "christmasPaginationCacheBypass": true,
   "fragranceHover": true,
   "mobileTap": true,
-  "catalogueTapPages": 30,
+  "catalogueTapPages": 31,
   "productCardNativeNavigation": true,
   "secondViewTouchToggle": true,
   "productImageHover": true,

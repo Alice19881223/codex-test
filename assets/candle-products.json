@@ -1578,5 +1578,91 @@
       "assets/candles/paired/4bc80166a85682c59e24.png"
     ],
     "assignedScent": "lavender-cedarwood"
+  },
+  {
+    "id": "wild-elegance-e9cace32dbb1fbfede74",
+    "name": "Golden Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+    "images": [
+      "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+      "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Golden cream with warm brown leopard rosettes. Amber & Vanilla is suggested for its soft resinous warmth and golden, enveloping character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+  },
+  {
+    "id": "wild-elegance-ae489410c585e74effa1",
+    "name": "Ember Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+    "images": [
+      "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+      "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Vivid orange-red with dark leopard rosettes. Pomegranate & Amber is suggested for its juicy fruit, pink pepper and warm amber contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+  },
+  {
+    "id": "wild-elegance-abb5ce6d23605d03f76a",
+    "name": "Blue Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+    "images": [
+      "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+      "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "Powder blue with deep blue leopard rosettes. Sea Salt & Driftwood is suggested for its cool sea-breeze, sage and softly weathered wood character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+  },
+  {
+    "id": "wild-elegance-6bde233d6245ac44f727",
+    "name": "Blush Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "images": [
+      "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Blush pink with dark rose-toned leopard rosettes, photographed beside a coordinated gift box. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "view": "packaging",
+    "viewLabels": [
+      "Product & gift packaging"
+    ]
+  },
+  {
+    "id": "wild-elegance-43d5c33b23c8d6362009",
+    "name": "Sandstone Spots",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+    "images": [
+      "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+      "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Warm apricot-ivory with small dark animal-inspired spots. Sandalwood & Cashmere is suggested for its tactile, softly spiced woods and warm musk. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+  },
+  {
+    "id": "wild-elegance-fb12693e394999130647",
+    "name": "Ivory Zebra",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+    "images": [
+      "assets/candles/wild-elegance/fb12693e394999130647.webp",
+      "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "Ivory with sweeping black zebra stripes. Black Tea & Cedarwood is suggested for its crisp bergamot, dark tea and dry cedarwood contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
   }
 ]

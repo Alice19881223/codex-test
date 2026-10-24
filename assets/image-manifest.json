@@ -9385,5 +9385,258 @@
     "sourceBytes": 672,
     "src": "assets/whatsapp-8618368239527.png",
     "variants": []
+  },
+  "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 104294,
+    "src": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/e9cace32dbb1fbfede74-480.webp",
+        "width": 480,
+        "bytes": 25652
+      },
+      {
+        "src": "assets/candles/wild-elegance/e9cace32dbb1fbfede74-960.webp",
+        "width": 960,
+        "bytes": 67814
+      },
+      {
+        "src": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+        "width": 1254,
+        "bytes": 104294
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 123894,
+    "src": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/ad6915419a6cdde77d77-480.webp",
+        "width": 480,
+        "bytes": 26638
+      },
+      {
+        "src": "assets/candles/wild-elegance/ad6915419a6cdde77d77-960.webp",
+        "width": 960,
+        "bytes": 74078
+      },
+      {
+        "src": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp",
+        "width": 1254,
+        "bytes": 123894
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/ae489410c585e74effa1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 110448,
+    "src": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/ae489410c585e74effa1-480.webp",
+        "width": 480,
+        "bytes": 27126
+      },
+      {
+        "src": "assets/candles/wild-elegance/ae489410c585e74effa1-960.webp",
+        "width": 960,
+        "bytes": 72896
+      },
+      {
+        "src": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+        "width": 1254,
+        "bytes": 110448
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 142174,
+    "src": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493-480.webp",
+        "width": 480,
+        "bytes": 28424
+      },
+      {
+        "src": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493-960.webp",
+        "width": 960,
+        "bytes": 84272
+      },
+      {
+        "src": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp",
+        "width": 1254,
+        "bytes": 142174
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 88706,
+    "src": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/abb5ce6d23605d03f76a-480.webp",
+        "width": 480,
+        "bytes": 22484
+      },
+      {
+        "src": "assets/candles/wild-elegance/abb5ce6d23605d03f76a-960.webp",
+        "width": 960,
+        "bytes": 59650
+      },
+      {
+        "src": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+        "width": 1254,
+        "bytes": 88706
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 130288,
+    "src": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/f67d972b8a837c3df82c-480.webp",
+        "width": 480,
+        "bytes": 25830
+      },
+      {
+        "src": "assets/candles/wild-elegance/f67d972b8a837c3df82c-960.webp",
+        "width": 960,
+        "bytes": 76422
+      },
+      {
+        "src": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp",
+        "width": 1254,
+        "bytes": 130288
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/6bde233d6245ac44f727.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 144892,
+    "src": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/6bde233d6245ac44f727-480.webp",
+        "width": 480,
+        "bytes": 26354
+      },
+      {
+        "src": "assets/candles/wild-elegance/6bde233d6245ac44f727-960.webp",
+        "width": 960,
+        "bytes": 84450
+      },
+      {
+        "src": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+        "width": 1254,
+        "bytes": 144892
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 87744,
+    "src": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/43d5c33b23c8d6362009-480.webp",
+        "width": 480,
+        "bytes": 26170
+      },
+      {
+        "src": "assets/candles/wild-elegance/43d5c33b23c8d6362009-960.webp",
+        "width": 960,
+        "bytes": 58976
+      },
+      {
+        "src": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+        "width": 1254,
+        "bytes": 87744
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 134906,
+    "src": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/2c6ffc1d31e43567583e-480.webp",
+        "width": 480,
+        "bytes": 30330
+      },
+      {
+        "src": "assets/candles/wild-elegance/2c6ffc1d31e43567583e-960.webp",
+        "width": 960,
+        "bytes": 83852
+      },
+      {
+        "src": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp",
+        "width": 1254,
+        "bytes": 134906
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/fb12693e394999130647.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 72162,
+    "src": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/fb12693e394999130647-480.webp",
+        "width": 480,
+        "bytes": 20836
+      },
+      {
+        "src": "assets/candles/wild-elegance/fb12693e394999130647-960.webp",
+        "width": 960,
+        "bytes": 49490
+      },
+      {
+        "src": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+        "width": 1254,
+        "bytes": 72162
+      }
+    ]
+  },
+  "assets/candles/wild-elegance/e381a44984e03ab5694d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 121892,
+    "src": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/e381a44984e03ab5694d-480.webp",
+        "width": 480,
+        "bytes": 25142
+      },
+      {
+        "src": "assets/candles/wild-elegance/e381a44984e03ab5694d-960.webp",
+        "width": 960,
+        "bytes": 74166
+      },
+      {
+        "src": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp",
+        "width": 1254,
+        "bytes": 121892
+      }
+    ]
   }
 }

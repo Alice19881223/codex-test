@@ -1231,5 +1231,23 @@
   },
   "assets/christmas/keepsakes/034f13f183324b50b10b.webp": {
     "palette": "sage"
+  },
+  "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp": {
+    "palette": "gold"
+  },
+  "assets/candles/wild-elegance/ae489410c585e74effa1.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/wild-elegance/6bde233d6245ac44f727.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/wild-elegance/fb12693e394999130647.webp": {
+    "palette": "ivory"
   }
 }

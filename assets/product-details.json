@@ -2006,6 +2006,108 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-6593DB37",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+    "name": "Golden Leopard",
+    "title": "Golden Leopard Scented candle",
+    "url": "product-lnv-cnd-6593db37.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D7F8BBB8",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+    "name": "Ember Leopard",
+    "title": "Ember Leopard Scented candle",
+    "url": "product-lnv-cnd-d7f8bbb8.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-2E6A0E69",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+    "name": "Blue Leopard",
+    "title": "Blue Leopard Scented candle",
+    "url": "product-lnv-cnd-2e6a0e69.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-C29FF4DA",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "name": "Blush Leopard",
+    "title": "Blush Leopard Scented candle",
+    "url": "product-lnv-cnd-c29ff4da.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-5BF92384",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+    "name": "Sandstone Spots",
+    "title": "Sandstone Spots Scented candle",
+    "url": "product-lnv-cnd-5bf92384.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-300DCEBB",
+    "category": "candle",
+    "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+    "name": "Ivory Zebra",
+    "title": "Ivory Zebra Scented candle",
+    "url": "product-lnv-cnd-300dcebb.html",
+    "series": "Wild Elegance",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "black-tea-cedarwood"
+    ],
+    "primaryScent": "black-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",

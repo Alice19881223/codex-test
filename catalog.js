@@ -48,7 +48,7 @@ const scents = [
         "image": "assets/candles/paired/b053837f042853978ab8.webp",
         "name": "Birthday Celebration",
         "series": "Playful Birthday",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-0a9da5e2.html?scent=pear-freesia"
       },
       {
@@ -56,7 +56,7 @@ const scents = [
         "image": "assets/candles/standalone/efbe8eaba2ba33ed22f4.png",
         "name": "Puppy Dreams",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-9533bddb.html?scent=pear-freesia"
       },
       {
@@ -64,7 +64,7 @@ const scents = [
         "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
         "name": "Panda Slumber",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-382db110.html?scent=pear-freesia"
       },
       {
@@ -72,7 +72,7 @@ const scents = [
         "image": "assets/candles/standalone/d7fead12effc63071c64.png",
         "name": "Kitten Daydream",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-13297d04.html?scent=pear-freesia"
       },
       {
@@ -88,7 +88,7 @@ const scents = [
         "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
         "name": "Sunny Six",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-7ec0fa8f.html?scent=pear-freesia"
       },
       {
@@ -96,7 +96,7 @@ const scents = [
         "image": "assets/candles/standalone/43582c41f2669d4f7495.png",
         "name": "Silver Kitten",
         "series": "Little Companions",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-73fa34b8.html?scent=pear-freesia"
       },
       {
@@ -104,7 +104,7 @@ const scents = [
         "image": "assets/candles/standalone/2d152b28c01d04671021.png",
         "name": "Ginger Kitten",
         "series": "Little Companions",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-83444550.html?scent=pear-freesia"
       },
       {
@@ -112,7 +112,7 @@ const scents = [
         "image": "assets/candles/standalone/44620cdda8657d5cbbbe.png",
         "name": "Golden Companion",
         "series": "Little Companions",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-6fa4bcd6.html?scent=pear-freesia"
       },
       {
@@ -120,7 +120,7 @@ const scents = [
         "image": "assets/candles/standalone/f11dbf0fa13d06e2dcfe.png",
         "name": "Corgi Cuddles",
         "series": "Little Companions",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-6187e5a2.html?scent=pear-freesia"
       },
       {
@@ -128,7 +128,7 @@ const scents = [
         "image": "assets/candles/candles-034.webp",
         "name": "Birthday Surprise Egg",
         "series": "Birthday Wishes",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys-3.html",
         "href": "product-lnv-cnd-ee6d247e.html?scent=pear-freesia"
       },
       {
@@ -136,7 +136,7 @@ const scents = [
         "image": "assets/candles/candles-033.webp",
         "name": "Jellyfish Egg Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys-3.html",
         "href": "product-lnv-cnd-3f1053f9.html?scent=pear-freesia"
       },
       {
@@ -144,7 +144,7 @@ const scents = [
         "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
         "name": "Jellyfish Glass Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys-3.html",
         "href": "product-lnv-cnd-0b1420a3.html?scent=pear-freesia"
       },
       {
@@ -519,7 +519,7 @@ const scents = [
         "image": "assets/candles/paired/07944550f1fc2592d815.webp",
         "name": "Blush Two",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-f3bcacc4.html?scent=peony-lychee"
       },
       {
@@ -593,6 +593,14 @@ const scents = [
         "series": "Quiet Rituals",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-9fc935aa.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+        "name": "Blush Leopard",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-c29ff4da.html?scent=peony-lychee"
       }
     ],
     "family": "Floral & Fruity",
@@ -1518,6 +1526,14 @@ const scents = [
         "series": "Botanical Wax Ornaments",
         "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+        "name": "Ember Leopard",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-d7f8bbb8.html?scent=pomegranate-amber"
       }
     ],
     "family": "Floral & Fruity",
@@ -1674,7 +1690,7 @@ const scents = [
         "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
         "name": "Violet Eight",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-b0af05ea.html?scent=lavender-cedarwood"
       }
     ],
@@ -2202,6 +2218,14 @@ const scents = [
     "description": "Warm, dry and gently tannic; reading rooms and thoughtful evening rituals.",
     "matches": [
       {
+        "category": "candle",
+        "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+        "name": "Ivory Zebra",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-300dcebb.html?scent=black-tea-cedarwood"
+      },
+      {
         "category": "reed",
         "image": "assets/reeds/standalone/0ce20953b7f31b486366.png",
         "name": "Cold Brew Retreat",
@@ -2621,6 +2645,14 @@ const scents = [
         "href": "product-lnv-xms-7c89fb28.html?scent=sea-salt-driftwood"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+        "name": "Blue Leopard",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-2e6a0e69.html?scent=sea-salt-driftwood"
+      },
+      {
         "category": "christmas",
         "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
         "name": "Sea Salt & Sage",
@@ -2899,6 +2931,14 @@ const scents = [
         "series": "Classical Relief",
         "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-fc69a435.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+        "name": "Sandstone Spots",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-5bf92384.html?scent=sandalwood-cashmere"
       },
       {
         "category": "candle",
@@ -3392,6 +3432,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+        "name": "Golden Leopard",
+        "series": "Wild Elegance",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-6593db37.html?scent=amber-vanilla"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/paired/73e3d5c1bd304f9fbfb5.webp",
         "name": "Amber Glass",
         "series": "Classic Amber",
@@ -3722,7 +3770,7 @@ const scents = [
         "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
         "name": "Pumpkin & Ghost",
         "series": "Halloween",
-        "catalogueHref": "candles-little-joys-2.html",
+        "catalogueHref": "candles-little-joys-3.html",
         "href": "product-lnv-cnd-28f66704.html?scent=pumpkin-spice"
       },
       {
@@ -3730,7 +3778,7 @@ const scents = [
         "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
         "name": "Little Pumpkin Ghost",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys.html",
+        "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
       }
     ],
@@ -6336,6 +6384,92 @@ const candleProducts = [
       "assets/candles/paired/4bc80166a85682c59e24.png"
     ],
     "assignedScent": "lavender-cedarwood"
+  },
+  {
+    "id": "wild-elegance-e9cace32dbb1fbfede74",
+    "name": "Golden Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+    "images": [
+      "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp",
+      "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Golden cream with warm brown leopard rosettes. Amber & Vanilla is suggested for its soft resinous warmth and golden, enveloping character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/ad6915419a6cdde77d77.webp"
+  },
+  {
+    "id": "wild-elegance-ae489410c585e74effa1",
+    "name": "Ember Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+    "images": [
+      "assets/candles/wild-elegance/ae489410c585e74effa1.webp",
+      "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Vivid orange-red with dark leopard rosettes. Pomegranate & Amber is suggested for its juicy fruit, pink pepper and warm amber contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/d7fdf6b1ff42b7a84493.webp"
+  },
+  {
+    "id": "wild-elegance-abb5ce6d23605d03f76a",
+    "name": "Blue Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+    "images": [
+      "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp",
+      "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "Powder blue with deep blue leopard rosettes. Sea Salt & Driftwood is suggested for its cool sea-breeze, sage and softly weathered wood character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/f67d972b8a837c3df82c.webp"
+  },
+  {
+    "id": "wild-elegance-6bde233d6245ac44f727",
+    "name": "Blush Leopard",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "images": [
+      "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Blush pink with dark rose-toned leopard rosettes, photographed beside a coordinated gift box. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "view": "packaging",
+    "viewLabels": [
+      "Product & gift packaging"
+    ]
+  },
+  {
+    "id": "wild-elegance-43d5c33b23c8d6362009",
+    "name": "Sandstone Spots",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+    "images": [
+      "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp",
+      "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Warm apricot-ivory with small dark animal-inspired spots. Sandalwood & Cashmere is suggested for its tactile, softly spiced woods and warm musk. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/2c6ffc1d31e43567583e.webp"
+  },
+  {
+    "id": "wild-elegance-fb12693e394999130647",
+    "name": "Ivory Zebra",
+    "series": "Wild Elegance",
+    "productType": "Scented candle",
+    "image": "assets/candles/wild-elegance/fb12693e394999130647.webp",
+    "images": [
+      "assets/candles/wild-elegance/fb12693e394999130647.webp",
+      "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "Ivory with sweeping black zebra stripes. Black Tea & Cedarwood is suggested for its crisp bergamot, dark tea and dry cedarwood contrast. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/wild-elegance/e381a44984e03ab5694d.webp"
   }
 ];
 const reedProducts = [
@@ -8634,7 +8768,13 @@ const productPages = {
     "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-cnd-d0f5e24f.html",
     "assets/candles/standalone/d7fead12effc63071c64.png": "product-lnv-cnd-13297d04.html",
     "assets/candles/standalone/159db9e5fab778fb8824.png": "product-lnv-cnd-cffb251f.html",
-    "assets/candles/paired/07364c9f90024c16265a.png": "product-lnv-cnd-fdef4397.html"
+    "assets/candles/paired/07364c9f90024c16265a.png": "product-lnv-cnd-fdef4397.html",
+    "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp": "product-lnv-cnd-6593db37.html",
+    "assets/candles/wild-elegance/ae489410c585e74effa1.webp": "product-lnv-cnd-d7f8bbb8.html",
+    "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp": "product-lnv-cnd-2e6a0e69.html",
+    "assets/candles/wild-elegance/6bde233d6245ac44f727.webp": "product-lnv-cnd-c29ff4da.html",
+    "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp": "product-lnv-cnd-5bf92384.html",
+    "assets/candles/wild-elegance/fb12693e394999130647.webp": "product-lnv-cnd-300dcebb.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",

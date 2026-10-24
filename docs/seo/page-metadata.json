@@ -50,14 +50,21 @@
   },
   "candles-little-joys-2.html": {
     "title": "Little Joys Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles to brighten the everyday. Discuss wholesale, fragrance and private label options. Page 2 of 2.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
     "canonical": "https://www.lanarve.com/candles-little-joys-2.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "candles-little-joys-3.html": {
+    "title": "Little Joys Candles \u2014 Page 3 | Lanarve",
+    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 3 of 3.",
+    "canonical": "https://www.lanarve.com/candles-little-joys-3.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys.html": {
     "title": "Little Joys Candles | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles to brighten the everyday. Discuss wholesale, fragrance and private label options.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options.",
     "canonical": "https://www.lanarve.com/candles-little-joys.html",
     "indexable": true,
     "type": "collection"
@@ -657,6 +664,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-2e6a0e69.html": {
+    "title": "Blue Leopard Scented candle | Lanarve",
+    "description": "Explore Blue Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-2e6a0e69.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-300dcebb.html": {
+    "title": "Ivory Zebra Scented candle | Lanarve",
+    "description": "Explore Ivory Zebra from Lanarve\u2019s Wild Elegance designs. Discuss Black Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-300dcebb.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-34110715.html": {
     "title": "Sky Ribbon Scented Candle | Lanarve",
     "description": "Explore Sky Ribbon from Lanarve\u2019s Ribbon & Glow designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
@@ -797,6 +818,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-5bf92384.html": {
+    "title": "Sandstone Spots Scented candle | Lanarve",
+    "description": "Explore Sandstone Spots from Lanarve\u2019s Wild Elegance designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-5bf92384.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-5d6e0589.html": {
     "title": "White Florals Scented Candle | Lanarve",
     "description": "Explore White Florals from Lanarve\u2019s Lace Glass designs. Discuss Jasmine & Orange Blossom fragrance, private label presentation and packaging for your collection.",
@@ -829,6 +857,13 @@
     "title": "Sunlit Petals Scented Candle | Lanarve",
     "description": "Explore Sunlit Petals from Lanarve\u2019s Botanical Sketches designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-62d9dffc.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-6593db37.html": {
+    "title": "Golden Leopard Scented candle | Lanarve",
+    "description": "Explore Golden Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-6593db37.html",
     "indexable": true,
     "type": "product"
   },
@@ -1105,6 +1140,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-c29ff4da.html": {
+    "title": "Blush Leopard Scented candle | Lanarve",
+    "description": "Explore Blush Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-c29ff4da.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-c36ae2d3.html": {
     "title": "Lavender Ombre Scented Candle | Lanarve",
     "description": "Explore Lavender Ombre from Lanarve\u2019s Gradient Glass designs. Discuss Lemon & Lavender fragrance, private label presentation and packaging for your collection.",
@@ -1172,6 +1214,13 @@
     "title": "Verdant Garden Scented Candle | Lanarve",
     "description": "Explore Verdant Garden from Lanarve\u2019s Painted Gardens designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-d6aba3d2.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-d7f8bbb8.html": {
+    "title": "Ember Leopard Scented candle | Lanarve",
+    "description": "Explore Ember Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-d7f8bbb8.html",
     "indexable": true,
     "type": "product"
   },

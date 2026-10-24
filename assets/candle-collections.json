@@ -255,8 +255,14 @@
   {
     "slug": "little-joys",
     "name": "Little Joys",
-    "description": "Playful candles to brighten the everyday.",
+    "description": "Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances.",
     "productKeys": [
+      "Wild Elegance | Golden Leopard",
+      "Wild Elegance | Ember Leopard",
+      "Wild Elegance | Blue Leopard",
+      "Wild Elegance | Blush Leopard",
+      "Wild Elegance | Sandstone Spots",
+      "Wild Elegance | Ivory Zebra",
       "Playful Birthday | Birthday Celebration",
       "Little Dreamers | Puppy Dreams",
       "Little Dreamers | Panda Slumber",
@@ -277,6 +283,14 @@
     "icon": "joy",
     "pages": [
       [
+        "Wild Elegance | Golden Leopard",
+        "Wild Elegance | Ember Leopard",
+        "Wild Elegance | Blue Leopard",
+        "Wild Elegance | Blush Leopard",
+        "Wild Elegance | Sandstone Spots",
+        "Wild Elegance | Ivory Zebra"
+      ],
+      [
         "Playful Birthday | Birthday Celebration",
         "Little Dreamers | Puppy Dreams",
         "Little Dreamers | Panda Slumber",
@@ -296,6 +310,7 @@
         "Jellyfish | Jellyfish Egg Candle",
         "Jellyfish | Jellyfish Glass Candle"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   }
 ]
