@@ -9638,5 +9638,28 @@
         "bytes": 121892
       }
     ]
+  },
+  "assets/candles/wild-elegance/f2124667481eefe268ae.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 97986,
+    "src": "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
+    "variants": [
+      {
+        "src": "assets/candles/wild-elegance/f2124667481eefe268ae-480.webp",
+        "width": 480,
+        "bytes": 23488
+      },
+      {
+        "src": "assets/candles/wild-elegance/f2124667481eefe268ae-960.webp",
+        "width": 960,
+        "bytes": 62724
+      },
+      {
+        "src": "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
+        "width": 1254,
+        "bytes": 97986
+      }
+    ]
   }
 }

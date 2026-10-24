@@ -1626,16 +1626,18 @@
     "name": "Blush Leopard",
     "series": "Wild Elegance",
     "productType": "Scented candle",
-    "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "image": "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
     "images": [
+      "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
       "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
     ],
     "assignedScent": "peony-lychee",
-    "designDescription": "Blush pink with dark rose-toned leopard rosettes, photographed beside a coordinated gift box. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
-    "view": "packaging",
+    "designDescription": "Blush pink with dark rose-toned leopard rosettes. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
     "viewLabels": [
-      "Product & gift packaging"
-    ]
+      "Product",
+      "Product & packaging"
+    ],
+    "packagingImage": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
   },
   {
     "id": "wild-elegance-43d5c33b23c8d6362009",

@@ -596,7 +596,7 @@ const scents = [
       },
       {
         "category": "candle",
-        "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+        "image": "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
         "name": "Blush Leopard",
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
@@ -6432,16 +6432,18 @@ const candleProducts = [
     "name": "Blush Leopard",
     "series": "Wild Elegance",
     "productType": "Scented candle",
-    "image": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp",
+    "image": "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
     "images": [
+      "assets/candles/wild-elegance/f2124667481eefe268ae.webp",
       "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
     ],
     "assignedScent": "peony-lychee",
-    "designDescription": "Blush pink with dark rose-toned leopard rosettes, photographed beside a coordinated gift box. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
-    "view": "packaging",
+    "designDescription": "Blush pink with dark rose-toned leopard rosettes. Peony & Lychee is suggested for its playful fruit and soft floral character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
     "viewLabels": [
-      "Product & gift packaging"
-    ]
+      "Product",
+      "Product & packaging"
+    ],
+    "packagingImage": "assets/candles/wild-elegance/6bde233d6245ac44f727.webp"
   },
   {
     "id": "wild-elegance-43d5c33b23c8d6362009",
@@ -8772,7 +8774,7 @@ const productPages = {
     "assets/candles/wild-elegance/e9cace32dbb1fbfede74.webp": "product-lnv-cnd-6593db37.html",
     "assets/candles/wild-elegance/ae489410c585e74effa1.webp": "product-lnv-cnd-d7f8bbb8.html",
     "assets/candles/wild-elegance/abb5ce6d23605d03f76a.webp": "product-lnv-cnd-2e6a0e69.html",
-    "assets/candles/wild-elegance/6bde233d6245ac44f727.webp": "product-lnv-cnd-c29ff4da.html",
+    "assets/candles/wild-elegance/f2124667481eefe268ae.webp": "product-lnv-cnd-c29ff4da.html",
     "assets/candles/wild-elegance/43d5c33b23c8d6362009.webp": "product-lnv-cnd-5bf92384.html",
     "assets/candles/wild-elegance/fb12693e394999130647.webp": "product-lnv-cnd-300dcebb.html"
   },

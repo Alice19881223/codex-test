@@ -22,10 +22,12 @@ try{
    for(const design of designs){
     const record=records.find(r=>r.image===design.image&&r.category==='candle');assert.ok(record);
     await animalPage.goto(base+'/candles-little-joys.html');
-    await animalPage.locator('#catalogue-grid a[href="'+record.url+'"]').click();await animalPage.waitForURL(base+'/'+record.url);
+    await animalPage.locator('#catalogue-grid a[href^="'+record.url+'"]').click();await animalPage.waitForURL(url=>url.pathname==='/'+record.url);assert.ok(new URL(animalPage.url()).searchParams.get('v'));
     assert.equal(await animalPage.locator('#product-fragrance').inputValue(),design.assignedScent);
     assert.ok((await animalPage.locator('h1').textContent()).includes(design.name));
     assert.equal(await animalPage.locator('[data-gallery-src]').count(),design.images.length);
+    assert.equal(await animalPage.locator('#product-main-image').getAttribute('src'),design.image);
+    if(design.name==='Blush Leopard'){assert.equal(record.url,'product-lnv-cnd-c29ff4da.html');assert.equal(design.images.length,2);}
     await animalPage.locator('#product-main-image').evaluate(img=>img.decode());
     if(design.packagingImage){await animalPage.locator('[data-gallery-src]').nth(1).click();await animalPage.locator('#product-main-image').evaluate(img=>img.decode());assert.match(await animalPage.locator('#gallery-caption').textContent(),/packaging/i);}
     else assert.match(await animalPage.locator('#gallery-caption').textContent(),/Product & gift packaging/);
