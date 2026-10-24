@@ -4,8 +4,9 @@ Does not change product identities, catalogue source images, scent assignments o
 """
 from pathlib import Path
 from urllib.parse import urljoin,urlsplit
-import csv,html,json,re,collections
+import csv,html,json,re,collections,hashlib
 ROOT=Path(__file__).resolve().parents[1]
+CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes()).hexdigest()[:12]
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
 SCENTS={s['id']:s for s in json.loads((ROOT/'assets/fragrances.json').read_text())}
@@ -234,6 +235,9 @@ def build():
   tags+='<meta data-seo-managed="true" name="twitter:card" content="summary_large_image">'
   if schema:tags+='<script data-seo-managed="true" type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@graph':schema},ensure_ascii=True).replace('<','\\u003c')+'</script>'
   text=text.replace('</head>',tags+'</head>',1)
+  # Version collection navigation with the reviewed order so pagination cannot
+  # return visitors to an older cached Christmas assortment. Canonicals stay clean.
+  text=re.sub(r'(<a\b[^>]*\bhref=")(christmas-collection(?:-\d+)?\.html)(?:\?v=[a-f0-9]+)?(")',lambda m:m[1]+m[2]+'?v='+CHRISTMAS_VERSION+m[3],text)
   path.write_text(text)
   allmeta[name]={'title':title,'description':description,'canonical':canonical,'indexable':not noindex and canonical_name==name,'type':'product' if name in BY_URL else 'redirect' if target else 'collection' if name in COLLECTIONS else 'page'}
   if canonical_name!=name and not target:redirects.append((name,canonical_name,'Canonical alias (preserved HTTP 200 content; no new server redirect)'))
