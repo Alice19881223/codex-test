@@ -1,0 +1,431 @@
+{
+  "sourceArchives": [
+    "圣诞系列1.zip",
+    "圣诞系列2.zip"
+  ],
+  "products": [
+    {
+      "id": "christmas-storybook-76cf7dd954374643a5a1",
+      "name": "Sage Forest Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+      "packagingImage": "assets/christmas/storybook-glass/590e626408575327ccf7.webp",
+      "images": [
+        "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+        "assets/christmas/storybook-glass/590e626408575327ccf7.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "Sage-green glass with fine pale fir trees and falling snow creates a soft winter forest scene. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-0d88dd5ddfbf0ec63539",
+      "name": "Sage Forest Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+      "packagingImage": "assets/christmas/storybook-glass/baba840821d928ccb6db.webp",
+      "images": [
+        "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+        "assets/christmas/storybook-glass/baba840821d928ccb6db.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "A sage-green bottle with fine pale fir trees and snow, shown with natural-coloured reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-f3ebf6359bbd83202783",
+      "name": "Christmas Keepsake Glass Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+      "packagingImage": "assets/christmas/storybook-glass/013dba40009c870598bc.webp",
+      "images": [
+        "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+        "assets/christmas/storybook-glass/013dba40009c870598bc.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "Deep green glass with rocking horses, snow globes, ribbons and gingerbread figures recalls treasured Christmas keepsakes. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-f694b89d772e3f462efd",
+      "name": "Christmas Keepsake Glass Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+      "packagingImage": "assets/christmas/storybook-glass/2b7f74527e4f9f6c65c8.webp",
+      "images": [
+        "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+        "assets/christmas/storybook-glass/2b7f74527e4f9f6c65c8.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "A deep green bottle with rocking horses, ribbons and festive keepsake illustrations, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-d56084a6a7778b791c20",
+      "name": "Lilac Gingerbread Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+      "packagingImage": "assets/christmas/storybook-glass/d44f85d14257db46ce87.webp",
+      "images": [
+        "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+        "assets/christmas/storybook-glass/d44f85d14257db46ce87.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "Gingerbread figures, lilac-coloured trees and decorated hearts form a softly coloured Christmas story. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-43e96a50773df70dad14",
+      "name": "Lilac Gingerbread Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+      "packagingImage": "assets/christmas/storybook-glass/e1c48ff19e4a68bcb3da.webp",
+      "images": [
+        "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+        "assets/christmas/storybook-glass/e1c48ff19e4a68bcb3da.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "A light bottle with gingerbread figures, lilac-coloured trees and decorated hearts, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-aeaff802c624f5599ec5",
+      "name": "Pink Gingerbread Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+      "packagingImage": "assets/christmas/storybook-glass/575f0a7fd28c71127f01.webp",
+      "images": [
+        "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+        "assets/christmas/storybook-glass/575f0a7fd28c71127f01.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "Pink glass with gingerbread cottages, biscuit stars, hearts and little figures evokes a cosy Christmas kitchen. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-2ee18b2fc1a7e4985ff6",
+      "name": "Pink Gingerbread Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+      "packagingImage": "assets/christmas/storybook-glass/c4ff16037558508d1269.webp",
+      "images": [
+        "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+        "assets/christmas/storybook-glass/c4ff16037558508d1269.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "A pink bottle with gingerbread cottages, biscuit stars and hearts, shown with reeds and coordinated gift packaging. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-40e2e2301c2bc8a41ffc",
+      "name": "Merry Evergreen Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+      "packagingImage": "assets/christmas/storybook-glass/1de56d935dd81197f6e2.webp",
+      "images": [
+        "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+        "assets/christmas/storybook-glass/1de56d935dd81197f6e2.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "An ivory-toned ground with evergreen trees, red bows and tiny gifts celebrates a classic festive forest. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-dccfabc85a6b1aa3ec17",
+      "name": "Merry Evergreen Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+      "packagingImage": "assets/christmas/storybook-glass/28d7da30a695aeca99ae.webp",
+      "images": [
+        "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+        "assets/christmas/storybook-glass/28d7da30a695aeca99ae.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "An ivory-toned bottle with evergreen trees, red bows and small festive gifts, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-c873d9bc4bc4b47bc4eb",
+      "name": "Winter Cottage Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+      "packagingImage": "assets/christmas/storybook-glass/8c16361db6b1859facbf.webp",
+      "images": [
+        "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+        "assets/christmas/storybook-glass/8c16361db6b1859facbf.webp"
+      ],
+      "assignedScent": "pine-cedarwood",
+      "designDescription": "Snow-covered cottages, fir branches and warm window details create a quiet winter village scene. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-b801e9845deb843377ee",
+      "name": "Winter Cottage Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+      "packagingImage": "assets/christmas/storybook-glass/55e485c87625778e7f5c.webp",
+      "images": [
+        "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+        "assets/christmas/storybook-glass/55e485c87625778e7f5c.webp"
+      ],
+      "assignedScent": "pine-cedarwood",
+      "designDescription": "A soft green winter-cottage bottle with snowy trees and warm window details, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-60ec02d4dfa6812f025a",
+      "name": "Festive Dachshund Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+      "packagingImage": "assets/christmas/storybook-glass/4afd9cbabc89f1d16054.webp",
+      "images": [
+        "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+        "assets/christmas/storybook-glass/4afd9cbabc89f1d16054.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "Festive dachshunds in Santa hats and checked winter accessories bring a playful Christmas story to deep green glass. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-646b7c5221d386a36028",
+      "name": "Festive Dachshund Reed Diffuser",
+      "series": "Christmas Storybook Glass",
+      "productType": "Reed diffuser",
+      "image": "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+      "packagingImage": "assets/christmas/storybook-glass/5d7eefd6813da492bad5.webp",
+      "images": [
+        "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+        "assets/christmas/storybook-glass/5d7eefd6813da492bad5.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "A deep green bottle decorated with festive dachshunds, Santa hats and winter accessories, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-storybook-7e1e485cae42426b2786",
+      "name": "Crimson Cottage Glow Candle",
+      "series": "Christmas Storybook Glass",
+      "productType": "Scented candle",
+      "image": "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+      "packagingImage": "assets/christmas/storybook-glass/42177e5eef86fb71d082.webp",
+      "images": [
+        "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+        "assets/christmas/storybook-glass/42177e5eef86fb71d082.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "Vivid red glass with an ivory gingerbread-house door, little hearts and a scalloped snow-like border captures a welcoming Christmas cottage. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "source": "鼠尾草森林玻璃蜡烛-1.png",
+      "sha256": "76cf7dd954374643a5a182c09935c5c8f73fa45078ea55a5e560838fa50bf11a",
+      "image": "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "蜡烛与礼盒白底展示-2.png",
+      "sha256": "590e626408575327ccf7ef803689c120eaef1156d64265f3f1393bf69b8e559d",
+      "image": "assets/christmas/storybook-glass/590e626408575327ccf7.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Sage Forest 标准扩香瓶-3.png",
+      "sha256": "0d88dd5ddfbf0ec6353938b8317c32370f4e23672111dd2fec0dec5aaa540068",
+      "image": "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳薇香薰瓶与配套礼盒-5.png",
+      "sha256": "baba840821d928ccb6dbe91d02fd8633b05e7767c33929ba6d00a774f3ed94ea",
+      "image": "assets/christmas/storybook-glass/baba840821d928ccb6db.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞纪念双芯玻璃蜡烛-6.png",
+      "sha256": "f3ebf6359bbd832027833a98a7d1aaf9b03908c243cdb6371deb505cde3d6682",
+      "image": "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve玻璃蜡烛与配套礼盒-10.png",
+      "sha256": "013dba40009c870598bc784b93d46461e522da84450eb793ed2164a9d9315335",
+      "image": "assets/christmas/storybook-glass/013dba40009c870598bc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞玻璃扩香瓶-9.png",
+      "sha256": "f694b89d772e3f462efde3f502dd639948311bac84c35569418e42411ea0a7dd",
+      "image": "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "玻璃香薰与配套礼盒-13.png",
+      "sha256": "2b7f74527e4f9f6c65c8bd9a7026acc3899f1bf43b778bc1cb93abffa76e7b54",
+      "image": "assets/christmas/storybook-glass/2b7f74527e4f9f6c65c8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "薰衣草姜饼双芯玻璃蜡烛-26.png",
+      "sha256": "d56084a6a7778b791c20710e84606e0798e4e0e9298df3bdc40323ea8ff3a3e3",
+      "image": "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳维蜡烛与配套礼盒-28.png",
+      "sha256": "d44f85d14257db46ce87113308ed6275db3540ce01cad5e1cb3295220378d758",
+      "image": "assets/christmas/storybook-glass/d44f85d14257db46ce87.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "薰衣草姜饼扩香瓶-23.png",
+      "sha256": "43e96a50773df70dad14d417f8227de0db923af1dd91c719244ce7958a308d4f",
+      "image": "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve玻璃香薰与礼盒-27.png",
+      "sha256": "e1c48ff19e4a68bcb3da21a0af0ff0942faadced657fb96ffe6a7eee97fb9488",
+      "image": "assets/christmas/storybook-glass/e1c48ff19e4a68bcb3da.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉色姜饼圆柱玻璃蜡烛-20.png",
+      "sha256": "aeaff802c624f5599ec5e9917f0f08c78a440d8323b8808191d5793fc145fc0c",
+      "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳维蜡烛与配套礼盒-24.png",
+      "sha256": "575f0a7fd28c71127f01f1be4c82b71385ffbbe314456ab1ee9e55b4f31a7bea",
+      "image": "assets/christmas/storybook-glass/575f0a7fd28c71127f01.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉色姜饼玻璃扩香瓶-22.png",
+      "sha256": "2ee18b2fc1a7e4985ff6d8baab9c3ff9a13220133514a26229c6398f48008368",
+      "image": "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "香薰玻璃扩香瓶与配套礼盒-25.png",
+      "sha256": "c4ff16037558508d1269999d8782cf09231d15b25b8cd6699f99c84fb00e5c04",
+      "image": "assets/christmas/storybook-glass/c4ff16037558508d1269.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Merry Evergreen 双芯玻璃香薰蜡烛-16.png",
+      "sha256": "40e2e2301c2bc8a41ffcce061d5847fd7fb0dee038e9ec2c82f3a6ff79feaae3",
+      "image": "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳维玻璃蜡烛与礼盒-19.png",
+      "sha256": "1de56d935dd81197f6e2573dfee39cb6bd4601ded06d00c2279484bd1af40c8d",
+      "image": "assets/christmas/storybook-glass/1de56d935dd81197f6e2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Merry Evergreen玻璃香薰扩香瓶-18.png",
+      "sha256": "dccfabc85a6b1aa3ec175fa601425c83889fdb2bd89535a5d667dbc0fa5ab02b",
+      "image": "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve玻璃香薰与配套礼盒-21.png",
+      "sha256": "28d7da30a695aeca99aea2dfb3e613dd90364857f09cf97b3c950316630e933c",
+      "image": "assets/christmas/storybook-glass/28d7da30a695aeca99ae.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "冬日小屋圆柱双芯蜡烛-4.png",
+      "sha256": "c873d9bc4bc4b47bc4ebced306b27c4083ef6a3e22e20e9912d06d888faf9d6d",
+      "image": "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve香薰蜡烛与礼盒-7.png",
+      "sha256": "8c16361db6b1859facbf7123c23307d34b3ce642986a659b2cb3bc2bee433f6c",
+      "image": "assets/christmas/storybook-glass/8c16361db6b1859facbf.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "冬日小屋扩香瓶-8.png",
+      "sha256": "b801e9845deb843377ee96ba54d55fda2c57817a87ca76880f192f4f5b7c34f3",
+      "image": "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳薇玻璃香薰与配套礼盒-11.png",
+      "sha256": "55e485c87625778e7f5c25a89afeba387070239530506e8c70999f7ae19d62eb",
+      "image": "assets/christmas/storybook-glass/55e485c87625778e7f5c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "节日腊肠犬蜡烛-12.png",
+      "sha256": "60ec02d4dfa6812f025ae2dcde23b63726b9fc93e69b983aec33feec0dbe4238",
+      "image": "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve蜡烛与礼盒套装-15.png",
+      "sha256": "4afd9cbabc89f1d16054c8c1773e7dfb9c42db6f18c6dd14d40d16738452e34e",
+      "image": "assets/christmas/storybook-glass/4afd9cbabc89f1d16054.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "节日腊肠犬香薰瓶-14.png",
+      "sha256": "646b7c5221d386a360286863af7c52c51da52b36e045b39af600e8c621e5c567",
+      "image": "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "玻璃扩香器与配套礼盒-17.png",
+      "sha256": "5d7eefd6813da492bad596bd496575d7a63e9cb93c6bcadb3ed790c9c2e04855",
+      "image": "assets/christmas/storybook-glass/5d7eefd6813da492bad5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "Lanarve姜饼屋红色圣诞香薰蜡烛.png",
+      "sha256": "7e1e485cae42426b2786837fe8a5cace16c8b1bdf0826dd9807226a4aff886bd",
+      "image": "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "加高圣诞香薰礼盒.png",
+      "sha256": "42177e5eef86fb71d082e8468f8710b08e91d1f6af0c8446897b003b354543da",
+      "image": "assets/christmas/storybook-glass/42177e5eef86fb71d082.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "placement": "Twelve new designs on page two; three continue at the start of page three; first page unchanged."
+}

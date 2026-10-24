@@ -20,6 +20,32 @@ try{
  await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^2$/}).click();assert.ok(pagingPage.url().includes('-2.html'));
  assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),Math.min(12,pagedScent.matches.length-12));
  await pagingPage.locator('#fragrance-pagination a').filter({hasText:/^1$/}).click();assert.equal(await pagingPage.locator('#fragrance-products [data-product-image]').count(),12);await pagingContext.close();
+ // New Christmas storybook products occupy page two, then continue on page three.
+ const storybookManifest=path.join(root,'assets/christmas-storybook-source-manifest.json');
+ if(fs.existsSync(storybookManifest)){
+  const manifest=JSON.parse(fs.readFileSync(storybookManifest)),designs=manifest.products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  const order=JSON.parse(fs.readFileSync(path.join(root,'assets/catalogue-order.json'))).christmas;
+  assert.equal(designs.length,15);assert.equal(manifest.images.length,30);assert.equal(designs.filter(d=>d.productType==='Reed diffuser').length,7);
+  assert.deepEqual(order[1],designs.slice(0,12).map(d=>d.name));assert.deepEqual(order[2].slice(0,3),designs.slice(12).map(d=>d.name));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
+   await page.goto(base+'/christmas-collection-2.html');assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),order[1]);
+   await page.locator('#pagination a').filter({hasText:/^3$/}).click();assert.equal(await page.locator('#catalogue-grid h3').count(),12);
+   assert.deepEqual((await page.locator('#catalogue-grid h3').allTextContents()).slice(0,3),designs.slice(12).map(d=>d.name));
+   await page.locator('#pagination a').filter({hasText:/^2$/}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
+   for(const design of designs){
+    const record=records.find(r=>r.image===design.image);assert.ok(record);await page.goto(base+'/'+record.url);
+    assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);
+    assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.image);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    assert.equal(await page.locator('[data-gallery-src]').count(),2);await page.locator('[data-gallery-src]').nth(1).click();assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.packagingImage);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    const care=await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent();
+    if(design.productType==='Reed diffuser'){assert.match(care,/inserting or turning reeds/);assert.doesNotMatch(care,/burning candle/);}else assert.match(care,/Never leave a burning candle unattended/);
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' overflow');
+   }
+   await ctx.close();
+  }
+ }
  // Spring/summer additions belong to three existing themes, with reviewed seasonal front pages.
  const seasonalManifest=path.join(root,'assets/spring-summer-source-manifest.json');
  if(fs.existsSync(seasonalManifest)){
@@ -202,6 +228,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],christmasStorybookDesigns:fs.existsSync(storybookManifest)?15:0,fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

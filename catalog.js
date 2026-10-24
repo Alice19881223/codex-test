@@ -160,7 +160,7 @@ const scents = [
         "image": "assets/christmas/paired/e710e9777530e1a2f07e.webp",
         "name": "English Pear & Freesia",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-5a010473.html?scent=pear-freesia"
       },
       {
@@ -324,7 +324,7 @@ const scents = [
         "image": "assets/christmas/paired/9df584ca1e1685589d46.webp",
         "name": "Rose Pink Cone Candle",
         "series": "Botanical Christmas Trees",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-5855d453.html?scent=rose-green-leaves"
       },
       {
@@ -979,7 +979,7 @@ const scents = [
         "image": "assets/christmas/paired/1480094b012dbf961dae.webp",
         "name": "Coastal Lime",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-a8811e93.html?scent=lime-basil"
       },
       {
@@ -1581,7 +1581,7 @@ const scents = [
         "image": "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
         "name": "Winter Berry Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-80c34b43.html?scent=blackcurrant-rose"
       },
       {
@@ -1668,7 +1668,7 @@ const scents = [
         "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
         "name": "Burgundy Botanical Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
       },
       {
@@ -1826,7 +1826,7 @@ const scents = [
         "image": "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
         "name": "Violet Christmas Village",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-3cc7b61f.html?scent=lavender-cedarwood"
       },
       {
@@ -1834,7 +1834,7 @@ const scents = [
         "image": "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
         "name": "Violet Christmas Village Duo",
         "series": "Winter Glass Duos",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-acae1bf4.html?scent=lavender-cedarwood"
       },
       {
@@ -2889,7 +2889,7 @@ const scents = [
         "image": "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
         "name": "Blue Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-7c89fb28.html?scent=sea-salt-driftwood"
       },
       {
@@ -2921,7 +2921,7 @@ const scents = [
         "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
         "name": "Sea Salt & Sage",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-bed2d989.html?scent=sea-salt-driftwood"
       }
     ],
@@ -3479,7 +3479,7 @@ const scents = [
         "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-3adc7f14.html?scent=cedarwood-vetiver"
       },
       {
@@ -3597,7 +3597,7 @@ const scents = [
         "image": "assets/christmas/paired/35a8205a0dcc5801c828.webp",
         "name": "Charcoal Golden Reindeer",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-00898c2e.html?scent=fireside-smoked-woods"
       }
     ],
@@ -3803,7 +3803,7 @@ const scents = [
         "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-2222a11f.html?scent=amber-vanilla"
       },
       {
@@ -4147,6 +4147,22 @@ const scents = [
         "series": "Earth Tones",
         "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-024abdb4.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+        "name": "Festive Dachshund Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-6dbefb57.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+        "name": "Festive Dachshund Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-3e2b04fc.html?scent=apple-cinnamon"
       }
     ],
     "family": "Floral & Fruity",
@@ -4215,7 +4231,7 @@ const scents = [
         "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp",
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-a71be608.html?scent=fir-cedarwood"
       },
       {
@@ -4223,7 +4239,7 @@ const scents = [
         "image": "assets/christmas/paired/7244c0a1884379c3fc46.webp",
         "name": "Silver Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-2ba5d180.html?scent=fir-cedarwood"
       },
       {
@@ -4231,7 +4247,7 @@ const scents = [
         "image": "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
         "name": "Champagne Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-c969e77f.html?scent=fir-cedarwood"
       },
       {
@@ -4239,7 +4255,7 @@ const scents = [
         "image": "assets/christmas/paired/6db267b2806699718c15.webp",
         "name": "Silver Snowflakes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-2d5f8d8e.html?scent=fir-cedarwood"
       },
       {
@@ -4263,7 +4279,7 @@ const scents = [
         "image": "assets/christmas/paired/ff765036bc45dff2513b.webp",
         "name": "Olive Christmas Wishes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-73fbf427.html?scent=fir-cedarwood"
       },
       {
@@ -4271,7 +4287,7 @@ const scents = [
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -4279,7 +4295,7 @@ const scents = [
         "image": "assets/christmas/paired/208837f07b39c307c4fe.webp",
         "name": "Olive Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-57d648b6.html?scent=fir-cedarwood"
       },
       {
@@ -4287,7 +4303,7 @@ const scents = [
         "image": "assets/christmas/paired/a59a1441e620ff595494.webp",
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood"
       },
       {
@@ -4295,7 +4311,7 @@ const scents = [
         "image": "assets/christmas/paired/d2035366cd0dcfcc2393.webp",
         "name": "Warm Ivory Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-b72c52be.html?scent=fir-cedarwood"
       },
       {
@@ -4303,7 +4319,7 @@ const scents = [
         "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-af62e8de.html?scent=fir-cedarwood"
       },
       {
@@ -4311,7 +4327,7 @@ const scents = [
         "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
         "name": "Ivory Tree, Snowflake & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-15cdd6ab.html?scent=fir-cedarwood"
       },
       {
@@ -4319,8 +4335,24 @@ const scents = [
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+        "name": "Merry Evergreen Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-9e6e2507.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+        "name": "Merry Evergreen Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-a826f86a.html?scent=fir-cedarwood"
       },
       {
         "category": "crystal",
@@ -4335,7 +4367,7 @@ const scents = [
         "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
         "name": "Forest Garland Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-b26959c2.html?scent=fir-cedarwood"
       },
       {
@@ -4343,7 +4375,7 @@ const scents = [
         "image": "assets/christmas/paired/5702fcfafd2123c3f93e.webp",
         "name": "Christmas Pets Candle",
         "series": "Playful Christmas",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-7a217650.html?scent=fir-cedarwood"
       },
       {
@@ -4351,7 +4383,7 @@ const scents = [
         "image": "assets/christmas/paired/6bd0508a71ef54288424.webp",
         "name": "Santa Candle",
         "series": "Christmas Characters",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-eba3d095.html?scent=fir-cedarwood"
       },
       {
@@ -4359,7 +4391,7 @@ const scents = [
         "image": "assets/christmas/paired/df14c67cacea5845b494.webp",
         "name": "Santa & Tree Candle Duo",
         "series": "Christmas Characters",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-00beb3be.html?scent=fir-cedarwood"
       },
       {
@@ -4367,7 +4399,7 @@ const scents = [
         "image": "assets/christmas/paired/61253e2d71812a5a6496.webp",
         "name": "Christmas Tree Candle",
         "series": "Christmas Characters",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-793b2f36.html?scent=fir-cedarwood"
       },
       {
@@ -4375,7 +4407,7 @@ const scents = [
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -4391,7 +4423,7 @@ const scents = [
         "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood"
       },
       {
@@ -4470,7 +4502,7 @@ const scents = [
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove"
       },
       {
@@ -4512,6 +4544,30 @@ const scents = [
         "series": "Christmas Keepsake Diffusers",
         "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-fa4e13ae.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+        "name": "Crimson Cottage Glow Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-a6d9a093.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+        "name": "Christmas Keepsake Glass Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-2489b839.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+        "name": "Christmas Keepsake Glass Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-81f21639.html?scent=orange-clove"
       }
     ],
     "family": "Warm & Woody",
@@ -4602,10 +4658,42 @@ const scents = [
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+        "name": "Pink Gingerbread Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-291ca72d.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+        "name": "Pink Gingerbread Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-0015a6ab.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+        "name": "Lilac Gingerbread Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-7e4775fc.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+        "name": "Lilac Gingerbread Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-f4e60cde.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla"
       },
       {
@@ -4613,7 +4701,7 @@ const scents = [
         "image": "assets/christmas/paired/6d52f0817361816118b7.webp",
         "name": "Gingerbread Fragrance Gift Set",
         "series": "Christmas Rituals",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-d5956a72.html?scent=gingerbread-vanilla"
       }
     ],
@@ -4804,6 +4892,22 @@ const scents = [
         "series": "Spring & Summer Stillness",
         "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-ffd566db.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+        "name": "Sage Forest Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-aeb30974.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+        "name": "Sage Forest Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-3a143340.html?scent=green-tea-cedarwood"
       }
     ],
     "family": "Oriental Mystery",
@@ -5029,7 +5133,7 @@ const scents = [
         "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
-        "catalogueHref": "christmas-collection-2.html",
+        "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood"
       },
       {
@@ -5047,6 +5151,22 @@ const scents = [
         "series": "Christmas Keepsake Diffusers",
         "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-0354628e.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+        "name": "Winter Cottage Candle",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-5d0e4559.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+        "name": "Winter Cottage Reed Diffuser",
+        "series": "Christmas Storybook Glass",
+        "catalogueHref": "christmas-collection-2.html",
+        "href": "product-lnv-xms-0109067d.html?scent=pine-cedarwood"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",
@@ -9353,6 +9473,216 @@ const christmasProducts = [
     ],
     "assignedScent": "pine-cedarwood",
     "designDescription": "A forest-green diffuser bottle featuring a decorated Christmas tree motif and star details, shown with natural-coloured reeds."
+  },
+  {
+    "id": "christmas-storybook-76cf7dd954374643a5a1",
+    "name": "Sage Forest Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+    "packagingImage": "assets/christmas/storybook-glass/590e626408575327ccf7.webp",
+    "images": [
+      "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp",
+      "assets/christmas/storybook-glass/590e626408575327ccf7.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "Sage-green glass with fine pale fir trees and falling snow creates a soft winter forest scene. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-0d88dd5ddfbf0ec63539",
+    "name": "Sage Forest Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+    "packagingImage": "assets/christmas/storybook-glass/baba840821d928ccb6db.webp",
+    "images": [
+      "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp",
+      "assets/christmas/storybook-glass/baba840821d928ccb6db.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A sage-green bottle with fine pale fir trees and snow, shown with natural-coloured reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-f3ebf6359bbd83202783",
+    "name": "Christmas Keepsake Glass Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+    "packagingImage": "assets/christmas/storybook-glass/013dba40009c870598bc.webp",
+    "images": [
+      "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp",
+      "assets/christmas/storybook-glass/013dba40009c870598bc.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Deep green glass with rocking horses, snow globes, ribbons and gingerbread figures recalls treasured Christmas keepsakes. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-f694b89d772e3f462efd",
+    "name": "Christmas Keepsake Glass Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+    "packagingImage": "assets/christmas/storybook-glass/2b7f74527e4f9f6c65c8.webp",
+    "images": [
+      "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp",
+      "assets/christmas/storybook-glass/2b7f74527e4f9f6c65c8.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "A deep green bottle with rocking horses, ribbons and festive keepsake illustrations, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-d56084a6a7778b791c20",
+    "name": "Lilac Gingerbread Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+    "packagingImage": "assets/christmas/storybook-glass/d44f85d14257db46ce87.webp",
+    "images": [
+      "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
+      "assets/christmas/storybook-glass/d44f85d14257db46ce87.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Gingerbread figures, lilac-coloured trees and decorated hearts form a softly coloured Christmas story. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-43e96a50773df70dad14",
+    "name": "Lilac Gingerbread Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+    "packagingImage": "assets/christmas/storybook-glass/e1c48ff19e4a68bcb3da.webp",
+    "images": [
+      "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
+      "assets/christmas/storybook-glass/e1c48ff19e4a68bcb3da.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "A light bottle with gingerbread figures, lilac-coloured trees and decorated hearts, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-aeaff802c624f5599ec5",
+    "name": "Pink Gingerbread Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+    "packagingImage": "assets/christmas/storybook-glass/575f0a7fd28c71127f01.webp",
+    "images": [
+      "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
+      "assets/christmas/storybook-glass/575f0a7fd28c71127f01.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Pink glass with gingerbread cottages, biscuit stars, hearts and little figures evokes a cosy Christmas kitchen. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-2ee18b2fc1a7e4985ff6",
+    "name": "Pink Gingerbread Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+    "packagingImage": "assets/christmas/storybook-glass/c4ff16037558508d1269.webp",
+    "images": [
+      "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
+      "assets/christmas/storybook-glass/c4ff16037558508d1269.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "A pink bottle with gingerbread cottages, biscuit stars and hearts, shown with reeds and coordinated gift packaging. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-40e2e2301c2bc8a41ffc",
+    "name": "Merry Evergreen Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+    "packagingImage": "assets/christmas/storybook-glass/1de56d935dd81197f6e2.webp",
+    "images": [
+      "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp",
+      "assets/christmas/storybook-glass/1de56d935dd81197f6e2.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "An ivory-toned ground with evergreen trees, red bows and tiny gifts celebrates a classic festive forest. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-dccfabc85a6b1aa3ec17",
+    "name": "Merry Evergreen Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+    "packagingImage": "assets/christmas/storybook-glass/28d7da30a695aeca99ae.webp",
+    "images": [
+      "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp",
+      "assets/christmas/storybook-glass/28d7da30a695aeca99ae.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "An ivory-toned bottle with evergreen trees, red bows and small festive gifts, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-c873d9bc4bc4b47bc4eb",
+    "name": "Winter Cottage Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+    "packagingImage": "assets/christmas/storybook-glass/8c16361db6b1859facbf.webp",
+    "images": [
+      "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp",
+      "assets/christmas/storybook-glass/8c16361db6b1859facbf.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "Snow-covered cottages, fir branches and warm window details create a quiet winter village scene. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-b801e9845deb843377ee",
+    "name": "Winter Cottage Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+    "packagingImage": "assets/christmas/storybook-glass/55e485c87625778e7f5c.webp",
+    "images": [
+      "assets/christmas/storybook-glass/b801e9845deb843377ee.webp",
+      "assets/christmas/storybook-glass/55e485c87625778e7f5c.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "A soft green winter-cottage bottle with snowy trees and warm window details, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-60ec02d4dfa6812f025a",
+    "name": "Festive Dachshund Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+    "packagingImage": "assets/christmas/storybook-glass/4afd9cbabc89f1d16054.webp",
+    "images": [
+      "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp",
+      "assets/christmas/storybook-glass/4afd9cbabc89f1d16054.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "Festive dachshunds in Santa hats and checked winter accessories bring a playful Christmas story to deep green glass. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-646b7c5221d386a36028",
+    "name": "Festive Dachshund Reed Diffuser",
+    "series": "Christmas Storybook Glass",
+    "productType": "Reed diffuser",
+    "image": "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+    "packagingImage": "assets/christmas/storybook-glass/5d7eefd6813da492bad5.webp",
+    "images": [
+      "assets/christmas/storybook-glass/646b7c5221d386a36028.webp",
+      "assets/christmas/storybook-glass/5d7eefd6813da492bad5.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "A deep green bottle decorated with festive dachshunds, Santa hats and winter accessories, shown with reeds. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-7e1e485cae42426b2786",
+    "name": "Crimson Cottage Glow Candle",
+    "series": "Christmas Storybook Glass",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+    "packagingImage": "assets/christmas/storybook-glass/42177e5eef86fb71d082.webp",
+    "images": [
+      "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
+      "assets/christmas/storybook-glass/42177e5eef86fb71d082.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Vivid red glass with an ivory gingerbread-house door, little hearts and a scalloped snow-like border captures a welcoming Christmas cottage. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 
@@ -9816,7 +10146,22 @@ const productPages = {
     "assets/christmas/keepsakes/5b85eac4c577468800ec.webp": "product-lnv-xms-a6468ad9.html",
     "assets/christmas/keepsakes/921e3cccce60df75dbc4.webp": "product-lnv-xms-fa4e13ae.html",
     "assets/christmas/keepsakes/3c943b3a6768dbd437d6.webp": "product-lnv-xms-9e275c5c.html",
-    "assets/christmas/keepsakes/034f13f183324b50b10b.webp": "product-lnv-xms-0354628e.html"
+    "assets/christmas/keepsakes/034f13f183324b50b10b.webp": "product-lnv-xms-0354628e.html",
+    "assets/christmas/storybook-glass/76cf7dd954374643a5a1.webp": "product-lnv-xms-aeb30974.html",
+    "assets/christmas/storybook-glass/0d88dd5ddfbf0ec63539.webp": "product-lnv-xms-3a143340.html",
+    "assets/christmas/storybook-glass/f3ebf6359bbd83202783.webp": "product-lnv-xms-2489b839.html",
+    "assets/christmas/storybook-glass/f694b89d772e3f462efd.webp": "product-lnv-xms-81f21639.html",
+    "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp": "product-lnv-xms-7e4775fc.html",
+    "assets/christmas/storybook-glass/43e96a50773df70dad14.webp": "product-lnv-xms-f4e60cde.html",
+    "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp": "product-lnv-xms-291ca72d.html",
+    "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp": "product-lnv-xms-0015a6ab.html",
+    "assets/christmas/storybook-glass/40e2e2301c2bc8a41ffc.webp": "product-lnv-xms-9e6e2507.html",
+    "assets/christmas/storybook-glass/dccfabc85a6b1aa3ec17.webp": "product-lnv-xms-a826f86a.html",
+    "assets/christmas/storybook-glass/c873d9bc4bc4b47bc4eb.webp": "product-lnv-xms-5d0e4559.html",
+    "assets/christmas/storybook-glass/b801e9845deb843377ee.webp": "product-lnv-xms-0109067d.html",
+    "assets/christmas/storybook-glass/60ec02d4dfa6812f025a.webp": "product-lnv-xms-6dbefb57.html",
+    "assets/christmas/storybook-glass/646b7c5221d386a36028.webp": "product-lnv-xms-3e2b04fc.html",
+    "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp": "product-lnv-xms-a6d9a093.html"
   },
   "sachets": {
     "assets/sachets/paired/2e09dbec67e3048635e7.webp": "product-lnv-sch-c9143779.html",
