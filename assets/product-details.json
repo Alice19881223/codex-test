@@ -2162,8 +2162,8 @@
     "itemNo": "LNV-CND-ED8930A6",
     "category": "candle",
     "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
-    "name": "Dolce Vita Pasta",
-    "title": "Dolce Vita Pasta Scented candle",
+    "name": "Dolce Vita Golden Pasta",
+    "title": "Dolce Vita Golden Pasta Scented candle",
     "url": "product-lnv-cnd-ed8930a6.html",
     "series": "Everyday Poetry",
     "collection": "Everyday Poetry",
@@ -2178,17 +2178,17 @@
   {
     "itemNo": "LNV-CND-01CCFAB9",
     "category": "candle",
-    "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
-    "name": "Dolce Vita Berries",
-    "title": "Dolce Vita Berries Scented candle",
+    "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
+    "name": "Dolce Vita Blue Pasta",
+    "title": "Dolce Vita Blue Pasta Scented candle",
     "url": "product-lnv-cnd-01ccfab9.html",
     "series": "Everyday Poetry",
     "collection": "Everyday Poetry",
     "collectionHref": "candles-everyday-poetry.html",
     "suggestedScents": [
-      "blackcurrant-rose"
+      "white-tea-rosemary"
     ],
-    "primaryScent": "blackcurrant-rose",
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },

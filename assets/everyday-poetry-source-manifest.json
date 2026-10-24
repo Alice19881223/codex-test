@@ -2,7 +2,8 @@
   "sourceArchives": [
     "生活主题系列.zip",
     "打包1.zip",
-    "打包2.zip"
+    "打包2.zip",
+    "Downloads.zip"
   ],
   "collection": "everyday-poetry",
   "products": [
@@ -50,31 +51,35 @@
     },
     {
       "id": "everyday-poetry-941fbd919b2ce936c45e",
-      "name": "Dolce Vita Pasta",
+      "name": "Dolce Vita Golden Pasta",
       "series": "Everyday Poetry",
       "productType": "Scented candle",
       "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
       "images": [
-        "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp"
+        "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+        "assets/candles/everyday-poetry/59973d281a7a3e610ac0.webp"
       ],
       "assignedScent": "lime-basil",
-      "designDescription": "An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+      "designDescription": "An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/everyday-poetry/59973d281a7a3e610ac0.webp"
     },
     {
       "id": "everyday-poetry-0af54641c413df8aed01",
-      "name": "Dolce Vita Berries",
+      "name": "Dolce Vita Blue Pasta",
       "series": "Everyday Poetry",
       "productType": "Scented candle",
-      "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+      "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
       "images": [
+        "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
         "assets/candles/everyday-poetry/0af54641c413df8aed01.webp"
       ],
-      "assignedScent": "blackcurrant-rose",
-      "designDescription": "A berry-topped bowl and a pink decorative border tell a sweet table story, shown beside a coordinated gift box. This is a separate design from Dolce Vita Pasta. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
-      "view": "packaging",
+      "assignedScent": "white-tea-rosemary",
+      "designDescription": "Blue pasta, cherry tomatoes and green leaves on a pink field with a cobalt border celebrate an unhurried Italian table. White Tea & Rosemary is a suggested fresh tea-and-herb fragrance direction; final formulation and availability are confirmed with your sample.",
       "viewLabels": [
-        "Product & gift packaging"
-      ]
+        "Product",
+        "Product & packaging"
+      ],
+      "packagingImage": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp"
     },
     {
       "id": "everyday-poetry-ee99bcf180831034dd3c",
@@ -553,16 +558,24 @@
       "image": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp",
       "width": 1254,
       "height": 1254
+    },
+    {
+      "source": "金色意面蜡烛与配套礼盒-1.png",
+      "sha256": "59973d281a7a3e610ac02980c20ef1598492571ea5b1cdb9760b09e6920ba85d",
+      "image": "assets/candles/everyday-poetry/59973d281a7a3e610ac0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "蓝色意面主题香薰蜡烛-2.png",
+      "sha256": "d148f69ce4ead7528cd1394a662fc52d1099d6b4eade72c89d9602c8b3383757",
+      "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
+      "width": 1254,
+      "height": 1254
     }
   ],
-  "boxOnly": [
-    "Dolce Vita Berries"
-  ],
-  "missingStandalone": [
-    "Dolce Vita Berries"
-  ],
-  "missingPackaging": [
-    "Dolce Vita Pasta"
-  ],
-  "pairingNotes": "Dolce Vita Berries and Dolce Vita Pasta are visually distinct designs and are not paired together."
+  "boxOnly": [],
+  "missingStandalone": [],
+  "missingPackaging": [],
+  "pairingNotes": "All 20 designs have visually reviewed product and matching packaging photographs. Golden pasta and blue pasta remain separate products."
 }

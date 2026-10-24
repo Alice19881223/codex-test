@@ -921,7 +921,7 @@
       {
         "category": "candle",
         "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
-        "name": "Dolce Vita Pasta",
+        "name": "Dolce Vita Golden Pasta",
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry.html",
         "href": "product-lnv-cnd-ed8930a6.html?scent=lime-basil"
@@ -1519,14 +1519,6 @@
         "series": "Botanical Teacups",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
-        "name": "Dolce Vita Berries",
-        "series": "Everyday Poetry",
-        "catalogueHref": "candles-everyday-poetry.html",
-        "href": "product-lnv-cnd-01ccfab9.html?scent=blackcurrant-rose"
       }
     ],
     "family": "Floral & Fruity",
@@ -2226,6 +2218,14 @@
         "series": "Floral Tea",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-2b6c8254.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
+        "name": "Dolce Vita Blue Pasta",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-01ccfab9.html?scent=white-tea-rosemary"
       },
       {
         "category": "reed",

@@ -12,14 +12,16 @@ try{
   const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
   const collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='everyday-poetry');
   assert.equal(designs.length,20);
-  assert.equal(designs.filter(d=>d.packagingImage).length,18);
-  assert.equal(designs.find(d=>d.name==='Dolce Vita Pasta').images.length,1);
-  assert.equal(designs.find(d=>d.name==='Dolce Vita Berries').images.length,1);
+  assert.equal(designs.filter(d=>d.packagingImage).length,20);
+  assert.equal(designs.find(d=>d.name==='Dolce Vita Golden Pasta').images.length,2);
+  assert.equal(designs.find(d=>d.name==='Dolce Vita Blue Pasta').images.length,2);
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
    await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
    await page.locator('.candle-mood-card').filter({hasText:'Everyday Poetry'}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
-   assert.equal(await page.locator('main h1').textContent(),'Everyday Poetry');assert.ok(await page.locator('.everyday-story').isVisible());
+   assert.equal(await page.locator('main h1').textContent(),'Everyday Poetry');assert.equal(await page.locator('.everyday-story').count(),0);
+   const sharedStyle=()=>{const intro=document.querySelector('.candle-mood-intro'),title=intro.querySelector('h1'),nav=document.querySelector('.candle-mood-nav a[aria-current]');return [getComputedStyle(intro).backgroundColor,getComputedStyle(intro).backgroundImage,getComputedStyle(intro).borderBottomWidth,getComputedStyle(title).color,getComputedStyle(title).fontFamily,getComputedStyle(nav).backgroundColor];};
+   const expectedStyle=await page.evaluate(sharedStyle);const reference=await ctx.newPage();await reference.goto(base+'/candles-morning-light.html');assert.deepEqual(expectedStyle,await reference.evaluate(sharedStyle),'Everyday Poetry must use the shared collection styles');await reference.close();
    for(let i=0;i<collection.pages.length;i++){
     if(i)await page.locator('#pagination a').filter({hasText:new RegExp('^'+(i+1)+'$')}).click();
     assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),collection.pages[i].map(k=>k.split(' | ')[1]));

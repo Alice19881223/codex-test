@@ -348,11 +348,6 @@ header{position:relative;z-index:30}
 /* Keep a single supplied product-with-box photo square after SEO dimensions are added. */
 a.crystal-item>img.photo-single{height:auto}
 
-/* Everyday Poetry: a fifth collection for small rituals and coastal stories. */
+/* Shared responsive entrance for all five candle collections. */
 .candle-mood-grid{grid-template-columns:repeat(auto-fit,minmax(190px,1fr))}
-body[data-collection="everyday-poetry"] .candle-mood-intro{background:linear-gradient(110deg,#fff7e6,#edf3f6);border-bottom:6px solid #d57754}
-body[data-collection="everyday-poetry"] .candle-mood-intro h1{color:#244d74}
-body[data-collection="everyday-poetry"] .candle-mood-intro>.eyebrow{color:#a35b41;letter-spacing:.16em}
-body[data-collection="everyday-poetry"] .candle-mood-intro .everyday-story{max-width:750px;margin-top:22px;color:#5c655f;font-family:Georgia,serif;font-size:20px;line-height:1.65}
-body[data-collection="everyday-poetry"] .candle-mood-nav a[aria-current="page"]{background:#244d74;border-color:#244d74}
-@media(max-width:650px){.candle-mood-grid{grid-template-columns:repeat(2,minmax(0,1fr))}body[data-collection="everyday-poetry"] .candle-mood-intro .everyday-story{font-size:17px}}
+@media(max-width:650px){.candle-mood-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}

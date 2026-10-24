@@ -929,7 +929,7 @@ const scents = [
       {
         "category": "candle",
         "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
-        "name": "Dolce Vita Pasta",
+        "name": "Dolce Vita Golden Pasta",
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry.html",
         "href": "product-lnv-cnd-ed8930a6.html?scent=lime-basil"
@@ -1527,14 +1527,6 @@ const scents = [
         "series": "Botanical Teacups",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
-        "name": "Dolce Vita Berries",
-        "series": "Everyday Poetry",
-        "catalogueHref": "candles-everyday-poetry.html",
-        "href": "product-lnv-cnd-01ccfab9.html?scent=blackcurrant-rose"
       }
     ],
     "family": "Floral & Fruity",
@@ -2234,6 +2226,14 @@ const scents = [
         "series": "Floral Tea",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-2b6c8254.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
+        "name": "Dolce Vita Blue Pasta",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry.html",
+        "href": "product-lnv-cnd-01ccfab9.html?scent=white-tea-rosemary"
       },
       {
         "category": "reed",
@@ -6677,31 +6677,35 @@ const candleProducts = [
   },
   {
     "id": "everyday-poetry-941fbd919b2ce936c45e",
-    "name": "Dolce Vita Pasta",
+    "name": "Dolce Vita Golden Pasta",
     "series": "Everyday Poetry",
     "productType": "Scented candle",
     "image": "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
     "images": [
-      "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp"
+      "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp",
+      "assets/candles/everyday-poetry/59973d281a7a3e610ac0.webp"
     ],
     "assignedScent": "lime-basil",
-    "designDescription": "An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/everyday-poetry/59973d281a7a3e610ac0.webp"
   },
   {
     "id": "everyday-poetry-0af54641c413df8aed01",
-    "name": "Dolce Vita Berries",
+    "name": "Dolce Vita Blue Pasta",
     "series": "Everyday Poetry",
     "productType": "Scented candle",
-    "image": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp",
+    "image": "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
     "images": [
+      "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp",
       "assets/candles/everyday-poetry/0af54641c413df8aed01.webp"
     ],
-    "assignedScent": "blackcurrant-rose",
-    "designDescription": "A berry-topped bowl and a pink decorative border tell a sweet table story, shown beside a coordinated gift box. This is a separate design from Dolce Vita Pasta. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
-    "view": "packaging",
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "Blue pasta, cherry tomatoes and green leaves on a pink field with a cobalt border celebrate an unhurried Italian table. White Tea & Rosemary is a suggested fresh tea-and-herb fragrance direction; final formulation and availability are confirmed with your sample.",
     "viewLabels": [
-      "Product & gift packaging"
-    ]
+      "Product",
+      "Product & packaging"
+    ],
+    "packagingImage": "assets/candles/everyday-poetry/0af54641c413df8aed01.webp"
   },
   {
     "id": "everyday-poetry-ee99bcf180831034dd3c",
@@ -9221,7 +9225,7 @@ const productPages = {
     "assets/candles/everyday-poetry/c9e93c5bc81278cba9fc.webp": "product-lnv-cnd-1b0a2181.html",
     "assets/candles/everyday-poetry/6c8a7034b2678af27058.webp": "product-lnv-cnd-a36de348.html",
     "assets/candles/everyday-poetry/941fbd919b2ce936c45e.webp": "product-lnv-cnd-ed8930a6.html",
-    "assets/candles/everyday-poetry/0af54641c413df8aed01.webp": "product-lnv-cnd-01ccfab9.html",
+    "assets/candles/everyday-poetry/d148f69ce4ead7528cd1.webp": "product-lnv-cnd-01ccfab9.html",
     "assets/candles/everyday-poetry/ee99bcf180831034dd3c.webp": "product-lnv-cnd-7efa78fe.html",
     "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp": "product-lnv-cnd-d0b61d41.html",
     "assets/candles/everyday-poetry/64b17146c8b02e70c57b.webp": "product-lnv-cnd-7e0b7a2f.html",

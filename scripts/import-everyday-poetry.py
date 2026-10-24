@@ -1,5 +1,5 @@
-"""Import visually reviewed Everyday Poetry photos from the three lifestyle archives.
-Usage: python3 scripts/import-everyday-poetry.py /path/to/生活主题系列.zip /path/to/打包1.zip /path/to/打包2.zip
+"""Import visually reviewed Everyday Poetry photos from the four lifestyle archives.
+Usage: python3 scripts/import-everyday-poetry.py /path/to/生活主题系列.zip /path/to/打包1.zip /path/to/打包2.zip /path/to/Downloads.zip
 Only known image members are read. Missing views are documented, never invented.
 """
 from pathlib import Path
@@ -13,8 +13,8 @@ DESIGNS=[
  ('Sweet Pear', '甜梨复古条纹香薰蜡烛-2.png', '甜梨复古蜡烛礼盒-3.png', 'pear-freesia', 'gold', 'Orange-and-cream stripes frame illustrated golden pears: a small orchard story for an everyday table.'),
  ('Morning Ritual', '薰衣草条纹早餐仪式蜡烛-1 (1).png', '薰衣草条纹晨间仪式蜡烛礼盒-4 (1).png', 'vanilla-tonka', 'lavender', 'Lavender-coloured stripes, a breakfast cup, pastry and newspaper turn a slow morning into a little ritual.'),
  ('Ciao Bella', 'Ciao地中海复古艺术蜡烛-6.png', 'Lanarve Ciao Bella 地中海蜡烛礼盒-7.png', 'bergamot-neroli', 'burgundy', 'Strawberries, lemons and a blue ornamental border surround a warm Italian greeting on a vivid red field.'),
- ('Dolce Vita Pasta', 'Dolce Vita意式彩绘蜡烛-9.png', None, 'lime-basil', 'ivory', 'An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction.'),
- ('Dolce Vita Berries', 'DOLCE VITA 意式意面蜡烛礼盒-10 (1).png', None, 'blackcurrant-rose', 'blush', 'A berry-topped bowl and a pink decorative border tell a sweet table story, shown beside a coordinated gift box. This is a separate design from Dolce Vita Pasta.'),
+ ('Dolce Vita Golden Pasta', 'Dolce Vita意式彩绘蜡烛-9.png', '金色意面蜡烛与配套礼盒-1.png', 'lime-basil', 'ivory', 'An illustrated plate of pasta, tomatoes and basil celebrates the poetry of a shared Italian table. This is a decorative design; the suggested scent is a citrus-and-herb direction.'),
+ ('Dolce Vita Blue Pasta', '蓝色意面主题香薰蜡烛-2.png', 'DOLCE VITA 意式意面蜡烛礼盒-10 (1).png', 'white-tea-rosemary', 'blush', 'Blue pasta, cherry tomatoes and green leaves on a pink field with a cobalt border celebrate an unhurried Italian table.'),
  ('Coastal Days', '海岸沙丁鱼条纹蜡烛-5.png', '海岸日·沙丁鱼香薰蜡烛礼盒-8 (1).png', 'grapefruit-bergamot', 'gold', 'Orange-and-cream stripes frame three blue fish, bringing the feel of an easy coastal lunch to a favourite table.'),
  ('Sea Breeze', '海风沙丁鱼香薰蜡烛-2.png', '海风香薰蜡烛与薄荷礼盒-6.png', 'sea-salt-driftwood', 'sage', 'A mint-coloured vessel with a blue sardine-tin illustration, inspired by unhurried coastal afternoons.'),
  ('Salt & Sunshine', '地中海蓝釉沙丁鱼蜡烛-3.png', '海盐阳光香氛蜡烛礼盒-7.png', 'bergamot-neroli', 'blue', 'Pale blue, a coral-red sardine tin and three illustrated fish capture a cheerful seaside pantry.'),
@@ -31,7 +31,7 @@ DESIGNS=[
  ('Crab & Tide', '海风红蟹复古蜡烛-11.png', 'Lanarve海风螃蟹蜡烛礼盒-12.png', 'sea-salt-driftwood', 'blue', 'A bright red crab, blue-and-ivory stripes and small seashells turn a seaside memory into a cheerful everyday ritual.'),
  ('Peach Anchovies', '粉彩凤尾鱼香氛蜡烛-18.png', 'Lanarve鱼纹香薰蜡烛礼盒-19.png', 'pomegranate-amber', 'blush', 'Peach pink, fine blue leaves, citrus slices and three illustrated fish evoke a sunlit postcard from the coast.'),
 ]
-BOX_ONLY={'Dolce Vita Berries'}
+BOX_ONLY=set()
 def read(n):return json.loads((ROOT/'assets'/n).read_text())
 def write(n,d):(ROOT/'assets'/n).write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
 def main():
@@ -67,7 +67,7 @@ def main():
     if profile['id']==scent:profile['matches'].append({'category':'candle','image':src,'name':name,'series':'Everyday Poetry'})
  collections=read('candle-collections.json');keys=[p['series']+' | '+p['name'] for p in added]
  collections=[c for c in collections if c['slug']!='everyday-poetry']
- collections.append({'slug':'everyday-poetry','name':'Everyday Poetry','description':'Slow mornings, little table rituals and postcards from the coast. Illustrated candles that turn ordinary moments into stories worth keeping.','eyebrow':'THE POETRY OF EVERYDAY LIFE','story':'A pear on the kitchen table. A cup before the day begins. A postcard from a sunlit harbour. Find a little poetry in the life already around you.','productKeys':keys,'icon':'everyday','pages':[keys[i:i+12] for i in range(0,len(keys),12)],'manualPageOrder':True})
- for n,d in [('candle-products.json',products),('product-identities.json',identities),('fragrances.json',scents),('product-display.json',display),('product-fragrances.json',assignments),('image-manifest.json',media),('candle-collections.json',collections),('everyday-poetry-source-manifest.json',{'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'collection':'everyday-poetry','products':added,'images':sources,'boxOnly':sorted(BOX_ONLY),'missingStandalone':['Dolce Vita Berries'],'missingPackaging':['Dolce Vita Pasta'],'pairingNotes':'Dolce Vita Berries and Dolce Vita Pasta are visually distinct designs and are not paired together.'})]:write(n,d)
- print('Imported 20 Everyday Poetry designs from 38 supplied photographs; 18 paired designs and two distinct single-view designs.')
+ collections.append({'slug':'everyday-poetry','name':'Everyday Poetry','description':'Illustrated candles for the poetry of everyday life.','productKeys':keys,'icon':'everyday','pages':[keys[i:i+12] for i in range(0,len(keys),12)],'manualPageOrder':True})
+ for n,d in [('candle-products.json',products),('product-identities.json',identities),('fragrances.json',scents),('product-display.json',display),('product-fragrances.json',assignments),('image-manifest.json',media),('candle-collections.json',collections),('everyday-poetry-source-manifest.json',{'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'collection':'everyday-poetry','products':added,'images':sources,'boxOnly':sorted(BOX_ONLY),'missingStandalone':[],'missingPackaging':[],'pairingNotes':'All 20 designs have matching product and gift-box photographs. Golden pasta and blue pasta are distinct designs.'})]:write(n,d)
+ print('Imported 20 Everyday Poetry designs from 40 supplied photographs; all 20 designs have visually reviewed product and packaging pairs.')
 if __name__=='__main__':main()
