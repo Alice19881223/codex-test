@@ -8,7 +8,7 @@ import csv,html,json,re,collections,hashlib
 ROOT=Path(__file__).resolve().parents[1]
 CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes()).hexdigest()[:12]
 CANDLE_VERSION=hashlib.sha256((ROOT/'assets/candle-collections.json').read_bytes()+(ROOT/'assets/candle-products.json').read_bytes()).hexdigest()[:12]
-LISTING_VERSION=hashlib.sha256(b''.join((ROOT/'assets'/name).read_bytes() for name in ['candle-collections.json','reed-collections.json','catalogue-layouts.json','fragrances.json'])).hexdigest()[:12]
+LISTING_VERSION=hashlib.sha256(b''.join((ROOT/'assets'/name).read_bytes() for name in ['candle-collections.json','candle-products.json','reed-collections.json','reed-products.json','catalogue-layouts.json','fragrances.json'])).hexdigest()[:12]
 LISTING_URLS={p.name for p in ROOT.glob('*.html') if re.search(r'id="(?:catalogue-grid|fragrance-products)"',p.read_text())}
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
