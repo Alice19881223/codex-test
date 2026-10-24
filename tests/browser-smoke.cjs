@@ -44,6 +44,28 @@ try{
    await ctx.close();
   }
  }
+ // Reviewed upload pairs must remain discoverable with their assigned scent and gallery.
+ const momentsManifest=path.join(root,'assets/poetic-moments-source-manifest.json');
+ if(fs.existsSync(momentsManifest)){
+  const manifest=JSON.parse(fs.readFileSync(momentsManifest));
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
+  assert.equal(manifest.products.length,8);assert.equal(manifest.images.length,16);
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
+   for(const design of manifest.products){
+    const record=records.find(r=>r.image===design.image);assert.ok(record);
+    const route=listingFiles.find(name=>{const text=fs.readFileSync(path.join(root,name),'utf8');return !name.startsWith('fragrance-')&&text.includes('id="catalogue-grid"')&&text.includes('>'+design.name+'</h3>');});assert.ok(route,design.name+' listed');
+    await page.goto(base+'/'+route);await page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}).click();
+    assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);
+    assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.image);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    assert.equal(await page.locator('[data-gallery-src]').count(),2);await page.locator('[data-gallery-src]').nth(1).click();assert.equal(await page.locator('#product-main-image').getAttribute('src'),design.packagingImage);await page.locator('#product-main-image').evaluate(img=>img.decode());
+    const care=await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent();
+    assert.match(care,design.category==='reed'?/inserting or turning reeds/:/Never leave a burning candle unattended/);
+    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,design.name+' overflow');
+   }
+   await ctx.close();
+  }
+ }
  // New Christmas storybook products occupy page two, then continue on page three.
  const storybookManifest=path.join(root,'assets/christmas-storybook-source-manifest.json');
  if(fs.existsSync(storybookManifest)){
@@ -252,6 +274,6 @@ try{
  const native=mp.locator('#catalogue-grid a[data-photo]').first();const nativeTarget=await native.getAttribute('href');await native.tap();await mp.waitForURL(base+'/'+nativeTarget);
  await mobile.close();
  const missing=await p.request.get(base+'/__missing-seo-test.html');assert.equal(missing.status(),404);assert.ok((await missing.text()).includes('We couldn’t find that page'));await context.close();
- const summary={pageChecks:results.length,viewports:[1440,390],blueLandscapeAndButterflyDesigns:fs.existsSync(landscapeManifest)?3:0,christmasStorybookDesigns:fs.existsSync(storybookManifest)?15:0,fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
+ const summary={pageChecks:results.length,viewports:[1440,390],poeticMomentsDesigns:fs.existsSync(momentsManifest)?8:0,blueLandscapeAndButterflyDesigns:fs.existsSync(landscapeManifest)?3:0,christmasStorybookDesigns:fs.existsSync(storybookManifest)?15:0,fullProductPages:true,springSummerDesigns:fs.existsSync(seasonalManifest)?16:0,everydayPoetryDesigns:fs.existsSync(poetryManifest)?20:0,wildEleganceDesigns:fs.existsSync(wildManifest)?6:0,christmasPaginationCacheBypass:true,fragranceHover:true,mobileTap:true,catalogueTapPages:catalogueRoutes.length,productCardNativeNavigation:true,secondViewTouchToggle:true,productImageHover:true,importedChristmasPairs:true,escape:true,staticProductWithoutJS:true,fragranceSelectionAndReload:true,gallerySrcsetSwitch:true,inquiryBasket:true,whatsAppDraftIntercepted:true,local404:true,scope:'Local staged output; not proof of live host TLS/redirects or field CWV'};
  fs.mkdirSync(path.resolve(__dirname,'../docs/seo'),{recursive:true});fs.writeFileSync(path.resolve(__dirname,'../docs/seo/browser-results.json'),JSON.stringify(summary,null,2)+'\n');console.log(JSON.stringify(summary,null,2));
 }finally{await browser.close();await new Promise(r=>server.close(r));}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

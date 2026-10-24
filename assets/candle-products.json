@@ -1952,6 +1952,20 @@
     "packagingImage": "assets/candles/everyday-poetry/d901793ae14876b4d3f4.webp"
   },
   {
+    "id": "poetic-moments-07441048ddb5ee8c0165",
+    "name": "Coastal Glow Candle",
+    "series": "Everyday Poetry",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+    "packagingImage": "assets/poetic-moments/72e8021c39d07e8da5ea.webp",
+    "images": [
+      "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+      "assets/poetic-moments/72e8021c39d07e8da5ea.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "Three blue fish, golden framing and olive sprigs recall Mediterranean markets and the small pleasures of coastal living. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "spring-summer-3659e325c668561f7eb2",
     "name": "Spring Muse",
     "series": "Spring & Summer Light",
@@ -2236,5 +2250,33 @@
     ],
     "assignedScent": "incense-myrrh",
     "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-b5442afec89b7e1a527d",
+    "name": "Midnight Ballet Candle",
+    "series": "Midnight Ballet",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+    "packagingImage": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+    "images": [
+      "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+      "assets/poetic-moments/dc0eec4a14764109aea2.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Dancing skeleton ballerinas, pink ribbons, roses and crescent moons on a black ground create a playful theatrical scene with a Halloween mood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-ca3f1fe5263b42f40f85",
+    "name": "Blue Dove Candle",
+    "series": "Dove Reverie",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+    "packagingImage": "assets/poetic-moments/263f94bdcf7cf5ad78db.webp",
+    "images": [
+      "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+      "assets/poetic-moments/263f94bdcf7cf5ad78db.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "A white dove framed by flowing blue ribbons on a powder-blue ground suggests a peaceful pause and a soft, airy atmosphere. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

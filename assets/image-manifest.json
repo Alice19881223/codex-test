@@ -12145,5 +12145,373 @@
         "bytes": 163234
       }
     ]
+  },
+  "assets/poetic-moments/c005543650a7d4ab6418.webp": {
+    "width": 1400,
+    "height": 933,
+    "sourceBytes": 57454,
+    "src": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/c005543650a7d4ab6418-480.webp",
+        "width": 480,
+        "bytes": 12818
+      },
+      {
+        "src": "assets/poetic-moments/c005543650a7d4ab6418-960.webp",
+        "width": 960,
+        "bytes": 32188
+      },
+      {
+        "src": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+        "width": 1400,
+        "bytes": 57454
+      }
+    ]
+  },
+  "assets/poetic-moments/3f66d6de1163728e8f25.webp": {
+    "width": 1400,
+    "height": 933,
+    "sourceBytes": 77188,
+    "src": "assets/poetic-moments/3f66d6de1163728e8f25.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/3f66d6de1163728e8f25-480.webp",
+        "width": 480,
+        "bytes": 11910
+      },
+      {
+        "src": "assets/poetic-moments/3f66d6de1163728e8f25-960.webp",
+        "width": 960,
+        "bytes": 37088
+      },
+      {
+        "src": "assets/poetic-moments/3f66d6de1163728e8f25.webp",
+        "width": 1400,
+        "bytes": 77188
+      }
+    ]
+  },
+  "assets/poetic-moments/80d0627f8a9391cd25b6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 134536,
+    "src": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/80d0627f8a9391cd25b6-480.webp",
+        "width": 480,
+        "bytes": 28432
+      },
+      {
+        "src": "assets/poetic-moments/80d0627f8a9391cd25b6-960.webp",
+        "width": 960,
+        "bytes": 83036
+      },
+      {
+        "src": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+        "width": 1254,
+        "bytes": 134536
+      }
+    ]
+  },
+  "assets/poetic-moments/8096cffca28f34fb61f3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 229646,
+    "src": "assets/poetic-moments/8096cffca28f34fb61f3.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/8096cffca28f34fb61f3-480.webp",
+        "width": 480,
+        "bytes": 48268
+      },
+      {
+        "src": "assets/poetic-moments/8096cffca28f34fb61f3-960.webp",
+        "width": 960,
+        "bytes": 147286
+      },
+      {
+        "src": "assets/poetic-moments/8096cffca28f34fb61f3.webp",
+        "width": 1254,
+        "bytes": 229646
+      }
+    ]
+  },
+  "assets/poetic-moments/8c32deb76b6323292a36.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 60142,
+    "src": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/8c32deb76b6323292a36-480.webp",
+        "width": 480,
+        "bytes": 13362
+      },
+      {
+        "src": "assets/poetic-moments/8c32deb76b6323292a36-960.webp",
+        "width": 960,
+        "bytes": 36258
+      },
+      {
+        "src": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+        "width": 1254,
+        "bytes": 60142
+      }
+    ]
+  },
+  "assets/poetic-moments/cbfe02630d5bed84e38a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 91258,
+    "src": "assets/poetic-moments/cbfe02630d5bed84e38a.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/cbfe02630d5bed84e38a-480.webp",
+        "width": 480,
+        "bytes": 14150
+      },
+      {
+        "src": "assets/poetic-moments/cbfe02630d5bed84e38a-960.webp",
+        "width": 960,
+        "bytes": 49460
+      },
+      {
+        "src": "assets/poetic-moments/cbfe02630d5bed84e38a.webp",
+        "width": 1254,
+        "bytes": 91258
+      }
+    ]
+  },
+  "assets/poetic-moments/b5442afec89b7e1a527d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 143062,
+    "src": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/b5442afec89b7e1a527d-480.webp",
+        "width": 480,
+        "bytes": 31076
+      },
+      {
+        "src": "assets/poetic-moments/b5442afec89b7e1a527d-960.webp",
+        "width": 960,
+        "bytes": 90648
+      },
+      {
+        "src": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+        "width": 1254,
+        "bytes": 143062
+      }
+    ]
+  },
+  "assets/poetic-moments/dc0eec4a14764109aea2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 256002,
+    "src": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/dc0eec4a14764109aea2-480.webp",
+        "width": 480,
+        "bytes": 49820
+      },
+      {
+        "src": "assets/poetic-moments/dc0eec4a14764109aea2-960.webp",
+        "width": 960,
+        "bytes": 155814
+      },
+      {
+        "src": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+        "width": 1254,
+        "bytes": 256002
+      }
+    ]
+  },
+  "assets/poetic-moments/07441048ddb5ee8c0165.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 90996,
+    "src": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/07441048ddb5ee8c0165-480.webp",
+        "width": 480,
+        "bytes": 21470
+      },
+      {
+        "src": "assets/poetic-moments/07441048ddb5ee8c0165-960.webp",
+        "width": 960,
+        "bytes": 58026
+      },
+      {
+        "src": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+        "width": 1254,
+        "bytes": 90996
+      }
+    ]
+  },
+  "assets/poetic-moments/72e8021c39d07e8da5ea.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 138996,
+    "src": "assets/poetic-moments/72e8021c39d07e8da5ea.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/72e8021c39d07e8da5ea-480.webp",
+        "width": 480,
+        "bytes": 31374
+      },
+      {
+        "src": "assets/poetic-moments/72e8021c39d07e8da5ea-960.webp",
+        "width": 960,
+        "bytes": 85450
+      },
+      {
+        "src": "assets/poetic-moments/72e8021c39d07e8da5ea.webp",
+        "width": 1254,
+        "bytes": 138996
+      }
+    ]
+  },
+  "assets/poetic-moments/ca3f1fe5263b42f40f85.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 79838,
+    "src": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/ca3f1fe5263b42f40f85-480.webp",
+        "width": 480,
+        "bytes": 17884
+      },
+      {
+        "src": "assets/poetic-moments/ca3f1fe5263b42f40f85-960.webp",
+        "width": 960,
+        "bytes": 49804
+      },
+      {
+        "src": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+        "width": 1254,
+        "bytes": 79838
+      }
+    ]
+  },
+  "assets/poetic-moments/263f94bdcf7cf5ad78db.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 125728,
+    "src": "assets/poetic-moments/263f94bdcf7cf5ad78db.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/263f94bdcf7cf5ad78db-480.webp",
+        "width": 480,
+        "bytes": 25044
+      },
+      {
+        "src": "assets/poetic-moments/263f94bdcf7cf5ad78db-960.webp",
+        "width": 960,
+        "bytes": 76838
+      },
+      {
+        "src": "assets/poetic-moments/263f94bdcf7cf5ad78db.webp",
+        "width": 1254,
+        "bytes": 125728
+      }
+    ]
+  },
+  "assets/poetic-moments/321d87c7e34259e0095a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 71992,
+    "src": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/321d87c7e34259e0095a-480.webp",
+        "width": 480,
+        "bytes": 14666
+      },
+      {
+        "src": "assets/poetic-moments/321d87c7e34259e0095a-960.webp",
+        "width": 960,
+        "bytes": 42350
+      },
+      {
+        "src": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+        "width": 1254,
+        "bytes": 71992
+      }
+    ]
+  },
+  "assets/poetic-moments/a88445261f72942fd8b5.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 99180,
+    "src": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/a88445261f72942fd8b5-480.webp",
+        "width": 480,
+        "bytes": 20330
+      },
+      {
+        "src": "assets/poetic-moments/a88445261f72942fd8b5-960.webp",
+        "width": 960,
+        "bytes": 59816
+      },
+      {
+        "src": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+        "width": 1254,
+        "bytes": 99180
+      }
+    ]
+  },
+  "assets/poetic-moments/5bc38799b6a3de21bfc3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 96982,
+    "src": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/5bc38799b6a3de21bfc3-480.webp",
+        "width": 480,
+        "bytes": 18316
+      },
+      {
+        "src": "assets/poetic-moments/5bc38799b6a3de21bfc3-960.webp",
+        "width": 960,
+        "bytes": 57368
+      },
+      {
+        "src": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+        "width": 1254,
+        "bytes": 96982
+      }
+    ]
+  },
+  "assets/poetic-moments/79846352fbf2877b1be2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 202190,
+    "src": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+    "variants": [
+      {
+        "src": "assets/poetic-moments/79846352fbf2877b1be2-480.webp",
+        "width": 480,
+        "bytes": 30238
+      },
+      {
+        "src": "assets/poetic-moments/79846352fbf2877b1be2-960.webp",
+        "width": 960,
+        "bytes": 115914
+      },
+      {
+        "src": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+        "width": 1254,
+        "bytes": 202190
+      }
+    ]
   }
 }

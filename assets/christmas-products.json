@@ -793,5 +793,47 @@
     ],
     "assignedScent": "orange-clove",
     "designDescription": "Vivid red glass with an ivory gingerbread-house door, little hearts and a scalloped snow-like border captures a welcoming Christmas cottage. Suggested Christmas fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-c005543650a7d4ab6418",
+    "name": "Evergreen Pudding Candle",
+    "series": "Festive Ceramic Moments",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+    "packagingImage": "assets/poetic-moments/3f66d6de1163728e8f25.webp",
+    "images": [
+      "assets/poetic-moments/c005543650a7d4ab6418.webp",
+      "assets/poetic-moments/3f66d6de1163728e8f25.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "A low fluted green vessel with an ivory-toned rim and a red accent evokes a festive pudding mould and an evergreen Christmas table. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-80d0627f8a9391cd25b6",
+    "name": "Winter Ballet Candle",
+    "series": "Festive Ballet",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+    "packagingImage": "assets/poetic-moments/8096cffca28f34fb61f3.webp",
+    "images": [
+      "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+      "assets/poetic-moments/8096cffca28f34fb61f3.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "A powder-blue ground with ballerinas, nutcracker figures, ribbons and winter foliage creates a gentle Christmas ballet scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-8c32deb76b6323292a36",
+    "name": "Citrus Christmas Joy Candle",
+    "series": "Festive Ceramic Moments",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+    "packagingImage": "assets/poetic-moments/cbfe02630d5bed84e38a.webp",
+    "images": [
+      "assets/poetic-moments/8c32deb76b6323292a36.webp",
+      "assets/poetic-moments/cbfe02630d5bed84e38a.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Sunny yellow citrus motifs, tiny stars and a pale blue rim bring a bright, playful interpretation of Christmas joy. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

@@ -1694,6 +1694,14 @@
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-5409fad2.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "candle",
+        "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+        "name": "Midnight Ballet Candle",
+        "series": "Midnight Ballet",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-8f83305b.html?scent=pomegranate-amber"
       }
     ],
     "family": "Floral & Fruity",
@@ -1852,6 +1860,14 @@
         "series": "Spring & Summer Stillness",
         "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-76c2544c.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+        "name": "Lilac Current Reed Diffuser",
+        "series": "Colour in Bloom",
+        "catalogueHref": "reeds-in-bloom-3.html",
+        "href": "product-lnv-rd-64253a72.html?scent=lavender-cedarwood"
       },
       {
         "category": "candle",
@@ -2230,6 +2246,22 @@
         "series": "Seven-Day Rituals",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-191c0733.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+        "name": "Blue Dove Candle",
+        "series": "Dove Reverie",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-e29a3956.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "reed",
+        "image": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+        "name": "Blue Dove Reed Diffuser",
+        "series": "Dove Reverie",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
+        "href": "product-lnv-rd-7d3434c1.html?scent=white-tea-bergamot"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2806,6 +2838,22 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
+        "name": "Gilded Azure",
+        "series": "Gilded Skies",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "href": "product-lnv-cnd-6039213d.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/1b5ead3137dec1267c9b.webp",
+        "name": "Ocean Reserve",
+        "series": "Reserve Glass",
+        "catalogueHref": "reeds-a-breath-of-fresh-air.html",
+        "href": "product-lnv-rd-db3ec78c.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/everyday-poetry/0cca117b0aa525e1ba7d.webp",
         "name": "Blue Harbour",
         "series": "Everyday Poetry",
@@ -2822,27 +2870,19 @@
       },
       {
         "category": "candle",
+        "image": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+        "name": "Coastal Glow Candle",
+        "series": "Everyday Poetry",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-a5e63c33.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/everyday-poetry/853f5897b06085e31eb7.webp",
         "name": "Sea Breeze",
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry.html",
         "href": "product-lnv-cnd-d0b61d41.html?scent=sea-salt-driftwood"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/standalone/1d3004493e9cb3cbcf21.png",
-        "name": "Gilded Azure",
-        "series": "Gilded Skies",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
-        "href": "product-lnv-cnd-6039213d.html?scent=sea-salt-driftwood"
-      },
-      {
-        "category": "reed",
-        "image": "assets/companions/1b5ead3137dec1267c9b.webp",
-        "name": "Ocean Reserve",
-        "series": "Reserve Glass",
-        "catalogueHref": "reeds-a-breath-of-fresh-air.html",
-        "href": "product-lnv-rd-db3ec78c.html?scent=sea-salt-driftwood"
       },
       {
         "category": "candle",
@@ -3908,6 +3948,14 @@
         "href": "product-lnv-cnd-1b0a2181.html?scent=vanilla-tonka"
       },
       {
+        "category": "christmas",
+        "image": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+        "name": "Winter Ballet Candle",
+        "series": "Festive Ballet",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-7c9115c3.html?scent=vanilla-tonka"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/paired/b09baac75da0893acee3.webp",
         "name": "Vanilla",
@@ -4231,7 +4279,7 @@
         "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp",
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-a71be608.html?scent=fir-cedarwood"
       },
       {
@@ -4287,7 +4335,7 @@
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -4303,7 +4351,7 @@
         "image": "assets/christmas/paired/a59a1441e620ff595494.webp",
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood"
       },
       {
@@ -4335,7 +4383,7 @@
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
       },
       {
@@ -4367,7 +4415,7 @@
         "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
         "name": "Forest Garland Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-b26959c2.html?scent=fir-cedarwood"
       },
       {
@@ -4391,7 +4439,7 @@
         "image": "assets/christmas/paired/df14c67cacea5845b494.webp",
         "name": "Santa & Tree Candle Duo",
         "series": "Christmas Characters",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-00beb3be.html?scent=fir-cedarwood"
       },
       {
@@ -4423,7 +4471,7 @@
         "image": "assets/christmas/paired/ba0c524d4b0c2f4e9680.webp",
         "name": "Snowy Tree Glass Candle",
         "series": "Winter Botanicals",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-68ef4327.html?scent=fir-cedarwood"
       },
       {
@@ -4433,6 +4481,14 @@
         "series": "Christmas Keepsake Candles",
         "catalogueHref": "christmas-collection.html",
         "href": "product-lnv-xms-e9a5ae53.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+        "name": "Evergreen Pudding Candle",
+        "series": "Festive Ceramic Moments",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-6a7db7d8.html?scent=fir-cedarwood"
       }
     ],
     "family": "Warm & Woody",
@@ -4499,10 +4555,18 @@
     "matches": [
       {
         "category": "christmas",
+        "image": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+        "name": "Citrus Christmas Joy Candle",
+        "series": "Festive Ceramic Moments",
+        "catalogueHref": "christmas-collection-3.html",
+        "href": "product-lnv-xms-82415b18.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-4.html",
+        "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove"
       },
       {
@@ -5149,7 +5213,7 @@
         "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
-        "catalogueHref": "christmas-collection-3.html",
+        "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood"
       },
       {

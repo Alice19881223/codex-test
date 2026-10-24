@@ -1135,5 +1135,33 @@
     ],
     "assignedScent": "oud-saffron",
     "designDescription": "A blue-and-white landscape bottle with mountains, pavilions and water, shown with natural-coloured reeds. Oud & Saffron from the Oriental Mystery fragrance family adds warm woods, saffron and a softly spiced sense of depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-321d87c7e34259e0095a",
+    "name": "Blue Dove Reed Diffuser",
+    "series": "Dove Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+    "packagingImage": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+    "images": [
+      "assets/poetic-moments/321d87c7e34259e0095a.webp",
+      "assets/poetic-moments/a88445261f72942fd8b5.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "A pale blue bottle with a white dove, delicate flowers and a ribbon-like frame, shown with natural-coloured reeds, evokes a calm and welcoming space. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-5bc38799b6a3de21bfc3",
+    "name": "Lilac Current Reed Diffuser",
+    "series": "Colour in Bloom",
+    "productType": "Reed diffuser",
+    "image": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+    "packagingImage": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+    "images": [
+      "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+      "assets/poetic-moments/79846352fbf2877b1be2.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A lilac square bottle with flowing blue waves, warm coral shapes and a red spherical stopper brings an artistic splash of colour to everyday rituals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

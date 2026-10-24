@@ -1,0 +1,249 @@
+{
+  "sourceArchives": [
+    "网站上图.zip"
+  ],
+  "products": [
+    {
+      "id": "poetic-moments-c005543650a7d4ab6418",
+      "name": "Evergreen Pudding Candle",
+      "series": "Festive Ceramic Moments",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+      "packagingImage": "assets/poetic-moments/3f66d6de1163728e8f25.webp",
+      "images": [
+        "assets/poetic-moments/c005543650a7d4ab6418.webp",
+        "assets/poetic-moments/3f66d6de1163728e8f25.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "A low fluted green vessel with an ivory-toned rim and a red accent evokes a festive pudding mould and an evergreen Christmas table. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "christmas",
+      "collection": null
+    },
+    {
+      "id": "poetic-moments-80d0627f8a9391cd25b6",
+      "name": "Winter Ballet Candle",
+      "series": "Festive Ballet",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+      "packagingImage": "assets/poetic-moments/8096cffca28f34fb61f3.webp",
+      "images": [
+        "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+        "assets/poetic-moments/8096cffca28f34fb61f3.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "A powder-blue ground with ballerinas, nutcracker figures, ribbons and winter foliage creates a gentle Christmas ballet scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "christmas",
+      "collection": null
+    },
+    {
+      "id": "poetic-moments-8c32deb76b6323292a36",
+      "name": "Citrus Christmas Joy Candle",
+      "series": "Festive Ceramic Moments",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+      "packagingImage": "assets/poetic-moments/cbfe02630d5bed84e38a.webp",
+      "images": [
+        "assets/poetic-moments/8c32deb76b6323292a36.webp",
+        "assets/poetic-moments/cbfe02630d5bed84e38a.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "Sunny yellow citrus motifs, tiny stars and a pale blue rim bring a bright, playful interpretation of Christmas joy. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "christmas",
+      "collection": null
+    },
+    {
+      "id": "poetic-moments-b5442afec89b7e1a527d",
+      "name": "Midnight Ballet Candle",
+      "series": "Midnight Ballet",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+      "packagingImage": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+      "images": [
+        "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+        "assets/poetic-moments/dc0eec4a14764109aea2.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "Dancing skeleton ballerinas, pink ribbons, roses and crescent moons on a black ground create a playful theatrical scene with a Halloween mood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "little-joys"
+    },
+    {
+      "id": "poetic-moments-07441048ddb5ee8c0165",
+      "name": "Coastal Glow Candle",
+      "series": "Everyday Poetry",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+      "packagingImage": "assets/poetic-moments/72e8021c39d07e8da5ea.webp",
+      "images": [
+        "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+        "assets/poetic-moments/72e8021c39d07e8da5ea.webp"
+      ],
+      "assignedScent": "sea-salt-driftwood",
+      "designDescription": "Three blue fish, golden framing and olive sprigs recall Mediterranean markets and the small pleasures of coastal living. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "everyday-poetry"
+    },
+    {
+      "id": "poetic-moments-ca3f1fe5263b42f40f85",
+      "name": "Blue Dove Candle",
+      "series": "Dove Reverie",
+      "productType": "Scented candle",
+      "image": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+      "packagingImage": "assets/poetic-moments/263f94bdcf7cf5ad78db.webp",
+      "images": [
+        "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+        "assets/poetic-moments/263f94bdcf7cf5ad78db.webp"
+      ],
+      "assignedScent": "white-tea-bergamot",
+      "designDescription": "A white dove framed by flowing blue ribbons on a powder-blue ground suggests a peaceful pause and a soft, airy atmosphere. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "a-moment-of-quiet"
+    },
+    {
+      "id": "poetic-moments-321d87c7e34259e0095a",
+      "name": "Blue Dove Reed Diffuser",
+      "series": "Dove Reverie",
+      "productType": "Reed diffuser",
+      "image": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+      "packagingImage": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+      "images": [
+        "assets/poetic-moments/321d87c7e34259e0095a.webp",
+        "assets/poetic-moments/a88445261f72942fd8b5.webp"
+      ],
+      "assignedScent": "white-tea-bergamot",
+      "designDescription": "A pale blue bottle with a white dove, delicate flowers and a ribbon-like frame, shown with natural-coloured reeds, evokes a calm and welcoming space. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "a-quiet-pause"
+    },
+    {
+      "id": "poetic-moments-5bc38799b6a3de21bfc3",
+      "name": "Lilac Current Reed Diffuser",
+      "series": "Colour in Bloom",
+      "productType": "Reed diffuser",
+      "image": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+      "packagingImage": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+      "images": [
+        "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+        "assets/poetic-moments/79846352fbf2877b1be2.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "A lilac square bottle with flowing blue waves, warm coral shapes and a red spherical stopper brings an artistic splash of colour to everyday rituals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "in-bloom"
+    }
+  ],
+  "images": [
+    {
+      "source": "白底绿色三芯陶瓷蜡烛罐-1.png",
+      "sha256": "c005543650a7d4ab641875b09e520aafa0fe9d1f57c7405ad3b77473d13336af",
+      "image": "assets/poetic-moments/c005543650a7d4ab6418.webp",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "source": "三芯绿陶蜡烛与礼盒-2.png",
+      "sha256": "3f66d6de1163728e8f25800c78cae379177d09ad768334737b7cf0e004c8a269",
+      "image": "assets/poetic-moments/3f66d6de1163728e8f25.webp",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "source": "粉蓝冬日芭蕾香氛蜡烛-2.png",
+      "sha256": "80d0627f8a9391cd25b67f5f7fded8a380afc17e1d4508b7cac9e9d58c7957e5",
+      "image": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "冬日芭蕾蜡烛礼盒-3.png",
+      "sha256": "8096cffca28f34fb61f38efc79dd826373d2a11fff7eca6fa959257af0d709d5",
+      "image": "assets/poetic-moments/8096cffca28f34fb61f3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "釉面陶瓷圣诞蜡烛-1.png",
+      "sha256": "8c32deb76b6323292a361547aff0df9014ff6780acb2f2284217f6f2ed78aa4e",
+      "image": "assets/poetic-moments/8c32deb76b6323292a36.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "圣诞欢乐陶瓷蜡烛礼盒-2.png",
+      "sha256": "cbfe02630d5bed84e38a7151c721d482f5856eb6072cc474b0caad12bbff6163",
+      "image": "assets/poetic-moments/cbfe02630d5bed84e38a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "午夜芭蕾黑缎香薰蜡烛-1.png",
+      "sha256": "b5442afec89b7e1a527d2b636e77772fdca4629c32e058cac8dba60c67a73bb3",
+      "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "午夜芭蕾蜡烛礼盒-4.png",
+      "sha256": "dc0eec4a14764109aea2acd669e6e4b8cfe7cc99259abe3e877190423c10001e",
+      "image": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "地中海复古彩绘香氛蜡烛-1.png",
+      "sha256": "07441048ddb5ee8c0165b915fc2f573f2fbd5b020eae9d5e1713526bea4f0a6c",
+      "image": "assets/poetic-moments/07441048ddb5ee8c0165.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "海岸微光蜡烛与礼盒-2.png",
+      "sha256": "72e8021c39d07e8da5ea622923ea415fc5f2e7e2e3ad7a2c3d941f806c58e307",
+      "image": "assets/poetic-moments/72e8021c39d07e8da5ea.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉蓝飞鸽缎带香薰蜡烛.png",
+      "sha256": "ca3f1fe5263b42f40f8513cefbb0d7b316900504cc8f8b34918ba45d63955f52",
+      "image": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉蓝鸽子蜡烛与象牙礼盒.png",
+      "sha256": "263f94bdcf7cf5ad78db471528d93f94ce92c563fddb29eb5bd5b410a0167a9d",
+      "image": "assets/poetic-moments/263f94bdcf7cf5ad78db.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳薇蓝鸽五藤条香薰瓶-1.png",
+      "sha256": "321d87c7e34259e0095a48c74f90936e71e0451ec9c6eaea2df4ea2099c3b735",
+      "image": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "蓝鸽香薰与象牙礼盒-2.png",
+      "sha256": "a88445261f72942fd8b500f55e0ee66bbd3f071cf43ea62d0006a41e1565da42",
+      "image": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "紫晶方瓶香薰与红球瓶塞-1.png",
+      "sha256": "5bc38799b6a3de21bfc3236344013a1a0aa8a4870097add2dca5bef605a115a2",
+      "image": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "紫丁香香薰礼盒静物-2.png",
+      "sha256": "79846352fbf2877b1be2aa76296441cf802d6787d7c2d62e6b19a10267a70ee4",
+      "image": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}
