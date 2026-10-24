@@ -124,6 +124,14 @@
         "href": "product-lnv-cnd-6187e5a2.html?scent=pear-freesia"
       },
       {
+        "category": "reed",
+        "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+        "name": "Bunny Best Friends Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-98c6c35f.html?scent=pear-freesia"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/candles-034.webp",
         "name": "Birthday Surprise Egg",
@@ -334,6 +342,14 @@
         "series": "Spring & Summer Together",
         "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-bb0272fc.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+        "name": "Heart-Eyed Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-cfbcce09.html?scent=rose-green-leaves"
       },
       {
         "category": "candle",
@@ -617,6 +633,14 @@
         "series": "Art Glass Reverie",
         "catalogueHref": "reeds-in-bloom.html",
         "href": "product-lnv-rd-488767e2.html?scent=peony-lychee"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+        "name": "Pink Garden Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-1f4b21bd.html?scent=peony-lychee"
       },
       {
         "category": "candle",
@@ -1162,6 +1186,14 @@
         "href": "product-lnv-rd-cfee83a2.html?scent=grapefruit-bergamot"
       },
       {
+        "category": "reed",
+        "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+        "name": "Golden Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-92f77b6c.html?scent=grapefruit-bergamot"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
@@ -1291,6 +1323,14 @@
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry.html",
         "href": "product-lnv-cnd-52178592.html?scent=lemon-verbena"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+        "name": "Sunshine Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-cf73adef.html?scent=lemon-verbena"
       },
       {
         "category": "reed",

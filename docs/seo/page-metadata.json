@@ -2071,6 +2071,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-rd-1f4b21bd.html": {
+    "title": "Pink Garden Bunny Reed Diffuser | Lanarve",
+    "description": "Explore Pink Garden Bunny Reed Diffuser from Lanarve\u2019s Little Daydreams designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-rd-1f4b21bd.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-rd-2591b062.html": {
     "title": "Blue & White Landscape Reed Diffuser | Lanarve",
     "description": "Explore Blue & White Landscape Reed Diffuser from Lanarve\u2019s Blue & White Landscapes designs. Discuss Oud & Saffron fragrance, private label presentation and packaging for your collection.",
@@ -2386,10 +2393,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-rd-92f77b6c.html": {
+    "title": "Golden Bunny Reed Diffuser | Lanarve",
+    "description": "Explore Golden Bunny Reed Diffuser from Lanarve\u2019s Little Daydreams designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-rd-92f77b6c.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-rd-94b28ee9.html": {
     "title": "Botanical Citrus Reed Diffuser | Lanarve",
     "description": "Explore Botanical Citrus from Lanarve\u2019s Botanical Infusions designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-rd-94b28ee9.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-rd-98c6c35f.html": {
+    "title": "Bunny Best Friends Reed Diffuser | Lanarve",
+    "description": "Explore Bunny Best Friends Reed Diffuser from Lanarve\u2019s Little Daydreams designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-rd-98c6c35f.html",
     "indexable": true,
     "type": "product"
   },
@@ -2551,6 +2572,20 @@
     "title": "Moonlit Gardenia \u2014 Tall Reed Diffuser | Lanarve",
     "description": "Explore Moonlit Gardenia \u2014 Tall from Lanarve\u2019s Ribbed Ceramic designs. Discuss Gardenia & Tuberose fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-rd-cec2eb69.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-rd-cf73adef.html": {
+    "title": "Sunshine Bunny Reed Diffuser | Lanarve",
+    "description": "Explore Sunshine Bunny Reed Diffuser from Lanarve\u2019s Little Daydreams designs. Discuss Lemon & Verbena fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-rd-cf73adef.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-rd-cfbcce09.html": {
+    "title": "Heart-Eyed Bunny Reed Diffuser | Lanarve",
+    "description": "Explore Heart-Eyed Bunny Reed Diffuser from Lanarve\u2019s Little Daydreams designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-rd-cfbcce09.html",
     "indexable": true,
     "type": "product"
   },
@@ -3440,6 +3475,13 @@
     "title": "In Bloom Reed Diffusers | Lanarve",
     "description": "Explore In Bloom, a Lanarve reed diffusers collection. Floral & fruity reed diffusers Discuss wholesale, fragrance and private label options.",
     "canonical": "https://www.lanarve.com/reeds-in-bloom.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "reeds-little-daydreams.html": {
+    "title": "Little Daydreams Reed Diffusers | Lanarve",
+    "description": "Explore Little Daydreams, a Lanarve reed diffusers collection. An innocent and joyful expression from my daughter. Discuss wholesale, fragrance and private label options.",
+    "canonical": "https://www.lanarve.com/reeds-little-daydreams.html",
     "indexable": true,
     "type": "collection"
   },

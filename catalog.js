@@ -132,6 +132,14 @@ const scents = [
         "href": "product-lnv-cnd-6187e5a2.html?scent=pear-freesia"
       },
       {
+        "category": "reed",
+        "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+        "name": "Bunny Best Friends Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-98c6c35f.html?scent=pear-freesia"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/candles-034.webp",
         "name": "Birthday Surprise Egg",
@@ -342,6 +350,14 @@ const scents = [
         "series": "Spring & Summer Together",
         "catalogueHref": "candles-close-to-you.html",
         "href": "product-lnv-cnd-bb0272fc.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+        "name": "Heart-Eyed Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-cfbcce09.html?scent=rose-green-leaves"
       },
       {
         "category": "candle",
@@ -625,6 +641,14 @@ const scents = [
         "series": "Art Glass Reverie",
         "catalogueHref": "reeds-in-bloom.html",
         "href": "product-lnv-rd-488767e2.html?scent=peony-lychee"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+        "name": "Pink Garden Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-1f4b21bd.html?scent=peony-lychee"
       },
       {
         "category": "candle",
@@ -1170,6 +1194,14 @@ const scents = [
         "href": "product-lnv-rd-cfee83a2.html?scent=grapefruit-bergamot"
       },
       {
+        "category": "reed",
+        "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+        "name": "Golden Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-92f77b6c.html?scent=grapefruit-bergamot"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
@@ -1299,6 +1331,14 @@ const scents = [
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry.html",
         "href": "product-lnv-cnd-52178592.html?scent=lemon-verbena"
+      },
+      {
+        "category": "reed",
+        "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+        "name": "Sunshine Bunny Reed Diffuser",
+        "series": "Little Daydreams",
+        "catalogueHref": "reeds-little-daydreams.html",
+        "href": "product-lnv-rd-cf73adef.html?scent=lemon-verbena"
       },
       {
         "category": "reed",
@@ -8729,6 +8769,160 @@ const reedProducts = [
       "assets/reeds/reed-5e8b9aaf6c03a6a0.webp"
     ],
     "assignedScent": "cedarwood-vetiver"
+  },
+  {
+    "id": "blue-landscape-import-4f266cd0f5592c455dac",
+    "name": "Blue & White Landscape Reed Diffuser",
+    "series": "Blue & White Landscapes",
+    "productType": "Reed diffuser",
+    "image": "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+    "packagingImage": "assets/blue-landscapes/15a27f6b5202b95efa1a.webp",
+    "images": [
+      "assets/blue-landscapes/4f266cd0f5592c455dac.webp",
+      "assets/blue-landscapes/15a27f6b5202b95efa1a.webp"
+    ],
+    "assignedScent": "oud-saffron",
+    "designDescription": "A blue-and-white landscape bottle with mountains, pavilions and water, shown with natural-coloured reeds. Oud & Saffron from the Oriental Mystery fragrance family adds warm woods, saffron and a softly spiced sense of depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-321d87c7e34259e0095a",
+    "name": "Blue Dove Reed Diffuser",
+    "series": "Dove Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/poetic-moments/321d87c7e34259e0095a.webp",
+    "packagingImage": "assets/poetic-moments/a88445261f72942fd8b5.webp",
+    "images": [
+      "assets/poetic-moments/321d87c7e34259e0095a.webp",
+      "assets/poetic-moments/a88445261f72942fd8b5.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "A pale blue bottle with a white dove, delicate flowers and a ribbon-like frame, shown with natural-coloured reeds, evokes a calm and welcoming space. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-5bc38799b6a3de21bfc3",
+    "name": "Lilac Current Reed Diffuser",
+    "series": "Colour in Bloom",
+    "productType": "Reed diffuser",
+    "image": "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+    "packagingImage": "assets/poetic-moments/79846352fbf2877b1be2.webp",
+    "images": [
+      "assets/poetic-moments/5bc38799b6a3de21bfc3.webp",
+      "assets/poetic-moments/79846352fbf2877b1be2.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A lilac square bottle with flowing blue waves, warm coral shapes and a red spherical stopper brings an artistic splash of colour to everyday rituals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-940aa38d16ccfcadac46",
+    "name": "Sunlit Mosaic Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+    "packagingImage": "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp",
+    "images": [
+      "assets/art-glass-reverie/940aa38d16ccfcadac46.webp",
+      "assets/art-glass-reverie/bf8c18a0ebaa9d4c04a4.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "Yellow and ivory-toned flowing marks on a rounded bottle recall sunlight dancing through glass. Grapefruit & Bergamot offers a bright citrus fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-62c95ae7bb850aa7f867",
+    "name": "Coral Petal Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+    "packagingImage": "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp",
+    "images": [
+      "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp",
+      "assets/art-glass-reverie/578cf84f83c1b87e6a09.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Soft coral-pink and ivory-toned organic markings resemble scattered petals. Peony & Lychee suggests an airy floral fragrance with a gently fruity opening. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "art-glass-import-8c4702d37beaf6f9aa68",
+    "name": "Forest Veil Reed Diffuser",
+    "series": "Art Glass Reverie",
+    "productType": "Reed diffuser",
+    "image": "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+    "packagingImage": "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp",
+    "images": [
+      "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp",
+      "assets/art-glass-reverie/c5d7673d6c77e089e1f1.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "Deep green vertical forms and pale translucent accents evoke light filtering through a quiet forest. Green Tea & Cedarwood provides a fresh tea-and-wood fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-7cc0412568ea28f25ccb",
+    "name": "Heart-Eyed Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+    "packagingImage": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+    "images": [
+      "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+      "assets/little-daydreams/490f1c336870e0ebfd16.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "A wide-eyed rabbit surrounded by little red hearts captures an affectionate, spontaneous drawing full of personality. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-3dc6cccc09a292df8837",
+    "name": "Sunshine Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+    "packagingImage": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+    "images": [
+      "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+      "assets/little-daydreams/5f4a1aaee44330f3333a.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "designDescription": "A bright yellow rabbit with playful bows and hearts feels sunny, curious and completely uninhibited. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-44b9fa37de5ae0f0c145",
+    "name": "Bunny Best Friends Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+    "packagingImage": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+    "images": [
+      "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+      "assets/little-daydreams/7ed6570c8a28aec7c862.webp"
+    ],
+    "assignedScent": "pear-freesia",
+    "designDescription": "Two colourful rabbit friends bring together lively marks, bold colour and the easy joy of childhood friendship. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-afb584c558bf5c6f0097",
+    "name": "Pink Garden Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+    "packagingImage": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+    "images": [
+      "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+      "assets/little-daydreams/c351bdba9411e753ce7c.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "A pink rabbit, rosy flowers and expressive brush marks turn the bottle into a small, cheerful garden story. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-22857d32f7690844a98d",
+    "name": "Golden Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+    "packagingImage": "assets/little-daydreams/05076d857a786e3e1051.webp",
+    "images": [
+      "assets/little-daydreams/22857d32f7690844a98d.webp",
+      "assets/little-daydreams/05076d857a786e3e1051.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "An orange-gold rabbit with long green ears and a tiny red flower brings a bright, humorous spark to the collection. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 const crystalProducts = [
@@ -10301,7 +10495,12 @@ const productPages = {
     "assets/poetic-moments/5bc38799b6a3de21bfc3.webp": "product-lnv-rd-64253a72.html",
     "assets/art-glass-reverie/940aa38d16ccfcadac46.webp": "product-lnv-rd-cfee83a2.html",
     "assets/art-glass-reverie/62c95ae7bb850aa7f867.webp": "product-lnv-rd-488767e2.html",
-    "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp": "product-lnv-rd-99ca634f.html"
+    "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp": "product-lnv-rd-99ca634f.html",
+    "assets/little-daydreams/7cc0412568ea28f25ccb.webp": "product-lnv-rd-cfbcce09.html",
+    "assets/little-daydreams/3dc6cccc09a292df8837.webp": "product-lnv-rd-cf73adef.html",
+    "assets/little-daydreams/44b9fa37de5ae0f0c145.webp": "product-lnv-rd-98c6c35f.html",
+    "assets/little-daydreams/afb584c558bf5c6f0097.webp": "product-lnv-rd-1f4b21bd.html",
+    "assets/little-daydreams/22857d32f7690844a98d.webp": "product-lnv-rd-92f77b6c.html"
   },
   "crystal": {
     "assets/companions/040856927401c5aa9fe5.webp": "product-lnv-cry-2961f11a.html",

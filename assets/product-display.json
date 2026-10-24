@@ -1456,5 +1456,20 @@
   },
   "assets/art-glass-reverie/8c4702d37beaf6f9aa68.webp": {
     "palette": "sage"
+  },
+  "assets/little-daydreams/7cc0412568ea28f25ccb.webp": {
+    "palette": "blush"
+  },
+  "assets/little-daydreams/3dc6cccc09a292df8837.webp": {
+    "palette": "gold"
+  },
+  "assets/little-daydreams/44b9fa37de5ae0f0c145.webp": {
+    "palette": "lavender"
+  },
+  "assets/little-daydreams/afb584c558bf5c6f0097.webp": {
+    "palette": "blush"
+  },
+  "assets/little-daydreams/22857d32f7690844a98d.webp": {
+    "palette": "gold"
   }
 }

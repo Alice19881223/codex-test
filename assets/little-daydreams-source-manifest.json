@@ -1,0 +1,173 @@
+{
+  "sourceArchives": [
+    "网站上图5.zip"
+  ],
+  "theme": "Little Daydreams",
+  "introduction": "An innocent and joyful expression from my daughter.",
+  "products": [
+    {
+      "id": "little-daydreams-7cc0412568ea28f25ccb",
+      "name": "Heart-Eyed Bunny Reed Diffuser",
+      "series": "Little Daydreams",
+      "productType": "Reed diffuser",
+      "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+      "packagingImage": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+      "images": [
+        "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+        "assets/little-daydreams/490f1c336870e0ebfd16.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "A wide-eyed rabbit surrounded by little red hearts captures an affectionate, spontaneous drawing full of personality. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "little-daydreams-3dc6cccc09a292df8837",
+      "name": "Sunshine Bunny Reed Diffuser",
+      "series": "Little Daydreams",
+      "productType": "Reed diffuser",
+      "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+      "packagingImage": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+      "images": [
+        "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+        "assets/little-daydreams/5f4a1aaee44330f3333a.webp"
+      ],
+      "assignedScent": "lemon-verbena",
+      "designDescription": "A bright yellow rabbit with playful bows and hearts feels sunny, curious and completely uninhibited. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "little-daydreams-44b9fa37de5ae0f0c145",
+      "name": "Bunny Best Friends Reed Diffuser",
+      "series": "Little Daydreams",
+      "productType": "Reed diffuser",
+      "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+      "packagingImage": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+      "images": [
+        "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+        "assets/little-daydreams/7ed6570c8a28aec7c862.webp"
+      ],
+      "assignedScent": "pear-freesia",
+      "designDescription": "Two colourful rabbit friends bring together lively marks, bold colour and the easy joy of childhood friendship. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "little-daydreams-afb584c558bf5c6f0097",
+      "name": "Pink Garden Bunny Reed Diffuser",
+      "series": "Little Daydreams",
+      "productType": "Reed diffuser",
+      "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+      "packagingImage": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+      "images": [
+        "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+        "assets/little-daydreams/c351bdba9411e753ce7c.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "A pink rabbit, rosy flowers and expressive brush marks turn the bottle into a small, cheerful garden story. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "little-daydreams-22857d32f7690844a98d",
+      "name": "Golden Bunny Reed Diffuser",
+      "series": "Little Daydreams",
+      "productType": "Reed diffuser",
+      "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+      "packagingImage": "assets/little-daydreams/05076d857a786e3e1051.webp",
+      "images": [
+        "assets/little-daydreams/22857d32f7690844a98d.webp",
+        "assets/little-daydreams/05076d857a786e3e1051.webp"
+      ],
+      "assignedScent": "grapefruit-bergamot",
+      "designDescription": "An orange-gold rabbit with long green ears and a tiny red flower brings a bright, humorous spark to the collection. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "source": "兔心香薰瓶-9.png",
+      "sha256": "7cc0412568ea28f25ccbaa15041f15af5374b9f94d43d1441214de9b6abf8b85",
+      "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "手绘兔心香薰与礼盒-10.png",
+      "sha256": "490f1c336870e0ebfd162c75bff40058c0ee6465405fe7906ca095568c1de487",
+      "image": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "黄兔图案玻璃扩香瓶-7.png",
+      "sha256": "3dc6cccc09a292df8837db0b26328e71b885e1979c5c65a65ba4a8000dc6ee95",
+      "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "兰纳维黄兔香薰礼盒-8.png",
+      "sha256": "5f4a1aaee44330f3333a958bd9c3a063153330c3cf9d8b30b0e651866622f980",
+      "image": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "黄粉兔友扩香瓶-5.png",
+      "sha256": "44b9fa37de5ae0f0c14591e184bbb771d906f9d98f80ac1bdffca2357a1ffc5f",
+      "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "彩兔香薰礼盒焕新-6.png",
+      "sha256": "7ed6570c8a28aec7c8626bee286ffc7794be62dbca7a0a5c8e9439ec938677ea",
+      "image": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉色兔子香薰瓶-1.png",
+      "sha256": "afb584c558bf5c6f0097dd728ea71b5df474f89427a8d8b9064233c56829d1ac",
+      "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "粉兔香薰与手绘礼盒-3.png",
+      "sha256": "c351bdba9411e753ce7cdd839b2bd1a395c74c47f5de4733b33399c4484eb2a0",
+      "image": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "金兔扩香瓶-2.png",
+      "sha256": "22857d32f7690844a98d04482de099db8d7174ec30e80be852e8bd392ceaac66",
+      "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "source": "金橙兔耳扩香礼盒-4.png",
+      "sha256": "05076d857a786e3e10518df2f3c19f0d8056d8e1c00c79c24d589008194f36c6",
+      "image": "assets/little-daydreams/05076d857a786e3e1051.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "relatedProducts": [
+    {
+      "category": "candle",
+      "series": "Jellyfish",
+      "name": "Jellyfish Egg Candle"
+    },
+    {
+      "category": "candle",
+      "series": "Jellyfish",
+      "name": "Jellyfish Glass Candle"
+    },
+    {
+      "category": "candle",
+      "series": "Everyday Poetry",
+      "name": "Blue Harbour"
+    },
+    {
+      "category": "candle",
+      "series": "Everyday Poetry",
+      "name": "Harbour Parade"
+    }
+  ]
+}

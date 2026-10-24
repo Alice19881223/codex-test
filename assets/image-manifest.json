@@ -12651,5 +12651,235 @@
         "bytes": 76814
       }
     ]
+  },
+  "assets/little-daydreams/7cc0412568ea28f25ccb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 80804,
+    "src": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/7cc0412568ea28f25ccb-480.webp",
+        "width": 480,
+        "bytes": 18338
+      },
+      {
+        "src": "assets/little-daydreams/7cc0412568ea28f25ccb-960.webp",
+        "width": 960,
+        "bytes": 50034
+      },
+      {
+        "src": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+        "width": 1254,
+        "bytes": 80804
+      }
+    ]
+  },
+  "assets/little-daydreams/490f1c336870e0ebfd16.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 150648,
+    "src": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/490f1c336870e0ebfd16-480.webp",
+        "width": 480,
+        "bytes": 30834
+      },
+      {
+        "src": "assets/little-daydreams/490f1c336870e0ebfd16-960.webp",
+        "width": 960,
+        "bytes": 91168
+      },
+      {
+        "src": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+        "width": 1254,
+        "bytes": 150648
+      }
+    ]
+  },
+  "assets/little-daydreams/3dc6cccc09a292df8837.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 94636,
+    "src": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/3dc6cccc09a292df8837-480.webp",
+        "width": 480,
+        "bytes": 21694
+      },
+      {
+        "src": "assets/little-daydreams/3dc6cccc09a292df8837-960.webp",
+        "width": 960,
+        "bytes": 59706
+      },
+      {
+        "src": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+        "width": 1254,
+        "bytes": 94636
+      }
+    ]
+  },
+  "assets/little-daydreams/5f4a1aaee44330f3333a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 162228,
+    "src": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/5f4a1aaee44330f3333a-480.webp",
+        "width": 480,
+        "bytes": 32952
+      },
+      {
+        "src": "assets/little-daydreams/5f4a1aaee44330f3333a-960.webp",
+        "width": 960,
+        "bytes": 97170
+      },
+      {
+        "src": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+        "width": 1254,
+        "bytes": 162228
+      }
+    ]
+  },
+  "assets/little-daydreams/44b9fa37de5ae0f0c145.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 101856,
+    "src": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/44b9fa37de5ae0f0c145-480.webp",
+        "width": 480,
+        "bytes": 22528
+      },
+      {
+        "src": "assets/little-daydreams/44b9fa37de5ae0f0c145-960.webp",
+        "width": 960,
+        "bytes": 64210
+      },
+      {
+        "src": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+        "width": 1254,
+        "bytes": 101856
+      }
+    ]
+  },
+  "assets/little-daydreams/7ed6570c8a28aec7c862.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 186756,
+    "src": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/7ed6570c8a28aec7c862-480.webp",
+        "width": 480,
+        "bytes": 36924
+      },
+      {
+        "src": "assets/little-daydreams/7ed6570c8a28aec7c862-960.webp",
+        "width": 960,
+        "bytes": 110234
+      },
+      {
+        "src": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+        "width": 1254,
+        "bytes": 186756
+      }
+    ]
+  },
+  "assets/little-daydreams/afb584c558bf5c6f0097.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 111880,
+    "src": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/afb584c558bf5c6f0097-480.webp",
+        "width": 480,
+        "bytes": 22868
+      },
+      {
+        "src": "assets/little-daydreams/afb584c558bf5c6f0097-960.webp",
+        "width": 960,
+        "bytes": 67468
+      },
+      {
+        "src": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+        "width": 1254,
+        "bytes": 111880
+      }
+    ]
+  },
+  "assets/little-daydreams/c351bdba9411e753ce7c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 188532,
+    "src": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/c351bdba9411e753ce7c-480.webp",
+        "width": 480,
+        "bytes": 34652
+      },
+      {
+        "src": "assets/little-daydreams/c351bdba9411e753ce7c-960.webp",
+        "width": 960,
+        "bytes": 108530
+      },
+      {
+        "src": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+        "width": 1254,
+        "bytes": 188532
+      }
+    ]
+  },
+  "assets/little-daydreams/22857d32f7690844a98d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 100010,
+    "src": "assets/little-daydreams/22857d32f7690844a98d.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/22857d32f7690844a98d-480.webp",
+        "width": 480,
+        "bytes": 22646
+      },
+      {
+        "src": "assets/little-daydreams/22857d32f7690844a98d-960.webp",
+        "width": 960,
+        "bytes": 64410
+      },
+      {
+        "src": "assets/little-daydreams/22857d32f7690844a98d.webp",
+        "width": 1254,
+        "bytes": 100010
+      }
+    ]
+  },
+  "assets/little-daydreams/05076d857a786e3e1051.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 169340,
+    "src": "assets/little-daydreams/05076d857a786e3e1051.webp",
+    "variants": [
+      {
+        "src": "assets/little-daydreams/05076d857a786e3e1051-480.webp",
+        "width": 480,
+        "bytes": 34378
+      },
+      {
+        "src": "assets/little-daydreams/05076d857a786e3e1051-960.webp",
+        "width": 960,
+        "bytes": 101462
+      },
+      {
+        "src": "assets/little-daydreams/05076d857a786e3e1051.webp",
+        "width": 1254,
+        "bytes": 169340
+      }
+    ]
   }
 }

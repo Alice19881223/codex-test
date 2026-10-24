@@ -255,5 +255,49 @@
         "Atelier Glass | Sandalwood Atelier"
       ]
     ]
+  },
+  {
+    "slug": "little-daydreams",
+    "name": "Little Daydreams",
+    "description": "An innocent and joyful expression from my daughter.",
+    "icon": "little-daydreams",
+    "productKeys": [
+      "Little Daydreams | Heart-Eyed Bunny Reed Diffuser",
+      "Little Daydreams | Sunshine Bunny Reed Diffuser",
+      "Little Daydreams | Bunny Best Friends Reed Diffuser",
+      "Little Daydreams | Pink Garden Bunny Reed Diffuser",
+      "Little Daydreams | Golden Bunny Reed Diffuser"
+    ],
+    "pages": [
+      [
+        "Little Daydreams | Heart-Eyed Bunny Reed Diffuser",
+        "Little Daydreams | Sunshine Bunny Reed Diffuser",
+        "Little Daydreams | Bunny Best Friends Reed Diffuser",
+        "Little Daydreams | Pink Garden Bunny Reed Diffuser",
+        "Little Daydreams | Golden Bunny Reed Diffuser"
+      ]
+    ],
+    "relatedProducts": [
+      {
+        "category": "candle",
+        "series": "Jellyfish",
+        "name": "Jellyfish Egg Candle"
+      },
+      {
+        "category": "candle",
+        "series": "Jellyfish",
+        "name": "Jellyfish Glass Candle"
+      },
+      {
+        "category": "candle",
+        "series": "Everyday Poetry",
+        "name": "Blue Harbour"
+      },
+      {
+        "category": "candle",
+        "series": "Everyday Poetry",
+        "name": "Harbour Parade"
+      }
+    ]
   }
 ]

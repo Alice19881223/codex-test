@@ -4471,6 +4471,91 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-RD-CFBCCE09",
+    "category": "reed",
+    "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+    "name": "Heart-Eyed Bunny Reed Diffuser",
+    "title": "Heart-Eyed Bunny Reed Diffuser",
+    "url": "product-lnv-rd-cfbcce09.html",
+    "series": "Little Daydreams",
+    "collection": "Little Daydreams",
+    "collectionHref": "reeds-little-daydreams.html",
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-CF73ADEF",
+    "category": "reed",
+    "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+    "name": "Sunshine Bunny Reed Diffuser",
+    "title": "Sunshine Bunny Reed Diffuser",
+    "url": "product-lnv-rd-cf73adef.html",
+    "series": "Little Daydreams",
+    "collection": "Little Daydreams",
+    "collectionHref": "reeds-little-daydreams.html",
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-98C6C35F",
+    "category": "reed",
+    "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+    "name": "Bunny Best Friends Reed Diffuser",
+    "title": "Bunny Best Friends Reed Diffuser",
+    "url": "product-lnv-rd-98c6c35f.html",
+    "series": "Little Daydreams",
+    "collection": "Little Daydreams",
+    "collectionHref": "reeds-little-daydreams.html",
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-1F4B21BD",
+    "category": "reed",
+    "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+    "name": "Pink Garden Bunny Reed Diffuser",
+    "title": "Pink Garden Bunny Reed Diffuser",
+    "url": "product-lnv-rd-1f4b21bd.html",
+    "series": "Little Daydreams",
+    "collection": "Little Daydreams",
+    "collectionHref": "reeds-little-daydreams.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-92F77B6C",
+    "category": "reed",
+    "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+    "name": "Golden Bunny Reed Diffuser",
+    "title": "Golden Bunny Reed Diffuser",
+    "url": "product-lnv-rd-92f77b6c.html",
+    "series": "Little Daydreams",
+    "collection": "Little Daydreams",
+    "collectionHref": "reeds-little-daydreams.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-CRY-2961F11A",
     "category": "crystal",
     "image": "assets/companions/040856927401c5aa9fe5.webp",

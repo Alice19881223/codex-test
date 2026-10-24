@@ -1205,5 +1205,75 @@
     ],
     "assignedScent": "green-tea-cedarwood",
     "designDescription": "Deep green vertical forms and pale translucent accents evoke light filtering through a quiet forest. Green Tea & Cedarwood provides a fresh tea-and-wood fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-7cc0412568ea28f25ccb",
+    "name": "Heart-Eyed Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+    "packagingImage": "assets/little-daydreams/490f1c336870e0ebfd16.webp",
+    "images": [
+      "assets/little-daydreams/7cc0412568ea28f25ccb.webp",
+      "assets/little-daydreams/490f1c336870e0ebfd16.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "A wide-eyed rabbit surrounded by little red hearts captures an affectionate, spontaneous drawing full of personality. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-3dc6cccc09a292df8837",
+    "name": "Sunshine Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+    "packagingImage": "assets/little-daydreams/5f4a1aaee44330f3333a.webp",
+    "images": [
+      "assets/little-daydreams/3dc6cccc09a292df8837.webp",
+      "assets/little-daydreams/5f4a1aaee44330f3333a.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "designDescription": "A bright yellow rabbit with playful bows and hearts feels sunny, curious and completely uninhibited. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-44b9fa37de5ae0f0c145",
+    "name": "Bunny Best Friends Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+    "packagingImage": "assets/little-daydreams/7ed6570c8a28aec7c862.webp",
+    "images": [
+      "assets/little-daydreams/44b9fa37de5ae0f0c145.webp",
+      "assets/little-daydreams/7ed6570c8a28aec7c862.webp"
+    ],
+    "assignedScent": "pear-freesia",
+    "designDescription": "Two colourful rabbit friends bring together lively marks, bold colour and the easy joy of childhood friendship. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-afb584c558bf5c6f0097",
+    "name": "Pink Garden Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+    "packagingImage": "assets/little-daydreams/c351bdba9411e753ce7c.webp",
+    "images": [
+      "assets/little-daydreams/afb584c558bf5c6f0097.webp",
+      "assets/little-daydreams/c351bdba9411e753ce7c.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "A pink rabbit, rosy flowers and expressive brush marks turn the bottle into a small, cheerful garden story. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "little-daydreams-22857d32f7690844a98d",
+    "name": "Golden Bunny Reed Diffuser",
+    "series": "Little Daydreams",
+    "productType": "Reed diffuser",
+    "image": "assets/little-daydreams/22857d32f7690844a98d.webp",
+    "packagingImage": "assets/little-daydreams/05076d857a786e3e1051.webp",
+    "images": [
+      "assets/little-daydreams/22857d32f7690844a98d.webp",
+      "assets/little-daydreams/05076d857a786e3e1051.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "An orange-gold rabbit with long green ears and a tiny red flower brings a bright, humorous spark to the collection. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

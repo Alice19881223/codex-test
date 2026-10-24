@@ -4,6 +4,7 @@
     1440,
     390
   ],
+  "littleDaydreamsDesigns": 9,
   "poeticMomentsDesigns": 8,
   "blueLandscapeAndButterflyDesigns": 3,
   "christmasStorybookDesigns": 15,
@@ -14,7 +15,7 @@
   "christmasPaginationCacheBypass": true,
   "fragranceHover": true,
   "mobileTap": true,
-  "catalogueTapPages": 36,
+  "catalogueTapPages": 37,
   "productCardNativeNavigation": true,
   "secondViewTouchToggle": true,
   "productImageHover": true,
