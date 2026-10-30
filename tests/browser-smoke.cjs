@@ -86,19 +86,19 @@ try{
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'Little Daydreams overflow');await ctx.close();
   }
  }
- // New Christmas storybook products occupy page two, then continue on page three.
+ // Christmas storybook products remain complete after colour-led merchandising changes.
  const storybookManifest=path.join(root,'assets/christmas-storybook-source-manifest.json');
  if(fs.existsSync(storybookManifest)){
   const manifest=JSON.parse(fs.readFileSync(storybookManifest)),designs=manifest.products;
   const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json')));
   const order=JSON.parse(fs.readFileSync(path.join(root,'assets/catalogue-order.json'))).christmas;
   assert.equal(designs.length,15);assert.equal(manifest.images.length,30);assert.equal(designs.filter(d=>d.productType==='Reed diffuser').length,7);
-  assert.deepEqual(order[1],designs.slice(0,12).map(d=>d.name));assert.deepEqual(order[2].slice(0,3),designs.slice(12).map(d=>d.name));
+  const orderedNames=order.flat();assert.ok(designs.every(d=>orderedNames.filter(name=>name===d.name).length===1));
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
    await page.goto(base+'/christmas-collection-2.html');assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),order[1]);
    await page.locator('#pagination a').filter({hasText:/^3$/}).click();assert.equal(await page.locator('#catalogue-grid h3').count(),12);
-   assert.deepEqual((await page.locator('#catalogue-grid h3').allTextContents()).slice(0,3),designs.slice(12).map(d=>d.name));
+   assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),order[2]);
    await page.locator('#pagination a').filter({hasText:/^2$/}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
    for(const design of designs){
     const record=records.find(r=>r.image===design.image);assert.ok(record);await page.goto(base+'/'+record.url);
@@ -118,10 +118,11 @@ try{
   const manifest=JSON.parse(fs.readFileSync(festiveStoriesManifest)),designs=manifest.products;
   const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),order=JSON.parse(fs.readFileSync(path.join(root,'assets/catalogue-order.json'))).christmas;
   assert.equal(designs.length,38);assert.equal(manifest.images.length,76);assert.equal(designs.filter(d=>d.productType==='Scented candle').length,37);assert.equal(designs.filter(d=>d.productType==='Reed diffuser').length,1);assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage));
-  const flat=order.flat(),ornamentNames=new Set(JSON.parse(fs.readFileSync(path.join(root,'assets/christmas-products.json'))).filter(p=>['Festive Wax Ornaments','Botanical Wax Ornaments'].includes(p.series)).map(p=>p.name)),firstOrnament=flat.findIndex(n=>ornamentNames.has(n));assert.deepEqual(flat.slice(firstOrnament-designs.length,firstOrnament),designs.map(d=>d.name));
+  const merchandising=JSON.parse(fs.readFileSync(path.join(root,'assets/christmas-merchandising-groups.json'))),flat=order.flat(),grouped=merchandising.groups.flatMap(group=>group.products);
+  assert.deepEqual(merchandising.groups.map(group=>group.products.length),[55,18,8,10,5,7]);assert.deepEqual(merchandising.pageCounts,[12,12,12,12,12,12,12,12,7]);assert.deepEqual(flat,grouped);assert.ok(designs.every(design=>flat.includes(design.name)));
   const representatives=['Snowman Moonlit Cottage','Gingerbread Christmas at Home','Evergreen Star Tree','Golden Noel Angel','Christmas Angel Reed Diffuser'].map(name=>designs.find(d=>d.name===name));
   for(const width of [1440,390]){
-   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();await page.goto(base+'/christmas-collection.html');assert.equal(await page.locator('.christmas-mood-strip span').count(),4);assert.match(await page.locator('.christmas-intro').evaluate(el=>getComputedStyle(el).backgroundImage),/gradient/);
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();await page.goto(base+'/christmas-collection.html');assert.deepEqual(await page.locator('.christmas-mood-strip span').allTextContents(),['RED · GREEN · IVORY','BRIGHT COLOUR','WINTER BLUE','HARMONIOUS TONES','SAND ART','SCENTED ORNAMENTS']);assert.match(await page.locator('.christmas-intro').evaluate(el=>getComputedStyle(el).backgroundImage),/gradient/);
    for(const design of representatives){const pageNumber=order.findIndex(items=>items.includes(design.name))+1,route='christmas-collection'+(pageNumber>1?'-'+pageNumber:'')+'.html';await page.goto(base+'/'+route);const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}),wrapper=card.locator('xpath=..');assert.equal(await card.locator('.paired-photo img').count(),2);if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}await card.click();const record=records.find(r=>r.image===design.image);assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);const care=await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent();if(design.productType==='Reed diffuser'){assert.match(care,/inserting or turning reeds/);assert.doesNotMatch(care,/burning candle/);}else assert.match(care,/Never leave a burning candle unattended/);}
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'festive stories overflow');await ctx.close();
   }

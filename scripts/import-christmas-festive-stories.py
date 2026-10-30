@@ -2,7 +2,7 @@
 from pathlib import Path
 from contextlib import ExitStack
 from io import BytesIO
-import hashlib,json,re,sys,zipfile
+import hashlib,json,re,runpy,sys,zipfile
 from PIL import Image,ImageOps
 from product_records import item_no
 
@@ -74,9 +74,10 @@ def main():
    products.append(product);added.append(product);display[src]={'palette':palette};assignments[item_no('christmas',src)]={'scent':scent,'basis':'Suggested pairing based on the reviewed Christmas design, colour and seasonal atmosphere'};next(p for p in scents if p['id']==scent)['matches'].append({'category':'christmas','image':src,'name':name,'series':series})
  order=read('catalogue-order.json');new_names=[p['name'] for p in added];flat=[name for page in order['christmas'] for name in page if name not in new_names];lookup={p['name']:p for p in products};ornaments={'Festive Wax Ornaments','Botanical Wax Ornaments'};position=next((i for i,name in enumerate(flat) if lookup[name]['series'] in ornaments),len(flat));flat[position:position]=new_names;order['christmas']=[flat[i:i+12] for i in range(0,len(flat),12)]
  layouts=read('catalogue-layouts.json');layouts['christmas']=[[lookup[name]['image'] for name in page] for page in order['christmas']]
- manifest={'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'products':added,'images':sources,'pairCount':38,'placement':'Added after existing Christmas candles and diffusers and before wax ornaments.'}
+ manifest={'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'products':added,'images':sources,'pairCount':38,'placement':'Included in the reviewed colour-led Christmas sequence; sand art and scented ornaments remain the final groups.'}
  for name,data in [('christmas-products.json',products),('fragrances.json',scents),('product-display.json',display),('product-fragrances.json',assignments),('image-manifest.json',media),('catalogue-order.json',order),('catalogue-layouts.json',layouts),('christmas-festive-stories-source-manifest.json',manifest)]:write(name,data)
  catalog=ROOT/'catalog.js';text=catalog.read_text();text=re.sub(r'const christmasProducts = \[.*?\n\];',lambda m:'const christmasProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';',text,count=1,flags=re.S);catalog.write_text(text)
+ runpy.run_path(str(ROOT/'scripts/reorder-christmas-colours.py'),run_name='__main__')
  print('Imported 38 Christmas designs with 76 reviewed photographs.')
 
 if __name__=='__main__':main()
