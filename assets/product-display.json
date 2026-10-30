@@ -1604,13 +1604,7 @@
   "assets/halloween/paired/eb637d69e43fbc04ff1f.webp": {
     "palette": "sage"
   },
-  "assets/halloween/paired/808384b22d781264e928.webp": {
-    "palette": "charcoal"
-  },
   "assets/halloween/paired/beca87122dd54a94f7fb.webp": {
-    "palette": "charcoal"
-  },
-  "assets/halloween/paired/b09d818770c4d9e4adc7.webp": {
     "palette": "charcoal"
   },
   "assets/halloween/paired/5f94091a961f871be721.webp": {
@@ -1655,9 +1649,6 @@
   "assets/halloween/paired/a0f8303846379cf4d8f5.webp": {
     "palette": "ivory"
   },
-  "assets/halloween/paired/bc558e4aac5a5327bd0a.webp": {
-    "palette": "ivory"
-  },
   "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": {
     "palette": "lavender"
   },
@@ -1690,5 +1681,14 @@
   },
   "assets/halloween/paired/17a4739e39ff0385df5e.webp": {
     "palette": "lavender"
+  },
+  "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": {
+    "palette": "charcoal"
+  },
+  "assets/halloween/replacements/4323c27762e03e59ef00.webp": {
+    "palette": "charcoal"
+  },
+  "assets/halloween/replacements/c312483816241eb90c2d.webp": {
+    "palette": "ivory"
   }
 }

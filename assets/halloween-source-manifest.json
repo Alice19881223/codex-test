@@ -97,14 +97,17 @@
       "name": "Bat & Pumpkin Gold",
       "series": "Midnight Mischief",
       "productType": "Scented candle",
-      "image": "assets/halloween/paired/808384b22d781264e928.webp",
+      "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
       "packagingImage": "assets/halloween/paired/038107807e544b69d2c9.webp",
       "images": [
-        "assets/halloween/paired/808384b22d781264e928.webp",
+        "assets/halloween/replacements/4323c27762e03e59ef00.webp",
         "assets/halloween/paired/038107807e544b69d2c9.webp"
       ],
       "assignedScent": "oud-saffron",
-      "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+      "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "legacyImages": [
+        "assets/halloween/paired/808384b22d781264e928.webp"
+      ]
     },
     {
       "id": "halloween-2026-beca87122dd54a94f7fb",
@@ -125,14 +128,17 @@
       "name": "Midnight Cat Witch",
       "series": "Midnight Mischief",
       "productType": "Scented candle",
-      "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "image": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
       "packagingImage": "assets/halloween/paired/8e71086f604c9f627b27.webp",
       "images": [
-        "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+        "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
         "assets/halloween/paired/8e71086f604c9f627b27.webp"
       ],
       "assignedScent": "oud-saffron",
-      "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+      "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "legacyImages": [
+        "assets/halloween/paired/b09d818770c4d9e4adc7.webp"
+      ]
     },
     {
       "id": "halloween-2026-5f94091a961f871be721",
@@ -335,14 +341,17 @@
       "name": "Ivory Ghost Garden",
       "series": "Enchanted Halloween",
       "productType": "Scented candle",
-      "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
       "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
       "images": [
-        "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+        "assets/halloween/replacements/c312483816241eb90c2d.webp",
         "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
       ],
       "assignedScent": "white-tea-rosemary",
-      "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+      "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "legacyImages": [
+        "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
+      ]
     },
     {
       "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
@@ -1137,5 +1146,38 @@
     12,
     11
   ],
-  "placement": "Independent Halloween catalogue after Christmas in the main navigation."
+  "placement": "Independent Halloween catalogue after Christmas in the main navigation.",
+  "replacementArchive": "打包.zip",
+  "replacementImages": [
+    {
+      "name": "Midnight Cat Witch",
+      "source": "浮雕双烛芯蜡烛居中展示-2.png",
+      "sha256": "ff5c4df0db5e6d7f3058bb5a29bcea650d696ad5305fe990189746baa095a0e6",
+      "previousImage": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "image": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
+      "width": 1254,
+      "height": 1254,
+      "preservedItemNo": "LNV-HLW-849357F4"
+    },
+    {
+      "name": "Bat & Pumpkin Gold",
+      "source": "白底居中的浮雕双芯蜡烛-3.png",
+      "sha256": "4323c27762e03e59ef00481bf67ac3f35eaaba12ba126d6183020a9e58a271fa",
+      "previousImage": "assets/halloween/paired/808384b22d781264e928.webp",
+      "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
+      "width": 1254,
+      "height": 1254,
+      "preservedItemNo": "LNV-HLW-9C4D87E1"
+    },
+    {
+      "name": "Ivory Ghost Garden",
+      "source": "白色双芯浮雕蜡烛-1.png",
+      "sha256": "c312483816241eb90c2d12ea001179ea4310ac1323fce16c5d433de8c6fdac3b",
+      "previousImage": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
+      "width": 1254,
+      "height": 1254,
+      "preservedItemNo": "LNV-HLW-C0314877"
+    }
+  ]
 }

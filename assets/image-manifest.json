@@ -16239,5 +16239,74 @@
         "bytes": 147340
       }
     ]
+  },
+  "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1885745,
+    "src": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/replacements/ff5c4df0db5e6d7f3058-480.webp",
+        "width": 480,
+        "bytes": 19136
+      },
+      {
+        "src": "assets/halloween/replacements/ff5c4df0db5e6d7f3058-960.webp",
+        "width": 960,
+        "bytes": 60332
+      },
+      {
+        "src": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
+        "width": 1254,
+        "bytes": 101900
+      }
+    ]
+  },
+  "assets/halloween/replacements/4323c27762e03e59ef00.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1924881,
+    "src": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/replacements/4323c27762e03e59ef00-480.webp",
+        "width": 480,
+        "bytes": 16750
+      },
+      {
+        "src": "assets/halloween/replacements/4323c27762e03e59ef00-960.webp",
+        "width": 960,
+        "bytes": 58206
+      },
+      {
+        "src": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
+        "width": 1254,
+        "bytes": 102772
+      }
+    ]
+  },
+  "assets/halloween/replacements/c312483816241eb90c2d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1646655,
+    "src": "assets/halloween/replacements/c312483816241eb90c2d.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/replacements/c312483816241eb90c2d-480.webp",
+        "width": 480,
+        "bytes": 16010
+      },
+      {
+        "src": "assets/halloween/replacements/c312483816241eb90c2d-960.webp",
+        "width": 960,
+        "bytes": 38598
+      },
+      {
+        "src": "assets/halloween/replacements/c312483816241eb90c2d.webp",
+        "width": 1254,
+        "bytes": 59046
+      }
+    ]
   }
 }

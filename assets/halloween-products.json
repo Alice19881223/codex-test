@@ -88,14 +88,17 @@
     "name": "Bat & Pumpkin Gold",
     "series": "Midnight Mischief",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/808384b22d781264e928.webp",
+    "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
     "packagingImage": "assets/halloween/paired/038107807e544b69d2c9.webp",
     "images": [
-      "assets/halloween/paired/808384b22d781264e928.webp",
+      "assets/halloween/replacements/4323c27762e03e59ef00.webp",
       "assets/halloween/paired/038107807e544b69d2c9.webp"
     ],
     "assignedScent": "oud-saffron",
-    "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/808384b22d781264e928.webp"
+    ]
   },
   {
     "id": "halloween-2026-beca87122dd54a94f7fb",
@@ -116,14 +119,17 @@
     "name": "Midnight Cat Witch",
     "series": "Midnight Mischief",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+    "image": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
     "packagingImage": "assets/halloween/paired/8e71086f604c9f627b27.webp",
     "images": [
-      "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
       "assets/halloween/paired/8e71086f604c9f627b27.webp"
     ],
     "assignedScent": "oud-saffron",
-    "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/b09d818770c4d9e4adc7.webp"
+    ]
   },
   {
     "id": "halloween-2026-5f94091a961f871be721",
@@ -326,14 +332,17 @@
     "name": "Ivory Ghost Garden",
     "series": "Enchanted Halloween",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+    "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
     "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
     "images": [
-      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "assets/halloween/replacements/c312483816241eb90c2d.webp",
       "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
     ],
     "assignedScent": "white-tea-rosemary",
-    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
+    ]
   },
   {
     "id": "halloween-2026-4ea289f1eb5bb81bf1a4",

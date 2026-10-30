@@ -140,5 +140,10 @@
     "assets/christmas/standalone/4fee0c8b694b3a6cac99.png": "LNV-XMS-80C34B43",
     "assets/christmas/standalone/d562217af6c6dcb7d806.png": "LNV-XMS-499CC25C",
     "assets/christmas/standalone/b7c2f963b441ad3ea550.png": "LNV-XMS-B26959C2"
+  },
+  "halloween": {
+    "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": "LNV-HLW-849357F4",
+    "assets/halloween/replacements/4323c27762e03e59ef00.webp": "LNV-HLW-9C4D87E1",
+    "assets/halloween/replacements/c312483816241eb90c2d.webp": "LNV-HLW-C0314877"
   }
 }

@@ -2485,7 +2485,7 @@ const scents = [
     "matches": [
       {
         "category": "halloween",
-        "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+        "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
         "name": "Ivory Ghost Garden",
         "series": "Enchanted Halloween",
         "catalogueHref": "halloween-collection-2.html",
@@ -5644,7 +5644,7 @@ const scents = [
       },
       {
         "category": "halloween",
-        "image": "assets/halloween/paired/808384b22d781264e928.webp",
+        "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
         "name": "Bat & Pumpkin Gold",
         "series": "Midnight Mischief",
         "catalogueHref": "halloween-collection.html",
@@ -5652,7 +5652,7 @@ const scents = [
       },
       {
         "category": "halloween",
-        "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+        "image": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
         "name": "Midnight Cat Witch",
         "series": "Midnight Mischief",
         "catalogueHref": "halloween-collection.html",
@@ -11310,14 +11310,17 @@ const halloweenProducts = [
     "name": "Bat & Pumpkin Gold",
     "series": "Midnight Mischief",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/808384b22d781264e928.webp",
+    "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
     "packagingImage": "assets/halloween/paired/038107807e544b69d2c9.webp",
     "images": [
-      "assets/halloween/paired/808384b22d781264e928.webp",
+      "assets/halloween/replacements/4323c27762e03e59ef00.webp",
       "assets/halloween/paired/038107807e544b69d2c9.webp"
     ],
     "assignedScent": "oud-saffron",
-    "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/808384b22d781264e928.webp"
+    ]
   },
   {
     "id": "halloween-2026-beca87122dd54a94f7fb",
@@ -11338,14 +11341,17 @@ const halloweenProducts = [
     "name": "Midnight Cat Witch",
     "series": "Midnight Mischief",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+    "image": "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
     "packagingImage": "assets/halloween/paired/8e71086f604c9f627b27.webp",
     "images": [
-      "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp",
       "assets/halloween/paired/8e71086f604c9f627b27.webp"
     ],
     "assignedScent": "oud-saffron",
-    "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/b09d818770c4d9e4adc7.webp"
+    ]
   },
   {
     "id": "halloween-2026-5f94091a961f871be721",
@@ -11548,14 +11554,17 @@ const halloweenProducts = [
     "name": "Ivory Ghost Garden",
     "series": "Enchanted Halloween",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+    "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
     "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
     "images": [
-      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "assets/halloween/replacements/c312483816241eb90c2d.webp",
       "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
     ],
     "assignedScent": "white-tea-rosemary",
-    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
+    ]
   },
   {
     "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
@@ -12254,9 +12263,9 @@ const productPages = {
     "assets/halloween/paired/4e45c3407e608cb00894.webp": "product-lnv-hlw-eef9a665.html",
     "assets/halloween/paired/d4d8d0fda1d45caac45d.webp": "product-lnv-hlw-255d01f4.html",
     "assets/halloween/paired/eb637d69e43fbc04ff1f.webp": "product-lnv-hlw-bca86495.html",
-    "assets/halloween/paired/808384b22d781264e928.webp": "product-lnv-hlw-9c4d87e1.html",
+    "assets/halloween/replacements/4323c27762e03e59ef00.webp": "product-lnv-hlw-9c4d87e1.html",
     "assets/halloween/paired/beca87122dd54a94f7fb.webp": "product-lnv-hlw-b85e9ed9.html",
-    "assets/halloween/paired/b09d818770c4d9e4adc7.webp": "product-lnv-hlw-849357f4.html",
+    "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": "product-lnv-hlw-849357f4.html",
     "assets/halloween/paired/5f94091a961f871be721.webp": "product-lnv-hlw-442bb5ab.html",
     "assets/halloween/paired/9afb0d80ab8fe483e142.webp": "product-lnv-hlw-466ad4bc.html",
     "assets/halloween/paired/594d56ad03d401ab0f76.webp": "product-lnv-hlw-345e76f1.html",
@@ -12271,7 +12280,7 @@ const productPages = {
     "assets/halloween/paired/e1b8ab23fd58f8dff942.webp": "product-lnv-hlw-26cb487b.html",
     "assets/halloween/paired/f71b9060a34f115a5abd.webp": "product-lnv-hlw-c45d7fc7.html",
     "assets/halloween/paired/a0f8303846379cf4d8f5.webp": "product-lnv-hlw-c07db49b.html",
-    "assets/halloween/paired/bc558e4aac5a5327bd0a.webp": "product-lnv-hlw-c0314877.html",
+    "assets/halloween/replacements/c312483816241eb90c2d.webp": "product-lnv-hlw-c0314877.html",
     "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": "product-lnv-hlw-a732751d.html",
     "assets/halloween/paired/5f771cdde3615e5376de.webp": "product-lnv-hlw-26a34fe1.html",
     "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
