@@ -110,7 +110,7 @@ CATEGORY_INTROS={
  'products-crystal-1.html':('Wholesale crystal diffusers','Discover decorative crystal fragrance formats for your collection. Select a design and discuss fragrance oil, presentation and packaging requirements.'),
  'gift-collection.html':('Wholesale fragrance gift sets','Compare coordinated fragrance pairings for retail gifting. Ask us about the shown design, your preferred scent and a branded packaging brief.'),
  'christmas-collection.html':('Christmas candles & fragrance gifts','Explore a coordinated festive range for your shop or brand. Discuss product references, quantities, scent direction and Christmas packaging.'),
- 'halloween-collection.html':('Halloween candles, softly imagined.','Explore ghost, pumpkin, bat and witch candle designs arranged by colour and mood. Discuss product references, fragrance direction and seasonal gift packaging.'),
+ 'halloween-collection.html':('Halloween candles, with a little magic.','Explore friendly ghost, pumpkin, bat and witch candle designs arranged by colour and mood. Discuss product references, fragrance direction and seasonal gift packaging.'),
  'sachets.html':('Wax tablets & fragrance sachets','Explore compact fragrance designs for thoughtful gifting. Confirm your chosen format, fragrance direction, labels and packaging with our team.')}
 def category_first(cat):return CATEGORY[cat][0]
 def image_url(src):return absolute(MEDIA.get(src,{}).get('src',src))
