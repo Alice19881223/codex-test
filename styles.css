@@ -354,18 +354,18 @@ a.crystal-item>img.photo-single{height:auto}
 @media(max-width:650px){.candle-mood-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 
 /* Halloween catalogue: deep night tones, warm pumpkin light and soft pastel magic. */
-body[data-category="halloween"]{--halloween-ink:#241c2b;--halloween-purple:#4a285b;--halloween-orange:#d96b2b;--halloween-cream:#fff4df;background:#f7f0e7}
-body[data-category="halloween"] .halloween-intro{position:relative;overflow:hidden;min-height:430px;background:radial-gradient(circle at 14% 23%,#fff6dd 0 2px,transparent 3px),radial-gradient(circle at 78% 18%,#fff6dd 0 1px,transparent 2px),linear-gradient(125deg,#17131d 0%,#382043 55%,#8c3f2c 100%);background-size:45px 45px,63px 63px,auto;border-bottom:1px solid #d58d55}
-body[data-category="halloween"] .halloween-intro::after{content:"〰";position:absolute;right:7%;top:8%;font-family:Georgia,serif;font-size:clamp(150px,22vw,310px);line-height:1;color:#fff3d912;transform:rotate(-12deg)}
-body[data-category="halloween"] .halloween-intro .eyebrow{color:#efb56f}
-body[data-category="halloween"] .halloween-intro h1{position:relative;z-index:1;max-width:760px;color:#fff7e8;text-shadow:0 2px 22px #08050a88}
-body[data-category="halloween"] .halloween-intro>p:not(.eyebrow){position:relative;z-index:1;max-width:650px;color:#eadfd8;font-size:17px}
-body[data-category="halloween"] .halloween-intro .button{position:relative;z-index:1;background:#efb56f;color:#2a172b;border-color:#efb56f}
-.halloween-mood-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:#d58d55;color:#fff;border-block:1px solid #d58d55}
-.halloween-mood-strip span{padding:15px 8px;text-align:center;background:#251b2c;font-size:10px;letter-spacing:1.4px}
-.halloween-mood-strip span:nth-child(2){background:#a94f29}.halloween-mood-strip span:nth-child(3){background:#5a3269}.halloween-mood-strip span:nth-child(4){background:#c27a8c}
+body[data-category="halloween"]{--halloween-ink:#493b30;--halloween-plum:#6f5868;--halloween-clay:#aa755e;--halloween-cream:#f5eee5;background:#f7f3ed}
+body[data-category="halloween"] .halloween-intro{position:relative;overflow:hidden;min-height:400px;padding-block:78px;background:radial-gradient(circle at 82% 26%,#fffaf4aa 0 13%,transparent 31%),linear-gradient(118deg,#f5eee5 0%,#eee3dc 57%,#dfc9c3 100%);border-bottom:1px solid #d8c9bd}
+body[data-category="halloween"] .halloween-intro::after{content:"";position:absolute;right:8%;top:50%;width:min(24vw,250px);aspect-ratio:1;transform:translateY(-50%);background:url("assets/nav-halloween.svg") center/contain no-repeat;opacity:.16;filter:sepia(.35) saturate(.55)}
+body[data-category="halloween"] .halloween-intro .eyebrow{position:relative;z-index:1;color:#8c6657}
+body[data-category="halloween"] .halloween-intro h1{position:relative;z-index:1;max-width:720px;color:#493b30;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(52px,5.4vw,78px);line-height:1.02;letter-spacing:-1.7px;text-shadow:none}
+body[data-category="halloween"] .halloween-intro>p:not(.eyebrow){position:relative;z-index:1;max-width:610px;color:#706258;font-size:15px;line-height:1.85}
+body[data-category="halloween"] .halloween-intro .button{position:relative;z-index:1;background:#66544a;color:#fffaf4;border-color:#66544a}
+.halloween-mood-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:#d8c9bd;color:#56473e;border-block:1px solid #d8c9bd}
+.halloween-mood-strip span{padding:14px 8px;text-align:center;background:#eee6dd;font-size:10px;letter-spacing:1.3px}
+.halloween-mood-strip span:nth-child(2){background:#eaded3}.halloween-mood-strip span:nth-child(3){background:#e7dfe3}.halloween-mood-strip span:nth-child(4){background:#eadadd}
 body[data-category="halloween"] #halloween-products{background:linear-gradient(180deg,#faf4eb,#f2e7dc)}
 body[data-category="halloween"] #halloween-products .paired-product{background:#fffaf2;border:1px solid #decbb8;border-radius:14px;padding:8px;box-shadow:0 12px 30px #2c18220b}
 body[data-category="halloween"] #halloween-products .paired-photo{border-radius:10px}
-body[data-category="halloween"] #pagination a[aria-current="page"]{background:#4a285b;border-color:#4a285b;color:#fff}
-@media(max-width:650px){body[data-category="halloween"] .halloween-intro{min-height:390px;padding:50px 7%}body[data-category="halloween"] .halloween-intro h1{font-size:43px}.halloween-mood-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.halloween-mood-strip span{padding:12px 5px}}
+body[data-category="halloween"] #pagination a[aria-current="page"]{background:#705b50;border-color:#705b50;color:#fff}
+@media(max-width:650px){body[data-category="halloween"] .halloween-intro{min-height:360px;padding:48px 7%}body[data-category="halloween"] .halloween-intro::after{right:-5%;width:170px;opacity:.1}body[data-category="halloween"] .halloween-intro h1{max-width:88%;font-size:43px;letter-spacing:-.8px}body[data-category="halloween"] .halloween-intro>p:not(.eyebrow){font-size:14px}.halloween-mood-strip{grid-template-columns:repeat(2,minmax(0,1fr))}.halloween-mood-strip span{padding:12px 5px}}
