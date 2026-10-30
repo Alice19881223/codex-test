@@ -163,6 +163,49 @@
       "assets/christmas/paired/58479c85aca5612cf8f4.webp"
     ]
   ],
+  "halloween": [
+    [
+      "assets/halloween/paired/e27109d911843e795479.webp",
+      "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+      "assets/halloween/paired/24810435e341aec553f5.webp",
+      "assets/halloween/paired/4e45c3407e608cb00894.webp",
+      "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+      "assets/halloween/paired/eb637d69e43fbc04ff1f.webp",
+      "assets/halloween/paired/808384b22d781264e928.webp",
+      "assets/halloween/paired/beca87122dd54a94f7fb.webp",
+      "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "assets/halloween/paired/5f94091a961f871be721.webp",
+      "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+      "assets/halloween/paired/594d56ad03d401ab0f76.webp"
+    ],
+    [
+      "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+      "assets/halloween/paired/ade34691bae75dc195d0.webp",
+      "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+      "assets/halloween/paired/99b536cb2505055ecc72.webp",
+      "assets/halloween/paired/499d7733d304051d864d.webp",
+      "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+      "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+      "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+      "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+      "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+      "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
+    ],
+    [
+      "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+      "assets/halloween/paired/5f771cdde3615e5376de.webp",
+      "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "assets/halloween/paired/476a41a394810eb5a0be.webp",
+      "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+      "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+      "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+      "assets/halloween/paired/8e5b83e7058590594067.webp",
+      "assets/halloween/paired/003a42a079b8d10549b8.webp",
+      "assets/halloween/paired/17a4739e39ff0385df5e.webp"
+    ]
+  ],
   "sachets": [
     [
       "assets/sachets/paired/14eefcbb28cb40378e95.webp",

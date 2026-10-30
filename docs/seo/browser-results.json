@@ -1,5 +1,5 @@
 {
-  "pageChecks": 26,
+  "pageChecks": 28,
   "viewports": [
     1440,
     390
@@ -16,7 +16,7 @@
   "christmasPaginationCacheBypass": true,
   "fragranceHover": true,
   "mobileTap": true,
-  "catalogueTapPages": 40,
+  "catalogueTapPages": 43,
   "productCardNativeNavigation": true,
   "secondViewTouchToggle": true,
   "productImageHover": true,

@@ -6,7 +6,7 @@ layouts=json.loads((root/'assets/catalogue-layouts.json').read_text())
 def esc(t):return html.escape(t,quote=True)
 def filename(cat,page=1):
  if cat=='crystal':return f'products-crystal-{page}.html'
- return {'gift':'gift-collection','christmas':'christmas-collection','sachets':'sachets'}[cat]+(f'-{page}' if page>1 else '')+'.html'
+ return {'gift':'gift-collection','christmas':'christmas-collection','halloween':'halloween-collection','sachets':'sachets'}[cat]+(f'-{page}' if page>1 else '')+'.html'
 def card(p,index):
  name=esc(p['name']);paired=bool(p.get('packagingImage'));imgs=f'<img class="photo-single" src="{p["image"]}" alt="Lanarve {name} — product" loading="lazy">'
  if paired:imgs=f'<span class="paired-photo">{imgs}<img class="photo-packaging" src="{p["packagingImage"]}" alt="{name} — second view" loading="lazy"></span>'
@@ -32,7 +32,7 @@ for cat,pages in layouts.items():
   if cat=='christmas':text=re.sub(r'\d+ DESIGNS · THE LANARVE CHRISTMAS COLLECTION',f'{len(products)} DESIGNS · THE LANARVE CHRISTMAS COLLECTION',text)
   (root/filename(cat,page)).write_text(text)
  # Keep historical gift/Christmas URLs consistent with their current pages.
- pattern={'gift':'gifts*.html','christmas':'christmas*.html','crystal':'products-crystal-*.html','sachets':'sachets*.html'}[cat]
+ pattern={'gift':'gifts*.html','christmas':'christmas*.html','halloween':'halloween*.html','crystal':'products-crystal-*.html','sachets':'sachets*.html'}[cat]
  for path in root.glob(pattern):
   match=re.search(r'-(\d+)\.html$',path.name);page=int(match[1]) if match else 1
   if path.name not in [filename(cat,n) for n in range(1,total+1)]:

@@ -4,7 +4,7 @@ import json,re,html
 root=Path(__file__).resolve().parents[1]
 scents=json.loads((root/'assets/fragrances.json').read_text())
 base=(root/'products-crystal-1.html').read_text()
-categories={'candle':'Scented candles','reed':'Reed diffusers','crystal':'Crystal diffusers','gift':'Gift setting','christmas':'Christmas','sachets':'Tablets & Sachets'}
+categories={'candle':'Scented candles','reed':'Reed diffusers','crystal':'Crystal diffusers','gift':'Gift setting','christmas':'Christmas','halloween':'Halloween','sachets':'Tablets & Sachets'}
 catalogues={c:{p['image']:p for p in json.loads((root/f'assets/{c}-products.json').read_text())} for c in categories}
 esc=lambda value:html.escape(value,quote=True)
 for scent in scents:

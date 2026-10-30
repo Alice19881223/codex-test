@@ -352,6 +352,14 @@
         "href": "product-lnv-rd-cfbcce09.html?scent=rose-green-leaves"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+        "name": "Blush Haunted House",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-ffa5cfdd.html?scent=rose-green-leaves"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
         "name": "Sky Hour",
@@ -641,6 +649,14 @@
         "series": "Little Daydreams",
         "catalogueHref": "reeds-little-daydreams.html",
         "href": "product-lnv-rd-1f4b21bd.html?scent=peony-lychee"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+        "name": "Pastel Spooky",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-6e407194.html?scent=peony-lychee"
       },
       {
         "category": "candle",
@@ -1550,6 +1566,14 @@
         "href": "product-lnv-rd-8e5c34e4.html?scent=fig-green-leaves"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+        "name": "Woodland Toadstool",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-55bed201.html?scent=fig-green-leaves"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/everyday-poetry/73c1168b38036e170fc7.webp",
         "name": "Riviera Three Fish",
@@ -1647,6 +1671,30 @@
         "series": "Botanical Teacups",
         "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
+        "name": "Lilac Bat Spell",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-26a34fe1.html?scent=blackcurrant-rose"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
+        "name": "Lavender Haunted Manor",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-95c53c84.html?scent=blackcurrant-rose"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+        "name": "Purple Bat Mischief",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-d24784a6.html?scent=blackcurrant-rose"
       }
     ],
     "family": "Floral & Fruity",
@@ -1750,6 +1798,22 @@
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-5409fad2.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+        "name": "Boo After Dark",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-3a1f4410.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
+        "name": "Magenta Bat",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-bb10ea8a.html?scent=pomegranate-amber"
       },
       {
         "category": "candle",
@@ -1924,6 +1988,22 @@
         "series": "Colour in Bloom",
         "catalogueHref": "reeds-in-bloom-3.html",
         "href": "product-lnv-rd-64253a72.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+        "name": "Moonlit Magic Pumpkin",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-a732751d.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+        "name": "Lavender Haunted House",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-a014a97c.html?scent=lavender-cedarwood"
       },
       {
         "category": "candle",
@@ -2396,6 +2476,14 @@
     "description": "Fresh tea intertwined with herbs; studies and sunlit living rooms.",
     "matches": [
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+        "name": "Ivory Ghost Garden",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-c0314877.html?scent=white-tea-rosemary"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
         "name": "Sage Stillness",
@@ -2839,6 +2927,14 @@
         "series": "Fabric Fragrance Sachets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-53535632.html?scent=soft-linen"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+        "name": "Floating Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-bb440122.html?scent=soft-linen"
       }
     ],
     "family": "Fresh & Natural",
@@ -3245,6 +3341,14 @@
         "href": "product-lnv-xms-dbc19ddb.html?scent=sandalwood-cashmere"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/499d7733d304051d864d.webp",
+        "name": "Starry Witch Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-b266970f.html?scent=sandalwood-cashmere"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/paired/e6a379ea95e7f1408253.webp",
         "name": "Iced Patchouli",
@@ -3419,6 +3523,14 @@
         "series": "Atelier Glass",
         "catalogueHref": "reeds-at-home-at-ease-3.html",
         "href": "product-lnv-rd-ae6b521f.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/5f94091a961f871be721.webp",
+        "name": "Botanical Ghost",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-442bb5ab.html?scent=sandalwood-cashmere"
       }
     ],
     "family": "Warm & Woody",
@@ -3705,6 +3817,22 @@
         "href": "product-lnv-cnd-20d9446e.html?scent=fireside-smoked-woods"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+        "name": "Haunted Pumpkin Night",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-466ad4bc.html?scent=fireside-smoked-woods"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/eb637d69e43fbc04ff1f.webp",
+        "name": "Spooky Forest Night",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-bca86495.html?scent=fireside-smoked-woods"
+      },
+      {
         "category": "reed",
         "image": "assets/companions/78919717797a963dc844.webp",
         "name": "Winter Bonfire",
@@ -3839,6 +3967,14 @@
         "href": "product-lnv-xms-6c4a6ad8.html?scent=amber-vanilla"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+        "name": "Golden Stripe Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-52751d33.html?scent=amber-vanilla"
+      },
+      {
         "category": "gift",
         "image": "assets/gifts/paired/905159d5184ce017c1a2.webp",
         "name": "Sunshine Duo",
@@ -3877,6 +4013,14 @@
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-6593db37.html?scent=amber-vanilla"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+        "name": "Golden Familiar",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-255d01f4.html?scent=amber-vanilla"
       },
       {
         "category": "candle",
@@ -4076,6 +4220,30 @@
         "href": "product-lnv-xms-e8e0ad83.html?scent=vanilla-tonka"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+        "name": "Boo & Cream Pumpkin",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-26cb487b.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/ade34691bae75dc195d0.webp",
+        "name": "Trick or Treat Spirits",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-5f322144.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
+        "name": "Midnight Shy Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-76c9e194.html?scent=vanilla-tonka"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
         "name": "Vanilla Grove",
@@ -4176,12 +4344,28 @@
     "description": "A sweet bakery-inspired mood; dessert themes and winter gifts.",
     "matches": [
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
+        "name": "Candy Stripe Boo",
+        "series": "Pastel Spells",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-5a80e367.html?scent=caramel-cream"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/a4b969666dce519b8354.png",
         "name": "Mocha Serenity",
         "series": "Quiet Domes",
         "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-03d3255d.html?scent=caramel-cream"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/4e45c3407e608cb00894.webp",
+        "name": "Candy Corn Moon",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-eef9a665.html?scent=caramel-cream"
       }
     ],
     "family": "Warm & Woody",
@@ -4260,6 +4444,30 @@
         "series": "Little Dreamers",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+        "name": "Jack-O\u2019-Lantern Carnival",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-345e76f1.html?scent=pumpkin-spice"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/e27109d911843e795479.webp",
+        "name": "Pumpkin Parade",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-6aea9b57.html?scent=pumpkin-spice"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+        "name": "Pumpkin Party Glow",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-3d53b81a.html?scent=pumpkin-spice"
       }
     ],
     "family": "Warm & Woody",
@@ -4826,6 +5034,14 @@
         "href": "product-lnv-xms-82415b18.html?scent=orange-clove"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+        "name": "Pumpkin Stripe Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-72b814d6.html?scent=orange-clove"
+      },
+      {
         "category": "christmas",
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
@@ -4848,6 +5064,14 @@
         "series": "Colourful Rituals",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-c1205685.html?scent=orange-clove"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+        "name": "Batwing Pumpkin",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-08fbfc3d.html?scent=orange-clove"
       },
       {
         "category": "candle",
@@ -5017,6 +5241,14 @@
         "href": "product-lnv-xms-9e275c5c.html?scent=gingerbread-vanilla"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+        "name": "Pumpkin & Little Ghost",
+        "series": "Ghost Parade",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-c45d7fc7.html?scent=gingerbread-vanilla"
+      },
+      {
         "category": "christmas",
         "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
         "name": "Smiling Gingerbread Candle",
@@ -5151,6 +5383,22 @@
     ],
     "description": "Bitter-green herbs and quiet incense; reflective studies and evening rituals.",
     "matches": [
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/24810435e341aec553f5.webp",
+        "name": "Midnight Witch Hat",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-0085bd09.html?scent=mugwort-incense"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+        "name": "Ghost & Black Cat",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-c07db49b.html?scent=mugwort-incense"
+      },
       {
         "category": "sachets",
         "image": "assets/sachets/paired/d2a2c13cb519e3a3e386.webp",
@@ -5300,6 +5548,14 @@
         "series": "Art Glass Reverie",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-99ca634f.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+        "name": "The Witch Is In",
+        "series": "Enchanted Halloween",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-817f422d.html?scent=green-tea-cedarwood"
       }
     ],
     "family": "Oriental Mystery",
@@ -5377,6 +5633,22 @@
         "series": "Blue & White Landscapes",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-2591b062.html?scent=oud-saffron"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/808384b22d781264e928.webp",
+        "name": "Bat & Pumpkin Gold",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-9c4d87e1.html?scent=oud-saffron"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+        "name": "Midnight Cat Witch",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-849357f4.html?scent=oud-saffron"
       }
     ],
     "family": "Oriental Mystery",
@@ -5471,6 +5743,14 @@
         "series": "Fluid Silhouettes",
         "catalogueHref": "reeds-a-breath-of-fresh-air-2.html",
         "href": "product-lnv-rd-63cb0545.html?scent=incense-myrrh"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/paired/beca87122dd54a94f7fb.webp",
+        "name": "Black Cat Moon",
+        "series": "Midnight Mischief",
+        "catalogueHref": "halloween-collection.html",
+        "href": "product-lnv-hlw-b85e9ed9.html?scent=incense-myrrh"
       }
     ],
     "family": "Oriental Mystery",

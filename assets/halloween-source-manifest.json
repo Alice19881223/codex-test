@@ -1,0 +1,1141 @@
+{
+  "sourceArchives": [
+    "打包1.zip",
+    "打包2.zip",
+    "打包3.zip",
+    "打包4.zip",
+    "打包5.zip",
+    "打包6.zip"
+  ],
+  "products": [
+    {
+      "id": "halloween-2026-e27109d911843e795479",
+      "name": "Pumpkin Parade",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/e27109d911843e795479.webp",
+      "packagingImage": "assets/halloween/paired/6144119a02b7aedb95c4.webp",
+      "images": [
+        "assets/halloween/paired/e27109d911843e795479.webp",
+        "assets/halloween/paired/6144119a02b7aedb95c4.webp"
+      ],
+      "assignedScent": "pumpkin-spice",
+      "designDescription": "A jaunty jack-o’-lantern character glows against matte black. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-0cfecc0d4f3c7f864059",
+      "name": "Batwing Pumpkin",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+      "packagingImage": "assets/halloween/paired/b7e513dd8a7528c8c969.webp",
+      "images": [
+        "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+        "assets/halloween/paired/b7e513dd8a7528c8c969.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "A winged pumpkin in a witch hat brings theatrical Halloween colour. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-24810435e341aec553f5",
+      "name": "Midnight Witch Hat",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/24810435e341aec553f5.webp",
+      "packagingImage": "assets/halloween/paired/b204b13004bb5be01105.webp",
+      "images": [
+        "assets/halloween/paired/24810435e341aec553f5.webp",
+        "assets/halloween/paired/b204b13004bb5be01105.webp"
+      ],
+      "assignedScent": "mugwort-incense",
+      "designDescription": "A graphic black witch hat creates a clean, modern seasonal design. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-4e45c3407e608cb00894",
+      "name": "Candy Corn Moon",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/4e45c3407e608cb00894.webp",
+      "packagingImage": "assets/halloween/paired/1a18381e1e44260d0d07.webp",
+      "images": [
+        "assets/halloween/paired/4e45c3407e608cb00894.webp",
+        "assets/halloween/paired/1a18381e1e44260d0d07.webp"
+      ],
+      "assignedScent": "caramel-cream",
+      "designDescription": "Candy-corn stripes and a tiny bat give midnight black a playful twist. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-d4d8d0fda1d45caac45d",
+      "name": "Golden Familiar",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+      "packagingImage": "assets/halloween/paired/2feef8b3b1d6dc8525e1.webp",
+      "images": [
+        "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+        "assets/halloween/paired/2feef8b3b1d6dc8525e1.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "designDescription": "A black cat sits beneath a crescent moon in a golden window. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-eb637d69e43fbc04ff1f",
+      "name": "Spooky Forest Night",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/eb637d69e43fbc04ff1f.webp",
+      "packagingImage": "assets/halloween/paired/f8e5109cc8f399390932.webp",
+      "images": [
+        "assets/halloween/paired/eb637d69e43fbc04ff1f.webp",
+        "assets/halloween/paired/f8e5109cc8f399390932.webp"
+      ],
+      "assignedScent": "fireside-smoked-woods",
+      "designDescription": "Pumpkins, bats and a crescent moon gather in a deep forest-green frame. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-808384b22d781264e928",
+      "name": "Bat & Pumpkin Gold",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/808384b22d781264e928.webp",
+      "packagingImage": "assets/halloween/paired/038107807e544b69d2c9.webp",
+      "images": [
+        "assets/halloween/paired/808384b22d781264e928.webp",
+        "assets/halloween/paired/038107807e544b69d2c9.webp"
+      ],
+      "assignedScent": "oud-saffron",
+      "designDescription": "Raised black bats and a golden pumpkin create a polished dark-luxe finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-beca87122dd54a94f7fb",
+      "name": "Black Cat Moon",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/beca87122dd54a94f7fb.webp",
+      "packagingImage": "assets/halloween/paired/1f3dc1bf560d5b2d13b5.webp",
+      "images": [
+        "assets/halloween/paired/beca87122dd54a94f7fb.webp",
+        "assets/halloween/paired/1f3dc1bf560d5b2d13b5.webp"
+      ],
+      "assignedScent": "incense-myrrh",
+      "designDescription": "A black cat, web and pumpkin form a richly layered night scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-b09d818770c4d9e4adc7",
+      "name": "Midnight Cat Witch",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "packagingImage": "assets/halloween/paired/8e71086f604c9f627b27.webp",
+      "images": [
+        "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+        "assets/halloween/paired/8e71086f604c9f627b27.webp"
+      ],
+      "assignedScent": "oud-saffron",
+      "designDescription": "A sculpted cat in a copper witch hat adds elegant character to black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-5f94091a961f871be721",
+      "name": "Botanical Ghost",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/5f94091a961f871be721.webp",
+      "packagingImage": "assets/halloween/paired/bdd1838ea23e1c5fe1df.webp",
+      "images": [
+        "assets/halloween/paired/5f94091a961f871be721.webp",
+        "assets/halloween/paired/bdd1838ea23e1c5fe1df.webp"
+      ],
+      "assignedScent": "sandalwood-cashmere",
+      "designDescription": "An ivory ghost framed by leafy branches softens the midnight palette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-9afb0d80ab8fe483e142",
+      "name": "Haunted Pumpkin Night",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+      "packagingImage": "assets/halloween/paired/4650f1882da949c1b48b.webp",
+      "images": [
+        "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+        "assets/halloween/paired/4650f1882da949c1b48b.webp"
+      ],
+      "assignedScent": "fireside-smoked-woods",
+      "designDescription": "A glowing orange vessel wraps a haunted house and wandering ghost around the candle. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-594d56ad03d401ab0f76",
+      "name": "Jack-O’-Lantern Carnival",
+      "series": "Midnight Mischief",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+      "packagingImage": "assets/halloween/paired/e313dd15e42f15cd523a.webp",
+      "images": [
+        "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+        "assets/halloween/paired/e313dd15e42f15cd523a.webp"
+      ],
+      "assignedScent": "pumpkin-spice",
+      "designDescription": "A smiling pumpkin and fine web lines make a vivid seasonal centrepiece. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-91b6a130b289d9dc7858",
+      "name": "Boo After Dark",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+      "packagingImage": "assets/halloween/paired/d837143de202f8a16d1f.webp",
+      "images": [
+        "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+        "assets/halloween/paired/d837143de202f8a16d1f.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "A booted little ghost says boo against deep plum glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-ade34691bae75dc195d0",
+      "name": "Trick or Treat Spirits",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/ade34691bae75dc195d0.webp",
+      "packagingImage": "assets/halloween/paired/b42f0f9b2ea52017ef0a.webp",
+      "images": [
+        "assets/halloween/paired/ade34691bae75dc195d0.webp",
+        "assets/halloween/paired/b42f0f9b2ea52017ef0a.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "Two friendly ghosts meet beneath a web for a playful trick-or-treat scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-cf6a3670f65fee915bdd",
+      "name": "Floating Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+      "packagingImage": "assets/halloween/paired/897fca46cc497c6a7044.webp",
+      "images": [
+        "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+        "assets/halloween/paired/897fca46cc497c6a7044.webp"
+      ],
+      "assignedScent": "soft-linen",
+      "designDescription": "A softly drawn white ghost floats across clean black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-99b536cb2505055ecc72",
+      "name": "Midnight Shy Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
+      "packagingImage": "assets/halloween/paired/0da4b450b8b63418768a.webp",
+      "images": [
+        "assets/halloween/paired/99b536cb2505055ecc72.webp",
+        "assets/halloween/paired/0da4b450b8b63418768a.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "A wide-eyed ghost brings gentle character to a graphic monochrome vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-499d7733d304051d864d",
+      "name": "Starry Witch Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/499d7733d304051d864d.webp",
+      "packagingImage": "assets/halloween/paired/da78cc7bccb4b89b10e5.webp",
+      "images": [
+        "assets/halloween/paired/499d7733d304051d864d.webp",
+        "assets/halloween/paired/da78cc7bccb4b89b10e5.webp"
+      ],
+      "assignedScent": "sandalwood-cashmere",
+      "designDescription": "A sculptural ghost in a starry black hat feels whimsical and collectable. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-687694e6aa7fd69f1f33",
+      "name": "Pumpkin Stripe Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+      "packagingImage": "assets/halloween/paired/8b514a75296a2996d713.webp",
+      "images": [
+        "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+        "assets/halloween/paired/8b514a75296a2996d713.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "Orange stripes brighten a seated ghost in a jaunty witch hat. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-4dd5a01cd767291e09d0",
+      "name": "Golden Stripe Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+      "packagingImage": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
+      "images": [
+        "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+        "assets/halloween/paired/5ee75958e50afa5d4ae2.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-7b2df3b52827ebdca98e",
+      "name": "Pumpkin Party Glow",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+      "packagingImage": "assets/halloween/paired/426a1396b071ee25ae82.webp",
+      "images": [
+        "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+        "assets/halloween/paired/426a1396b071ee25ae82.webp"
+      ],
+      "assignedScent": "pumpkin-spice",
+      "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-e1b8ab23fd58f8dff942",
+      "name": "Boo & Cream Pumpkin",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+      "packagingImage": "assets/halloween/paired/16252598e3983753ef5a.webp",
+      "images": [
+        "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+        "assets/halloween/paired/16252598e3983753ef5a.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "An ivory pumpkin-shaped candle carries a smiling face, ghost and crescent moon. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-f71b9060a34f115a5abd",
+      "name": "Pumpkin & Little Ghost",
+      "series": "Ghost Parade",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+      "packagingImage": "assets/halloween/paired/1bda5b9267cd0d3f90e3.webp",
+      "images": [
+        "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+        "assets/halloween/paired/1bda5b9267cd0d3f90e3.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "A little ghost peeks over a dimensional pumpkin on warm ivory ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-a0f8303846379cf4d8f5",
+      "name": "Ghost & Black Cat",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+      "packagingImage": "assets/halloween/paired/5800cff1cb131b6ba39c.webp",
+      "images": [
+        "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+        "assets/halloween/paired/5800cff1cb131b6ba39c.webp"
+      ],
+      "assignedScent": "mugwort-incense",
+      "designDescription": "A witch-hatted ghost cuddles a black cat in a softly sculpted scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-bc558e4aac5a5327bd0a",
+      "name": "Ivory Ghost Garden",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
+      "images": [
+        "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+        "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
+      "name": "Moonlit Magic Pumpkin",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+      "packagingImage": "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp",
+      "images": [
+        "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+        "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "A lilac pumpkin-shaped candle with a black cat and witch hat feels sweetly magical. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-5f771cdde3615e5376de",
+      "name": "Lilac Bat Spell",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
+      "packagingImage": "assets/halloween/paired/2872b68ae4070c6eeecb.webp",
+      "images": [
+        "assets/halloween/paired/5f771cdde3615e5376de.webp",
+        "assets/halloween/paired/2872b68ae4070c6eeecb.webp"
+      ],
+      "assignedScent": "blackcurrant-rose",
+      "designDescription": "A graphic bat and small pumpkin sit on soft lilac ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-10f4fa3279b8daf09b37",
+      "name": "Woodland Toadstool",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+      "packagingImage": "assets/halloween/paired/0a6d8001fa49bddd46cf.webp",
+      "images": [
+        "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+        "assets/halloween/paired/0a6d8001fa49bddd46cf.webp"
+      ],
+      "assignedScent": "fig-green-leaves",
+      "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-4c1129f92c19a7214a95",
+      "name": "The Witch Is In",
+      "series": "Enchanted Halloween",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
+      "images": [
+        "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+        "assets/halloween/paired/ec498e927fe51534236f.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-476a41a394810eb5a0be",
+      "name": "Candy Stripe Boo",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
+      "packagingImage": "assets/halloween/paired/ceae8dcb07555827803e.webp",
+      "images": [
+        "assets/halloween/paired/476a41a394810eb5a0be.webp",
+        "assets/halloween/paired/ceae8dcb07555827803e.webp"
+      ],
+      "assignedScent": "caramel-cream",
+      "designDescription": "A friendly ghost floats across cheerful orange-and-ivory stripes. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
+      "name": "Pastel Spooky",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+      "packagingImage": "assets/halloween/paired/7f4188abb3ba1be59d04.webp",
+      "images": [
+        "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+        "assets/halloween/paired/7f4188abb3ba1be59d04.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Raised pastel lettering and a small bat turn Halloween bright and playful. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-df1d10703fd51b47cdda",
+      "name": "Blush Haunted House",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+      "packagingImage": "assets/halloween/paired/6ad58c4d54dd0834b6db.webp",
+      "images": [
+        "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+        "assets/halloween/paired/6ad58c4d54dd0834b6db.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-c1b55fa1215cdc6640a4",
+      "name": "Lavender Haunted House",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+      "packagingImage": "assets/halloween/paired/5618507bef7a6e61a0e2.webp",
+      "images": [
+        "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+        "assets/halloween/paired/5618507bef7a6e61a0e2.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "A sculpted haunted-house lid crowns a detailed lavender vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-8e5b83e7058590594067",
+      "name": "Lavender Haunted Manor",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
+      "packagingImage": "assets/halloween/paired/f2df81525635058a6b80.webp",
+      "images": [
+        "assets/halloween/paired/8e5b83e7058590594067.webp",
+        "assets/halloween/paired/f2df81525635058a6b80.webp"
+      ],
+      "assignedScent": "blackcurrant-rose",
+      "designDescription": "Ghosts and castle windows rise in relief across soft lavender ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-003a42a079b8d10549b8",
+      "name": "Magenta Bat",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
+      "packagingImage": "assets/halloween/paired/528bbe05b37559b0790a.webp",
+      "images": [
+        "assets/halloween/paired/003a42a079b8d10549b8.webp",
+        "assets/halloween/paired/528bbe05b37559b0790a.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "A black bat and golden stars pop against vivid magenta glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-2026-17a4739e39ff0385df5e",
+      "name": "Purple Bat Mischief",
+      "series": "Pastel Spells",
+      "productType": "Scented candle",
+      "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+      "packagingImage": "assets/halloween/paired/b5a4392215b73b3402bd.webp",
+      "images": [
+        "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+        "assets/halloween/paired/b5a4392215b73b3402bd.webp"
+      ],
+      "assignedScent": "blackcurrant-rose",
+      "designDescription": "A wide-eyed sculpted bat wraps around jewel-purple glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_23.png",
+      "sourceIndex": 0,
+      "sha256": "e27109d911843e7954790ed69a4a0a78cce6640fd33a7aca9db9696e4c0bbfb8",
+      "image": "assets/halloween/paired/e27109d911843e795479.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_19.png",
+      "sourceIndex": 16,
+      "sha256": "6144119a02b7aedb95c43c2a166817e75582482096181c5eb03a08b06c84965a",
+      "image": "assets/halloween/paired/6144119a02b7aedb95c4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_34.png",
+      "sourceIndex": 2,
+      "sha256": "0cfecc0d4f3c7f864059f701caf0a62c65007a8bdf8345f248f5087420b01566",
+      "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_29.png",
+      "sourceIndex": 18,
+      "sha256": "b7e513dd8a7528c8c96957529d36a206b09ede83276fa119b6e5e44d8e1c7a52",
+      "image": "assets/halloween/paired/b7e513dd8a7528c8c969.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_43.png",
+      "sourceIndex": 3,
+      "sha256": "24810435e341aec553f5cf0d6c953fb5c0980aa3c95471f1df16d035deb7761c",
+      "image": "assets/halloween/paired/24810435e341aec553f5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_35.png",
+      "sourceIndex": 19,
+      "sha256": "b204b13004bb5be011054f51c6be209bfcbad238fac6a16eac6b7c6f9b6a15de",
+      "image": "assets/halloween/paired/b204b13004bb5be01105.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_52.png",
+      "sourceIndex": 5,
+      "sha256": "4e45c3407e608cb008945eee3a458733dbaabd5de157313337006b4e7523e63e",
+      "image": "assets/halloween/paired/4e45c3407e608cb00894.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_47.png",
+      "sourceIndex": 21,
+      "sha256": "1a18381e1e44260d0d07fd1e88cb4f486a023860a916a0979bd00a4763391326",
+      "image": "assets/halloween/paired/1a18381e1e44260d0d07.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_59.png",
+      "sourceIndex": 6,
+      "sha256": "d4d8d0fda1d45caac45db10217c6ddefb336d11c60cfc422257795f200ac36c7",
+      "image": "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_51.png",
+      "sourceIndex": 22,
+      "sha256": "2feef8b3b1d6dc8525e1d7bd26b44b4a40a914435dc46c147d60a963b7b8b415",
+      "image": "assets/halloween/paired/2feef8b3b1d6dc8525e1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_15.png",
+      "sourceIndex": 8,
+      "sha256": "eb637d69e43fbc04ff1f65d3031a2127fb01001b6117906009f71c5751baab9c",
+      "image": "assets/halloween/paired/eb637d69e43fbc04ff1f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_08_01.png",
+      "sourceIndex": 24,
+      "sha256": "f8e5109cc8f399390932cd2c9b24fa7530c7c99d6434bbf45b6310239318d4d5",
+      "image": "assets/halloween/paired/f8e5109cc8f399390932.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "白底独立装饰蜡烛-1.png",
+      "sourceIndex": 66,
+      "sha256": "808384b22d781264e9282e19aeee558bb917f1379e831af79a957fc6904a279e",
+      "image": "assets/halloween/paired/808384b22d781264e928.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "兰纳维万圣节蝙蝠南瓜香氛蜡烛礼盒.png",
+      "sourceIndex": 53,
+      "sha256": "038107807e544b69d2c927051bf3c5235696dca6e33f99db636d3cc0be4714ca",
+      "image": "assets/halloween/paired/038107807e544b69d2c9.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "黑猫南瓜万圣香氛蜡烛-2.png",
+      "sourceIndex": 48,
+      "sha256": "beca87122dd54a94f7fbd5dff417ff029eabd8bd6dd98140b97847c158dd34dc",
+      "image": "assets/halloween/paired/beca87122dd54a94f7fb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兰纳维黑猫南瓜香氛蜡烛礼盒-1.png",
+      "sourceIndex": 39,
+      "sha256": "1f3dc1bf560d5b2d13b5c8b9fb9cc4f263da910434918e5b1f002dc3d41c1fcc",
+      "image": "assets/halloween/paired/1f3dc1bf560d5b2d13b5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "白底独立蜡烛产品照-2.png",
+      "sourceIndex": 65,
+      "sha256": "b09d818770c4d9e4adc7127ce079c495563a416803c43fca635263ff82da6a02",
+      "image": "assets/halloween/paired/b09d818770c4d9e4adc7.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兰纳芙万圣节黑猫女巫香薰蜡烛.png",
+      "sourceIndex": 40,
+      "sha256": "8e71086f604c9f627b270eaa8d83d719922cdbeac0cf71b48b4bd100be17ba09",
+      "image": "assets/halloween/paired/8e71086f604c9f627b27.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "黑陶幽灵浮雕香薰蜡烛-4.png",
+      "sourceIndex": 50,
+      "sha256": "5f94091a961f871be721831d2a24b8be286158768e683207b35a2854108de01a",
+      "image": "assets/halloween/paired/5f94091a961f871be721.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兰纳薇万圣节幽灵蜡烛礼盒-7.png",
+      "sourceIndex": 41,
+      "sha256": "bdd1838ea23e1c5fe1dff5a77ba62d4468c6af3ead23bcc93378182efa4f78a7",
+      "image": "assets/halloween/paired/bdd1838ea23e1c5fe1df.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兰纳薇南瓜幽灵香薰蜡烛.png",
+      "sourceIndex": 42,
+      "sha256": "9afb0d80ab8fe483e14240090c066150d00b016bbf11689cd69d76aec64d6193",
+      "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "南瓜蜡烛与黑色礼盒.png",
+      "sourceIndex": 58,
+      "sha256": "4650f1882da949c1b48bd94acdbe6bcca93767129b4424319b87c4a9bbea4548",
+      "image": "assets/halloween/paired/4650f1882da949c1b48b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "南瓜笑脸万圣节香薰蜡烛-6.png",
+      "sourceIndex": 57,
+      "sha256": "594d56ad03d401ab0f767394791d926691ee3f9f4203afe9f0d5d73d96aa1690",
+      "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "Lanarve南瓜香薰蜡烛礼盒-8.png",
+      "sourceIndex": 36,
+      "sha256": "e313dd15e42f15cd523a5cbceb1944ec37111efa914c363d9855ac435fcfb88e",
+      "image": "assets/halloween/paired/e313dd15e42f15cd523a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_28.png",
+      "sourceIndex": 1,
+      "sha256": "91b6a130b289d9dc7858d9f5449de631d1e3b0f164c1cda92de93a6300d2f11a",
+      "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_25.png",
+      "sourceIndex": 17,
+      "sha256": "d837143de202f8a16d1f2b6aa1823f841990587d75bf0a54231b4d564d1dda52",
+      "image": "assets/halloween/paired/d837143de202f8a16d1f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_11.png",
+      "sourceIndex": 7,
+      "sha256": "ade34691bae75dc195d03eaa8625a46e0c3c54998eec4d45b464fb89b8d6902e",
+      "image": "assets/halloween/paired/ade34691bae75dc195d0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_55.png",
+      "sourceIndex": 23,
+      "sha256": "b42f0f9b2ea52017ef0aa7d50e9885d4fb88a5ece3fcd275c1e4cb58c6e76d77",
+      "image": "assets/halloween/paired/b42f0f9b2ea52017ef0a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_03.png",
+      "sourceIndex": 12,
+      "sha256": "cf6a3670f65fee915bdd114c4e4e5503768d0e73184f0d31b3ec03f69cc8ab35",
+      "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_08.png",
+      "sourceIndex": 13,
+      "sha256": "897fca46cc497c6a7044af07b55bce6cdef99a1abfe924bd9723a7709350424b",
+      "image": "assets/halloween/paired/897fca46cc497c6a7044.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_13.png",
+      "sourceIndex": 14,
+      "sha256": "99b536cb2505055ecc7218aca1a15eacb78dc69a231cb9fc314bbc9ecabbdd57",
+      "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_18.png",
+      "sourceIndex": 15,
+      "sha256": "0da4b450b8b63418768a66fd43d6ba8483199b28444e5bc58c80008a87dba916",
+      "image": "assets/halloween/paired/0da4b450b8b63418768a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_08_39.png",
+      "sourceIndex": 25,
+      "sha256": "499d7733d304051d864db772df3363fc10d539ba9f9a391ff5d7cc569670cd47",
+      "image": "assets/halloween/paired/499d7733d304051d864d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "幽灵蜡烛与黑色礼盒-1.png",
+      "sourceIndex": 64,
+      "sha256": "da78cc7bccb4b89b10e52fee3597d0f9a9f4ea1059110a667ff39997502f660d",
+      "image": "assets/halloween/paired/da78cc7bccb4b89b10e5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_08_51.png",
+      "sourceIndex": 26,
+      "sha256": "687694e6aa7fd69f1f3355eab9f49a099dfc3829761f06847c5eaacab7e12622",
+      "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "幽灵蜡烛与南瓜橙礼盒-3.png",
+      "sourceIndex": 62,
+      "sha256": "8b514a75296a2996d7132ff0ef3c104cb9a73059850e870ea5997dd98f1e29cb",
+      "image": "assets/halloween/paired/8b514a75296a2996d713.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_09_07.png",
+      "sourceIndex": 27,
+      "sha256": "4dd5a01cd767291e09d08cf0a7fed1d6d48d08be1544ea56643c7a712c0b6e4e",
+      "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "幽灵蜡烛与金色礼盒-2.png",
+      "sourceIndex": 63,
+      "sha256": "5ee75958e50afa5d4ae264559ff6cd754524bc11a5d8857ec11b36fa6c3486d2",
+      "image": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "微笑南瓜蜡烛产品图-2.png",
+      "sourceIndex": 43,
+      "sha256": "7b2df3b52827ebdca98e884f2c8ff40b5fbcc6d9778c8d22ab79f3a1f55f9591",
+      "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "微信图片_20261030153309_522_2.png",
+      "sourceIndex": 10,
+      "sha256": "426a1396b071ee25ae82ceefd372fdc5117fdd450e04c6752514186f277d90df",
+      "image": "assets/halloween/paired/426a1396b071ee25ae82.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "暖象牙笑脸幽灵月亮蜡烛-3.png",
+      "sourceIndex": 44,
+      "sha256": "e1b8ab23fd58f8dff9422fbcbbb86bb8d2f47b73ff81c01be278fc4335b6f449",
+      "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "微信图片_20261030153310_523_2.png",
+      "sourceIndex": 11,
+      "sha256": "16252598e3983753ef5a5199193d2e039e07fb3d7c72facc3e21abc905092803",
+      "image": "assets/halloween/paired/16252598e3983753ef5a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "Lanarve万圣节幽灵南瓜香薰蜡烛-3.png",
+      "sourceIndex": 35,
+      "sha256": "f71b9060a34f115a5abd217c3a347f835f85db4ccc29183a1c62a1c7023fb154",
+      "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "Lanarve万圣节幽灵南瓜蜡烛礼盒-4.png",
+      "sourceIndex": 34,
+      "sha256": "1bda5b9267cd0d3f90e3e72715bdcfbe824109fe15544f6fbab6ebecf7ffe637",
+      "image": "assets/halloween/paired/1bda5b9267cd0d3f90e3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "Lanarve象牙幽灵黑猫浮雕香薰蜡烛-2.png",
+      "sourceIndex": 37,
+      "sha256": "a0f8303846379cf4d8f5268393e533cdfaed905b701891e8c81ff9cfe526a84f",
+      "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "Lanarve幽灵抱猫万圣节香薰蜡烛-1.png",
+      "sourceIndex": 38,
+      "sha256": "5800cff1cb131b6ba39c1cc9f87166417f08d23fe01cccb6eda489f427d1eb9b",
+      "image": "assets/halloween/paired/5800cff1cb131b6ba39c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "白底蜡烛单品照-3.png",
+      "sourceIndex": 67,
+      "sha256": "bc558e4aac5a5327bd0ae9e6c091f109d97e33824f65bb59974f77ffb888f515",
+      "image": "assets/halloween/paired/bc558e4aac5a5327bd0a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "兰纳维万圣节幽灵香薰礼盒.png",
+      "sourceIndex": 52,
+      "sha256": "695c5995a03a6b4ff5ba14be1042608c8d9fb23a13f9a67390469fecaebc0e65",
+      "image": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "黑猫巫帽月牙蜡烛-1.png",
+      "sourceIndex": 49,
+      "sha256": "4ea289f1eb5bb81bf1a452e3a3b55f456b7e4069a28600767f88cb094ee21800",
+      "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "微信图片_20261030153308_521_2.png",
+      "sourceIndex": 9,
+      "sha256": "e0cc9d4bca1b18e3e1833301f0076cd6b9a35bec1d0df8470ec2d20eb76d4739",
+      "image": "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_06_48.png",
+      "sourceIndex": 4,
+      "sha256": "5f771cdde3615e5376de8302fa49d5f2ae51f7d0ba503547a61d8da447a6ac88",
+      "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "ChatGPT Image 2026年10月30日 14_07_41.png",
+      "sourceIndex": 20,
+      "sha256": "2872b68ae4070c6eeecb4f38fa2d4616bb534a7227f7efc099f4a4b3181816d2",
+      "image": "assets/halloween/paired/2872b68ae4070c6eeecb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 14_30_59.png",
+      "sourceIndex": 28,
+      "sha256": "10f4fa3279b8daf09b37d211879610fa0df4f431a69d990c5cbfeee61ee745b5",
+      "image": "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 14_31_10.png",
+      "sourceIndex": 29,
+      "sha256": "0a6d8001fa49bddd46cfd661849ea950faa0236dffd4630525bb89190f3087e4",
+      "image": "assets/halloween/paired/0a6d8001fa49bddd46cf.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 15_18_15.png",
+      "sourceIndex": 32,
+      "sha256": "4c1129f92c19a7214a95cbfd52ab22695c426ffe5763a7da015a63911e18a520",
+      "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 15_18_28.png",
+      "sourceIndex": 33,
+      "sha256": "ec498e927fe51534236ffb355daf79fc8a04004930f9dea3415c505af2013b3e",
+      "image": "assets/halloween/paired/ec498e927fe51534236f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "南瓜条纹幽灵香薰蜡烛.png",
+      "sourceIndex": 56,
+      "sha256": "476a41a394810eb5a0bea586715a68f43ba5283dd2f076c2d9e8de4543f6c82f",
+      "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "兰纳维万圣节幽灵条纹香薰蜡烛礼盒-3.png",
+      "sourceIndex": 51,
+      "sha256": "ceae8dcb07555827803ee2d5f52210aa9fc95e870622bd0862c01641f85defc3",
+      "image": "assets/halloween/paired/ceae8dcb07555827803e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "粉彩蝙蝠万圣节香薰蜡烛.png",
+      "sourceIndex": 45,
+      "sha256": "2ba024d15ae7f9fa0ff91e18931c9f56aff82033c17d153555360d1848e478eb",
+      "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "粉色深盖薰衣草底边万圣节蜡烛礼盒.png",
+      "sourceIndex": 47,
+      "sha256": "7f4188abb3ba1be59d04f4073c8150ed013f984303367bbb92b5000d63db67f0",
+      "image": "assets/halloween/paired/7f4188abb3ba1be59d04.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "粉彩鬼屋蝙蝠陶瓷香薰蜡烛-3.png",
+      "sourceIndex": 46,
+      "sha256": "df1d10703fd51b47cdda1d784b0efa374792ad1bb6407bc37163bdf21f33d025",
+      "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "优雅粉色万圣节香氛蜡烛礼盒-4.png",
+      "sourceIndex": 61,
+      "sha256": "6ad58c4d54dd0834b6db1f2c58f9f25b9dd2042e7fbc9ecf012b191e8074dfcb",
+      "image": "assets/halloween/paired/6ad58c4d54dd0834b6db.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 14_45_11.png",
+      "sourceIndex": 30,
+      "sha256": "c1b55fa1215cdc6640a41c2bc4301d1211995409c5e837cf38f1351d2d6f0038",
+      "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "ChatGPT 图像 2026年10月29日 14_45_22.png",
+      "sourceIndex": 31,
+      "sha256": "5618507bef7a6e61a0e206cdc19572d7cc9b17d5134ae526616eaf5115c6f989",
+      "image": "assets/halloween/paired/5618507bef7a6e61a0e2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "薰衣草紫鬼屋香薰蜡烛-1.png",
+      "sourceIndex": 60,
+      "sha256": "8e5b83e705859059406763bac5bd688d060a7987042f32c87f1dab774cf8333c",
+      "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "薰衣草紫万圣节香氛蜡烛礼盒-2.png",
+      "sourceIndex": 59,
+      "sha256": "f2df81525635058a6b8065ebbe7a7e55e1a67aa1d2aad11d123cc15c8cf0063d",
+      "image": "assets/halloween/paired/f2df81525635058a6b80.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "兰纳维紫罗兰蝙蝠香氛蜡烛-4.png",
+      "sourceIndex": 54,
+      "sha256": "003a42a079b8d10549b8eebb6786d6d4ae0b38a7d605a7ea3b0820c0bf3dfb35",
+      "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "紫晶蝙蝠万圣节香薰礼盒-2.png",
+      "sourceIndex": 69,
+      "sha256": "528bbe05b37559b0790afa6d09faafd0ae32adfc261c175c625a854bf2e2624d",
+      "image": "assets/halloween/paired/528bbe05b37559b0790a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包6.zip",
+      "source": "紫晶蝙蝠万圣节香氛蜡烛-5.png",
+      "sourceIndex": 68,
+      "sha256": "17a4739e39ff0385df5e6b8b8cdf8c98a46fba391ba1a44434cb6fbae1b28b83",
+      "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "兰纳维紫釉蝙蝠香氛蜡烛礼盒-3.png",
+      "sourceIndex": 55,
+      "sha256": "b5a4392215b73b3402bdc7c70b4b1501f9ed5eb03dcc223e4ce27d2bcfc4972f",
+      "image": "assets/halloween/paired/b5a4392215b73b3402bd.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pairCount": 35,
+  "pageCounts": [
+    12,
+    12,
+    11
+  ],
+  "placement": "Independent Halloween catalogue after Christmas in the main navigation."
+}

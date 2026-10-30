@@ -3,7 +3,7 @@ from pathlib import Path
 import json
 from merchandising import paginate,arrange
 root=Path(__file__).resolve().parents[1]
-catalogues={cat:json.loads((root/f'assets/{cat}-products.json').read_text()) for cat in ['candle','reed','crystal','gift','christmas','sachets']}
+catalogues={cat:json.loads((root/f'assets/{cat}-products.json').read_text()) for cat in ['candle','reed','crystal','gift','christmas','halloween','sachets']}
 for cat in ['candle','reed']:
  path=root/f'assets/{cat}-collections.json';collections=json.loads(path.read_text());lookup={p['series']+' | '+p['name']:p for p in catalogues[cat]}
  for c in collections:
@@ -14,7 +14,7 @@ for cat in ['candle','reed']:
  print(cat,{c['name']:[len(p) for p in c['pages']] for c in collections})
 previous=json.loads((root/'assets/catalogue-layouts.json').read_text())
 layouts={}
-for cat in ['crystal','gift','christmas','sachets']:
+for cat in ['crystal','gift','christmas','halloween','sachets']:
  flat=[image for page in previous[cat] for image in page]
  assert len(flat)==len(set(flat)) and set(flat)=={p['image'] for p in catalogues[cat]}
  layouts[cat]=[flat[i:i+12] for i in range(0,len(flat),12)]

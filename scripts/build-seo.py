@@ -12,13 +12,13 @@ LISTING_VERSION=hashlib.sha256(b''.join((ROOT/'assets'/name).read_bytes() for na
 LISTING_URLS={p.name for p in ROOT.glob('*.html') if re.search(r'id="(?:catalogue-grid|fragrance-products)"',p.read_text())}
 CONFIG=json.loads((ROOT/'assets/seo-config.json').read_text());ORIGIN=CONFIG['origin']
 PRODUCTS=json.loads((ROOT/'assets/product-details.json').read_text());BY_URL={r['url']:r for r in PRODUCTS}
-VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together','Christmas Storybook Glass','Blue & White Landscapes','Festive Ceramic Moments','Festive Ballet','Midnight Ballet','Dove Reverie','Colour in Bloom','Art Glass Reverie','Little Daydreams','Jellyfish','Birthday Wishes','Christmas Hearth & Story','Evergreen Christmas','Winter Night & Snow','Golden Christmas Wishes'}}
+VERSIONED_PRODUCT_URLS={r['url'] for r in PRODUCTS if r['series'] in {'Wild Elegance','Everyday Poetry','Spring & Summer Light','Spring & Summer Stillness','Spring & Summer Together','Christmas Storybook Glass','Blue & White Landscapes','Festive Ceramic Moments','Festive Ballet','Midnight Ballet','Dove Reverie','Colour in Bloom','Art Glass Reverie','Little Daydreams','Jellyfish','Birthday Wishes','Christmas Hearth & Story','Evergreen Christmas','Winter Night & Snow','Golden Christmas Wishes','Midnight Mischief','Ghost Parade','Enchanted Halloween','Pastel Spells'}}
 SCENTS={s['id']:s for s in json.loads((ROOT/'assets/fragrances.json').read_text())}
 MEDIA=json.loads((ROOT/'assets/image-manifest.json').read_text()) if (ROOT/'assets/image-manifest.json').exists() else {}
 REVERSE={v['src']:k for k,v in MEDIA.items()}
 for k,v in MEDIA.items():
  for item in v['variants']:REVERSE[item['src']]=k
-CATALOGUES={c:json.loads((ROOT/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','sachets']}
+CATALOGUES={c:json.loads((ROOT/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','halloween','sachets']}
 PHOTO={p['image']:p for rows in CATALOGUES.values() for p in rows}
 CATEGORY={
  'candle':('products-current.html','Scented candles','wholesale scented candles'),
@@ -26,6 +26,7 @@ CATEGORY={
  'crystal':('products-crystal-1.html','Crystal diffusers','wholesale crystal diffusers'),
  'gift':('gift-collection.html','Fragrance gift sets','wholesale fragrance gift sets'),
  'christmas':('christmas-collection.html','Christmas fragrance gifts','wholesale Christmas candles'),
+ 'halloween':('halloween-collection.html','Halloween scented candles','wholesale Halloween candles'),
  'sachets':('sachets.html','Wax tablets & fragrance sachets','wholesale wax tablets and fragrance sachets')}
 COLLECTIONS={}
 for cat in ['candle','reed']:
@@ -96,6 +97,7 @@ PAGES={
  'products-crystal-1.html':('Wholesale Crystal Diffusers & Fragrance Designs | Lanarve','Explore Lanarve crystal diffuser designs for decorative home fragrance collections. Enquire about fragrance direction, presentation and private label options.','wholesale crystal diffusers','Crystal category / design discovery'),
  'gift-collection.html':('Wholesale Fragrance Gift Sets & Private Label | Lanarve','Discover coordinated Lanarve fragrance gift sets for gift shops and lifestyle stores. Discuss your product pairing, scent, branding and packaging brief.','wholesale fragrance gift sets','Gift set category / B2B gifting'),
  'christmas-collection.html':('Wholesale Christmas Candles & Fragrance Gifts | Lanarve','Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements.','wholesale Christmas candles','Seasonal purchasing'),
+ 'halloween-collection.html':('Wholesale Halloween Candles & Gift Designs | Lanarve','Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging.','wholesale Halloween candles','Seasonal Halloween purchasing'),
  'sachets.html':('Wholesale Wax Tablets & Fragrance Sachets | Lanarve','Browse Lanarve decorative wax tablets and fragrance sachets. Explore compact gifting designs and discuss scent, labels, packaging and wholesale enquiries.','wholesale fragrance sachets','Accessory category / gifting'),
  'private-label.html':('Private Label Candles & Home Fragrance OEM/ODM | Lanarve','Plan a private label home fragrance collection with Lanarve. Discuss candle and diffuser designs, fragrance, logo, packaging, samples and your OEM/ODM brief.','private label home fragrance','Customization / supplier qualification'),
  'fragrance.html':('Fragrance Library for Candles & Diffusers | Lanarve','Explore Lanarve fragrance directions, key notes and suggested product pairings for candles, diffusers and gift sets. Discuss the scent for your private label brief.','private label fragrance options','Scent selection / support for sourcing'),
@@ -108,13 +110,14 @@ CATEGORY_INTROS={
  'products-crystal-1.html':('Wholesale crystal diffusers','Discover decorative crystal fragrance formats for your collection. Select a design and discuss fragrance oil, presentation and packaging requirements.'),
  'gift-collection.html':('Wholesale fragrance gift sets','Compare coordinated fragrance pairings for retail gifting. Ask us about the shown design, your preferred scent and a branded packaging brief.'),
  'christmas-collection.html':('Christmas candles & fragrance gifts','Explore a coordinated festive range for your shop or brand. Discuss product references, quantities, scent direction and Christmas packaging.'),
+ 'halloween-collection.html':('Halloween scented candles','Explore ghost, pumpkin, bat and witch candle designs arranged by colour and mood. Discuss product references, fragrance direction and seasonal gift packaging.'),
  'sachets.html':('Wax tablets & fragrance sachets','Explore compact fragrance designs for thoughtful gifting. Confirm your chosen format, fragrance direction, labels and packaging with our team.')}
 def category_first(cat):return CATEGORY[cat][0]
 def image_url(src):return absolute(MEDIA.get(src,{}).get('src',src))
 def product_kind(r):
  p=PHOTO[r['image']]
  if p.get('productType'):return p['productType']
- if r['category']=='christmas':return 'Fragrance Gift Set' if 'Gift Set' in p['name'] else 'Scented Wax Ornament' if 'Ornament' in p['name'] else 'Scented Candle'
+ if r['category'] in ['christmas','halloween']:return 'Fragrance Gift Set' if 'Gift Set' in p['name'] else 'Scented Wax Ornament' if 'Ornament' in p['name'] else 'Scented Candle'
  if r['category']=='sachets':return 'Fragrance Sachet' if 'Sachet' in p['series'] else 'Scented Wax Tablet'
  return {'candle':'Scented Candle','reed':'Reed Diffuser','crystal':'Crystal Diffuser','gift':'Fragrance Gift Set'}[r['category']]
 def optimize_image(tag,path):
@@ -181,7 +184,7 @@ def build():
   else:
    # Give each paginated category its own canonical and metadata, not page 1's canonical.
    rootname=name
-   for prefix,first in [('products-crystal-','products-crystal-1.html'),('gift-collection-','gift-collection.html'),('christmas-collection-','christmas-collection.html')]:
+   for prefix,first in [('products-crystal-','products-crystal-1.html'),('gift-collection-','gift-collection.html'),('christmas-collection-','christmas-collection.html'),('halloween-collection-','halloween-collection.html')]:
     m=re.match(re.escape(prefix)+r'(\d+)\.html$',name)
     if m:rootname=first;page=int(m[1]);break
    if name=='products.html':rootname='products-current.html';canonical_name='products-current.html'

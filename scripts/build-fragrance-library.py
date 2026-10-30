@@ -5,7 +5,7 @@ import json,re
 from product_records import product_url
 root=Path(__file__).resolve().parents[1]
 rows=json.loads((root/'assets/fragrances.json').read_text())
-catalogues={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','sachets']}
+catalogues={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in ['candle','reed','crystal','gift','christmas','halloween','sachets']}
 for scent in rows:
  scent['collectionHref']='fragrance-'+scent['id']+'.html'
  assert scent['matches'], 'A fragrance collection needs at least one relevant product'
@@ -18,7 +18,10 @@ for scent in rows:
    target=('candles-' if cat=='candle' else 'reeds-')+collection['slug']+(f'-{page}' if page>1 else '')+'.html'
   else:
    layouts=json.loads((root/'assets/catalogue-layouts.json').read_text());page=next(i+1 for i,images in enumerate(layouts[cat]) if p['image'] in images)
-   target=f'products-crystal-{page}.html' if cat=='crystal' else ('gift-collection' if cat=='gift' else 'christmas-collection' if cat=='christmas' else 'sachets')+(f'-{page}' if page>1 else '')+'.html'
+   if cat=='crystal':target=f'products-crystal-{page}.html'
+   else:
+    stem={'gift':'gift-collection','christmas':'christmas-collection','halloween':'halloween-collection','sachets':'sachets'}[cat]
+    target=stem+(f'-{page}' if page>1 else '')+'.html'
   assert (root/target).exists(),target
   text=(root/target).read_text();assert f'data-photo="{index}"' in text,f'{target}: linked product is not on page'
   match.update(name=p['name'],series=p['series'],catalogueHref=target,href=product_url(cat,p['image'])+'?'+urlencode({'scent':scent['id']}))

@@ -671,6 +671,27 @@
     "indexable": false,
     "type": "redirect"
   },
+  "halloween-collection-2.html": {
+    "title": "Wholesale Halloween Candles & Gift Designs \u2014 Page 2 | Lanarve",
+    "description": "Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging. Page 2.",
+    "canonical": "https://www.lanarve.com/halloween-collection-2.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "halloween-collection-3.html": {
+    "title": "Wholesale Halloween Candles & Gift Designs \u2014 Page 3 | Lanarve",
+    "description": "Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging. Page 3.",
+    "canonical": "https://www.lanarve.com/halloween-collection-3.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "halloween-collection.html": {
+    "title": "Wholesale Halloween Candles & Gift Designs | Lanarve",
+    "description": "Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging.",
+    "canonical": "https://www.lanarve.com/halloween-collection.html",
+    "indexable": true,
+    "type": "page"
+  },
   "index.html": {
     "title": "Wholesale Candles & Private Label Home Fragrance | Lanarve",
     "description": "Explore scented candles, reed diffusers, crystal diffusers and fragrance gift sets from Lanarve. Discuss wholesale, private label and OEM/ODM enquiries.",
@@ -2040,6 +2061,251 @@
     "title": "Sage Green Duo Fragrance Gift Set | Lanarve",
     "description": "Explore Sage Green Duo from Lanarve\u2019s Quiet Rituals designs. Discuss White Tea & Rosemary fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-gft-f4d10fef.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-0085bd09.html": {
+    "title": "Midnight Witch Hat Scented candle | Lanarve",
+    "description": "Explore Midnight Witch Hat from Lanarve\u2019s Midnight Mischief designs. Discuss Mugwort & Incense fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-0085bd09.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-08fbfc3d.html": {
+    "title": "Batwing Pumpkin Scented candle | Lanarve",
+    "description": "Explore Batwing Pumpkin from Lanarve\u2019s Midnight Mischief designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-08fbfc3d.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-255d01f4.html": {
+    "title": "Golden Familiar Scented candle | Lanarve",
+    "description": "Explore Golden Familiar from Lanarve\u2019s Midnight Mischief designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-255d01f4.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-26a34fe1.html": {
+    "title": "Lilac Bat Spell Scented candle | Lanarve",
+    "description": "Explore Lilac Bat Spell from Lanarve\u2019s Enchanted Halloween designs. Discuss Blackcurrant & Rose fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-26a34fe1.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-26cb487b.html": {
+    "title": "Boo & Cream Pumpkin Scented candle | Lanarve",
+    "description": "Explore Boo & Cream Pumpkin from Lanarve\u2019s Ghost Parade designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-26cb487b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-345e76f1.html": {
+    "title": "Jack-O\u2019-Lantern Carnival Scented candle | Lanarve",
+    "description": "Explore Jack-O\u2019-Lantern Carnival from Lanarve\u2019s Midnight Mischief designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-345e76f1.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-3a1f4410.html": {
+    "title": "Boo After Dark Scented candle | Lanarve",
+    "description": "Explore Boo After Dark from Lanarve\u2019s Ghost Parade designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-3a1f4410.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-3d53b81a.html": {
+    "title": "Pumpkin Party Glow Scented candle | Lanarve",
+    "description": "Explore Pumpkin Party Glow from Lanarve\u2019s Ghost Parade designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-3d53b81a.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-442bb5ab.html": {
+    "title": "Botanical Ghost Scented candle | Lanarve",
+    "description": "Explore Botanical Ghost from Lanarve\u2019s Midnight Mischief designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-442bb5ab.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-466ad4bc.html": {
+    "title": "Haunted Pumpkin Night Scented candle | Lanarve",
+    "description": "Explore Haunted Pumpkin Night from Lanarve\u2019s Midnight Mischief designs. Discuss Fireside & Smoked Woods fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-466ad4bc.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-52751d33.html": {
+    "title": "Golden Stripe Ghost Scented candle | Lanarve",
+    "description": "Explore Golden Stripe Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-52751d33.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-55bed201.html": {
+    "title": "Woodland Toadstool Scented candle | Lanarve",
+    "description": "Explore Woodland Toadstool from Lanarve\u2019s Enchanted Halloween designs. Discuss Fig & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-55bed201.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-5a80e367.html": {
+    "title": "Candy Stripe Boo Scented candle | Lanarve",
+    "description": "Explore Candy Stripe Boo from Lanarve\u2019s Pastel Spells designs. Discuss Caramel & Cream fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-5a80e367.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-5f322144.html": {
+    "title": "Trick or Treat Spirits Scented candle | Lanarve",
+    "description": "Explore Trick or Treat Spirits from Lanarve\u2019s Ghost Parade designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-5f322144.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-6aea9b57.html": {
+    "title": "Pumpkin Parade Scented candle | Lanarve",
+    "description": "Explore Pumpkin Parade from Lanarve\u2019s Midnight Mischief designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-6aea9b57.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-6e407194.html": {
+    "title": "Pastel Spooky Scented candle | Lanarve",
+    "description": "Explore Pastel Spooky from Lanarve\u2019s Pastel Spells designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-6e407194.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-72b814d6.html": {
+    "title": "Pumpkin Stripe Ghost Scented candle | Lanarve",
+    "description": "Explore Pumpkin Stripe Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-72b814d6.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-76c9e194.html": {
+    "title": "Midnight Shy Ghost Scented candle | Lanarve",
+    "description": "Explore Midnight Shy Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-76c9e194.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-817f422d.html": {
+    "title": "The Witch Is In Scented candle | Lanarve",
+    "description": "Explore The Witch Is In from Lanarve\u2019s Enchanted Halloween designs. Discuss Green Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-817f422d.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-849357f4.html": {
+    "title": "Midnight Cat Witch Scented candle | Lanarve",
+    "description": "Explore Midnight Cat Witch from Lanarve\u2019s Midnight Mischief designs. Discuss Oud & Saffron fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-849357f4.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-95c53c84.html": {
+    "title": "Lavender Haunted Manor Scented candle | Lanarve",
+    "description": "Explore Lavender Haunted Manor from Lanarve\u2019s Pastel Spells designs. Discuss Blackcurrant & Rose fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-95c53c84.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-9c4d87e1.html": {
+    "title": "Bat & Pumpkin Gold Scented candle | Lanarve",
+    "description": "Explore Bat & Pumpkin Gold from Lanarve\u2019s Midnight Mischief designs. Discuss Oud & Saffron fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-9c4d87e1.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-a014a97c.html": {
+    "title": "Lavender Haunted House Scented candle | Lanarve",
+    "description": "Explore Lavender Haunted House from Lanarve\u2019s Pastel Spells designs. Discuss Lavender & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-a014a97c.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-a732751d.html": {
+    "title": "Moonlit Magic Pumpkin Scented candle | Lanarve",
+    "description": "Explore Moonlit Magic Pumpkin from Lanarve\u2019s Enchanted Halloween designs. Discuss Lavender & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-a732751d.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-b266970f.html": {
+    "title": "Starry Witch Ghost Scented candle | Lanarve",
+    "description": "Explore Starry Witch Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-b266970f.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-b85e9ed9.html": {
+    "title": "Black Cat Moon Scented candle | Lanarve",
+    "description": "Explore Black Cat Moon from Lanarve\u2019s Midnight Mischief designs. Discuss Incense & Myrrh fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-b85e9ed9.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-bb10ea8a.html": {
+    "title": "Magenta Bat Scented candle | Lanarve",
+    "description": "Explore Magenta Bat from Lanarve\u2019s Pastel Spells designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-bb10ea8a.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-bb440122.html": {
+    "title": "Floating Ghost Scented candle | Lanarve",
+    "description": "Explore Floating Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Soft Linen fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-bb440122.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-bca86495.html": {
+    "title": "Spooky Forest Night Scented candle | Lanarve",
+    "description": "Explore Spooky Forest Night from Lanarve\u2019s Midnight Mischief designs. Discuss Fireside & Smoked Woods fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-bca86495.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-c0314877.html": {
+    "title": "Ivory Ghost Garden Scented candle | Lanarve",
+    "description": "Explore Ivory Ghost Garden from Lanarve\u2019s Enchanted Halloween designs. Discuss White Tea & Rosemary fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-c0314877.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-c07db49b.html": {
+    "title": "Ghost & Black Cat Scented candle | Lanarve",
+    "description": "Explore Ghost & Black Cat from Lanarve\u2019s Enchanted Halloween designs. Discuss Mugwort & Incense fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-c07db49b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-c45d7fc7.html": {
+    "title": "Pumpkin & Little Ghost Scented candle | Lanarve",
+    "description": "Explore Pumpkin & Little Ghost from Lanarve\u2019s Ghost Parade designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-c45d7fc7.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-d24784a6.html": {
+    "title": "Purple Bat Mischief Scented candle | Lanarve",
+    "description": "Explore Purple Bat Mischief from Lanarve\u2019s Pastel Spells designs. Discuss Blackcurrant & Rose fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-d24784a6.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-eef9a665.html": {
+    "title": "Candy Corn Moon Scented candle | Lanarve",
+    "description": "Explore Candy Corn Moon from Lanarve\u2019s Midnight Mischief designs. Discuss Caramel & Cream fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-eef9a665.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-ffa5cfdd.html": {
+    "title": "Blush Haunted House Scented candle | Lanarve",
+    "description": "Explore Blush Haunted House from Lanarve\u2019s Pastel Spells designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-ffa5cfdd.html",
     "indexable": true,
     "type": "product"
   },

@@ -4,7 +4,7 @@ from urllib.parse import urlencode
 import json,re,html
 from product_records import item_no,product_url
 root=Path(__file__).resolve().parents[1]
-categories={'candle':'Scented candle','reed':'Reed diffuser','crystal':'Crystal diffuser','gift':'Fragrance gift set','christmas':'Seasonal fragrance','sachets':'Fragrance accessory'}
+categories={'candle':'Scented candle','reed':'Reed diffuser','crystal':'Crystal diffuser','gift':'Fragrance gift set','christmas':'Seasonal fragrance','halloween':'Scented candle','sachets':'Fragrance accessory'}
 products={c:json.loads((root/f'assets/{c}-products.json').read_text()) for c in categories}
 scents=json.loads((root/'assets/fragrances.json').read_text())
 specifications=json.loads((root/'assets/product-specifications.json').read_text())
@@ -15,14 +15,14 @@ def home(category,product):
  if category in ['candle','reed']:
   key=product['series']+' | '+product['name'];cs=json.loads((root/f'assets/{category}-collections.json').read_text());c=next(c for c in cs if key in c['productKeys'])
   return ('candles-' if category=='candle' else 'reeds-')+c['slug']+'.html',c['name']
- return {'crystal':'products-crystal-1.html','gift':'gift-collection.html','christmas':'christmas-collection.html','sachets':'sachets.html'}[category],{'crystal':'Crystal diffusers','gift':'Gift setting','christmas':'Christmas','sachets':'Tablets & Sachets'}[category]
+ return {'crystal':'products-crystal-1.html','gift':'gift-collection.html','christmas':'christmas-collection.html','halloween':'halloween-collection.html','sachets':'sachets.html'}[category],{'crystal':'Crystal diffusers','gift':'Gift setting','christmas':'Christmas','halloween':'Halloween','sachets':'Tablets & Sachets'}[category]
 def kind(cat,p):
  if p.get('productType'):return p['productType']
- if cat=='christmas':return 'Fragrance gift set' if 'Gift Set' in p['name'] else 'Scented wax ornament' if 'Ornament' in p['name'] else 'Scented candle'
+ if cat in ['christmas','halloween']:return 'Fragrance gift set' if 'Gift Set' in p['name'] else 'Scented wax ornament' if 'Ornament' in p['name'] else 'Scented candle'
  if cat=='sachets':return 'Fragrance sachet' if 'Sachet' in p['series'] else 'Scented wax tablet'
  return categories[cat]
 def care(cat,p):
- if cat=='candle' or (cat=='christmas' and 'candle' in kind(cat,p).lower()):return 'Place on a stable, heat-resistant surface away from draughts, children, pets and flammable objects. Never leave a burning candle unattended. Follow the supplied wick, burn and extinguishing instructions; allow the vessel to cool before handling.'
+ if cat=='candle' or (cat in ['christmas','halloween'] and 'candle' in kind(cat,p).lower()):return 'Place on a stable, heat-resistant surface away from draughts, children, pets and flammable objects. Never leave a burning candle unattended. Follow the supplied wick, burn and extinguishing instructions; allow the vessel to cool before handling.'
  if cat=='reed' or kind(cat,p)=='Reed diffuser':return 'Set the diffuser on a protected, stable surface away from direct sunlight and heat. Children must be accompanied and supervised by a parent or guardian around the product. Follow the supplied directions when inserting or turning reeds. Avoid contact between fragrance liquid and skin, painted surfaces or furniture. Follow the product label for handling and disposal.'
  if cat=='crystal':return 'Place on a protected, stable surface. Add fragrance oil only as directed for the selected crystals and vessel. Keep oil away from skin, furniture, children and pets. Clean and maintain the vessel according to the supplied instructions.'
  return 'Follow the care instructions supplied for each component. Keep fragrance items away from children, pets, food and delicate surfaces. Store in a cool place away from direct sunlight; confirm placement and use instructions for the selected format.'
@@ -61,7 +61,7 @@ for cat,rows in products.items():
   package='<figure class="product-packaging"><img src="'+esc(p['packagingImage'])+'" alt="'+esc(p['name'])+' packaging or alternate view" loading="lazy"><figcaption>'+esc(labels[-1])+'</figcaption></figure>' if p.get('packagingImage') else ''
   details={'Item No.':ref,'Product type':kind(cat,p),'Collection':p['series'],'Design / colour':'As photographed; final selection confirmed with sample','Capacity / net weight':spec.get('capacity','Request the specification for this design'),'Dimensions':spec.get('dimensions','Confirmed with your selected specification')}
   details_html='<dl class="product-spec-list">'+''.join(f'<div><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k,v in details.items())+'</dl>'
-  highlights={'candle':['Decorative candle design','Private label enquiries welcome'],'reed':['Flame-free fragrance format','Private label enquiries welcome'],'crystal':['Decorative crystal fragrance format','Flame-free use'],'gift':['Coordinated fragrance collection','Gift presentation shown'],'christmas':['Seasonal decorative design','Festive gifting concept'],'sachets':['Compact fragrance format','Private label enquiries welcome']}[cat]
+  highlights={'candle':['Decorative candle design','Private label enquiries welcome'],'reed':['Flame-free fragrance format','Private label enquiries welcome'],'crystal':['Decorative crystal fragrance format','Flame-free use'],'gift':['Coordinated fragrance collection','Gift presentation shown'],'christmas':['Seasonal decorative design','Festive gifting concept'],'halloween':['Decorative Halloween candle design','Coordinated seasonal gift packaging'],'sachets':['Compact fragrance format','Private label enquiries welcome']}[cat]
   if p.get('productType')=='Sand wax candle':highlights=['Layered sand-wax design','Coordinated gift packaging shown','Private label enquiries welcome']
   design_intro=('<p class="product-design-description">'+esc(p['designDescription'])+'</p>') if p.get('designDescription') else ''
   sections=[('Product Highlights','<ul>'+''.join('<li>'+esc(item)+'</li>' for item in highlights)+'</ul>'),('Product Details',details_html),('Materials & Craftsmanship','<p>'+esc(spec.get('materials','Discuss vessel, finish, fragrance composition and component specifications with our team. The photographs show the current design reference.'))+'</p>'),('Alternate Views' if p.get('alternateView') else 'Packaging',package+'<p>Packaging options, including box format, materials, inserts, pack contents and dimensions, are open to discussion and mutual agreement.</p>'),('Use & Care','<p>'+esc(care(cat,p))+'</p>')]

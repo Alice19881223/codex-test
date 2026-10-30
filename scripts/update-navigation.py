@@ -9,12 +9,13 @@ icons={
 'crystal':'<path d="m14 35 11-15 14 2 11 13-16 23ZM14 35h36M25 20l-2 15 11 23 7-23-2-13M23 35h18"/><path d="m8 16 2-5 2 5 5 2-5 2-2 5-2-5-5-2ZM48 9l2-4 2 4 4 2-4 2-2 4-2-4-4-2Z"/>',
 'gift':'<path d="M12 27h40v29H12ZM9 20h46v7H9ZM32 20v36M32 20C13 22 13 6 21 7c7 0 11 13 11 13Zm0 0c19 2 19-14 11-13-7 0-11 13-11 13Z"/>',
 'christmas':'<path d="m32 4 2 5 6 1-5 4 1 6-4-3-4 3 1-6-5-4 6-1Z"/><path d="m31 21-12 13h6L13 46h9L15 54h34l-7-8h9L39 34h6L33 21M28 54v7h8v-7"/><circle cx="31" cy="34" r="2"/><circle cx="37" cy="45" r="2"/><path d="M26 45h.1"/>',
+'halloween':'<path d="M18 56V29C18 14 24 6 32 6s14 8 14 23v27l-7-6-7 6-7-6Z"/><path d="M18 42c-6 1-9 5-10 10 6 0 10-2 12-6M46 42c6 1 9 5 10 10-6 0-10-2-12-6"/><circle cx="27" cy="28" r="2"/><circle cx="37" cy="28" r="2"/><path d="M28 37q4 4 8 0"/>',
 'sachets':'<path d="M10 18h20v32H10ZM20 18v-5c0-9 14-9 14 0"/><path d="M19 31c-7-8-14 3 0 10 14-7 7-18 0-10Z"/><path d="M39 26h13l5 28H34ZM39 22l6 4 7-4M40 37h.1m9 0h.1M41 43q3 3 6 0"/>',
 'fragrance':'<path d="M32 35v24m0-12c-12-10-20-9-21-1 8 5 16 5 21 1m0 5c12-10 20-9 21-1-8 5-16 5-21 1"/><path d="M32 12c-9-15-22-1-12 8-17 0-14 19 1 18-8 13 12 20 16 7 8 11 23-3 12-12 17-5 7-22-6-15 0-15-15-19-11-6Z"/><circle cx="33" cy="27" r="5"/>',
 'contact':'<rect x="8" y="19" width="48" height="34" rx="7"/><path d="m10 22 22 17 22-17M11 49l14-12m28 12L39 37M32 11c-8-9-17 2 0 10 17-8 8-19 0-10Z"/>'}
 for key,paths in icons.items():
  Path(f'assets/nav-{key}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#e5ecd9" stroke="#486347" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">{paths}</g></svg>')
-items=[('home','Who we are','index.html'),('candle','Scented candles','products-current.html'),('reed','Reed diffusers','reed-collections.html'),('crystal','Crystal diffusers','products-crystal-1.html'),('gift','Gift setting','gift-collection.html'),('christmas','Christmas','christmas-collection.html'),('sachets','Tablets &amp; Sachets','sachets.html'),('fragrance','Fragrance','fragrance.html'),('contact','Let’s connect','contact.html')]
+items=[('home','Who we are','index.html'),('candle','Scented candles','products-current.html'),('reed','Reed diffusers','reed-collections.html'),('crystal','Crystal diffusers','products-crystal-1.html'),('gift','Gift setting','gift-collection.html'),('christmas','Christmas','christmas-collection.html'),('halloween','Halloween','halloween-collection.html'),('sachets','Tablets &amp; Sachets','sachets.html'),('fragrance','Fragrance','fragrance.html'),('contact','Let’s connect','contact.html')]
 for p in Path('.').glob('*.html'):
  s=p.read_text()
  if '<header>' not in s:continue

@@ -2,8 +2,8 @@
 const dialog=document.querySelector('#product-dialog');
 const content=document.querySelector('#dialog-content');
 const escapeHtml=str=>str.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections',christmas:'Christmas collection',sachets:'Scented tablets and sachets'};
-const catalogues=typeof candleProducts==='undefined'?{}:{candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts,christmas:christmasProducts,sachets:sachetsProducts};
+const categoryNames={candle:'Scented candles',reed:'Reed diffusers',crystal:'Crystal diffusers',gift:'Gift collections',christmas:'Christmas collection',halloween:'Halloween collection',sachets:'Scented tablets and sachets'};
+const catalogues=typeof candleProducts==='undefined'?{}:{candle:candleProducts,reed:reedProducts,crystal:crystalProducts,gift:giftProducts,christmas:christmasProducts,halloween:halloweenProducts,sachets:sachetsProducts};
 function openPhoto(photo,category,scent){
  const page=productPages[category]?.[photo.image];if(page)location.assign(page+(scent?'?scent='+encodeURIComponent(scent.id):''));
 }
@@ -28,9 +28,9 @@ if(grid){
  // Preserve older bookmarked category/page query links.
  const query=new URLSearchParams(location.search);
  if(query.has('category')||query.has('page')){
-  const cat=category==='gift'?'gift':['candle','reed','crystal','christmas','sachets'].includes(query.get('category'))?query.get('category'):category;
+  const cat=category==='gift'?'gift':['candle','reed','crystal','christmas','halloween','sachets'].includes(query.get('category'))?query.get('category'):category;
   const raw=Number(query.get('page'));const collection=document.body.dataset.collection;const total=collection&&cat===category?Number(document.body.dataset.collectionCount):catalogues[cat].length;const page=Math.min(Number.isSafeInteger(raw)&&raw>0?raw:1,(collection&&cat===category?Number(document.body.dataset.collectionPages)||Math.ceil(total/12):Number(document.body.dataset.cataloguePages)||Math.ceil(total/12)));
-  const target=collection&&cat===category?`${cat==='reed'?'reeds':'candles'}-${collection}${page===1?'':`-${page}`}.html`:cat==='sachets'?(page===1?'sachets.html':`sachets-${page}.html`):cat==='christmas'?(page===1?'christmas-collection.html':`christmas-collection-${page}.html`):cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
+  const target=collection&&cat===category?`${cat==='reed'?'reeds':'candles'}-${collection}${page===1?'':`-${page}`}.html`:cat==='sachets'?(page===1?'sachets.html':`sachets-${page}.html`):cat==='christmas'?(page===1?'christmas-collection.html':`christmas-collection-${page}.html`):cat==='halloween'?(page===1?'halloween-collection.html':`halloween-collection-${page}.html`):cat==='gift'?(page===1?'gift-collection.html':`gift-collection-${page}.html`):(cat==='candle'&&page===1?'products.html':`products-${cat}-${page}.html`);
   location.replace(target);
  }
 }

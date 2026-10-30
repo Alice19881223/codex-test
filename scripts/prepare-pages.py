@@ -11,7 +11,7 @@ for pattern in ['*.html','*.css','*.js','robots.txt','sitemap.xml']:
 shutil.copytree(root/'assets',stage/'assets')
 (stage/'.nojekyll').touch()
 catalogues={}
-for category in ['candle','reed','crystal','gift','christmas','sachets']:
+for category in ['candle','reed','crystal','gift','christmas','halloween','sachets']:
  data=json.loads((stage/f'assets/{category}-products.json').read_text());catalogues[category]=data
  for product in data:
   assert (stage/product['image']).exists(),f"Missing product photo: {product['image']}"
