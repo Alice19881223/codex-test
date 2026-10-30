@@ -15,6 +15,9 @@ def card(p,index):
  return '<div class="paired-product">'+a+f'<button type="button" class="photo-toggle" aria-pressed="false" aria-label="{label} for {name}">{label}</button></div>' if paired else a
 for cat,pages in layouts.items():
  products=json.loads((root/f'assets/{cat}-products.json').read_text());lookup={p['image']:(i,p) for i,p in enumerate(products)};base=(root/filename(cat)).read_text();total=len(pages)
+ if cat=='christmas':
+  base=re.sub(r'<div class="christmas-mood-strip".*?</div>','',base,flags=re.S)
+  base=base.replace('</section><section id="christmas-products"','</section><div class="christmas-mood-strip" aria-label="Christmas collection moods"><span>EVERGREEN FORESTS</span><span>WINTER NIGHT</span><span>GINGERBREAD HOMES</span><span>GOLDEN WISHES</span></div><section id="christmas-products"',1)
  for page,images in enumerate(pages,1):
   start=sum(len(part) for part in pages[:page-1]);text=re.sub(r'<body[^>]*>',f'<body data-category="{cat}" data-page="{page}" data-catalogue-pages="{total}" data-arranged-catalogue="true">',base)
   text=re.sub(r'(<div id="catalogue-grid"[^>]*>).*?(</div>\s*<p id="catalogue-count")',lambda m:m[1]+''.join(card(lookup[image][1],lookup[image][0]) for image in images)+m[2],text,flags=re.S)

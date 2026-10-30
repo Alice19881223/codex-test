@@ -1724,7 +1724,7 @@
         "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
         "name": "Burgundy Botanical Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
       },
       {
@@ -2318,6 +2318,22 @@
         "series": "Dove Reverie",
         "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-7d3434c1.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/face9669e0d216bac8da.webp",
+        "name": "Ice Star Wish",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-36e038d3.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/34001addd28405e77ff8.webp",
+        "name": "Ice Blue Snowflake",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-49aa1caf.html?scent=white-tea-bergamot"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3213,6 +3229,22 @@
         "href": "product-lnv-cnd-cffb251f.html?scent=sandalwood-cashmere"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/a03d654247b59385d337.webp",
+        "name": "Angel\u2019s Wish Candle",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-38395bae.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
+        "name": "Ivory Winter Rocking Horse",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-dbc19ddb.html?scent=sandalwood-cashmere"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/paired/e6a379ea95e7f1408253.webp",
         "name": "Iced Patchouli",
@@ -3371,6 +3403,14 @@
         "series": "Ribbed Ceramic",
         "catalogueHref": "reeds-at-home-at-ease-3.html",
         "href": "product-lnv-rd-fd8a188c.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4.webp",
+        "name": "Sage Rocking Horse",
+        "series": "Evergreen Christmas",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-71ad2b2f.html?scent=sandalwood-cashmere"
       },
       {
         "category": "reed",
@@ -3759,6 +3799,46 @@
     "description": "Warm, softly sweet and inviting; evening living rooms and bedrooms.",
     "matches": [
       {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/3d25ec004fde1558f2b1.webp",
+        "name": "Ivory Christmas Angel",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-372e47cd.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/480e0015923eaa4b1516.webp",
+        "name": "Christmas Angel Reed Diffuser",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-852907ee.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/0783bb9024f92a66b9fa.webp",
+        "name": "Golden Winter Reindeer",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-38860c7a.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/237cd948e7e3d2a1a401.webp",
+        "name": "Golden Noel Angel",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-fbe7c79d.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/1fd4904b918c04068344.webp",
+        "name": "Crimson Christmas Angel",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-6c4a6ad8.html?scent=amber-vanilla"
+      },
+      {
         "category": "gift",
         "image": "assets/gifts/paired/905159d5184ce017c1a2.webp",
         "name": "Sunshine Duo",
@@ -3988,6 +4068,14 @@
         "href": "product-lnv-cnd-46ce9dcd.html?scent=vanilla-tonka"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/29ec70b0340f7881bc4a.webp",
+        "name": "North Pole Workshop",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-e8e0ad83.html?scent=vanilla-tonka"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
         "name": "Vanilla Grove",
@@ -4010,6 +4098,14 @@
         "series": "Festive Ballet",
         "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-7c9115c3.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c.webp",
+        "name": "Frosted Nutcracker",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-57f744f9.html?scent=vanilla-tonka"
       },
       {
         "category": "candle",
@@ -4245,6 +4341,38 @@
         "href": "product-lnv-xms-a6468ad9.html?scent=apple-cinnamon"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/16feb37d188f7d04fa72.webp",
+        "name": "Green Door Christmas Elf",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-8bd85587.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/b0665b6ff3fca59beefd.webp",
+        "name": "Red Door Christmas Elf",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-7be9e06a.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/5553183735d95f00391d.webp",
+        "name": "Merry XMAS Robin",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-fb21afe1.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/2d829e7c278b6735ffdf.webp",
+        "name": "Sweet Home Christmas Bell",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-3a97715b.html?scent=apple-cinnamon"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
         "name": "Ochre Wild",
@@ -4391,7 +4519,7 @@
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -4399,7 +4527,7 @@
         "image": "assets/christmas/paired/208837f07b39c307c4fe.webp",
         "name": "Olive Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-57d648b6.html?scent=fir-cedarwood"
       },
       {
@@ -4407,7 +4535,7 @@
         "image": "assets/christmas/paired/a59a1441e620ff595494.webp",
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood"
       },
       {
@@ -4431,7 +4559,7 @@
         "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
         "name": "Ivory Tree, Snowflake & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-15cdd6ab.html?scent=fir-cedarwood"
       },
       {
@@ -4439,7 +4567,7 @@
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
       },
       {
@@ -4457,6 +4585,30 @@
         "series": "Christmas Storybook Glass",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-a826f86a.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/958917fc4e1518af9a3b.webp",
+        "name": "Home for Christmas Wreath",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-f6a3bc6b.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/d47a3e205f49d9a4857a.webp",
+        "name": "Crimson Star Tree",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-2230991c.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp",
+        "name": "Ivory Forest Deer",
+        "series": "Golden Christmas Wishes",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-0ea9d06a.html?scent=fir-cedarwood"
       },
       {
         "category": "crystal",
@@ -4508,6 +4660,38 @@
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp",
+        "name": "Letters to Santa",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-9d47fabe.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/77e3dbd22d7800538ff8.webp",
+        "name": "Crimson Winter Fir",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-023309fa.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/1d055c17c0cfae26e46a.webp",
+        "name": "Tartan Christmas Tree",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-368d86cc.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/093688a2e4e8586dcae9.webp",
+        "name": "Joy to the World Tree",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-e2d915b1.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
@@ -4545,6 +4729,30 @@
         "series": "Festive Ceramic Moments",
         "catalogueHref": "christmas-collection-3.html",
         "href": "product-lnv-xms-6a7db7d8.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/d15040537706d75f4d05.webp",
+        "name": "Evergreen Star Tree",
+        "series": "Evergreen Christmas",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-9b6ef0a7.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/2bae292d1c00076fe07a.webp",
+        "name": "Enchanted Forest Reindeer",
+        "series": "Evergreen Christmas",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-315af706.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/b4449b1585374c83dab9.webp",
+        "name": "Evergreen Minimal Tree",
+        "series": "Evergreen Christmas",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-04e79dc8.html?scent=fir-cedarwood"
       }
     ],
     "family": "Warm & Woody",
@@ -4667,6 +4875,46 @@
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/festive-stories/d2cce27b368c82f2490f.webp",
+        "name": "Waving Santa Candle",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-8d877af2.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/532016ada99daf19c0e1.webp",
+        "name": "A Little Christmas Joy Santa",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-e5769b2f.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/cc0061d6fd65927098ed.webp",
+        "name": "Merry Christmas Village",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-cb6fff0a.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695.webp",
+        "name": "Christmas Story Drum",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-08714265.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/ae02400a34a57835ca88.webp",
+        "name": "Cedar & Spice Tree",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-b608df1a.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/storybook-glass/7e1e485cae42426b2786.webp",
         "name": "Crimson Cottage Glow Candle",
         "series": "Christmas Storybook Glass",
@@ -4778,6 +5026,22 @@
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/festive-stories/fd381bada1aa41378db3.webp",
+        "name": "Gingerbread Noel House",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-f7d615c7.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/05488b78e063b6cb3c80.webp",
+        "name": "Gingerbread Christmas at Home",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-5be3a526.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
         "name": "Pink Gingerbread Candle",
         "series": "Christmas Storybook Glass",
@@ -4813,7 +5077,7 @@
         "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla"
       },
       {
@@ -5274,6 +5538,14 @@
     "matches": [
       {
         "category": "christmas",
+        "image": "assets/christmas/festive-stories/22423c89618ed90a1841.webp",
+        "name": "Snowy Christmas Village",
+        "series": "Christmas Hearth & Story",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-1d272741.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
@@ -5287,6 +5559,30 @@
         "series": "Colour Glass",
         "catalogueHref": "reeds-at-home-at-ease-2.html",
         "href": "product-lnv-rd-396c287d.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/07fa7357eac67ee1c03b.webp",
+        "name": "Snowman Moonlit Cottage",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-3d69a753.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/77aec5f775a59335ca25.webp",
+        "name": "Silent Night Tree",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-122894fa.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp",
+        "name": "Midnight Snowflake",
+        "series": "Winter Night & Snow",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-119d2353.html?scent=pine-cedarwood"
       },
       {
         "category": "christmas",
@@ -5311,6 +5607,14 @@
         "series": "Christmas Storybook Glass",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-0109067d.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/festive-stories/dd05de15db0a91e509d8.webp",
+        "name": "Nordic Forest Story",
+        "series": "Evergreen Christmas",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-314a3016.html?scent=pine-cedarwood"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",

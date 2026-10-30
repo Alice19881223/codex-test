@@ -12881,5 +12881,1753 @@
         "bytes": 169340
       }
     ]
+  },
+  "assets/christmas/festive-stories/07fa7357eac67ee1c03b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 99914,
+    "src": "assets/christmas/festive-stories/07fa7357eac67ee1c03b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/07fa7357eac67ee1c03b-480.webp",
+        "width": 480,
+        "bytes": 20648
+      },
+      {
+        "src": "assets/christmas/festive-stories/07fa7357eac67ee1c03b-960.webp",
+        "width": 960,
+        "bytes": 61544
+      },
+      {
+        "src": "assets/christmas/festive-stories/07fa7357eac67ee1c03b.webp",
+        "width": 1254,
+        "bytes": 99914
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/57c21d2455e7ad43b3e6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 149080,
+    "src": "assets/christmas/festive-stories/57c21d2455e7ad43b3e6.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/57c21d2455e7ad43b3e6-480.webp",
+        "width": 480,
+        "bytes": 27764
+      },
+      {
+        "src": "assets/christmas/festive-stories/57c21d2455e7ad43b3e6-960.webp",
+        "width": 960,
+        "bytes": 92630
+      },
+      {
+        "src": "assets/christmas/festive-stories/57c21d2455e7ad43b3e6.webp",
+        "width": 1254,
+        "bytes": 149080
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/0783bb9024f92a66b9fa.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 56076,
+    "src": "assets/christmas/festive-stories/0783bb9024f92a66b9fa.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/0783bb9024f92a66b9fa-480.webp",
+        "width": 480,
+        "bytes": 13170
+      },
+      {
+        "src": "assets/christmas/festive-stories/0783bb9024f92a66b9fa-960.webp",
+        "width": 960,
+        "bytes": 34744
+      },
+      {
+        "src": "assets/christmas/festive-stories/0783bb9024f92a66b9fa.webp",
+        "width": 1254,
+        "bytes": 56076
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/0c79b143a7813721b62b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 162114,
+    "src": "assets/christmas/festive-stories/0c79b143a7813721b62b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/0c79b143a7813721b62b-480.webp",
+        "width": 480,
+        "bytes": 19986
+      },
+      {
+        "src": "assets/christmas/festive-stories/0c79b143a7813721b62b-960.webp",
+        "width": 960,
+        "bytes": 88080
+      },
+      {
+        "src": "assets/christmas/festive-stories/0c79b143a7813721b62b.webp",
+        "width": 1254,
+        "bytes": 162114
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/77e3dbd22d7800538ff8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 90032,
+    "src": "assets/christmas/festive-stories/77e3dbd22d7800538ff8.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/77e3dbd22d7800538ff8-480.webp",
+        "width": 480,
+        "bytes": 15450
+      },
+      {
+        "src": "assets/christmas/festive-stories/77e3dbd22d7800538ff8-960.webp",
+        "width": 960,
+        "bytes": 50436
+      },
+      {
+        "src": "assets/christmas/festive-stories/77e3dbd22d7800538ff8.webp",
+        "width": 1254,
+        "bytes": 90032
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/9e84ac4b83aba6740a06.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 144978,
+    "src": "assets/christmas/festive-stories/9e84ac4b83aba6740a06.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/9e84ac4b83aba6740a06-480.webp",
+        "width": 480,
+        "bytes": 19384
+      },
+      {
+        "src": "assets/christmas/festive-stories/9e84ac4b83aba6740a06-960.webp",
+        "width": 960,
+        "bytes": 78820
+      },
+      {
+        "src": "assets/christmas/festive-stories/9e84ac4b83aba6740a06.webp",
+        "width": 1254,
+        "bytes": 144978
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/face9669e0d216bac8da.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 49600,
+    "src": "assets/christmas/festive-stories/face9669e0d216bac8da.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/face9669e0d216bac8da-480.webp",
+        "width": 480,
+        "bytes": 10466
+      },
+      {
+        "src": "assets/christmas/festive-stories/face9669e0d216bac8da-960.webp",
+        "width": 960,
+        "bytes": 29724
+      },
+      {
+        "src": "assets/christmas/festive-stories/face9669e0d216bac8da.webp",
+        "width": 1254,
+        "bytes": 49600
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/73a3debfadec05e43c67.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 112322,
+    "src": "assets/christmas/festive-stories/73a3debfadec05e43c67.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/73a3debfadec05e43c67-480.webp",
+        "width": 480,
+        "bytes": 18004
+      },
+      {
+        "src": "assets/christmas/festive-stories/73a3debfadec05e43c67-960.webp",
+        "width": 960,
+        "bytes": 66060
+      },
+      {
+        "src": "assets/christmas/festive-stories/73a3debfadec05e43c67.webp",
+        "width": 1254,
+        "bytes": 112322
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/d091f1ee9d84f618ec5c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 36666,
+    "src": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c-480.webp",
+        "width": 480,
+        "bytes": 8004
+      },
+      {
+        "src": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c-960.webp",
+        "width": 960,
+        "bytes": 22028
+      },
+      {
+        "src": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c.webp",
+        "width": 1254,
+        "bytes": 36666
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/598a86f4e855aace7ed6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 95334,
+    "src": "assets/christmas/festive-stories/598a86f4e855aace7ed6.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/598a86f4e855aace7ed6-480.webp",
+        "width": 480,
+        "bytes": 13804
+      },
+      {
+        "src": "assets/christmas/festive-stories/598a86f4e855aace7ed6-960.webp",
+        "width": 960,
+        "bytes": 53568
+      },
+      {
+        "src": "assets/christmas/festive-stories/598a86f4e855aace7ed6.webp",
+        "width": 1254,
+        "bytes": 95334
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/34001addd28405e77ff8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 68714,
+    "src": "assets/christmas/festive-stories/34001addd28405e77ff8.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/34001addd28405e77ff8-480.webp",
+        "width": 480,
+        "bytes": 12254
+      },
+      {
+        "src": "assets/christmas/festive-stories/34001addd28405e77ff8-960.webp",
+        "width": 960,
+        "bytes": 38180
+      },
+      {
+        "src": "assets/christmas/festive-stories/34001addd28405e77ff8.webp",
+        "width": 1254,
+        "bytes": 68714
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/d49fbf444ce543c660e0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 124854,
+    "src": "assets/christmas/festive-stories/d49fbf444ce543c660e0.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/d49fbf444ce543c660e0-480.webp",
+        "width": 480,
+        "bytes": 18170
+      },
+      {
+        "src": "assets/christmas/festive-stories/d49fbf444ce543c660e0-960.webp",
+        "width": 960,
+        "bytes": 70186
+      },
+      {
+        "src": "assets/christmas/festive-stories/d49fbf444ce543c660e0.webp",
+        "width": 1254,
+        "bytes": 124854
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/958917fc4e1518af9a3b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 98566,
+    "src": "assets/christmas/festive-stories/958917fc4e1518af9a3b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/958917fc4e1518af9a3b-480.webp",
+        "width": 480,
+        "bytes": 20808
+      },
+      {
+        "src": "assets/christmas/festive-stories/958917fc4e1518af9a3b-960.webp",
+        "width": 960,
+        "bytes": 61378
+      },
+      {
+        "src": "assets/christmas/festive-stories/958917fc4e1518af9a3b.webp",
+        "width": 1254,
+        "bytes": 98566
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/5f511a4606bfa2b7ffd2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 160330,
+    "src": "assets/christmas/festive-stories/5f511a4606bfa2b7ffd2.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/5f511a4606bfa2b7ffd2-480.webp",
+        "width": 480,
+        "bytes": 26064
+      },
+      {
+        "src": "assets/christmas/festive-stories/5f511a4606bfa2b7ffd2-960.webp",
+        "width": 960,
+        "bytes": 96364
+      },
+      {
+        "src": "assets/christmas/festive-stories/5f511a4606bfa2b7ffd2.webp",
+        "width": 1254,
+        "bytes": 160330
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/22423c89618ed90a1841.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 129126,
+    "src": "assets/christmas/festive-stories/22423c89618ed90a1841.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/22423c89618ed90a1841-480.webp",
+        "width": 480,
+        "bytes": 24572
+      },
+      {
+        "src": "assets/christmas/festive-stories/22423c89618ed90a1841-960.webp",
+        "width": 960,
+        "bytes": 78418
+      },
+      {
+        "src": "assets/christmas/festive-stories/22423c89618ed90a1841.webp",
+        "width": 1254,
+        "bytes": 129126
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/b6ddf946bd5faacfa350.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 229194,
+    "src": "assets/christmas/festive-stories/b6ddf946bd5faacfa350.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/b6ddf946bd5faacfa350-480.webp",
+        "width": 480,
+        "bytes": 37590
+      },
+      {
+        "src": "assets/christmas/festive-stories/b6ddf946bd5faacfa350-960.webp",
+        "width": 960,
+        "bytes": 135144
+      },
+      {
+        "src": "assets/christmas/festive-stories/b6ddf946bd5faacfa350.webp",
+        "width": 1254,
+        "bytes": 229194
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/29ec70b0340f7881bc4a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 59620,
+    "src": "assets/christmas/festive-stories/29ec70b0340f7881bc4a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/29ec70b0340f7881bc4a-480.webp",
+        "width": 480,
+        "bytes": 14050
+      },
+      {
+        "src": "assets/christmas/festive-stories/29ec70b0340f7881bc4a-960.webp",
+        "width": 960,
+        "bytes": 37314
+      },
+      {
+        "src": "assets/christmas/festive-stories/29ec70b0340f7881bc4a.webp",
+        "width": 1254,
+        "bytes": 59620
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/729608856094f6cc8578.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 123852,
+    "src": "assets/christmas/festive-stories/729608856094f6cc8578.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/729608856094f6cc8578-480.webp",
+        "width": 480,
+        "bytes": 18630
+      },
+      {
+        "src": "assets/christmas/festive-stories/729608856094f6cc8578-960.webp",
+        "width": 960,
+        "bytes": 71788
+      },
+      {
+        "src": "assets/christmas/festive-stories/729608856094f6cc8578.webp",
+        "width": 1254,
+        "bytes": 123852
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/1d055c17c0cfae26e46a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 178108,
+    "src": "assets/christmas/festive-stories/1d055c17c0cfae26e46a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/1d055c17c0cfae26e46a-480.webp",
+        "width": 480,
+        "bytes": 28574
+      },
+      {
+        "src": "assets/christmas/festive-stories/1d055c17c0cfae26e46a-960.webp",
+        "width": 960,
+        "bytes": 105306
+      },
+      {
+        "src": "assets/christmas/festive-stories/1d055c17c0cfae26e46a.webp",
+        "width": 1254,
+        "bytes": 178108
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/04d447a3edd69ab08b78.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 195236,
+    "src": "assets/christmas/festive-stories/04d447a3edd69ab08b78.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/04d447a3edd69ab08b78-480.webp",
+        "width": 480,
+        "bytes": 25844
+      },
+      {
+        "src": "assets/christmas/festive-stories/04d447a3edd69ab08b78-960.webp",
+        "width": 960,
+        "bytes": 114780
+      },
+      {
+        "src": "assets/christmas/festive-stories/04d447a3edd69ab08b78.webp",
+        "width": 1254,
+        "bytes": 195236
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/fd381bada1aa41378db3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 100564,
+    "src": "assets/christmas/festive-stories/fd381bada1aa41378db3.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/fd381bada1aa41378db3-480.webp",
+        "width": 480,
+        "bytes": 26010
+      },
+      {
+        "src": "assets/christmas/festive-stories/fd381bada1aa41378db3-960.webp",
+        "width": 960,
+        "bytes": 66884
+      },
+      {
+        "src": "assets/christmas/festive-stories/fd381bada1aa41378db3.webp",
+        "width": 1254,
+        "bytes": 100564
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/c8709b956326b169dfec.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 190848,
+    "src": "assets/christmas/festive-stories/c8709b956326b169dfec.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/c8709b956326b169dfec-480.webp",
+        "width": 480,
+        "bytes": 30828
+      },
+      {
+        "src": "assets/christmas/festive-stories/c8709b956326b169dfec-960.webp",
+        "width": 960,
+        "bytes": 117922
+      },
+      {
+        "src": "assets/christmas/festive-stories/c8709b956326b169dfec.webp",
+        "width": 1254,
+        "bytes": 190848
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/3d25ec004fde1558f2b1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 87880,
+    "src": "assets/christmas/festive-stories/3d25ec004fde1558f2b1.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/3d25ec004fde1558f2b1-480.webp",
+        "width": 480,
+        "bytes": 19154
+      },
+      {
+        "src": "assets/christmas/festive-stories/3d25ec004fde1558f2b1-960.webp",
+        "width": 960,
+        "bytes": 54926
+      },
+      {
+        "src": "assets/christmas/festive-stories/3d25ec004fde1558f2b1.webp",
+        "width": 1254,
+        "bytes": 87880
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/baf95fa9f56af0530696.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 215274,
+    "src": "assets/christmas/festive-stories/baf95fa9f56af0530696.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/baf95fa9f56af0530696-480.webp",
+        "width": 480,
+        "bytes": 31716
+      },
+      {
+        "src": "assets/christmas/festive-stories/baf95fa9f56af0530696-960.webp",
+        "width": 960,
+        "bytes": 124272
+      },
+      {
+        "src": "assets/christmas/festive-stories/baf95fa9f56af0530696.webp",
+        "width": 1254,
+        "bytes": 215274
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/2d829e7c278b6735ffdf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 125250,
+    "src": "assets/christmas/festive-stories/2d829e7c278b6735ffdf.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/2d829e7c278b6735ffdf-480.webp",
+        "width": 480,
+        "bytes": 23176
+      },
+      {
+        "src": "assets/christmas/festive-stories/2d829e7c278b6735ffdf-960.webp",
+        "width": 960,
+        "bytes": 74858
+      },
+      {
+        "src": "assets/christmas/festive-stories/2d829e7c278b6735ffdf.webp",
+        "width": 1254,
+        "bytes": 125250
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/df3e38321af70daa64b9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 120586,
+    "src": "assets/christmas/festive-stories/df3e38321af70daa64b9.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/df3e38321af70daa64b9-480.webp",
+        "width": 480,
+        "bytes": 19228
+      },
+      {
+        "src": "assets/christmas/festive-stories/df3e38321af70daa64b9-960.webp",
+        "width": 960,
+        "bytes": 68672
+      },
+      {
+        "src": "assets/christmas/festive-stories/df3e38321af70daa64b9.webp",
+        "width": 1254,
+        "bytes": 120586
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/16feb37d188f7d04fa72.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 84902,
+    "src": "assets/christmas/festive-stories/16feb37d188f7d04fa72.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/16feb37d188f7d04fa72-480.webp",
+        "width": 480,
+        "bytes": 17818
+      },
+      {
+        "src": "assets/christmas/festive-stories/16feb37d188f7d04fa72-960.webp",
+        "width": 960,
+        "bytes": 51682
+      },
+      {
+        "src": "assets/christmas/festive-stories/16feb37d188f7d04fa72.webp",
+        "width": 1254,
+        "bytes": 84902
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/c65b9caf9fce133a3d3e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 189818,
+    "src": "assets/christmas/festive-stories/c65b9caf9fce133a3d3e.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/c65b9caf9fce133a3d3e-480.webp",
+        "width": 480,
+        "bytes": 29072
+      },
+      {
+        "src": "assets/christmas/festive-stories/c65b9caf9fce133a3d3e-960.webp",
+        "width": 960,
+        "bytes": 107220
+      },
+      {
+        "src": "assets/christmas/festive-stories/c65b9caf9fce133a3d3e.webp",
+        "width": 1254,
+        "bytes": 189818
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/05488b78e063b6cb3c80.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 137648,
+    "src": "assets/christmas/festive-stories/05488b78e063b6cb3c80.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/05488b78e063b6cb3c80-480.webp",
+        "width": 480,
+        "bytes": 30432
+      },
+      {
+        "src": "assets/christmas/festive-stories/05488b78e063b6cb3c80-960.webp",
+        "width": 960,
+        "bytes": 84498
+      },
+      {
+        "src": "assets/christmas/festive-stories/05488b78e063b6cb3c80.webp",
+        "width": 1254,
+        "bytes": 137648
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/c3dd980b0104f39ea340.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 202766,
+    "src": "assets/christmas/festive-stories/c3dd980b0104f39ea340.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/c3dd980b0104f39ea340-480.webp",
+        "width": 480,
+        "bytes": 41710
+      },
+      {
+        "src": "assets/christmas/festive-stories/c3dd980b0104f39ea340-960.webp",
+        "width": 960,
+        "bytes": 125276
+      },
+      {
+        "src": "assets/christmas/festive-stories/c3dd980b0104f39ea340.webp",
+        "width": 1254,
+        "bytes": 202766
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/d2cce27b368c82f2490f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 46792,
+    "src": "assets/christmas/festive-stories/d2cce27b368c82f2490f.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/d2cce27b368c82f2490f-480.webp",
+        "width": 480,
+        "bytes": 11594
+      },
+      {
+        "src": "assets/christmas/festive-stories/d2cce27b368c82f2490f-960.webp",
+        "width": 960,
+        "bytes": 29362
+      },
+      {
+        "src": "assets/christmas/festive-stories/d2cce27b368c82f2490f.webp",
+        "width": 1254,
+        "bytes": 46792
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/b4174e1c8ed6a1321532.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 146806,
+    "src": "assets/christmas/festive-stories/b4174e1c8ed6a1321532.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/b4174e1c8ed6a1321532-480.webp",
+        "width": 480,
+        "bytes": 22342
+      },
+      {
+        "src": "assets/christmas/festive-stories/b4174e1c8ed6a1321532-960.webp",
+        "width": 960,
+        "bytes": 88888
+      },
+      {
+        "src": "assets/christmas/festive-stories/b4174e1c8ed6a1321532.webp",
+        "width": 1254,
+        "bytes": 146806
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/d15040537706d75f4d05.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 137920,
+    "src": "assets/christmas/festive-stories/d15040537706d75f4d05.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/d15040537706d75f4d05-480.webp",
+        "width": 480,
+        "bytes": 21046
+      },
+      {
+        "src": "assets/christmas/festive-stories/d15040537706d75f4d05-960.webp",
+        "width": 960,
+        "bytes": 79530
+      },
+      {
+        "src": "assets/christmas/festive-stories/d15040537706d75f4d05.webp",
+        "width": 1254,
+        "bytes": 137920
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/06e6e10bd7df1a075e93.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 143866,
+    "src": "assets/christmas/festive-stories/06e6e10bd7df1a075e93.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/06e6e10bd7df1a075e93-480.webp",
+        "width": 480,
+        "bytes": 18290
+      },
+      {
+        "src": "assets/christmas/festive-stories/06e6e10bd7df1a075e93-960.webp",
+        "width": 960,
+        "bytes": 82542
+      },
+      {
+        "src": "assets/christmas/festive-stories/06e6e10bd7df1a075e93.webp",
+        "width": 1254,
+        "bytes": 143866
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/f9a299e1cb5e477f08b4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 111556,
+    "src": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4-480.webp",
+        "width": 480,
+        "bytes": 15828
+      },
+      {
+        "src": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4-960.webp",
+        "width": 960,
+        "bytes": 63520
+      },
+      {
+        "src": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4.webp",
+        "width": 1254,
+        "bytes": 111556
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/560349b50463844623be.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 109936,
+    "src": "assets/christmas/festive-stories/560349b50463844623be.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/560349b50463844623be-480.webp",
+        "width": 480,
+        "bytes": 13026
+      },
+      {
+        "src": "assets/christmas/festive-stories/560349b50463844623be-960.webp",
+        "width": 960,
+        "bytes": 60922
+      },
+      {
+        "src": "assets/christmas/festive-stories/560349b50463844623be.webp",
+        "width": 1254,
+        "bytes": 109936
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/1fd4904b918c04068344.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 92562,
+    "src": "assets/christmas/festive-stories/1fd4904b918c04068344.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/1fd4904b918c04068344-480.webp",
+        "width": 480,
+        "bytes": 18626
+      },
+      {
+        "src": "assets/christmas/festive-stories/1fd4904b918c04068344-960.webp",
+        "width": 960,
+        "bytes": 55066
+      },
+      {
+        "src": "assets/christmas/festive-stories/1fd4904b918c04068344.webp",
+        "width": 1254,
+        "bytes": 92562
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/3fbe74a42a8d104bc397.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 160956,
+    "src": "assets/christmas/festive-stories/3fbe74a42a8d104bc397.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/3fbe74a42a8d104bc397-480.webp",
+        "width": 480,
+        "bytes": 24360
+      },
+      {
+        "src": "assets/christmas/festive-stories/3fbe74a42a8d104bc397-960.webp",
+        "width": 960,
+        "bytes": 93264
+      },
+      {
+        "src": "assets/christmas/festive-stories/3fbe74a42a8d104bc397.webp",
+        "width": 1254,
+        "bytes": 160956
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/5553183735d95f00391d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 77216,
+    "src": "assets/christmas/festive-stories/5553183735d95f00391d.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/5553183735d95f00391d-480.webp",
+        "width": 480,
+        "bytes": 17678
+      },
+      {
+        "src": "assets/christmas/festive-stories/5553183735d95f00391d-960.webp",
+        "width": 960,
+        "bytes": 47596
+      },
+      {
+        "src": "assets/christmas/festive-stories/5553183735d95f00391d.webp",
+        "width": 1254,
+        "bytes": 77216
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/a255ef89cd47a136a465.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 132890,
+    "src": "assets/christmas/festive-stories/a255ef89cd47a136a465.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/a255ef89cd47a136a465-480.webp",
+        "width": 480,
+        "bytes": 21220
+      },
+      {
+        "src": "assets/christmas/festive-stories/a255ef89cd47a136a465-960.webp",
+        "width": 960,
+        "bytes": 79128
+      },
+      {
+        "src": "assets/christmas/festive-stories/a255ef89cd47a136a465.webp",
+        "width": 1254,
+        "bytes": 132890
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/cc0061d6fd65927098ed.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 148344,
+    "src": "assets/christmas/festive-stories/cc0061d6fd65927098ed.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/cc0061d6fd65927098ed-480.webp",
+        "width": 480,
+        "bytes": 31706
+      },
+      {
+        "src": "assets/christmas/festive-stories/cc0061d6fd65927098ed-960.webp",
+        "width": 960,
+        "bytes": 91332
+      },
+      {
+        "src": "assets/christmas/festive-stories/cc0061d6fd65927098ed.webp",
+        "width": 1254,
+        "bytes": 148344
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/187c8c22666f9a11d0cf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 213932,
+    "src": "assets/christmas/festive-stories/187c8c22666f9a11d0cf.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/187c8c22666f9a11d0cf-480.webp",
+        "width": 480,
+        "bytes": 36524
+      },
+      {
+        "src": "assets/christmas/festive-stories/187c8c22666f9a11d0cf-960.webp",
+        "width": 960,
+        "bytes": 127158
+      },
+      {
+        "src": "assets/christmas/festive-stories/187c8c22666f9a11d0cf.webp",
+        "width": 1254,
+        "bytes": 213932
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/093688a2e4e8586dcae9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 89652,
+    "src": "assets/christmas/festive-stories/093688a2e4e8586dcae9.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/093688a2e4e8586dcae9-480.webp",
+        "width": 480,
+        "bytes": 21086
+      },
+      {
+        "src": "assets/christmas/festive-stories/093688a2e4e8586dcae9-960.webp",
+        "width": 960,
+        "bytes": 56490
+      },
+      {
+        "src": "assets/christmas/festive-stories/093688a2e4e8586dcae9.webp",
+        "width": 1254,
+        "bytes": 89652
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/4540d7d7e7d14f9a7bce.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 197316,
+    "src": "assets/christmas/festive-stories/4540d7d7e7d14f9a7bce.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/4540d7d7e7d14f9a7bce-480.webp",
+        "width": 480,
+        "bytes": 28814
+      },
+      {
+        "src": "assets/christmas/festive-stories/4540d7d7e7d14f9a7bce-960.webp",
+        "width": 960,
+        "bytes": 112474
+      },
+      {
+        "src": "assets/christmas/festive-stories/4540d7d7e7d14f9a7bce.webp",
+        "width": 1254,
+        "bytes": 197316
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 187372,
+    "src": "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695-480.webp",
+        "width": 480,
+        "bytes": 35828
+      },
+      {
+        "src": "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695-960.webp",
+        "width": 960,
+        "bytes": 113314
+      },
+      {
+        "src": "assets/christmas/festive-stories/6ae58ac3c7fa8edbf695.webp",
+        "width": 1254,
+        "bytes": 187372
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/29c9ea7838852fa0d202.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 219742,
+    "src": "assets/christmas/festive-stories/29c9ea7838852fa0d202.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/29c9ea7838852fa0d202-480.webp",
+        "width": 480,
+        "bytes": 35768
+      },
+      {
+        "src": "assets/christmas/festive-stories/29c9ea7838852fa0d202-960.webp",
+        "width": 960,
+        "bytes": 126274
+      },
+      {
+        "src": "assets/christmas/festive-stories/29c9ea7838852fa0d202.webp",
+        "width": 1254,
+        "bytes": 219742
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/ae02400a34a57835ca88.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 112936,
+    "src": "assets/christmas/festive-stories/ae02400a34a57835ca88.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/ae02400a34a57835ca88-480.webp",
+        "width": 480,
+        "bytes": 16574
+      },
+      {
+        "src": "assets/christmas/festive-stories/ae02400a34a57835ca88-960.webp",
+        "width": 960,
+        "bytes": 61338
+      },
+      {
+        "src": "assets/christmas/festive-stories/ae02400a34a57835ca88.webp",
+        "width": 1254,
+        "bytes": 112936
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/2dad6c2ba1f74f58289e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 132242,
+    "src": "assets/christmas/festive-stories/2dad6c2ba1f74f58289e.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/2dad6c2ba1f74f58289e-480.webp",
+        "width": 480,
+        "bytes": 21382
+      },
+      {
+        "src": "assets/christmas/festive-stories/2dad6c2ba1f74f58289e-960.webp",
+        "width": 960,
+        "bytes": 74364
+      },
+      {
+        "src": "assets/christmas/festive-stories/2dad6c2ba1f74f58289e.webp",
+        "width": 1254,
+        "bytes": 132242
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/b0665b6ff3fca59beefd.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 79064,
+    "src": "assets/christmas/festive-stories/b0665b6ff3fca59beefd.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/b0665b6ff3fca59beefd-480.webp",
+        "width": 480,
+        "bytes": 18012
+      },
+      {
+        "src": "assets/christmas/festive-stories/b0665b6ff3fca59beefd-960.webp",
+        "width": 960,
+        "bytes": 49448
+      },
+      {
+        "src": "assets/christmas/festive-stories/b0665b6ff3fca59beefd.webp",
+        "width": 1254,
+        "bytes": 79064
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/f5135dad6ebf7f3bf1dc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 190560,
+    "src": "assets/christmas/festive-stories/f5135dad6ebf7f3bf1dc.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/f5135dad6ebf7f3bf1dc-480.webp",
+        "width": 480,
+        "bytes": 28568
+      },
+      {
+        "src": "assets/christmas/festive-stories/f5135dad6ebf7f3bf1dc-960.webp",
+        "width": 960,
+        "bytes": 107066
+      },
+      {
+        "src": "assets/christmas/festive-stories/f5135dad6ebf7f3bf1dc.webp",
+        "width": 1254,
+        "bytes": 190560
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/2bae292d1c00076fe07a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 106830,
+    "src": "assets/christmas/festive-stories/2bae292d1c00076fe07a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/2bae292d1c00076fe07a-480.webp",
+        "width": 480,
+        "bytes": 20776
+      },
+      {
+        "src": "assets/christmas/festive-stories/2bae292d1c00076fe07a-960.webp",
+        "width": 960,
+        "bytes": 64164
+      },
+      {
+        "src": "assets/christmas/festive-stories/2bae292d1c00076fe07a.webp",
+        "width": 1254,
+        "bytes": 106830
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/5986b35b41d93029b70b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 167632,
+    "src": "assets/christmas/festive-stories/5986b35b41d93029b70b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/5986b35b41d93029b70b-480.webp",
+        "width": 480,
+        "bytes": 24168
+      },
+      {
+        "src": "assets/christmas/festive-stories/5986b35b41d93029b70b-960.webp",
+        "width": 960,
+        "bytes": 97498
+      },
+      {
+        "src": "assets/christmas/festive-stories/5986b35b41d93029b70b.webp",
+        "width": 1254,
+        "bytes": 167632
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/237cd948e7e3d2a1a401.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 50374,
+    "src": "assets/christmas/festive-stories/237cd948e7e3d2a1a401.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/237cd948e7e3d2a1a401-480.webp",
+        "width": 480,
+        "bytes": 9814
+      },
+      {
+        "src": "assets/christmas/festive-stories/237cd948e7e3d2a1a401-960.webp",
+        "width": 960,
+        "bytes": 29758
+      },
+      {
+        "src": "assets/christmas/festive-stories/237cd948e7e3d2a1a401.webp",
+        "width": 1254,
+        "bytes": 50374
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/5f291d6ad6e0a99655fc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 148810,
+    "src": "assets/christmas/festive-stories/5f291d6ad6e0a99655fc.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/5f291d6ad6e0a99655fc-480.webp",
+        "width": 480,
+        "bytes": 15636
+      },
+      {
+        "src": "assets/christmas/festive-stories/5f291d6ad6e0a99655fc-960.webp",
+        "width": 960,
+        "bytes": 81178
+      },
+      {
+        "src": "assets/christmas/festive-stories/5f291d6ad6e0a99655fc.webp",
+        "width": 1254,
+        "bytes": 148810
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/d47a3e205f49d9a4857a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 37220,
+    "src": "assets/christmas/festive-stories/d47a3e205f49d9a4857a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/d47a3e205f49d9a4857a-480.webp",
+        "width": 480,
+        "bytes": 8370
+      },
+      {
+        "src": "assets/christmas/festive-stories/d47a3e205f49d9a4857a-960.webp",
+        "width": 960,
+        "bytes": 21776
+      },
+      {
+        "src": "assets/christmas/festive-stories/d47a3e205f49d9a4857a.webp",
+        "width": 1254,
+        "bytes": 37220
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/8ac16ff07ceef4663a4b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 100150,
+    "src": "assets/christmas/festive-stories/8ac16ff07ceef4663a4b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/8ac16ff07ceef4663a4b-480.webp",
+        "width": 480,
+        "bytes": 11760
+      },
+      {
+        "src": "assets/christmas/festive-stories/8ac16ff07ceef4663a4b-960.webp",
+        "width": 960,
+        "bytes": 49840
+      },
+      {
+        "src": "assets/christmas/festive-stories/8ac16ff07ceef4663a4b.webp",
+        "width": 1254,
+        "bytes": 100150
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/a03d654247b59385d337.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 82786,
+    "src": "assets/christmas/festive-stories/a03d654247b59385d337.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/a03d654247b59385d337-480.webp",
+        "width": 480,
+        "bytes": 16500
+      },
+      {
+        "src": "assets/christmas/festive-stories/a03d654247b59385d337-960.webp",
+        "width": 960,
+        "bytes": 50602
+      },
+      {
+        "src": "assets/christmas/festive-stories/a03d654247b59385d337.webp",
+        "width": 1254,
+        "bytes": 82786
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/6766dfc986b26d92bf99.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 159644,
+    "src": "assets/christmas/festive-stories/6766dfc986b26d92bf99.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/6766dfc986b26d92bf99-480.webp",
+        "width": 480,
+        "bytes": 22700
+      },
+      {
+        "src": "assets/christmas/festive-stories/6766dfc986b26d92bf99-960.webp",
+        "width": 960,
+        "bytes": 90678
+      },
+      {
+        "src": "assets/christmas/festive-stories/6766dfc986b26d92bf99.webp",
+        "width": 1254,
+        "bytes": 159644
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/77aec5f775a59335ca25.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 88686,
+    "src": "assets/christmas/festive-stories/77aec5f775a59335ca25.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/77aec5f775a59335ca25-480.webp",
+        "width": 480,
+        "bytes": 16438
+      },
+      {
+        "src": "assets/christmas/festive-stories/77aec5f775a59335ca25-960.webp",
+        "width": 960,
+        "bytes": 52312
+      },
+      {
+        "src": "assets/christmas/festive-stories/77aec5f775a59335ca25.webp",
+        "width": 1254,
+        "bytes": 88686
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/78b666e4f1af0aedcc58.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 148490,
+    "src": "assets/christmas/festive-stories/78b666e4f1af0aedcc58.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/78b666e4f1af0aedcc58-480.webp",
+        "width": 480,
+        "bytes": 25510
+      },
+      {
+        "src": "assets/christmas/festive-stories/78b666e4f1af0aedcc58-960.webp",
+        "width": 960,
+        "bytes": 88872
+      },
+      {
+        "src": "assets/christmas/festive-stories/78b666e4f1af0aedcc58.webp",
+        "width": 1254,
+        "bytes": 148490
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/532016ada99daf19c0e1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 58572,
+    "src": "assets/christmas/festive-stories/532016ada99daf19c0e1.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/532016ada99daf19c0e1-480.webp",
+        "width": 480,
+        "bytes": 15282
+      },
+      {
+        "src": "assets/christmas/festive-stories/532016ada99daf19c0e1-960.webp",
+        "width": 960,
+        "bytes": 36344
+      },
+      {
+        "src": "assets/christmas/festive-stories/532016ada99daf19c0e1.webp",
+        "width": 1254,
+        "bytes": 58572
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/64e1f7242b9fc6341c7c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 127186,
+    "src": "assets/christmas/festive-stories/64e1f7242b9fc6341c7c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/64e1f7242b9fc6341c7c-480.webp",
+        "width": 480,
+        "bytes": 21796
+      },
+      {
+        "src": "assets/christmas/festive-stories/64e1f7242b9fc6341c7c-960.webp",
+        "width": 960,
+        "bytes": 72568
+      },
+      {
+        "src": "assets/christmas/festive-stories/64e1f7242b9fc6341c7c.webp",
+        "width": 1254,
+        "bytes": 127186
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/b4449b1585374c83dab9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 106970,
+    "src": "assets/christmas/festive-stories/b4449b1585374c83dab9.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/b4449b1585374c83dab9-480.webp",
+        "width": 480,
+        "bytes": 15536
+      },
+      {
+        "src": "assets/christmas/festive-stories/b4449b1585374c83dab9-960.webp",
+        "width": 960,
+        "bytes": 58598
+      },
+      {
+        "src": "assets/christmas/festive-stories/b4449b1585374c83dab9.webp",
+        "width": 1254,
+        "bytes": 106970
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/ef1b5bc91859a6d698dd.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 141096,
+    "src": "assets/christmas/festive-stories/ef1b5bc91859a6d698dd.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/ef1b5bc91859a6d698dd-480.webp",
+        "width": 480,
+        "bytes": 19088
+      },
+      {
+        "src": "assets/christmas/festive-stories/ef1b5bc91859a6d698dd-960.webp",
+        "width": 960,
+        "bytes": 76350
+      },
+      {
+        "src": "assets/christmas/festive-stories/ef1b5bc91859a6d698dd.webp",
+        "width": 1254,
+        "bytes": 141096
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/dd05de15db0a91e509d8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 170484,
+    "src": "assets/christmas/festive-stories/dd05de15db0a91e509d8.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/dd05de15db0a91e509d8-480.webp",
+        "width": 480,
+        "bytes": 31666
+      },
+      {
+        "src": "assets/christmas/festive-stories/dd05de15db0a91e509d8-960.webp",
+        "width": 960,
+        "bytes": 100876
+      },
+      {
+        "src": "assets/christmas/festive-stories/dd05de15db0a91e509d8.webp",
+        "width": 1254,
+        "bytes": 170484
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/2bef10f376f44478ee79.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 191452,
+    "src": "assets/christmas/festive-stories/2bef10f376f44478ee79.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/2bef10f376f44478ee79-480.webp",
+        "width": 480,
+        "bytes": 31352
+      },
+      {
+        "src": "assets/christmas/festive-stories/2bef10f376f44478ee79-960.webp",
+        "width": 960,
+        "bytes": 106910
+      },
+      {
+        "src": "assets/christmas/festive-stories/2bef10f376f44478ee79.webp",
+        "width": 1254,
+        "bytes": 191452
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/480e0015923eaa4b1516.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 44584,
+    "src": "assets/christmas/festive-stories/480e0015923eaa4b1516.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/480e0015923eaa4b1516-480.webp",
+        "width": 480,
+        "bytes": 10262
+      },
+      {
+        "src": "assets/christmas/festive-stories/480e0015923eaa4b1516-960.webp",
+        "width": 960,
+        "bytes": 27084
+      },
+      {
+        "src": "assets/christmas/festive-stories/480e0015923eaa4b1516.webp",
+        "width": 1254,
+        "bytes": 44584
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/442da2503d09f4f3c0d9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 115360,
+    "src": "assets/christmas/festive-stories/442da2503d09f4f3c0d9.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/442da2503d09f4f3c0d9-480.webp",
+        "width": 480,
+        "bytes": 16592
+      },
+      {
+        "src": "assets/christmas/festive-stories/442da2503d09f4f3c0d9-960.webp",
+        "width": 960,
+        "bytes": 62810
+      },
+      {
+        "src": "assets/christmas/festive-stories/442da2503d09f4f3c0d9.webp",
+        "width": 1254,
+        "bytes": 115360
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 73430,
+    "src": "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/120c8120d6a63843cd4d-480.webp",
+        "width": 480,
+        "bytes": 15656
+      },
+      {
+        "src": "assets/christmas/festive-stories/120c8120d6a63843cd4d-960.webp",
+        "width": 960,
+        "bytes": 45162
+      },
+      {
+        "src": "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp",
+        "width": 1254,
+        "bytes": 73430
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/70166caeec3a59872ccf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 130812,
+    "src": "assets/christmas/festive-stories/70166caeec3a59872ccf.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/70166caeec3a59872ccf-480.webp",
+        "width": 480,
+        "bytes": 22744
+      },
+      {
+        "src": "assets/christmas/festive-stories/70166caeec3a59872ccf-960.webp",
+        "width": 960,
+        "bytes": 77926
+      },
+      {
+        "src": "assets/christmas/festive-stories/70166caeec3a59872ccf.webp",
+        "width": 1254,
+        "bytes": 130812
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp": {
+    "width": 1224,
+    "height": 1285,
+    "sourceBytes": 71462,
+    "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c-480.webp",
+        "width": 480,
+        "bytes": 15370
+      },
+      {
+        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c-960.webp",
+        "width": 960,
+        "bytes": 45160
+      },
+      {
+        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
+        "width": 1224,
+        "bytes": 71462
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/217890788199eacbc2b6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 102740,
+    "src": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/217890788199eacbc2b6-480.webp",
+        "width": 480,
+        "bytes": 17006
+      },
+      {
+        "src": "assets/christmas/festive-stories/217890788199eacbc2b6-960.webp",
+        "width": 960,
+        "bytes": 62984
+      },
+      {
+        "src": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
+        "width": 1254,
+        "bytes": 102740
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 92498,
+    "src": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67-480.webp",
+        "width": 480,
+        "bytes": 19720
+      },
+      {
+        "src": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67-960.webp",
+        "width": 960,
+        "bytes": 56888
+      },
+      {
+        "src": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp",
+        "width": 1254,
+        "bytes": 92498
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/f534ab1b635adbf065e1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 150182,
+    "src": "assets/christmas/festive-stories/f534ab1b635adbf065e1.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/f534ab1b635adbf065e1-480.webp",
+        "width": 480,
+        "bytes": 21936
+      },
+      {
+        "src": "assets/christmas/festive-stories/f534ab1b635adbf065e1-960.webp",
+        "width": 960,
+        "bytes": 86600
+      },
+      {
+        "src": "assets/christmas/festive-stories/f534ab1b635adbf065e1.webp",
+        "width": 1254,
+        "bytes": 150182
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 42356,
+    "src": "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/87016be937a2fca4ccd3-480.webp",
+        "width": 480,
+        "bytes": 9040
+      },
+      {
+        "src": "assets/christmas/festive-stories/87016be937a2fca4ccd3-960.webp",
+        "width": 960,
+        "bytes": 24672
+      },
+      {
+        "src": "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp",
+        "width": 1254,
+        "bytes": 42356
+      }
+    ]
+  },
+  "assets/christmas/festive-stories/a5d936348d63bbd9f082.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 106584,
+    "src": "assets/christmas/festive-stories/a5d936348d63bbd9f082.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/festive-stories/a5d936348d63bbd9f082-480.webp",
+        "width": 480,
+        "bytes": 10772
+      },
+      {
+        "src": "assets/christmas/festive-stories/a5d936348d63bbd9f082-960.webp",
+        "width": 960,
+        "bytes": 56518
+      },
+      {
+        "src": "assets/christmas/festive-stories/a5d936348d63bbd9f082.webp",
+        "width": 1254,
+        "bytes": 106584
+      }
+    ]
   }
 }
