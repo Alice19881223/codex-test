@@ -18,6 +18,9 @@ SERIES_COLLECTIONS = {
     'Words in Bloom': 'close-to-you',
     'Coastal Daydreams': 'everyday-poetry',
 }
+COLLECTION_OVERRIDES = {
+    'Happy Fries': 'everyday-poetry',
+}
 
 # archive index, product image, packaging image, name, series, scent, palette, description
 DESIGNS = [
@@ -170,9 +173,10 @@ def main():
                 'category': 'candle', 'image': src, 'name': name, 'series': product_series
             })
 
-    grouped = {slug: [] for slug in set(SERIES_COLLECTIONS.values())}
+    grouped = {slug: [] for slug in set(SERIES_COLLECTIONS.values()) | set(COLLECTION_OVERRIDES.values())}
     for product in added:
-        grouped[SERIES_COLLECTIONS[product['series']]].append(product['series'] + ' | ' + product['name'])
+        slug = COLLECTION_OVERRIDES.get(product['name'], SERIES_COLLECTIONS[product['series']])
+        grouped[slug].append(product['series'] + ' | ' + product['name'])
     for collection in collections:
         flat = [key for key in collection['productKeys'] if key not in previous_keys]
         new_keys = grouped.get(collection['slug'], [])

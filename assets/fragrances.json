@@ -168,7 +168,7 @@
         "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
         "name": "Jellyfish Glass Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-0b1420a3.html?scent=pear-freesia"
       },
       {
@@ -759,7 +759,7 @@
         "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
         "name": "Birthday Flower Garden",
         "series": "Celebration Gardens",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-6d34f841.html?scent=peony-lychee"
       },
       {
@@ -1637,7 +1637,7 @@
         "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
         "name": "Ivory Daisy",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-close-to-you-4.html",
         "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
       },
       {
@@ -1810,7 +1810,7 @@
         "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
         "name": "Emerald Bubbles",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-close-to-you-4.html",
         "href": "product-lnv-cnd-96db654b.html?scent=fig-green-leaves"
       }
     ],
@@ -2056,12 +2056,12 @@
         "href": "product-lnv-hlw-bb10ea8a.html?scent=pomegranate-amber"
       },
       {
-        "category": "candle",
+        "category": "halloween",
         "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
         "name": "Midnight Ballet Candle",
         "series": "Midnight Ballet",
-        "catalogueHref": "candles-little-joys-5.html",
-        "href": "product-lnv-cnd-8f83305b.html?scent=pomegranate-amber"
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-e2f072f7.html?scent=pomegranate-amber"
       }
     ],
     "family": "Floral & Fruity",
@@ -4900,7 +4900,7 @@
         "image": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
         "name": "Happy Fries",
         "series": "Joyful Little Things",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-everyday-poetry-3.html",
         "href": "product-lnv-cnd-0e5e04d9.html?scent=caramel-cream"
       },
       {
@@ -4990,20 +4990,12 @@
     "description": "A warm pumpkin-pie atmosphere; autumn evenings and Halloween.",
     "matches": [
       {
-        "category": "candle",
-        "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
-        "name": "Pumpkin & Ghost",
-        "series": "Halloween",
-        "catalogueHref": "candles-little-joys-4.html",
-        "href": "product-lnv-cnd-28f66704.html?scent=pumpkin-spice"
-      },
-      {
-        "category": "candle",
+        "category": "halloween",
         "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
         "name": "Little Pumpkin Ghost",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-4.html",
-        "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-27cedd24.html?scent=pumpkin-spice"
       },
       {
         "category": "halloween",

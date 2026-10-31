@@ -396,18 +396,6 @@
     "assignedScent": "pear-freesia"
   },
   {
-    "id": "candle-pair-257c6ea41af4",
-    "name": "Pumpkin & Ghost",
-    "series": "Halloween",
-    "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
-    "packagingImage": "assets/candles/paired/c33e601c26cf2548040e.webp",
-    "images": [
-      "assets/candles/paired/257c6ea41af465989ab3.webp",
-      "assets/candles/paired/c33e601c26cf2548040e.webp"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "name": "Sage Stillness",
     "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
     "series": "Stone & Stillness",
@@ -1521,20 +1509,6 @@
     "assignedScent": "pear-freesia"
   },
   {
-    "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "series": "Little Dreamers",
-    "legacyImages": [
-      "assets/candles/candles-086.webp"
-    ],
-    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
-    "images": [
-      "assets/candles/standalone/dde508f3788aea3c327f.png",
-      "assets/candles/paired/1fef6394f15230e857c4.png"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "name": "Kitten Daydream",
     "image": "assets/candles/standalone/d7fead12effc63071c64.png",
     "series": "Little Dreamers",
@@ -2246,20 +2220,6 @@
     ],
     "assignedScent": "incense-myrrh",
     "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "poetic-moments-b5442afec89b7e1a527d",
-    "name": "Midnight Ballet Candle",
-    "series": "Midnight Ballet",
-    "productType": "Scented candle",
-    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-    "packagingImage": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
-    "images": [
-      "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-      "assets/poetic-moments/dc0eec4a14764109aea2.webp"
-    ],
-    "assignedScent": "pomegranate-amber",
-    "designDescription": "Dancing skeleton ballerinas, pink ribbons, roses and crescent moons on a black ground create a playful theatrical scene with a Halloween mood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "poetic-moments-ca3f1fe5263b42f40f85",

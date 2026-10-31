@@ -561,23 +561,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-CND-28F66704",
-    "category": "candle",
-    "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
-    "name": "Pumpkin & Ghost",
-    "title": "Pumpkin & Ghost Scented candle",
-    "url": "product-lnv-cnd-28f66704.html",
-    "series": "Halloween",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-CND-51EBCE22",
     "category": "candle",
     "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
@@ -1938,23 +1921,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-CND-D0F5E24F",
-    "category": "candle",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "name": "Little Pumpkin Ghost",
-    "title": "Little Pumpkin Ghost Scented candle",
-    "url": "product-lnv-cnd-d0f5e24f.html",
-    "series": "Little Dreamers",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-CND-13297D04",
     "category": "candle",
     "image": "assets/candles/standalone/d7fead12effc63071c64.png",
@@ -2771,23 +2737,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-CND-8F83305B",
-    "category": "candle",
-    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-    "name": "Midnight Ballet Candle",
-    "title": "Midnight Ballet Candle Scented candle",
-    "url": "product-lnv-cnd-8f83305b.html",
-    "series": "Midnight Ballet",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
-    "suggestedScents": [
-      "pomegranate-amber"
-    ],
-    "primaryScent": "pomegranate-amber",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-CND-E29A3956",
     "category": "candle",
     "image": "assets/poetic-moments/ca3f1fe5263b42f40f85.webp",
@@ -2948,8 +2897,8 @@
     "title": "Ivory Daisy Scented candle",
     "url": "product-lnv-cnd-8b6f3848.html",
     "series": "Garden Joys",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
       "bergamot-neroli"
     ],
@@ -2965,8 +2914,8 @@
     "title": "Emerald Bubbles Scented candle",
     "url": "product-lnv-cnd-96db654b.html",
     "series": "Garden Joys",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
     "suggestedScents": [
       "fig-green-leaves"
     ],
@@ -3492,8 +3441,8 @@
     "title": "Happy Fries Scented candle",
     "url": "product-lnv-cnd-0e5e04d9.html",
     "series": "Joyful Little Things",
-    "collection": "Little Joys",
-    "collectionHref": "candles-little-joys.html",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
     "suggestedScents": [
       "caramel-cream"
     ],
@@ -8717,6 +8666,40 @@
       "blackcurrant-rose"
     ],
     "primaryScent": "blackcurrant-rose",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-27CEDD24",
+    "category": "halloween",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "name": "Little Pumpkin Ghost",
+    "title": "Little Pumpkin Ghost Scented candle",
+    "url": "product-lnv-hlw-27cedd24.html",
+    "series": "Little Dreamers",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-E2F072F7",
+    "category": "halloween",
+    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+    "name": "Midnight Ballet Candle",
+    "title": "Midnight Ballet Candle Scented candle",
+    "url": "product-lnv-hlw-e2f072f7.html",
+    "series": "Midnight Ballet",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
     "specifications": {},
     "documents": []
   },

@@ -176,7 +176,7 @@ const scents = [
         "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
         "name": "Jellyfish Glass Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-0b1420a3.html?scent=pear-freesia"
       },
       {
@@ -767,7 +767,7 @@ const scents = [
         "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
         "name": "Birthday Flower Garden",
         "series": "Celebration Gardens",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-6d34f841.html?scent=peony-lychee"
       },
       {
@@ -1645,7 +1645,7 @@ const scents = [
         "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
         "name": "Ivory Daisy",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-close-to-you-4.html",
         "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
       },
       {
@@ -1818,7 +1818,7 @@ const scents = [
         "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
         "name": "Emerald Bubbles",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-close-to-you-4.html",
         "href": "product-lnv-cnd-96db654b.html?scent=fig-green-leaves"
       }
     ],
@@ -2064,12 +2064,12 @@ const scents = [
         "href": "product-lnv-hlw-bb10ea8a.html?scent=pomegranate-amber"
       },
       {
-        "category": "candle",
+        "category": "halloween",
         "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
         "name": "Midnight Ballet Candle",
         "series": "Midnight Ballet",
-        "catalogueHref": "candles-little-joys-5.html",
-        "href": "product-lnv-cnd-8f83305b.html?scent=pomegranate-amber"
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-e2f072f7.html?scent=pomegranate-amber"
       }
     ],
     "family": "Floral & Fruity",
@@ -4908,7 +4908,7 @@ const scents = [
         "image": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
         "name": "Happy Fries",
         "series": "Joyful Little Things",
-        "catalogueHref": "candles-little-joys-5.html",
+        "catalogueHref": "candles-everyday-poetry-3.html",
         "href": "product-lnv-cnd-0e5e04d9.html?scent=caramel-cream"
       },
       {
@@ -4998,20 +4998,12 @@ const scents = [
     "description": "A warm pumpkin-pie atmosphere; autumn evenings and Halloween.",
     "matches": [
       {
-        "category": "candle",
-        "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
-        "name": "Pumpkin & Ghost",
-        "series": "Halloween",
-        "catalogueHref": "candles-little-joys-4.html",
-        "href": "product-lnv-cnd-28f66704.html?scent=pumpkin-spice"
-      },
-      {
-        "category": "candle",
+        "category": "halloween",
         "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
         "name": "Little Pumpkin Ghost",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-4.html",
-        "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-27cedd24.html?scent=pumpkin-spice"
       },
       {
         "category": "halloween",
@@ -6970,18 +6962,6 @@ const candleProducts = [
     "assignedScent": "pear-freesia"
   },
   {
-    "id": "candle-pair-257c6ea41af4",
-    "name": "Pumpkin & Ghost",
-    "series": "Halloween",
-    "image": "assets/candles/paired/257c6ea41af465989ab3.webp",
-    "packagingImage": "assets/candles/paired/c33e601c26cf2548040e.webp",
-    "images": [
-      "assets/candles/paired/257c6ea41af465989ab3.webp",
-      "assets/candles/paired/c33e601c26cf2548040e.webp"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "name": "Sage Stillness",
     "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
     "series": "Stone & Stillness",
@@ -8095,20 +8075,6 @@ const candleProducts = [
     "assignedScent": "pear-freesia"
   },
   {
-    "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "series": "Little Dreamers",
-    "legacyImages": [
-      "assets/candles/candles-086.webp"
-    ],
-    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
-    "images": [
-      "assets/candles/standalone/dde508f3788aea3c327f.png",
-      "assets/candles/paired/1fef6394f15230e857c4.png"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "name": "Kitten Daydream",
     "image": "assets/candles/standalone/d7fead12effc63071c64.png",
     "series": "Little Dreamers",
@@ -8820,20 +8786,6 @@ const candleProducts = [
     ],
     "assignedScent": "incense-myrrh",
     "designDescription": "Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "poetic-moments-b5442afec89b7e1a527d",
-    "name": "Midnight Ballet Candle",
-    "series": "Midnight Ballet",
-    "productType": "Scented candle",
-    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-    "packagingImage": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
-    "images": [
-      "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-      "assets/poetic-moments/dc0eec4a14764109aea2.webp"
-    ],
-    "assignedScent": "pomegranate-amber",
-    "designDescription": "Dancing skeleton ballerinas, pink ribbons, roses and crescent moons on a black ground create a playful theatrical scene with a Halloween mood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "poetic-moments-ca3f1fe5263b42f40f85",
@@ -13612,7 +13564,6 @@ const productPages = {
     "assets/candles/paired/e9583a062cd69e708bb4.webp": "product-lnv-cnd-61c6b148.html",
     "assets/candles/paired/6557fed21b15dacbccfa.webp": "product-lnv-cnd-914a648a.html",
     "assets/candles/paired/b053837f042853978ab8.webp": "product-lnv-cnd-0a9da5e2.html",
-    "assets/candles/paired/257c6ea41af465989ab3.webp": "product-lnv-cnd-28f66704.html",
     "assets/candles/standalone/701c10bbdc77fc3599c0.png": "product-lnv-cnd-51ebce22.html",
     "assets/candles/standalone/98484ea0daa2ca7437d6.png": "product-lnv-cnd-4529f2c7.html",
     "assets/candles/standalone/8617f461c1f2ffa6df10.png": "product-lnv-cnd-e96d2f2b.html",
@@ -13693,7 +13644,6 @@ const productPages = {
     "assets/candles/standalone/c7bb37286a562de02e63.png": "product-lnv-cnd-fc69a435.html",
     "assets/candles/standalone/efbe8eaba2ba33ed22f4.png": "product-lnv-cnd-9533bddb.html",
     "assets/candles/standalone/d160e808ad7656acaeef.png": "product-lnv-cnd-382db110.html",
-    "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-cnd-d0f5e24f.html",
     "assets/candles/standalone/d7fead12effc63071c64.png": "product-lnv-cnd-13297d04.html",
     "assets/candles/standalone/159db9e5fab778fb8824.png": "product-lnv-cnd-cffb251f.html",
     "assets/candles/paired/07364c9f90024c16265a.png": "product-lnv-cnd-fdef4397.html",
@@ -13742,7 +13692,6 @@ const productPages = {
     "assets/candles/spring-summer/31a2a10a79215cede9ff.webp": "product-lnv-cnd-bb0272fc.html",
     "assets/candles/spring-summer/bfa4ac622404f92741cc.webp": "product-lnv-cnd-b0ec5369.html",
     "assets/blue-landscapes/23065f06e2b23e8559c9.webp": "product-lnv-cnd-e94abf31.html",
-    "assets/poetic-moments/b5442afec89b7e1a527d.webp": "product-lnv-cnd-8f83305b.html",
     "assets/poetic-moments/ca3f1fe5263b42f40f85.webp": "product-lnv-cnd-e29a3956.html",
     "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp": "product-lnv-cnd-9632442a.html",
     "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp": "product-lnv-cnd-0176b016.html",
@@ -14101,7 +14050,9 @@ const productPages = {
     "assets/halloween/paired/c1b55fa1215cdc6640a4.webp": "product-lnv-hlw-a014a97c.html",
     "assets/halloween/paired/8e5b83e7058590594067.webp": "product-lnv-hlw-95c53c84.html",
     "assets/halloween/paired/003a42a079b8d10549b8.webp": "product-lnv-hlw-bb10ea8a.html",
-    "assets/halloween/paired/17a4739e39ff0385df5e.webp": "product-lnv-hlw-d24784a6.html"
+    "assets/halloween/paired/17a4739e39ff0385df5e.webp": "product-lnv-hlw-d24784a6.html",
+    "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
+    "assets/poetic-moments/b5442afec89b7e1a527d.webp": "product-lnv-hlw-e2f072f7.html"
   },
   "sachets": {
     "assets/sachets/paired/2e09dbec67e3048635e7.webp": "product-lnv-sch-c9143779.html",

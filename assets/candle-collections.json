@@ -279,7 +279,9 @@
       "Quiet Botanicals | Midnight Poppy",
       "Poetic Botanicals | Golden Midnight Bloom",
       "Together Pieces | Pieces Together",
-      "Celebration Gardens | Happy New Home"
+      "Celebration Gardens | Happy New Home",
+      "Garden Joys | Ivory Daisy",
+      "Garden Joys | Emerald Bubbles"
     ],
     "icon": "heart",
     "pages": [
@@ -324,6 +326,10 @@
         "Poetic Botanicals | Golden Midnight Bloom",
         "Together Pieces | Pieces Together",
         "Celebration Gardens | Happy New Home"
+      ],
+      [
+        "Garden Joys | Ivory Daisy",
+        "Garden Joys | Emerald Bubbles"
       ]
     ],
     "manualPageOrder": true,
@@ -374,7 +380,6 @@
       "Playful Birthday | Birthday Celebration",
       "Little Dreamers | Puppy Dreams",
       "Little Dreamers | Kitten Daydream",
-      "Little Dreamers | Little Pumpkin Ghost",
       "Lucky Charms | Sunny Six",
       "Lucky Charms | Blush Two",
       "Lucky Charms | Violet Eight",
@@ -382,14 +387,9 @@
       "Little Companions | Ginger Kitten",
       "Little Companions | Golden Companion",
       "Little Companions | Corgi Cuddles",
-      "Halloween | Pumpkin & Ghost",
       "Birthday Wishes | Birthday Surprise Egg",
       "Jellyfish | Jellyfish Egg Candle",
       "Jellyfish | Jellyfish Glass Candle",
-      "Midnight Ballet | Midnight Ballet Candle",
-      "Garden Joys | Ivory Daisy",
-      "Garden Joys | Emerald Bubbles",
-      "Joyful Little Things | Happy Fries",
       "Celebration Gardens | Birthday Flower Garden"
     ],
     "icon": "joy",
@@ -438,7 +438,6 @@
       ],
       [
         "Little Dreamers | Kitten Daydream",
-        "Little Dreamers | Little Pumpkin Ghost",
         "Lucky Charms | Sunny Six",
         "Lucky Charms | Blush Two",
         "Lucky Charms | Violet Eight",
@@ -446,16 +445,9 @@
         "Little Companions | Ginger Kitten",
         "Little Companions | Golden Companion",
         "Little Companions | Corgi Cuddles",
-        "Halloween | Pumpkin & Ghost",
         "Birthday Wishes | Birthday Surprise Egg",
-        "Jellyfish | Jellyfish Egg Candle"
-      ],
-      [
+        "Jellyfish | Jellyfish Egg Candle",
         "Jellyfish | Jellyfish Glass Candle",
-        "Midnight Ballet | Midnight Ballet Candle",
-        "Garden Joys | Ivory Daisy",
-        "Garden Joys | Emerald Bubbles",
-        "Joyful Little Things | Happy Fries",
         "Celebration Gardens | Birthday Flower Garden"
       ]
     ],
@@ -500,7 +492,8 @@
       "Coastal Daydreams | Pocket Sunshine",
       "Coastal Daydreams | Cloud Linen",
       "Coastal Daydreams | Moon & Little Star",
-      "Coastal Daydreams | Cedar Air"
+      "Coastal Daydreams | Cedar Air",
+      "Joyful Little Things | Happy Fries"
     ],
     "icon": "everyday",
     "pages": [
@@ -542,7 +535,8 @@
         "Coastal Daydreams | Pocket Sunshine",
         "Coastal Daydreams | Cloud Linen",
         "Coastal Daydreams | Moon & Little Star",
-        "Coastal Daydreams | Cedar Air"
+        "Coastal Daydreams | Cedar Air",
+        "Joyful Little Things | Happy Fries"
       ]
     ],
     "manualPageOrder": true

@@ -57,15 +57,22 @@
   },
   "candles-close-to-you-2.html": {
     "title": "Close to You Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
+    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 2 of 4.",
     "canonical": "https://www.lanarve.com/candles-close-to-you-2.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-close-to-you-3.html": {
     "title": "Close to You Candles \u2014 Page 3 | Lanarve",
-    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 3 of 3.",
+    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 3 of 4.",
     "canonical": "https://www.lanarve.com/candles-close-to-you-3.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "candles-close-to-you-4.html": {
+    "title": "Close to You Candles \u2014 Page 4 | Lanarve",
+    "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 4 of 4.",
+    "canonical": "https://www.lanarve.com/candles-close-to-you-4.html",
     "indexable": true,
     "type": "collection"
   },
@@ -99,31 +106,31 @@
   },
   "candles-little-joys-2.html": {
     "title": "Little Joys Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 2 of 5.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 2 of 4.",
     "canonical": "https://www.lanarve.com/candles-little-joys-2.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys-3.html": {
     "title": "Little Joys Candles \u2014 Page 3 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 3 of 5.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 3 of 4.",
     "canonical": "https://www.lanarve.com/candles-little-joys-3.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys-4.html": {
     "title": "Little Joys Candles \u2014 Page 4 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 4 of 5.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 4 of 4.",
     "canonical": "https://www.lanarve.com/candles-little-joys-4.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys-5.html": {
-    "title": "Little Joys Candles \u2014 Page 5 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 5 of 5.",
-    "canonical": "https://www.lanarve.com/candles-little-joys-5.html",
-    "indexable": true,
-    "type": "collection"
+    "title": "Collection moved | Lanarve",
+    "description": "Explore the current Lanarve product collection.",
+    "canonical": "https://www.lanarve.com/candles-little-joys-4.html",
+    "indexable": false,
+    "type": "redirect"
   },
   "candles-little-joys.html": {
     "title": "Little Joys Candles | Lanarve",
@@ -755,6 +762,13 @@
     "indexable": true,
     "type": "page"
   },
+  "halloween-collection-4.html": {
+    "title": "Wholesale Halloween Candles & Gift Designs \u2014 Page 4 | Lanarve",
+    "description": "Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging. Page 4.",
+    "canonical": "https://www.lanarve.com/halloween-collection-4.html",
+    "indexable": true,
+    "type": "page"
+  },
   "halloween-collection.html": {
     "title": "Wholesale Halloween Candles & Gift Designs | Lanarve",
     "description": "Explore Lanarve Halloween scented candles with ghost, pumpkin, bat and witch designs. Discuss wholesale assortments, fragrance pairing, branding and gift packaging.",
@@ -1053,13 +1067,6 @@
     "title": "Lotus Medallion Scented candle | Lanarve",
     "description": "Explore Lotus Medallion from Lanarve\u2019s Blue & White Botanicals designs. Discuss Incense & Myrrh fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-27374737.html",
-    "indexable": true,
-    "type": "product"
-  },
-  "product-lnv-cnd-28f66704.html": {
-    "title": "Pumpkin & Ghost Scented Candle | Lanarve",
-    "description": "Explore Pumpkin & Ghost from Lanarve\u2019s Halloween designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
-    "canonical": "https://www.lanarve.com/product-lnv-cnd-28f66704.html",
     "indexable": true,
     "type": "product"
   },
@@ -1714,13 +1721,6 @@
     "indexable": true,
     "type": "product"
   },
-  "product-lnv-cnd-8f83305b.html": {
-    "title": "Midnight Ballet Candle | Lanarve",
-    "description": "Explore Midnight Ballet Candle from Lanarve\u2019s Midnight Ballet designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
-    "canonical": "https://www.lanarve.com/product-lnv-cnd-8f83305b.html",
-    "indexable": true,
-    "type": "product"
-  },
   "product-lnv-cnd-908bb9eb.html": {
     "title": "Blush Daydream Scented Candle | Lanarve",
     "description": "Explore Blush Daydream from Lanarve\u2019s Quiet Domes designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
@@ -2096,13 +2096,6 @@
     "title": "Sea Breeze Scented candle | Lanarve",
     "description": "Explore Sea Breeze from Lanarve\u2019s Everyday Poetry designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-d0b61d41.html",
-    "indexable": true,
-    "type": "product"
-  },
-  "product-lnv-cnd-d0f5e24f.html": {
-    "title": "Little Pumpkin Ghost Scented Candle | Lanarve",
-    "description": "Explore Little Pumpkin Ghost from Lanarve\u2019s Little Dreamers designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
-    "canonical": "https://www.lanarve.com/product-lnv-cnd-d0f5e24f.html",
     "indexable": true,
     "type": "product"
   },
@@ -2708,6 +2701,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-hlw-27cedd24.html": {
+    "title": "Little Pumpkin Ghost Scented Candle | Lanarve",
+    "description": "Explore Little Pumpkin Ghost from Lanarve\u2019s Little Dreamers designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-27cedd24.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-hlw-345e76f1.html": {
     "title": "Jack-O\u2019-Lantern Carnival Scented candle | Lanarve",
     "description": "Explore Jack-O\u2019-Lantern Carnival from Lanarve\u2019s Midnight Mischief designs. Discuss Pumpkin & Spice fragrance, private label presentation and packaging for your collection.",
@@ -2901,6 +2901,13 @@
     "title": "Purple Bat Mischief Scented candle | Lanarve",
     "description": "Explore Purple Bat Mischief from Lanarve\u2019s Pastel Spells designs. Discuss Blackcurrant & Rose fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-hlw-d24784a6.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-hlw-e2f072f7.html": {
+    "title": "Midnight Ballet Candle | Lanarve",
+    "description": "Explore Midnight Ballet Candle from Lanarve\u2019s Midnight Ballet designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-hlw-e2f072f7.html",
     "indexable": true,
     "type": "product"
   },

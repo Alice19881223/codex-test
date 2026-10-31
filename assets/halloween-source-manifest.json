@@ -1179,5 +1179,17 @@
       "height": 1254,
       "preservedItemNo": "LNV-HLW-C0314877"
     }
+  ],
+  "relocatedProducts": [
+    {
+      "name": "Little Pumpkin Ghost",
+      "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "from": "candle/little-joys"
+    },
+    {
+      "name": "Midnight Ballet Candle",
+      "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+      "from": "candle/little-joys"
+    }
   ]
 }

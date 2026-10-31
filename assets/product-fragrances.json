@@ -131,10 +131,6 @@
     "scent": "pear-freesia",
     "basis": "Collection mood and presentation"
   },
-  "LNV-CND-28F66704": {
-    "scent": "pumpkin-spice",
-    "basis": "Named scent / label and design reference"
-  },
   "LNV-CND-51EBCE22": {
     "scent": "white-tea-rosemary",
     "basis": "Named scent / label and design reference"
@@ -454,10 +450,6 @@
   "LNV-CND-382DB110": {
     "scent": "pear-freesia",
     "basis": "Collection mood and presentation"
-  },
-  "LNV-CND-D0F5E24F": {
-    "scent": "pumpkin-spice",
-    "basis": "Named scent / label and design reference"
   },
   "LNV-CND-13297D04": {
     "scent": "pear-freesia",
@@ -1435,10 +1427,6 @@
     "scent": "orange-clove",
     "basis": "Suggested pairing based on the reviewed design, colour and seasonal atmosphere"
   },
-  "LNV-CND-8F83305B": {
-    "scent": "pomegranate-amber",
-    "basis": "Suggested pairing based on the reviewed design, colour and seasonal atmosphere"
-  },
   "LNV-CND-A5E63C33": {
     "scent": "sea-salt-driftwood",
     "basis": "Suggested pairing based on the reviewed design, colour and seasonal atmosphere"
@@ -2090,5 +2078,13 @@
   "LNV-RD-FE498683": {
     "scent": "white-tea-rosemary",
     "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
+  },
+  "LNV-HLW-27CEDD24": {
+    "scent": "pumpkin-spice",
+    "basis": "Named scent / label and design reference"
+  },
+  "LNV-HLW-E2F072F7": {
+    "scent": "pomegranate-amber",
+    "basis": "Suggested pairing based on the reviewed design, colour and seasonal atmosphere"
   }
 }
