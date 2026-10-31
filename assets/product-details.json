@@ -3383,6 +3383,108 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-C0B6F475",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/bc20479e797e9380fe26.webp",
+    "name": "Confetti Bunny",
+    "title": "Confetti Bunny Scented candle",
+    "url": "product-lnv-cnd-c0b6f475.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-AE271312",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/085083c8ad2f664257fe.webp",
+    "name": "Confetti Easter Egg",
+    "title": "Confetti Easter Egg Scented candle",
+    "url": "product-lnv-cnd-ae271312.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-368EA8D7",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/034f42361b5a8c0d3e30.webp",
+    "name": "Easter Delivery",
+    "title": "Easter Delivery Scented candle",
+    "url": "product-lnv-cnd-368ea8d7.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "lemon-verbena"
+    ],
+    "primaryScent": "lemon-verbena",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-5A722E58",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/658db2415b74434c3eac.webp",
+    "name": "Spring Joy Wreath",
+    "title": "Spring Joy Wreath Scented candle",
+    "url": "product-lnv-cnd-5a722e58.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-12AFA4E6",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/642ccd69be152efb6044.webp",
+    "name": "Petal Bunny Ears",
+    "title": "Petal Bunny Ears Scented candle",
+    "url": "product-lnv-cnd-12afa4e6.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-8D5C7233",
+    "category": "candle",
+    "image": "assets/candles/easter-little-joys/420ebe003a80f9f56ef6.webp",
+    "name": "Spring Bunny Wreath",
+    "title": "Spring Bunny Wreath Scented candle",
+    "url": "product-lnv-cnd-8d5c7233.html",
+    "series": "Easter Little Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",

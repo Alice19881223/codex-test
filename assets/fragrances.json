@@ -45,6 +45,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/easter-little-joys/bc20479e797e9380fe26.webp",
+        "name": "Confetti Bunny",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-c0b6f475.html?scent=pear-freesia"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/paired/b053837f042853978ab8.webp",
         "name": "Birthday Celebration",
         "series": "Playful Birthday",
@@ -64,7 +72,7 @@
         "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
         "name": "Panda Slumber",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-382db110.html?scent=pear-freesia"
       },
       {
@@ -72,7 +80,7 @@
         "image": "assets/candles/standalone/d7fead12effc63071c64.png",
         "name": "Kitten Daydream",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-13297d04.html?scent=pear-freesia"
       },
       {
@@ -88,7 +96,7 @@
         "image": "assets/candles/paired/3ae397f5d9f617bbf348.webp",
         "name": "Sunny Six",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-7ec0fa8f.html?scent=pear-freesia"
       },
       {
@@ -152,7 +160,7 @@
         "image": "assets/candles/candles-033.webp",
         "name": "Jellyfish Egg Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-4.html",
+        "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-3f1053f9.html?scent=pear-freesia"
       },
       {
@@ -160,7 +168,7 @@
         "image": "assets/candles/standalone/af548d5ba9a0251bccb1.png",
         "name": "Jellyfish Glass Candle",
         "series": "Jellyfish",
-        "catalogueHref": "candles-little-joys-4.html",
+        "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-0b1420a3.html?scent=pear-freesia"
       },
       {
@@ -254,6 +262,14 @@
         "series": "Easter Little Joys",
         "catalogueHref": "candles-little-joys-3.html",
         "href": "product-lnv-cnd-afcaf5ae.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/658db2415b74434c3eac.webp",
+        "name": "Spring Joy Wreath",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-5a722e58.html?scent=rose-green-leaves"
       },
       {
         "category": "candle",
@@ -516,6 +532,30 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/easter-little-joys/085083c8ad2f664257fe.webp",
+        "name": "Confetti Easter Egg",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-ae271312.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+        "name": "Blossom Shell Chick",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-ebd7af0a.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+        "name": "Painted Easter Egg",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys.html",
+        "href": "product-lnv-cnd-0106cf42.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/59438cdb4ca8be4d69d6.png",
         "name": "Peony Keepsake",
         "series": "Botanical Keepsakes",
@@ -537,22 +577,6 @@
         "series": "Mountain Light",
         "catalogueHref": "reeds-in-bloom-2.html",
         "href": "product-lnv-rd-fb6595ab.html?scent=peony-lychee"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
-        "name": "Blossom Shell Chick",
-        "series": "Easter Little Joys",
-        "catalogueHref": "candles-little-joys-2.html",
-        "href": "product-lnv-cnd-ebd7af0a.html?scent=peony-lychee"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
-        "name": "Painted Easter Egg",
-        "series": "Easter Little Joys",
-        "catalogueHref": "candles-little-joys.html",
-        "href": "product-lnv-cnd-0106cf42.html?scent=peony-lychee"
       },
       {
         "category": "reed",
@@ -599,7 +623,7 @@
         "image": "assets/candles/paired/07944550f1fc2592d815.webp",
         "name": "Blush Two",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-f3bcacc4.html?scent=peony-lychee"
       },
       {
@@ -813,6 +837,14 @@
         "series": "Easter Little Joys",
         "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-5fd1ed65.html?scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/420ebe003a80f9f56ef6.webp",
+        "name": "Spring Bunny Wreath",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-8d5c7233.html?scent=jasmine-orange-blossom"
       },
       {
         "category": "candle",
@@ -1414,6 +1446,30 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/easter-little-joys/034f42361b5a8c0d3e30.webp",
+        "name": "Easter Delivery",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-368ea8d7.html?scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+        "name": "Little Yellow Chick",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-cd9e7b1d.html?scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+        "name": "Rainy Day Duckling",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-386e0a9a.html?scent=lemon-verbena"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/everyday-poetry/6583ab0762da4903a5b7.webp",
         "name": "Harbour Parade",
         "series": "Everyday Poetry",
@@ -1435,22 +1491,6 @@
         "series": "Little Daydreams",
         "catalogueHref": "reeds-little-daydreams.html",
         "href": "product-lnv-rd-cf73adef.html?scent=lemon-verbena"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
-        "name": "Little Yellow Chick",
-        "series": "Easter Little Joys",
-        "catalogueHref": "candles-little-joys-2.html",
-        "href": "product-lnv-cnd-cd9e7b1d.html?scent=lemon-verbena"
-      },
-      {
-        "category": "candle",
-        "image": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
-        "name": "Rainy Day Duckling",
-        "series": "Easter Little Joys",
-        "catalogueHref": "candles-little-joys-2.html",
-        "href": "product-lnv-cnd-386e0a9a.html?scent=lemon-verbena"
       },
       {
         "category": "reed",
@@ -1557,7 +1597,7 @@
         "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
         "name": "Ivory Daisy",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-4.html",
+        "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
       },
       {
@@ -1714,7 +1754,7 @@
         "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
         "name": "Emerald Bubbles",
         "series": "Garden Joys",
-        "catalogueHref": "candles-little-joys-4.html",
+        "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-96db654b.html?scent=fig-green-leaves"
       }
     ],
@@ -1956,7 +1996,7 @@
         "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
         "name": "Midnight Ballet Candle",
         "series": "Midnight Ballet",
-        "catalogueHref": "candles-little-joys-4.html",
+        "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-8f83305b.html?scent=pomegranate-amber"
       }
     ],
@@ -2146,7 +2186,7 @@
         "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
         "name": "Violet Eight",
         "series": "Lucky Charms",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-b0af05ea.html?scent=lavender-cedarwood"
       }
     ],
@@ -4493,6 +4533,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/easter-little-joys/642ccd69be152efb6044.webp",
+        "name": "Petal Bunny Ears",
+        "series": "Easter Little Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-12afa4e6.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
         "name": "Blue Gingham Bunny",
         "series": "Easter Little Joys",
@@ -4698,7 +4746,7 @@
         "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
         "name": "Little Pumpkin Ghost",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-little-joys-3.html",
+        "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-d0f5e24f.html?scent=pumpkin-spice"
       },
       {

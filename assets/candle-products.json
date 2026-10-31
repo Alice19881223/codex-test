@@ -2774,5 +2774,95 @@
     "season": "Easter",
     "designDescription": "A white goose walks through green stripes, tiny eggs and spring flowers. Lime & Basil gives the playful Easter illustration a crisp green freshness. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
     "packagingImage": "assets/candles/easter-little-joys/66202329c51cc97f258d.webp"
+  },
+  {
+    "id": "easter-2026-bc20479e797e9380fe26",
+    "name": "Confetti Bunny",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/bc20479e797e9380fe26.webp",
+    "images": [
+      "assets/candles/easter-little-joys/bc20479e797e9380fe26.webp",
+      "assets/candles/easter-little-joys/2f60d73daa5d510450e0.webp"
+    ],
+    "assignedScent": "pear-freesia",
+    "season": "Easter",
+    "designDescription": "A tiny white rabbit and scattered spring flowers decorate a softly irregular ivory vessel. Pear & Freesia gives this playful Easter bunny a fresh, airy sweetness. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/2f60d73daa5d510450e0.webp"
+  },
+  {
+    "id": "easter-2026-085083c8ad2f664257fe",
+    "name": "Confetti Easter Egg",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/085083c8ad2f664257fe.webp",
+    "images": [
+      "assets/candles/easter-little-joys/085083c8ad2f664257fe.webp",
+      "assets/candles/easter-little-joys/864d4db82ad5a3da0239.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "season": "Easter",
+    "designDescription": "A small pastel-speckled egg brings a quiet Easter detail to warm ivory ceramic. Peony & Lychee adds a delicate floral-fruit note to the confetti palette. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/864d4db82ad5a3da0239.webp"
+  },
+  {
+    "id": "easter-2026-034f42361b5a8c0d3e30",
+    "name": "Easter Delivery",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/034f42361b5a8c0d3e30.webp",
+    "images": [
+      "assets/candles/easter-little-joys/034f42361b5a8c0d3e30.webp",
+      "assets/candles/easter-little-joys/49c5b992c34055f7d651.webp"
+    ],
+    "assignedScent": "lemon-verbena",
+    "season": "Easter",
+    "designDescription": "A mint-green truck carries a row of colourful Easter eggs through a miniature spring scene. Lemon & Verbena keeps the cheerful delivery bright and crisp. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/49c5b992c34055f7d651.webp"
+  },
+  {
+    "id": "easter-2026-658db2415b74434c3eac",
+    "name": "Spring Joy Wreath",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/658db2415b74434c3eac.webp",
+    "images": [
+      "assets/candles/easter-little-joys/658db2415b74434c3eac.webp",
+      "assets/candles/easter-little-joys/fc734a0e4d034e08f448.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "season": "Easter",
+    "designDescription": "A small bunny-ear wreath forms the O in JOY, surrounded by flowers and pastel eggs. Rose & Green Leaves gives the Easter message a fresh garden character. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/fc734a0e4d034e08f448.webp"
+  },
+  {
+    "id": "easter-2026-642ccd69be152efb6044",
+    "name": "Petal Bunny Ears",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/642ccd69be152efb6044.webp",
+    "images": [
+      "assets/candles/easter-little-joys/642ccd69be152efb6044.webp",
+      "assets/candles/easter-little-joys/9d941bba8e24048b6e40.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "season": "Easter",
+    "designDescription": "Dimensional bunny ears emerge from soft green leaves on natural ivory ceramic. Vanilla & Tonka adds a gentle, comforting warmth to this tactile Easter keepsake. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/9d941bba8e24048b6e40.webp"
+  },
+  {
+    "id": "easter-2026-420ebe003a80f9f56ef6",
+    "name": "Spring Bunny Wreath",
+    "series": "Easter Little Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/easter-little-joys/420ebe003a80f9f56ef6.webp",
+    "images": [
+      "assets/candles/easter-little-joys/420ebe003a80f9f56ef6.webp",
+      "assets/candles/easter-little-joys/a85383184755d0454360.webp"
+    ],
+    "assignedScent": "jasmine-orange-blossom",
+    "season": "Easter",
+    "designDescription": "A raised rabbit silhouette sits inside a delicate floral wreath with a tiny bow. Jasmine & Orange Blossom extends the refined Easter design with luminous spring florals. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "packagingImage": "assets/candles/easter-little-joys/a85383184755d0454360.webp"
   }
 ]

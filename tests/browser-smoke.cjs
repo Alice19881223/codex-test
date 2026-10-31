@@ -199,9 +199,9 @@ try{
  const easterManifestPath=path.join(root,'assets/easter-little-joys-source-manifest.json');
  if(fs.existsSync(easterManifestPath)){
   const manifest=JSON.parse(fs.readFileSync(easterManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='little-joys');
-  assert.equal(designs.length,22);assert.equal(manifest.images.length,43);assert.equal(manifest.pairedCount,21);assert.equal(manifest.singleCompositionCount,1);assert.equal(manifest.duplicateSourceFilesExcluded.length,3);assert.match(collection.description+collection.story,/Easter/);
-  assert.deepEqual(collection.productKeys.slice(6,28),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,11]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
-  const representatives=['Painted Easter Egg','Rainy Day Duckling','Honeybee Basket','Bunny-Ear Egg','Easter Duckling'].map(name=>designs.find(d=>d.name===name));
+  assert.equal(designs.length,28);assert.equal(manifest.images.length,55);assert.equal(manifest.pairedCount,27);assert.equal(manifest.singleCompositionCount,1);assert.equal(manifest.duplicateSourceFilesExcluded.length,3);assert.match(collection.description+collection.story,/Easter/);
+  assert.deepEqual(collection.productKeys.slice(6,34),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,12,5]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
+  const representatives=['Painted Easter Egg','Rainy Day Duckling','Honeybee Basket','Bunny-Ear Egg','Easter Duckling','Spring Bunny Wreath'].map(name=>designs.find(d=>d.name===name));
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
    await page.goto(base+'/candles-little-joys.html');assert.match(await page.locator('.candle-mood-intro').textContent(),/Easter edit/);
