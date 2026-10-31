@@ -1,0 +1,381 @@
+{
+  "sourceArchives": [
+    "打包1.zip",
+    "打包2.zip",
+    "打包3.zip"
+  ],
+  "productCount": 12,
+  "imageCount": 24,
+  "products": [
+    {
+      "id": "curated-gift-05bcdd28dddf76392bb0",
+      "name": "Midnight Poppy",
+      "series": "Quiet Botanicals",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+      "packagingImage": "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp",
+      "images": [
+        "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+        "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp"
+      ],
+      "assignedScent": "black-tea-cedarwood",
+      "designDescription": "A midnight-blue vessel traced with fine golden poppies brings a calm, tailored mood to darker interiors. Black Tea & Cedarwood adds dry tea leaves and polished woods to its understated botanical character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-f0a103257b1bee06273f",
+      "name": "Golden Midnight Bloom",
+      "series": "Poetic Botanicals",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+      "packagingImage": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp",
+      "images": [
+        "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+        "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp"
+      ],
+      "assignedScent": "oud-saffron",
+      "designDescription": "A hand-drawn golden peony glows against deep navy ceramic, turning a single flower into a small piece of everyday poetry. Oud & Saffron gives the design a warm, mysterious evening depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-5bc37e3c2d10dca0ee34",
+      "name": "Amber Rivulet",
+      "series": "Quiet Botanicals",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+      "packagingImage": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp",
+      "images": [
+        "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+        "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "designDescription": "Warm amber glass and horizontal ribbing catch the light in soft golden bands. Amber & Vanilla mirrors the glow with a smooth, enveloping fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-c79290bd57ae6f0ccaac",
+      "name": "Oakheart for Mum",
+      "series": "For Mum, With Love",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+      "packagingImage": "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp",
+      "images": [
+        "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+        "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp"
+      ],
+      "assignedScent": "sandalwood-cashmere",
+      "designDescription": "Natural oak grain and a blush heart create a warm, lasting thank-you for Mum. Sandalwood & Cashmere complements the tactile wood with a soft and comforting finish. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-6ba2ebe9e99f3cdb0120",
+      "name": "Love Note for Mum",
+      "series": "For Mum, With Love",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+      "packagingImage": "assets/candles/curated-gifts/156951cbd55723d59fd4.webp",
+      "images": [
+        "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+        "assets/candles/curated-gifts/156951cbd55723d59fd4.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "A gentle handwritten message, blush label and tiny hearts make this candle feel like a personal note. Rose & Green Leaves keeps the floral expression fresh and natural. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-ea27e159e9fb1c54db78",
+      "name": "Blue Garden for Mum",
+      "series": "For Mum, With Love",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+      "packagingImage": "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp",
+      "images": [
+        "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+        "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp"
+      ],
+      "assignedScent": "jasmine-orange-blossom",
+      "designDescription": "Raised ivory flowers trail across soft blue ceramic in a garden-inspired gift for Mum. Jasmine & Orange Blossom extends the design with luminous white florals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-55ff50078e85c9cac472",
+      "name": "Ivory Daisy",
+      "series": "Garden Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+      "packagingImage": "assets/candles/curated-gifts/343356eb04e4ab979958.webp",
+      "images": [
+        "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+        "assets/candles/curated-gifts/343356eb04e4ab979958.webp"
+      ],
+      "assignedScent": "bergamot-neroli",
+      "designDescription": "A dimensional ivory daisy with a warm wooden centre gives a simple vessel a cheerful handcrafted detail. Bergamot & Neroli adds a bright, sunlit freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-75d5cccf14a1535dac95",
+      "name": "Mint Stillness",
+      "series": "Quiet Botanicals",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+      "packagingImage": "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp",
+      "images": [
+        "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+        "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp"
+      ],
+      "assignedScent": "eucalyptus-mint",
+      "designDescription": "Speckled mint ceramic and a natural wood wick create a clean, restful object for quiet rooms. Eucalyptus & Mint reinforces its crisp, airy character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-2e2f2ae98b365d5f5b20",
+      "name": "Blush Heart Confetti",
+      "series": "For Mum, With Love",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+      "packagingImage": "assets/candles/curated-gifts/3af950825e3649b03f65.webp",
+      "images": [
+        "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+        "assets/candles/curated-gifts/3af950825e3649b03f65.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Fine heart illustrations float across a soft blush vessel and matching gift box. Peony & Lychee gives the affectionate design a delicate floral-fruit lift. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-8ad1d5e32ef21612470a",
+      "name": "Emerald Bubbles",
+      "series": "Garden Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+      "packagingImage": "assets/candles/curated-gifts/61c254b7519b179239a1.webp",
+      "images": [
+        "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+        "assets/candles/curated-gifts/61c254b7519b179239a1.webp"
+      ],
+      "assignedScent": "fig-green-leaves",
+      "designDescription": "Glossy emerald spheres wrap the vessel in a playful sculptural rhythm. Fig & Green Leaves balances the bold form with a lush, modern green fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-2932bf22aaeabda28130",
+      "name": "Blue Linen Botanicals",
+      "series": "Spring Garden",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+      "packagingImage": "assets/candles/curated-gifts/a32682a70b22840b5068.webp",
+      "images": [
+        "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+        "assets/candles/curated-gifts/a32682a70b22840b5068.webp"
+      ],
+      "assignedScent": "soft-linen",
+      "designDescription": "Powder-blue stripes and a delicate botanical panel recall fresh linen beside an open spring window. Soft Linen keeps the pairing light, clean and easy to live with. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "curated-gift-a30f3912609b1cfefaa4",
+      "name": "Sage Butterfly Garden",
+      "series": "Spring Garden",
+      "productType": "Scented candle",
+      "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+      "packagingImage": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp",
+      "images": [
+        "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+        "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "designDescription": "Ivory butterflies with fine golden edges rest on muted sage ceramic. White Tea & Rosemary brings a transparent tea note and gentle garden freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "午夜蓝金线罂粟香氛蜡烛.png",
+      "sha256": "05bcdd28dddf76392bb09c852fcf836da14d689ac60ca1a30f4aa99fa5c69fea",
+      "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+      "width": 1179,
+      "height": 1334
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "象牙礼盒与午夜蓝香氛蜡烛.png",
+      "sha256": "2c010ef29301cf43f93de1571e2688df6c7919ffe5b74be509d363407ed99e9f",
+      "image": "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "12414d13-f6c0-406d-98da-24e8a9f7fe19.png",
+      "sha256": "f0a103257b1bee06273f6d7dad4132f90e1dadf60d821ccf1331dcf458d0df33",
+      "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "象牙礼盒与金色花纹香氛蜡烛.png",
+      "sha256": "c8cf4fd12cb49967b92ce3658a15af7cb04bb0ebcc009a679572d557cf6e3508",
+      "image": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "琥珀棱纹香薰蜡烛-7.png",
+      "sha256": "5bc37e3c2d10dca0ee34ec2de65d559f3521a26bd4657c5fe02ec758152fa702",
+      "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "奢华香薰蜡烛与礼盒-8.png",
+      "sha256": "0b2c4ebdd865eac726c4ba3f1aec1de6413c0ee186d8ff2d94f7b1210b15cc29",
+      "image": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "母亲节橡木心意香薰蜡烛-2.png",
+      "sha256": "c79290bd57ae6f0ccaacf707735cd818d632fc2e4f8495ab3562f699a81eabc7",
+      "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "母亲节高端香薰蜡烛礼盒-6.png",
+      "sha256": "9c3bef5f95c23389c3015a976e363d0760e6cac61204d3e95d2f588dcf48bc41",
+      "image": "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "母亲节温柔告白香薰蜡烛-3.png",
+      "sha256": "6ba2ebe9e99f3cdb01203447e8396643036625da4f6fe0f84ad5f52ce385d489",
+      "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "母亲节香氛蜡烛礼盒-8.png",
+      "sha256": "156951cbd55723d59fd400646968b0cc0219a1d587c6b55e969588b92738fe73",
+      "image": "assets/candles/curated-gifts/156951cbd55723d59fd4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "淡蓝花卉母亲节香薰蜡烛-1.png",
+      "sha256": "ea27e159e9fb1c54db78f85778fc0a47b1b9a810a3bf79a9fa8b0aeb877dd776",
+      "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "母亲节香薰蜡烛礼盒-5.png",
+      "sha256": "4428d39f7a3a8364c69e30d6fcaab864fdf73b202a909b3f670cd60885faf07d",
+      "image": "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "象牙雏菊浮雕香氛蜡烛.png",
+      "sha256": "55ff50078e85c9cac472c7112bb8a0f82cd2cff5af6543916299447cf45479cd",
+      "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "象牙白环瓣花烛礼盒.png",
+      "sha256": "343356eb04e4ab979958d808301995275f0f7e6ae35b202e7b3bd3d753e57843",
+      "image": "assets/candles/curated-gifts/343356eb04e4ab979958.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "极简薄荷青釉陶瓷蜡烛-1.png",
+      "sha256": "75d5cccf14a1535dac95d8e22aa3338f34276a30161f1f5442d1ab75c413706c",
+      "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "极简薄荷绿蜡烛礼盒-2.png",
+      "sha256": "703db19b8e6a3d7affbe2443709b83a80109f65e3c5816edf7d2935a9cdfd398",
+      "image": "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "母亲节粉雾爱心香薰蜡烛-4.png",
+      "sha256": "2e2f2ae98b365d5f5b20d5fe74c86e124e092c598c6a5a8bbf388127727de5e9",
+      "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "母亲节精品香薰蜡烛礼盒-7.png",
+      "sha256": "3af950825e3649b03f6579106b91c1205c924b9766edb0372612d2c57f3829f6",
+      "image": "assets/candles/curated-gifts/3af950825e3649b03f65.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "翡翠泡泡雕塑香薰蜡烛-9.png",
+      "sha256": "8ad1d5e32ef21612470a039edb62bde71870df3ad7b92f60de3ed98f79da33b2",
+      "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "翡翠绿泡泡蜡烛礼盒-10.png",
+      "sha256": "61c254b7519b179239a10f86a7942caf54710d2ba0e69f0b4a2102e9ff6daf13",
+      "image": "assets/candles/curated-gifts/61c254b7519b179239a1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "fbcdd473-5971-4dac-b5f4-5118d13caeb3.png",
+      "sha256": "2932bf22aaeabda281302e4689b7914decb22aa64f86d816c7dd09c3e2044d60",
+      "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+      "width": 1125,
+      "height": 1398
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "1bd71bcc-c31b-49ac-8f5e-0b4cc236280d.png",
+      "sha256": "a32682a70b22840b5068fa474bbb7f3d337a2d52fef0a139790946253093b775",
+      "image": "assets/candles/curated-gifts/a32682a70b22840b5068.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "9ba134c8-27b5-4278-82d5-9a7f77a1ba6c.png",
+      "sha256": "a30f3912609b1cfefaa4366e16f12c4f51a4319fb77f13a03bb56a25ed513a08",
+      "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "fdcac25a-82b0-46c5-8537-aa7abfe5d0c7.png",
+      "sha256": "d70cd0d8337dcb269eb89b26a5cfe519400114abbbfe0fab36e10369cd711297",
+      "image": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "collectionCounts": {
+    "morning-light": 2,
+    "little-joys": 2,
+    "a-moment-of-quiet": 3,
+    "close-to-you": 4,
+    "everyday-poetry": 1
+  },
+  "pairingNotes": "All 12 designs have visually reviewed standalone and coordinated gift-box photographs."
+}

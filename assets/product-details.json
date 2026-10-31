@@ -2805,6 +2805,210 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-9632442A",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+    "name": "Midnight Poppy",
+    "title": "Midnight Poppy Scented candle",
+    "url": "product-lnv-cnd-9632442a.html",
+    "series": "Quiet Botanicals",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "black-tea-cedarwood"
+    ],
+    "primaryScent": "black-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-0176B016",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+    "name": "Amber Rivulet",
+    "title": "Amber Rivulet Scented candle",
+    "url": "product-lnv-cnd-0176b016.html",
+    "series": "Quiet Botanicals",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-BD66D527",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+    "name": "Mint Stillness",
+    "title": "Mint Stillness Scented candle",
+    "url": "product-lnv-cnd-bd66d527.html",
+    "series": "Quiet Botanicals",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "eucalyptus-mint"
+    ],
+    "primaryScent": "eucalyptus-mint",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-06CE127E",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+    "name": "Golden Midnight Bloom",
+    "title": "Golden Midnight Bloom Scented candle",
+    "url": "product-lnv-cnd-06ce127e.html",
+    "series": "Poetic Botanicals",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "oud-saffron"
+    ],
+    "primaryScent": "oud-saffron",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-43EE30B4",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+    "name": "Oakheart for Mum",
+    "title": "Oakheart for Mum Scented candle",
+    "url": "product-lnv-cnd-43ee30b4.html",
+    "series": "For Mum, With Love",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-E2F8A52D",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+    "name": "Love Note for Mum",
+    "title": "Love Note for Mum Scented candle",
+    "url": "product-lnv-cnd-e2f8a52d.html",
+    "series": "For Mum, With Love",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-E38928BB",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+    "name": "Blue Garden for Mum",
+    "title": "Blue Garden for Mum Scented candle",
+    "url": "product-lnv-cnd-e38928bb.html",
+    "series": "For Mum, With Love",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "jasmine-orange-blossom"
+    ],
+    "primaryScent": "jasmine-orange-blossom",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-6BC642EE",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+    "name": "Blush Heart Confetti",
+    "title": "Blush Heart Confetti Scented candle",
+    "url": "product-lnv-cnd-6bc642ee.html",
+    "series": "For Mum, With Love",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-8B6F3848",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+    "name": "Ivory Daisy",
+    "title": "Ivory Daisy Scented candle",
+    "url": "product-lnv-cnd-8b6f3848.html",
+    "series": "Garden Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-96DB654B",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+    "name": "Emerald Bubbles",
+    "title": "Emerald Bubbles Scented candle",
+    "url": "product-lnv-cnd-96db654b.html",
+    "series": "Garden Joys",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "fig-green-leaves"
+    ],
+    "primaryScent": "fig-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-E50FFD45",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+    "name": "Blue Linen Botanicals",
+    "title": "Blue Linen Botanicals Scented candle",
+    "url": "product-lnv-cnd-e50ffd45.html",
+    "series": "Spring Garden",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D7D4F8CD",
+    "category": "candle",
+    "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+    "name": "Sage Butterfly Garden",
+    "title": "Sage Butterfly Garden Scented candle",
+    "url": "product-lnv-cnd-d7d4f8cd.html",
+    "series": "Spring Garden",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",

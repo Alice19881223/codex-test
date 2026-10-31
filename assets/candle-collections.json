@@ -47,7 +47,9 @@
       "Woodland Stories | Sunlit Grove",
       "Painted Gardens | Morning Citrus Garden",
       "Painted Gardens | Verdant Garden",
-      "Botanical Cylinder | Olive Botanical Keepsake"
+      "Botanical Cylinder | Olive Botanical Keepsake",
+      "Spring Garden | Blue Linen Botanicals",
+      "Spring Garden | Sage Butterfly Garden"
     ],
     "icon": "sun",
     "pages": [
@@ -101,7 +103,9 @@
         "Woodland Stories | Sunlit Grove",
         "Painted Gardens | Morning Citrus Garden",
         "Painted Gardens | Verdant Garden",
-        "Botanical Cylinder | Olive Botanical Keepsake"
+        "Botanical Cylinder | Olive Botanical Keepsake",
+        "Spring Garden | Blue Linen Botanicals",
+        "Spring Garden | Sage Butterfly Garden"
       ]
     ],
     "manualPageOrder": true,
@@ -168,7 +172,10 @@
       "Gradient Glass | Vanilla",
       "Postbox | Lavender Postbox",
       "Sand Wax | Lavender Dusk Sand Wax Candle",
-      "Dove Reverie | Blue Dove Candle"
+      "Dove Reverie | Blue Dove Candle",
+      "Quiet Botanicals | Midnight Poppy",
+      "Quiet Botanicals | Amber Rivulet",
+      "Quiet Botanicals | Mint Stillness"
     ],
     "icon": "quiet",
     "pages": [
@@ -234,7 +241,10 @@
         "Gradient Glass | Vanilla",
         "Postbox | Lavender Postbox",
         "Sand Wax | Lavender Dusk Sand Wax Candle",
-        "Dove Reverie | Blue Dove Candle"
+        "Dove Reverie | Blue Dove Candle",
+        "Quiet Botanicals | Midnight Poppy",
+        "Quiet Botanicals | Amber Rivulet",
+        "Quiet Botanicals | Mint Stillness"
       ]
     ],
     "manualPageOrder": true,
@@ -270,7 +280,11 @@
       "Chromatic Bloom | Blush Blossom",
       "Organic Glass | Desert Rose",
       "Passing Hours | Blush Hour",
-      "Passing Hours | Sky Hour"
+      "Passing Hours | Sky Hour",
+      "For Mum, With Love | Oakheart for Mum",
+      "For Mum, With Love | Love Note for Mum",
+      "For Mum, With Love | Blue Garden for Mum",
+      "For Mum, With Love | Blush Heart Confetti"
     ],
     "icon": "heart",
     "pages": [
@@ -299,7 +313,13 @@
         "Chromatic Bloom | Blush Blossom",
         "Organic Glass | Desert Rose",
         "Passing Hours | Blush Hour",
-        "Passing Hours | Sky Hour"
+        "Passing Hours | Sky Hour",
+        "For Mum, With Love | Oakheart for Mum"
+      ],
+      [
+        "For Mum, With Love | Love Note for Mum",
+        "For Mum, With Love | Blue Garden for Mum",
+        "For Mum, With Love | Blush Heart Confetti"
       ]
     ],
     "manualPageOrder": true,
@@ -335,7 +355,9 @@
       "Birthday Wishes | Birthday Surprise Egg",
       "Jellyfish | Jellyfish Egg Candle",
       "Jellyfish | Jellyfish Glass Candle",
-      "Midnight Ballet | Midnight Ballet Candle"
+      "Midnight Ballet | Midnight Ballet Candle",
+      "Garden Joys | Ivory Daisy",
+      "Garden Joys | Emerald Bubbles"
     ],
     "icon": "joy",
     "pages": [
@@ -364,7 +386,11 @@
         "Birthday Wishes | Birthday Surprise Egg",
         "Jellyfish | Jellyfish Egg Candle",
         "Jellyfish | Jellyfish Glass Candle",
-        "Midnight Ballet | Midnight Ballet Candle"
+        "Midnight Ballet | Midnight Ballet Candle",
+        "Garden Joys | Ivory Daisy"
+      ],
+      [
+        "Garden Joys | Emerald Bubbles"
       ]
     ],
     "manualPageOrder": true
@@ -394,7 +420,8 @@
       "Everyday Poetry | Mediterranean Days",
       "Everyday Poetry | Crab & Tide",
       "Everyday Poetry | Peach Anchovies",
-      "Everyday Poetry | Coastal Glow Candle"
+      "Everyday Poetry | Coastal Glow Candle",
+      "Poetic Botanicals | Golden Midnight Bloom"
     ],
     "icon": "everyday",
     "pages": [
@@ -421,7 +448,8 @@
         "Everyday Poetry | Mediterranean Days",
         "Everyday Poetry | Crab & Tide",
         "Everyday Poetry | Peach Anchovies",
-        "Everyday Poetry | Coastal Glow Candle"
+        "Everyday Poetry | Coastal Glow Candle",
+        "Poetic Botanicals | Golden Midnight Bloom"
       ]
     ],
     "manualPageOrder": true

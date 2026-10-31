@@ -361,6 +361,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+        "name": "Love Note for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-e2f8a52d.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
         "name": "Sky Hour",
         "series": "Passing Hours",
@@ -660,6 +668,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+        "name": "Blush Heart Confetti",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-6bc642ee.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
         "name": "Spring Muse",
         "series": "Spring & Summer Light",
@@ -789,6 +805,14 @@
         "series": "Botanical Wax Tablets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-5fad76db.html?scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+        "name": "Blue Garden for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-e38928bb.html?scent=jasmine-orange-blossom"
       },
       {
         "category": "candle",
@@ -1450,6 +1474,14 @@
     "matches": [
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+        "name": "Ivory Daisy",
+        "series": "Garden Joys",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/a6ef06112e83b1565aaf.png",
         "name": "Orange Blossom Script",
         "series": "Botanical Script",
@@ -1580,6 +1612,14 @@
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-7be42d86.html?scent=fig-green-leaves"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+        "name": "Emerald Bubbles",
+        "series": "Garden Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-96db654b.html?scent=fig-green-leaves"
       }
     ],
     "family": "Floral & Fruity",
@@ -2079,6 +2119,14 @@
         "series": "Seven-Day Rituals",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html",
         "href": "product-lnv-rd-8f0d50e9.html?scent=eucalyptus-mint"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+        "name": "Mint Stillness",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-bd66d527.html?scent=eucalyptus-mint"
       }
     ],
     "family": "Fresh & Natural",
@@ -2546,6 +2594,14 @@
         "series": "Spring & Summer Stillness",
         "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-aada47ce.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+        "name": "Sage Butterfly Garden",
+        "series": "Spring Garden",
+        "catalogueHref": "candles-morning-light-4.html",
+        "href": "product-lnv-cnd-d7d4f8cd.html?scent=white-tea-rosemary"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2640,6 +2696,14 @@
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-4f7b0030.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+        "name": "Midnight Poppy",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-9632442a.html?scent=black-tea-cedarwood"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2927,6 +2991,14 @@
         "series": "Fabric Fragrance Sachets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-53535632.html?scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+        "name": "Blue Linen Botanicals",
+        "series": "Spring Garden",
+        "catalogueHref": "candles-morning-light-4.html",
+        "href": "product-lnv-cnd-e50ffd45.html?scent=soft-linen"
       },
       {
         "category": "halloween",
@@ -3435,6 +3507,14 @@
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-5bf92384.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+        "name": "Oakheart for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-2.html",
+        "href": "product-lnv-cnd-43ee30b4.html?scent=sandalwood-cashmere"
       },
       {
         "category": "candle",
@@ -4069,6 +4149,14 @@
         "series": "Warm Living",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-84b2dc39.html?scent=amber-vanilla"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+        "name": "Amber Rivulet",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-0176b016.html?scent=amber-vanilla"
       },
       {
         "category": "candle",
@@ -5633,6 +5721,14 @@
         "series": "Blue & White Landscapes",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-2591b062.html?scent=oud-saffron"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+        "name": "Golden Midnight Bloom",
+        "series": "Poetic Botanicals",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-06ce127e.html?scent=oud-saffron"
       },
       {
         "category": "halloween",

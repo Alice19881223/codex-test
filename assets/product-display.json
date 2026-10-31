@@ -1690,5 +1690,41 @@
   },
   "assets/halloween/replacements/c312483816241eb90c2d.webp": {
     "palette": "ivory"
+  },
+  "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/curated-gifts/f0a103257b1bee06273f.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp": {
+    "palette": "amber"
+  },
+  "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp": {
+    "palette": "sand"
+  },
+  "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/curated-gifts/55ff50078e85c9cac472.webp": {
+    "palette": "ivory"
+  },
+  "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/curated-gifts/2932bf22aaeabda28130.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp": {
+    "palette": "sage"
   }
 }

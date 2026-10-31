@@ -16308,5 +16308,557 @@
         "bytes": 59046
       }
     ]
+  },
+  "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp": {
+    "width": 1179,
+    "height": 1334,
+    "sourceBytes": 1904242,
+    "src": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/05bcdd28dddf76392bb0-480.webp",
+        "width": 480,
+        "bytes": 23164
+      },
+      {
+        "src": "assets/candles/curated-gifts/05bcdd28dddf76392bb0-960.webp",
+        "width": 960,
+        "bytes": 79354
+      },
+      {
+        "src": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+        "width": 1179,
+        "bytes": 124990
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1992124,
+    "src": "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/2c010ef29301cf43f93d-480.webp",
+        "width": 480,
+        "bytes": 17264
+      },
+      {
+        "src": "assets/candles/curated-gifts/2c010ef29301cf43f93d-960.webp",
+        "width": 960,
+        "bytes": 67260
+      },
+      {
+        "src": "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp",
+        "width": 1254,
+        "bytes": 119252
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/f0a103257b1bee06273f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1726769,
+    "src": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/f0a103257b1bee06273f-480.webp",
+        "width": 480,
+        "bytes": 22892
+      },
+      {
+        "src": "assets/candles/curated-gifts/f0a103257b1bee06273f-960.webp",
+        "width": 960,
+        "bytes": 61744
+      },
+      {
+        "src": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+        "width": 1254,
+        "bytes": 98614
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1803188,
+    "src": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c-480.webp",
+        "width": 480,
+        "bytes": 22884
+      },
+      {
+        "src": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c-960.webp",
+        "width": 960,
+        "bytes": 77538
+      },
+      {
+        "src": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp",
+        "width": 1254,
+        "bytes": 129464
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1878775,
+    "src": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34-480.webp",
+        "width": 480,
+        "bytes": 21304
+      },
+      {
+        "src": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34-960.webp",
+        "width": 960,
+        "bytes": 63714
+      },
+      {
+        "src": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+        "width": 1254,
+        "bytes": 108962
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2057366,
+    "src": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4-480.webp",
+        "width": 480,
+        "bytes": 20850
+      },
+      {
+        "src": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4-960.webp",
+        "width": 960,
+        "bytes": 83190
+      },
+      {
+        "src": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp",
+        "width": 1254,
+        "bytes": 147092
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1477353,
+    "src": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac-480.webp",
+        "width": 480,
+        "bytes": 12996
+      },
+      {
+        "src": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac-960.webp",
+        "width": 960,
+        "bytes": 49826
+      },
+      {
+        "src": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+        "width": 1254,
+        "bytes": 92018
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2005518,
+    "src": "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/9c3bef5f95c23389c301-480.webp",
+        "width": 480,
+        "bytes": 16262
+      },
+      {
+        "src": "assets/candles/curated-gifts/9c3bef5f95c23389c301-960.webp",
+        "width": 960,
+        "bytes": 69446
+      },
+      {
+        "src": "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp",
+        "width": 1254,
+        "bytes": 129958
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1425508,
+    "src": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120-480.webp",
+        "width": 480,
+        "bytes": 9436
+      },
+      {
+        "src": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120-960.webp",
+        "width": 960,
+        "bytes": 31914
+      },
+      {
+        "src": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+        "width": 1254,
+        "bytes": 57020
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/156951cbd55723d59fd4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1810741,
+    "src": "assets/candles/curated-gifts/156951cbd55723d59fd4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/156951cbd55723d59fd4-480.webp",
+        "width": 480,
+        "bytes": 13122
+      },
+      {
+        "src": "assets/candles/curated-gifts/156951cbd55723d59fd4-960.webp",
+        "width": 960,
+        "bytes": 45870
+      },
+      {
+        "src": "assets/candles/curated-gifts/156951cbd55723d59fd4.webp",
+        "width": 1254,
+        "bytes": 83308
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1456279,
+    "src": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/ea27e159e9fb1c54db78-480.webp",
+        "width": 480,
+        "bytes": 17992
+      },
+      {
+        "src": "assets/candles/curated-gifts/ea27e159e9fb1c54db78-960.webp",
+        "width": 960,
+        "bytes": 44576
+      },
+      {
+        "src": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+        "width": 1254,
+        "bytes": 70210
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1927474,
+    "src": "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/4428d39f7a3a8364c69e-480.webp",
+        "width": 480,
+        "bytes": 23282
+      },
+      {
+        "src": "assets/candles/curated-gifts/4428d39f7a3a8364c69e-960.webp",
+        "width": 960,
+        "bytes": 68314
+      },
+      {
+        "src": "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp",
+        "width": 1254,
+        "bytes": 107908
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/55ff50078e85c9cac472.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1292427,
+    "src": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/55ff50078e85c9cac472-480.webp",
+        "width": 480,
+        "bytes": 7544
+      },
+      {
+        "src": "assets/candles/curated-gifts/55ff50078e85c9cac472-960.webp",
+        "width": 960,
+        "bytes": 20386
+      },
+      {
+        "src": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+        "width": 1254,
+        "bytes": 35536
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/343356eb04e4ab979958.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1652061,
+    "src": "assets/candles/curated-gifts/343356eb04e4ab979958.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/343356eb04e4ab979958-480.webp",
+        "width": 480,
+        "bytes": 10198
+      },
+      {
+        "src": "assets/candles/curated-gifts/343356eb04e4ab979958-960.webp",
+        "width": 960,
+        "bytes": 27306
+      },
+      {
+        "src": "assets/candles/curated-gifts/343356eb04e4ab979958.webp",
+        "width": 1254,
+        "bytes": 47258
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1456242,
+    "src": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/75d5cccf14a1535dac95-480.webp",
+        "width": 480,
+        "bytes": 8028
+      },
+      {
+        "src": "assets/candles/curated-gifts/75d5cccf14a1535dac95-960.webp",
+        "width": 960,
+        "bytes": 36164
+      },
+      {
+        "src": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+        "width": 1254,
+        "bytes": 67346
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1944033,
+    "src": "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/703db19b8e6a3d7affbe-480.webp",
+        "width": 480,
+        "bytes": 11304
+      },
+      {
+        "src": "assets/candles/curated-gifts/703db19b8e6a3d7affbe-960.webp",
+        "width": 960,
+        "bytes": 56268
+      },
+      {
+        "src": "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp",
+        "width": 1254,
+        "bytes": 103260
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1411398,
+    "src": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20-480.webp",
+        "width": 480,
+        "bytes": 13838
+      },
+      {
+        "src": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20-960.webp",
+        "width": 960,
+        "bytes": 40732
+      },
+      {
+        "src": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+        "width": 1254,
+        "bytes": 66274
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/3af950825e3649b03f65.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1967631,
+    "src": "assets/candles/curated-gifts/3af950825e3649b03f65.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/3af950825e3649b03f65-480.webp",
+        "width": 480,
+        "bytes": 19872
+      },
+      {
+        "src": "assets/candles/curated-gifts/3af950825e3649b03f65-960.webp",
+        "width": 960,
+        "bytes": 71446
+      },
+      {
+        "src": "assets/candles/curated-gifts/3af950825e3649b03f65.webp",
+        "width": 1254,
+        "bytes": 120588
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1993169,
+    "src": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/8ad1d5e32ef21612470a-480.webp",
+        "width": 480,
+        "bytes": 13356
+      },
+      {
+        "src": "assets/candles/curated-gifts/8ad1d5e32ef21612470a-960.webp",
+        "width": 960,
+        "bytes": 45110
+      },
+      {
+        "src": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+        "width": 1254,
+        "bytes": 83282
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/61c254b7519b179239a1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2131756,
+    "src": "assets/candles/curated-gifts/61c254b7519b179239a1.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/61c254b7519b179239a1-480.webp",
+        "width": 480,
+        "bytes": 15248
+      },
+      {
+        "src": "assets/candles/curated-gifts/61c254b7519b179239a1-960.webp",
+        "width": 960,
+        "bytes": 73938
+      },
+      {
+        "src": "assets/candles/curated-gifts/61c254b7519b179239a1.webp",
+        "width": 1254,
+        "bytes": 136962
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/2932bf22aaeabda28130.webp": {
+    "width": 1125,
+    "height": 1398,
+    "sourceBytes": 1526812,
+    "src": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/2932bf22aaeabda28130-480.webp",
+        "width": 480,
+        "bytes": 22558
+      },
+      {
+        "src": "assets/candles/curated-gifts/2932bf22aaeabda28130-960.webp",
+        "width": 960,
+        "bytes": 65814
+      },
+      {
+        "src": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+        "width": 1125,
+        "bytes": 94322
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/a32682a70b22840b5068.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1759987,
+    "src": "assets/candles/curated-gifts/a32682a70b22840b5068.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/a32682a70b22840b5068-480.webp",
+        "width": 480,
+        "bytes": 18048
+      },
+      {
+        "src": "assets/candles/curated-gifts/a32682a70b22840b5068-960.webp",
+        "width": 960,
+        "bytes": 67148
+      },
+      {
+        "src": "assets/candles/curated-gifts/a32682a70b22840b5068.webp",
+        "width": 1254,
+        "bytes": 118500
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp": {
+    "width": 1312,
+    "height": 1199,
+    "sourceBytes": 1583565,
+    "src": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/a30f3912609b1cfefaa4-480.webp",
+        "width": 480,
+        "bytes": 15164
+      },
+      {
+        "src": "assets/candles/curated-gifts/a30f3912609b1cfefaa4-960.webp",
+        "width": 960,
+        "bytes": 46300
+      },
+      {
+        "src": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+        "width": 1312,
+        "bytes": 84438
+      }
+    ]
+  },
+  "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2076497,
+    "src": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8-480.webp",
+        "width": 480,
+        "bytes": 20608
+      },
+      {
+        "src": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8-960.webp",
+        "width": 960,
+        "bytes": 79134
+      },
+      {
+        "src": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp",
+        "width": 1254,
+        "bytes": 135828
+      }
+    ]
   }
 }

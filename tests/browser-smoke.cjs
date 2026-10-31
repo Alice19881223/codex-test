@@ -174,6 +174,26 @@ try{
   const ctx=await browser.newContext({javaScriptEnabled:false});const page=await ctx.newPage();
   await page.goto(base+'/candles-morning-light.html');const first=page.locator('#catalogue-grid a[data-photo]').first(),href=await first.getAttribute('href');await first.click();await page.waitForURL(base+'/'+href);assert.equal(await page.locator('#product-notes dd').count(),3);await ctx.close();
  }
+ // The curated candle edit keeps all twelve reviewed product/box pairs in their matching themes.
+ const curatedManifestPath=path.join(root,'assets/curated-candle-gifts-source-manifest.json');
+ if(fs.existsSync(curatedManifestPath)){
+  const manifest=JSON.parse(fs.readFileSync(curatedManifestPath)),designs=manifest.products;
+  const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json')));
+  const placement={'Quiet Botanicals':'a-moment-of-quiet','For Mum, With Love':'close-to-you','Garden Joys':'little-joys','Spring Garden':'morning-light','Poetic Botanicals':'everyday-poetry'};
+  assert.equal(designs.length,12);assert.equal(manifest.images.length,24);assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.designDescription&&d.assignedScent));
+  for(const design of designs){const collection=collections.find(c=>c.slug===placement[design.series]);assert.ok(collection);assert.equal(collection.productKeys.filter(key=>key===design.series+' | '+design.name).length,1);assert.ok(records.find(record=>record.category==='candle'&&record.image===design.image));}
+  const representatives=['Midnight Poppy','Oakheart for Mum','Ivory Daisy','Blue Linen Botanicals','Golden Midnight Bloom'].map(name=>designs.find(d=>d.name===name));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
+   for(const design of representatives){
+    const record=records.find(r=>r.category==='candle'&&r.image===design.image),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+design.name+'</h3>'));assert.ok(route,design.name+' listed');
+    await page.goto(base+'/'+route);const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}),wrapper=card.locator('xpath=..');assert.equal(await card.locator('.paired-photo img').count(),2);
+    if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}
+    await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);assert.ok((await page.locator('.product-design-description').textContent()).trim().length>80);assert.match(await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent(),/Never leave a burning candle unattended/);
+   }
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'curated candle detail overflow');await ctx.close();
+  }
+ }
  // The independent lifestyle theme must be reachable as a fifth collection.
  const poetryManifest=path.join(root,'assets/everyday-poetry-source-manifest.json');
  if(fs.existsSync(poetryManifest)){

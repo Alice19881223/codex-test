@@ -369,6 +369,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+        "name": "Love Note for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-e2f8a52d.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/2a96946b435ed6a9554c.png",
         "name": "Sky Hour",
         "series": "Passing Hours",
@@ -668,6 +676,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+        "name": "Blush Heart Confetti",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-6bc642ee.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
         "name": "Spring Muse",
         "series": "Spring & Summer Light",
@@ -797,6 +813,14 @@ const scents = [
         "series": "Botanical Wax Tablets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-5fad76db.html?scent=jasmine-orange-blossom"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+        "name": "Blue Garden for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-e38928bb.html?scent=jasmine-orange-blossom"
       },
       {
         "category": "candle",
@@ -1458,6 +1482,14 @@ const scents = [
     "matches": [
       {
         "category": "candle",
+        "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+        "name": "Ivory Daisy",
+        "series": "Garden Joys",
+        "catalogueHref": "candles-little-joys-2.html",
+        "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/a6ef06112e83b1565aaf.png",
         "name": "Orange Blossom Script",
         "series": "Botanical Script",
@@ -1588,6 +1620,14 @@ const scents = [
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-7be42d86.html?scent=fig-green-leaves"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+        "name": "Emerald Bubbles",
+        "series": "Garden Joys",
+        "catalogueHref": "candles-little-joys-3.html",
+        "href": "product-lnv-cnd-96db654b.html?scent=fig-green-leaves"
       }
     ],
     "family": "Floral & Fruity",
@@ -2087,6 +2127,14 @@ const scents = [
         "series": "Seven-Day Rituals",
         "catalogueHref": "reeds-a-breath-of-fresh-air.html",
         "href": "product-lnv-rd-8f0d50e9.html?scent=eucalyptus-mint"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+        "name": "Mint Stillness",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-bd66d527.html?scent=eucalyptus-mint"
       }
     ],
     "family": "Fresh & Natural",
@@ -2554,6 +2602,14 @@ const scents = [
         "series": "Spring & Summer Stillness",
         "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-aada47ce.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+        "name": "Sage Butterfly Garden",
+        "series": "Spring Garden",
+        "catalogueHref": "candles-morning-light-4.html",
+        "href": "product-lnv-cnd-d7d4f8cd.html?scent=white-tea-rosemary"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2648,6 +2704,14 @@ const scents = [
         "series": "Everyday Poetry",
         "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-4f7b0030.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+        "name": "Midnight Poppy",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-9632442a.html?scent=black-tea-cedarwood"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2935,6 +2999,14 @@ const scents = [
         "series": "Fabric Fragrance Sachets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-53535632.html?scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+        "name": "Blue Linen Botanicals",
+        "series": "Spring Garden",
+        "catalogueHref": "candles-morning-light-4.html",
+        "href": "product-lnv-cnd-e50ffd45.html?scent=soft-linen"
       },
       {
         "category": "halloween",
@@ -3443,6 +3515,14 @@ const scents = [
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-5bf92384.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+        "name": "Oakheart for Mum",
+        "series": "For Mum, With Love",
+        "catalogueHref": "candles-close-to-you-2.html",
+        "href": "product-lnv-cnd-43ee30b4.html?scent=sandalwood-cashmere"
       },
       {
         "category": "candle",
@@ -4077,6 +4157,14 @@ const scents = [
         "series": "Warm Living",
         "catalogueHref": "gift-collection.html",
         "href": "product-lnv-gft-84b2dc39.html?scent=amber-vanilla"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+        "name": "Amber Rivulet",
+        "series": "Quiet Botanicals",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-0176b016.html?scent=amber-vanilla"
       },
       {
         "category": "candle",
@@ -5641,6 +5729,14 @@ const scents = [
         "series": "Blue & White Landscapes",
         "catalogueHref": "reeds-a-quiet-pause.html",
         "href": "product-lnv-rd-2591b062.html?scent=oud-saffron"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+        "name": "Golden Midnight Bloom",
+        "series": "Poetic Botanicals",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-06ce127e.html?scent=oud-saffron"
       },
       {
         "category": "halloween",
@@ -8224,6 +8320,174 @@ const candleProducts = [
     ],
     "assignedScent": "white-tea-bergamot",
     "designDescription": "A white dove framed by flowing blue ribbons on a powder-blue ground suggests a peaceful pause and a soft, airy atmosphere. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-05bcdd28dddf76392bb0",
+    "name": "Midnight Poppy",
+    "series": "Quiet Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+    "packagingImage": "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp",
+    "images": [
+      "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp",
+      "assets/candles/curated-gifts/2c010ef29301cf43f93d.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "A midnight-blue vessel traced with fine golden poppies brings a calm, tailored mood to darker interiors. Black Tea & Cedarwood adds dry tea leaves and polished woods to its understated botanical character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-5bc37e3c2d10dca0ee34",
+    "name": "Amber Rivulet",
+    "series": "Quiet Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+    "packagingImage": "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp",
+    "images": [
+      "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp",
+      "assets/candles/curated-gifts/0b2c4ebdd865eac726c4.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Warm amber glass and horizontal ribbing catch the light in soft golden bands. Amber & Vanilla mirrors the glow with a smooth, enveloping fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-75d5cccf14a1535dac95",
+    "name": "Mint Stillness",
+    "series": "Quiet Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+    "packagingImage": "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp",
+    "images": [
+      "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp",
+      "assets/candles/curated-gifts/703db19b8e6a3d7affbe.webp"
+    ],
+    "assignedScent": "eucalyptus-mint",
+    "designDescription": "Speckled mint ceramic and a natural wood wick create a clean, restful object for quiet rooms. Eucalyptus & Mint reinforces its crisp, airy character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-f0a103257b1bee06273f",
+    "name": "Golden Midnight Bloom",
+    "series": "Poetic Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+    "packagingImage": "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp",
+    "images": [
+      "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
+      "assets/candles/curated-gifts/c8cf4fd12cb49967b92c.webp"
+    ],
+    "assignedScent": "oud-saffron",
+    "designDescription": "A hand-drawn golden peony glows against deep navy ceramic, turning a single flower into a small piece of everyday poetry. Oud & Saffron gives the design a warm, mysterious evening depth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-c79290bd57ae6f0ccaac",
+    "name": "Oakheart for Mum",
+    "series": "For Mum, With Love",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+    "packagingImage": "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp",
+    "images": [
+      "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp",
+      "assets/candles/curated-gifts/9c3bef5f95c23389c301.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Natural oak grain and a blush heart create a warm, lasting thank-you for Mum. Sandalwood & Cashmere complements the tactile wood with a soft and comforting finish. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-6ba2ebe9e99f3cdb0120",
+    "name": "Love Note for Mum",
+    "series": "For Mum, With Love",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+    "packagingImage": "assets/candles/curated-gifts/156951cbd55723d59fd4.webp",
+    "images": [
+      "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp",
+      "assets/candles/curated-gifts/156951cbd55723d59fd4.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "A gentle handwritten message, blush label and tiny hearts make this candle feel like a personal note. Rose & Green Leaves keeps the floral expression fresh and natural. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-ea27e159e9fb1c54db78",
+    "name": "Blue Garden for Mum",
+    "series": "For Mum, With Love",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+    "packagingImage": "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp",
+    "images": [
+      "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp",
+      "assets/candles/curated-gifts/4428d39f7a3a8364c69e.webp"
+    ],
+    "assignedScent": "jasmine-orange-blossom",
+    "designDescription": "Raised ivory flowers trail across soft blue ceramic in a garden-inspired gift for Mum. Jasmine & Orange Blossom extends the design with luminous white florals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-2e2f2ae98b365d5f5b20",
+    "name": "Blush Heart Confetti",
+    "series": "For Mum, With Love",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+    "packagingImage": "assets/candles/curated-gifts/3af950825e3649b03f65.webp",
+    "images": [
+      "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp",
+      "assets/candles/curated-gifts/3af950825e3649b03f65.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Fine heart illustrations float across a soft blush vessel and matching gift box. Peony & Lychee gives the affectionate design a delicate floral-fruit lift. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-55ff50078e85c9cac472",
+    "name": "Ivory Daisy",
+    "series": "Garden Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+    "packagingImage": "assets/candles/curated-gifts/343356eb04e4ab979958.webp",
+    "images": [
+      "assets/candles/curated-gifts/55ff50078e85c9cac472.webp",
+      "assets/candles/curated-gifts/343356eb04e4ab979958.webp"
+    ],
+    "assignedScent": "bergamot-neroli",
+    "designDescription": "A dimensional ivory daisy with a warm wooden centre gives a simple vessel a cheerful handcrafted detail. Bergamot & Neroli adds a bright, sunlit freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-8ad1d5e32ef21612470a",
+    "name": "Emerald Bubbles",
+    "series": "Garden Joys",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+    "packagingImage": "assets/candles/curated-gifts/61c254b7519b179239a1.webp",
+    "images": [
+      "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp",
+      "assets/candles/curated-gifts/61c254b7519b179239a1.webp"
+    ],
+    "assignedScent": "fig-green-leaves",
+    "designDescription": "Glossy emerald spheres wrap the vessel in a playful sculptural rhythm. Fig & Green Leaves balances the bold form with a lush, modern green fragrance direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-2932bf22aaeabda28130",
+    "name": "Blue Linen Botanicals",
+    "series": "Spring Garden",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+    "packagingImage": "assets/candles/curated-gifts/a32682a70b22840b5068.webp",
+    "images": [
+      "assets/candles/curated-gifts/2932bf22aaeabda28130.webp",
+      "assets/candles/curated-gifts/a32682a70b22840b5068.webp"
+    ],
+    "assignedScent": "soft-linen",
+    "designDescription": "Powder-blue stripes and a delicate botanical panel recall fresh linen beside an open spring window. Soft Linen keeps the pairing light, clean and easy to live with. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "curated-gift-a30f3912609b1cfefaa4",
+    "name": "Sage Butterfly Garden",
+    "series": "Spring Garden",
+    "productType": "Scented candle",
+    "image": "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+    "packagingImage": "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp",
+    "images": [
+      "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp",
+      "assets/candles/curated-gifts/d70cd0d8337dcb269eb8.webp"
+    ],
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "Ivory butterflies with fine golden edges rest on muted sage ceramic. White Tea & Rosemary brings a transparent tea note and gentle garden freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 const reedProducts = [
@@ -12011,7 +12275,19 @@ const productPages = {
     "assets/candles/spring-summer/bfa4ac622404f92741cc.webp": "product-lnv-cnd-b0ec5369.html",
     "assets/blue-landscapes/23065f06e2b23e8559c9.webp": "product-lnv-cnd-e94abf31.html",
     "assets/poetic-moments/b5442afec89b7e1a527d.webp": "product-lnv-cnd-8f83305b.html",
-    "assets/poetic-moments/ca3f1fe5263b42f40f85.webp": "product-lnv-cnd-e29a3956.html"
+    "assets/poetic-moments/ca3f1fe5263b42f40f85.webp": "product-lnv-cnd-e29a3956.html",
+    "assets/candles/curated-gifts/05bcdd28dddf76392bb0.webp": "product-lnv-cnd-9632442a.html",
+    "assets/candles/curated-gifts/5bc37e3c2d10dca0ee34.webp": "product-lnv-cnd-0176b016.html",
+    "assets/candles/curated-gifts/75d5cccf14a1535dac95.webp": "product-lnv-cnd-bd66d527.html",
+    "assets/candles/curated-gifts/f0a103257b1bee06273f.webp": "product-lnv-cnd-06ce127e.html",
+    "assets/candles/curated-gifts/c79290bd57ae6f0ccaac.webp": "product-lnv-cnd-43ee30b4.html",
+    "assets/candles/curated-gifts/6ba2ebe9e99f3cdb0120.webp": "product-lnv-cnd-e2f8a52d.html",
+    "assets/candles/curated-gifts/ea27e159e9fb1c54db78.webp": "product-lnv-cnd-e38928bb.html",
+    "assets/candles/curated-gifts/2e2f2ae98b365d5f5b20.webp": "product-lnv-cnd-6bc642ee.html",
+    "assets/candles/curated-gifts/55ff50078e85c9cac472.webp": "product-lnv-cnd-8b6f3848.html",
+    "assets/candles/curated-gifts/8ad1d5e32ef21612470a.webp": "product-lnv-cnd-96db654b.html",
+    "assets/candles/curated-gifts/2932bf22aaeabda28130.webp": "product-lnv-cnd-e50ffd45.html",
+    "assets/candles/curated-gifts/a30f3912609b1cfefaa4.webp": "product-lnv-cnd-d7d4f8cd.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",
