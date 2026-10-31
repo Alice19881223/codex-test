@@ -43,7 +43,6 @@ DESIGNS=[
  ('Nordic Forest Story','深绿釉面北欧圣诞香薰蜡烛-1.png','深绿圣诞蜡烛与精致礼盒-2.png','pine-cedarwood','sage','Evergreen Christmas','Layered trees, golden deer and a rocking horse surround a central ivory fir in a Nordic-inspired forest.'),
  ('Christmas Angel Reed Diffuser','无翼象牙色天使扩香器-1.png','深绿色圣诞扩香礼盒-2.png','amber-vanilla','ivory','Golden Christmas Wishes','A fluted ivory-toned diffuser with a wooden sphere and small golden heart suggests an abstract Christmas angel.'),
  ('Midnight Snowflake','午夜雪花香氛蜡烛-4.png','午夜雪晶奢华香氛蜡烛礼盒-7.png','pine-cedarwood','blue','Winter Night & Snow','A crisp geometric snowflake in ivory and gold stands out against a deep midnight-blue ground.'),
- ('Ivory Winter Rocking Horse','圣诞摇马陶瓷蜡烛.png','鼠尾草绿摇马香薰蜡烛礼盒.png','sandalwood-cashmere','ivory','Golden Christmas Wishes','A sage rocking horse and tiny snowman create a gentle heirloom-toy story on ivory.'),
  ('Letters to Santa','雪人圣诞信箱香薰蜡烛-1.png','圣诞雪人蜡烛礼盒-2.png','fir-cedarwood','ivory','Christmas Hearth & Story','A snowman waits beside a tree and a bright red postbox filled with letters for Santa.'),
  ('Ivory Forest Deer','象牙白鹿纹圣诞蜡烛.png','象牙鹿蜡烛与极简礼盒.png','fir-cedarwood','ivory','Golden Christmas Wishes','A single deep-green deer on an ivory-toned ground offers a clean, woodland expression of Christmas.'),
 ]
@@ -59,7 +58,7 @@ def main():
  with ExitStack() as stack:
   archives=[stack.enter_context(zipfile.ZipFile(arg)) for arg in sys.argv[1:]]
   members={Path(n).name:(archive,n) for archive in archives for n in archive.namelist() if n.lower().endswith(('.png','.jpg','.jpeg')) and not n.startswith('__MACOSX/')}
-  supplied=set(members);used={name for row in DESIGNS for name in row[1:3]};assert used==supplied,(sorted(supplied-used),sorted(used-supplied));assert len(DESIGNS)==38 and len(used)==76
+  supplied=set(members);used={name for row in DESIGNS for name in row[1:3]};removed={'圣诞摇马陶瓷蜡烛.png','鼠尾草绿摇马香薰蜡烛礼盒.png'};assert used|removed==supplied and not used&removed,(sorted(supplied-used-removed),sorted(used-supplied));assert len(DESIGNS)==37 and len(used)==74
   def image(name):
    archive,member=members[name];data=archive.read(member);digest=hashlib.sha256(data).hexdigest();im=ImageOps.exif_transpose(Image.open(BytesIO(data))).convert('RGB');im.thumbnail((1400,1400));dest=folder/(digest[:20]+'.webp');im.save(dest,'WEBP',quality=90,method=6);src=dest.relative_to(ROOT).as_posix();w,h=im.size
    entry={'width':w,'height':h,'sourceBytes':dest.stat().st_size,'src':src,'variants':[]}
@@ -74,10 +73,10 @@ def main():
    products.append(product);added.append(product);display[src]={'palette':palette};assignments[item_no('christmas',src)]={'scent':scent,'basis':'Suggested pairing based on the reviewed Christmas design, colour and seasonal atmosphere'};next(p for p in scents if p['id']==scent)['matches'].append({'category':'christmas','image':src,'name':name,'series':series})
  order=read('catalogue-order.json');new_names=[p['name'] for p in added];flat=[name for page in order['christmas'] for name in page if name not in new_names];lookup={p['name']:p for p in products};ornaments={'Festive Wax Ornaments','Botanical Wax Ornaments'};position=next((i for i,name in enumerate(flat) if lookup[name]['series'] in ornaments),len(flat));flat[position:position]=new_names;order['christmas']=[flat[i:i+12] for i in range(0,len(flat),12)]
  layouts=read('catalogue-layouts.json');layouts['christmas']=[[lookup[name]['image'] for name in page] for page in order['christmas']]
- manifest={'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'products':added,'images':sources,'pairCount':38,'placement':'Included in the reviewed colour-led Christmas sequence; sand art and scented ornaments remain the final groups.'}
+ manifest={'sourceArchives':[Path(arg).name for arg in sys.argv[1:]],'products':added,'images':sources,'pairCount':37,'removedProducts':['Ivory Winter Rocking Horse'],'placement':'Included in the reviewed colour-led Christmas sequence; sand art and scented ornaments remain the final groups.'}
  for name,data in [('christmas-products.json',products),('fragrances.json',scents),('product-display.json',display),('product-fragrances.json',assignments),('image-manifest.json',media),('catalogue-order.json',order),('catalogue-layouts.json',layouts),('christmas-festive-stories-source-manifest.json',manifest)]:write(name,data)
  catalog=ROOT/'catalog.js';text=catalog.read_text();text=re.sub(r'const christmasProducts = \[.*?\n\];',lambda m:'const christmasProducts = '+json.dumps(products,ensure_ascii=False,indent=2)+';',text,count=1,flags=re.S);catalog.write_text(text)
  runpy.run_path(str(ROOT/'scripts/reorder-christmas-colours.py'),run_name='__main__')
- print('Imported 38 Christmas designs with 76 reviewed photographs.')
+ print('Imported 37 Christmas designs with 74 reviewed photographs; excluded Ivory Winter Rocking Horse.')
 
 if __name__=='__main__':main()

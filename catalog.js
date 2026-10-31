@@ -3893,14 +3893,6 @@ const scents = [
         "href": "product-lnv-xms-38395bae.html?scent=sandalwood-cashmere"
       },
       {
-        "category": "christmas",
-        "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-        "name": "Ivory Winter Rocking Horse",
-        "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-12.html",
-        "href": "product-lnv-xms-dbc19ddb.html?scent=sandalwood-cashmere"
-      },
-      {
         "category": "halloween",
         "image": "assets/halloween/paired/499d7733d304051d864d.webp",
         "name": "Starry Witch Ghost",
@@ -5527,7 +5519,7 @@ const scents = [
         "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-af62e8de.html?scent=fir-cedarwood"
       },
       {
@@ -5799,7 +5791,7 @@ const scents = [
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-14.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -13371,20 +13363,6 @@ const christmasProducts = [
     "designDescription": "A crisp geometric snowflake in ivory and gold stands out against a deep midnight-blue ground. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "christmas-festive-2026-2c78123ba764baa8d07c",
-    "name": "Ivory Winter Rocking Horse",
-    "series": "Golden Christmas Wishes",
-    "productType": "Scented candle",
-    "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-    "packagingImage": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
-    "images": [
-      "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-      "assets/christmas/festive-stories/217890788199eacbc2b6.webp"
-    ],
-    "assignedScent": "sandalwood-cashmere",
-    "designDescription": "A sage rocking horse and tiny snowman create a gentle heirloom-toy story on ivory. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "christmas-festive-2026-24fa4e0a2a5c15b47a67",
     "name": "Letters to Santa",
     "series": "Christmas Hearth & Story",
@@ -15419,7 +15397,6 @@ const productPages = {
     "assets/christmas/festive-stories/dd05de15db0a91e509d8.webp": "product-lnv-xms-314a3016.html",
     "assets/christmas/festive-stories/480e0015923eaa4b1516.webp": "product-lnv-xms-852907ee.html",
     "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp": "product-lnv-xms-119d2353.html",
-    "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp": "product-lnv-xms-dbc19ddb.html",
     "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp": "product-lnv-xms-9d47fabe.html",
     "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp": "product-lnv-xms-0ea9d06a.html",
     "assets/christmas/atmosphere-2026/e22666428fce8619a9a0.webp": "product-lnv-xms-40bfdf15.html",

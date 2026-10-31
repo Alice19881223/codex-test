@@ -3885,14 +3885,6 @@
         "href": "product-lnv-xms-38395bae.html?scent=sandalwood-cashmere"
       },
       {
-        "category": "christmas",
-        "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-        "name": "Ivory Winter Rocking Horse",
-        "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-12.html",
-        "href": "product-lnv-xms-dbc19ddb.html?scent=sandalwood-cashmere"
-      },
-      {
         "category": "halloween",
         "image": "assets/halloween/paired/499d7733d304051d864d.webp",
         "name": "Starry Witch Ghost",
@@ -5519,7 +5511,7 @@
         "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-af62e8de.html?scent=fir-cedarwood"
       },
       {
@@ -5791,7 +5783,7 @@
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-14.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {

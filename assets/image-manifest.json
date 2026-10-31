@@ -14492,52 +14492,6 @@
       }
     ]
   },
-  "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp": {
-    "width": 1224,
-    "height": 1285,
-    "sourceBytes": 71462,
-    "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-    "variants": [
-      {
-        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c-480.webp",
-        "width": 480,
-        "bytes": 15370
-      },
-      {
-        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c-960.webp",
-        "width": 960,
-        "bytes": 45160
-      },
-      {
-        "src": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-        "width": 1224,
-        "bytes": 71462
-      }
-    ]
-  },
-  "assets/christmas/festive-stories/217890788199eacbc2b6.webp": {
-    "width": 1254,
-    "height": 1254,
-    "sourceBytes": 102740,
-    "src": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
-    "variants": [
-      {
-        "src": "assets/christmas/festive-stories/217890788199eacbc2b6-480.webp",
-        "width": 480,
-        "bytes": 17006
-      },
-      {
-        "src": "assets/christmas/festive-stories/217890788199eacbc2b6-960.webp",
-        "width": 960,
-        "bytes": 62984
-      },
-      {
-        "src": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
-        "width": 1254,
-        "bytes": 102740
-      }
-    ]
-  },
   "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp": {
     "width": 1254,
     "height": 1254,

@@ -500,20 +500,6 @@
       "designDescription": "A crisp geometric snowflake in ivory and gold stands out against a deep midnight-blue ground. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
     },
     {
-      "id": "christmas-festive-2026-2c78123ba764baa8d07c",
-      "name": "Ivory Winter Rocking Horse",
-      "series": "Golden Christmas Wishes",
-      "productType": "Scented candle",
-      "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-      "packagingImage": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
-      "images": [
-        "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-        "assets/christmas/festive-stories/217890788199eacbc2b6.webp"
-      ],
-      "assignedScent": "sandalwood-cashmere",
-      "designDescription": "A sage rocking horse and tiny snowman create a gentle heirloom-toy story on ivory. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
-    },
-    {
       "id": "christmas-festive-2026-24fa4e0a2a5c15b47a67",
       "name": "Letters to Santa",
       "series": "Christmas Hearth & Story",
@@ -1034,20 +1020,6 @@
       "height": 1254
     },
     {
-      "source": "圣诞摇马陶瓷蜡烛.png",
-      "sha256": "2c78123ba764baa8d07c1005814efff53d384646cf978b21571af0eeeeaa1775",
-      "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
-      "width": 1224,
-      "height": 1285
-    },
-    {
-      "source": "鼠尾草绿摇马香薰蜡烛礼盒.png",
-      "sha256": "217890788199eacbc2b6cc28c8cd0243c09a0393af0501579dec7ebc4ed8548f",
-      "image": "assets/christmas/festive-stories/217890788199eacbc2b6.webp",
-      "width": 1254,
-      "height": 1254
-    },
-    {
       "source": "雪人圣诞信箱香薰蜡烛-1.png",
       "sha256": "24fa4e0a2a5c15b47a678af3a131b420e964d40a494c2590ee74cefeccc72ef1",
       "image": "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp",
@@ -1076,6 +1048,9 @@
       "height": 1254
     }
   ],
-  "pairCount": 38,
-  "placement": "Included in the reviewed colour-led Christmas sequence; sand art and scented ornaments remain the final groups."
+  "pairCount": 37,
+  "placement": "Included in the reviewed colour-led Christmas sequence; sand art and scented ornaments remain the final groups.",
+  "removedProducts": [
+    "Ivory Winter Rocking Horse"
+  ]
 }

@@ -145,7 +145,6 @@ Golden Winter Reindeer
 Golden Noel Angel
 Angel’s Wish Candle
 Christmas Angel Reed Diffuser
-Ivory Winter Rocking Horse
 Crimson Star Tree
 Sage Rocking Horse
 Forest Green Candle Trio
