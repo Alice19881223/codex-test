@@ -19,8 +19,6 @@
       "Postbox | Peach Oolong",
       "Postbox | Island Cotton",
       "Gradient Glass | Golden Gardenia",
-      "Bamboo Grove | Golden Bamboo Ripple",
-      "Bamboo Grove | Sage Bamboo Ripple",
       "Botanical Script | Orange Blossom Script",
       "Botanical Script | Jasmine Script",
       "Sea Glass | Sea Glass Glow",
@@ -28,10 +26,6 @@
       "Botanical Sketches | White Tea Sketch",
       "Sunflower | Ivory Sunflower",
       "Sunflower | Golden Sunflower",
-      "Botanical Teacups | Orchid Teacup",
-      "Botanical Teacups | Bamboo Teacup",
-      "Botanical Teacups | Chrysanthemum Teacup",
-      "Botanical Teacups | Plum Blossom Teacup",
       "Everyday Botanicals | Green Tea Poetry",
       "Everyday Botanicals | Ocean Poetry",
       "Garden Jars | Morning Garden",
@@ -71,37 +65,31 @@
         "Postbox | Peach Oolong",
         "Postbox | Island Cotton",
         "Gradient Glass | Golden Gardenia",
-        "Bamboo Grove | Golden Bamboo Ripple",
-        "Bamboo Grove | Sage Bamboo Ripple",
         "Botanical Script | Orange Blossom Script",
         "Botanical Script | Jasmine Script",
         "Sea Glass | Sea Glass Glow",
         "Botanical Sketches | Sea Salt Sketch",
         "Botanical Sketches | White Tea Sketch",
         "Sunflower | Ivory Sunflower",
-        "Sunflower | Golden Sunflower"
+        "Sunflower | Golden Sunflower",
+        "Everyday Botanicals | Green Tea Poetry",
+        "Everyday Botanicals | Ocean Poetry"
       ],
       [
-        "Botanical Teacups | Orchid Teacup",
-        "Botanical Teacups | Bamboo Teacup",
-        "Botanical Teacups | Chrysanthemum Teacup",
-        "Botanical Teacups | Plum Blossom Teacup",
-        "Everyday Botanicals | Green Tea Poetry",
-        "Everyday Botanicals | Ocean Poetry",
         "Garden Jars | Morning Garden",
         "Garden Jars | Gardenia Tea Garden",
         "Vintage Florals | Gardenia Botanica",
         "Vintage Florals | Bluebell",
         "Lace Glass | White Peach Oolong",
-        "Lace Glass | White Florals"
-      ],
-      [
+        "Lace Glass | White Florals",
         "Lace Glass | Blood Orange",
         "Stone & Stillness | Sage Stillness",
         "Woven Hearth | Woven Hearth",
         "Woodland Stories | Woodland Tale",
         "Woodland Stories | Sunlit Grove",
-        "Painted Gardens | Morning Citrus Garden",
+        "Painted Gardens | Morning Citrus Garden"
+      ],
+      [
         "Painted Gardens | Verdant Garden",
         "Botanical Cylinder | Olive Botanical Keepsake",
         "Spring Garden | Blue Linen Botanicals",
@@ -125,7 +113,6 @@
       "Spring & Summer Stillness | Mist Blue Blessing",
       "Spring & Summer Stillness | Ivory Olive Dove",
       "Spring & Summer Stillness | Sage Olive Dove",
-      "Blue & White Landscapes | Blue & White Landscape Candle",
       "Minimal Relief | Ivory Porcelain",
       "Oval Relief | Ivory Oval",
       "Iridescent | Pearl Ivory",
@@ -185,15 +172,14 @@
         "Spring & Summer Stillness | Mist Blue Blessing",
         "Spring & Summer Stillness | Ivory Olive Dove",
         "Spring & Summer Stillness | Sage Olive Dove",
-        "Blue & White Landscapes | Blue & White Landscape Candle",
         "Minimal Relief | Ivory Porcelain",
         "Oval Relief | Ivory Oval",
         "Iridescent | Pearl Ivory",
         "Iridescent | Obsidian",
-        "Everyday Botanicals | Vanilla Poetry"
+        "Everyday Botanicals | Vanilla Poetry",
+        "Soft Squares | Ivory Soft Square"
       ],
       [
-        "Soft Squares | Ivory Soft Square",
         "Soft Squares | Noir Soft Square",
         "Pebble Forms | Ivory Pebble",
         "Deer Collection | Ivory Deer",
@@ -204,10 +190,10 @@
         "Quiet Domes | Ivory Rice Blossom",
         "Quiet Domes | Mocha Serenity",
         "Quiet Domes | Sage Oolong",
-        "Lace Glass | Dark Woods"
+        "Lace Glass | Dark Woods",
+        "Lace Glass | Baltic Amber"
       ],
       [
-        "Lace Glass | Baltic Amber",
         "Lace Glass | Provence Lavender",
         "Lustre | Champagne Lustre",
         "Lustre | Graphite Lustre",
@@ -218,10 +204,10 @@
         "Essential Glass | Amber & Glass",
         "Speckled Forms | Slate Speckle",
         "Speckled Forms | Ivory Speckle",
-        "Classical Relief | Ivory Muse"
+        "Classical Relief | Ivory Muse",
+        "Classical Relief | Snow Muse"
       ],
       [
-        "Classical Relief | Snow Muse",
         "Ribbon & Glow | Lavender Ribbon",
         "Ribbon & Glow | Amber Ribbon",
         "Ribbon & Glow | Sky Ribbon",
@@ -232,10 +218,10 @@
         "Earth Tones | Cocoa Wild",
         "Earth Tones | Mauve Wild",
         "Amber Heirloom | Amber Lavender Heirloom",
-        "Gilded Skies | Gilded Azure"
+        "Gilded Skies | Gilded Azure",
+        "Garden Jars | Lavender Garden"
       ],
       [
-        "Garden Jars | Lavender Garden",
         "Gradient Glass | Lavender Ombre",
         "Gradient Glass | Vanilla",
         "Postbox | Lavender Postbox",
@@ -494,7 +480,6 @@
       "Everyday Poetry | Crab & Tide",
       "Everyday Poetry | Peach Anchovies",
       "Everyday Poetry | Coastal Glow Candle",
-      "Poetic Botanicals | Golden Midnight Bloom",
       "Coastal Daydreams | Blue Shoal",
       "Coastal Daydreams | Steady Helm",
       "Coastal Daydreams | Little Sailor",
@@ -535,12 +520,11 @@
         "Everyday Poetry | Crab & Tide",
         "Everyday Poetry | Peach Anchovies",
         "Everyday Poetry | Coastal Glow Candle",
-        "Poetic Botanicals | Golden Midnight Bloom",
         "Coastal Daydreams | Blue Shoal",
-        "Coastal Daydreams | Steady Helm"
+        "Coastal Daydreams | Steady Helm",
+        "Coastal Daydreams | Little Sailor"
       ],
       [
-        "Coastal Daydreams | Little Sailor",
         "Coastal Daydreams | After the Rain",
         "Coastal Daydreams | Coastal Shell",
         "Coastal Daydreams | Sail Away",
@@ -551,6 +535,53 @@
         "Coastal Daydreams | Cloud Linen",
         "Coastal Daydreams | Moon & Little Star",
         "Coastal Daydreams | Cedar Air"
+      ]
+    ],
+    "manualPageOrder": true
+  },
+  {
+    "slug": "chinese-style",
+    "name": "中国风",
+    "description": "Mahjong symbols, blue-and-white landscapes, the Four Gentlemen and bamboo forms bring Chinese visual culture into a refined candle collection, paired with tea, incense, woods and luminous florals.",
+    "eyebrow": "CHINESE ARTISTRY",
+    "story": "From the social ritual of a Mahjong table to blue-and-white porcelain and the symbolic plum, orchid, bamboo and chrysanthemum, each design translates a familiar Chinese motif into a contemporary object for the home.",
+    "icon": "chinese-style",
+    "productKeys": [
+      "Mahjong Stories | Fortune Tile",
+      "Mahjong Stories | One Circle",
+      "Mahjong Stories | East Wind",
+      "Mahjong Stories | Two Bamboo",
+      "Mahjong Stories | White Dragon",
+      "Mahjong Stories | Red Dragon",
+      "Mahjong Stories | Bamboo Sparrow",
+      "Blue & White Landscapes | Blue & White Landscape Candle",
+      "Poetic Botanicals | Golden Midnight Bloom",
+      "Botanical Teacups | Plum Blossom Teacup",
+      "Botanical Teacups | Orchid Teacup",
+      "Botanical Teacups | Bamboo Teacup",
+      "Botanical Teacups | Chrysanthemum Teacup",
+      "Bamboo Grove | Golden Bamboo Ripple",
+      "Bamboo Grove | Sage Bamboo Ripple"
+    ],
+    "pages": [
+      [
+        "Mahjong Stories | Fortune Tile",
+        "Mahjong Stories | One Circle",
+        "Mahjong Stories | East Wind",
+        "Mahjong Stories | Two Bamboo",
+        "Mahjong Stories | White Dragon",
+        "Mahjong Stories | Red Dragon",
+        "Mahjong Stories | Bamboo Sparrow",
+        "Blue & White Landscapes | Blue & White Landscape Candle",
+        "Poetic Botanicals | Golden Midnight Bloom",
+        "Botanical Teacups | Plum Blossom Teacup",
+        "Botanical Teacups | Orchid Teacup",
+        "Botanical Teacups | Bamboo Teacup"
+      ],
+      [
+        "Botanical Teacups | Chrysanthemum Teacup",
+        "Bamboo Grove | Golden Bamboo Ripple",
+        "Bamboo Grove | Sage Bamboo Ripple"
       ]
     ],
     "manualPageOrder": true

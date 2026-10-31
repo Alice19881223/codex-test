@@ -41,6 +41,20 @@
     "indexable": true,
     "type": "collection"
   },
+  "candles-chinese-style-2.html": {
+    "title": "\u4e2d\u56fd\u98ce Candles \u2014 Page 2 | Lanarve",
+    "description": "Explore \u4e2d\u56fd\u98ce, a Lanarve candles collection. Mahjong symbols, blue-and-white landscapes, the Four Gentlemen and bamboo forms bring Chinese visual culture into a refined candle collection, paired with tea, incense, woods and luminous florals. Discuss wholesale, fragrance and private label options. Page 2 of 2.",
+    "canonical": "https://www.lanarve.com/candles-chinese-style-2.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "candles-chinese-style.html": {
+    "title": "\u4e2d\u56fd\u98ce Candles | Lanarve",
+    "description": "Explore \u4e2d\u56fd\u98ce, a Lanarve candles collection. Mahjong symbols, blue-and-white landscapes, the Four Gentlemen and bamboo forms bring Chinese visual culture into a refined candle collection, paired with tea, incense, woods and luminous florals. Discuss wholesale, fragrance and private label options.",
+    "canonical": "https://www.lanarve.com/candles-chinese-style.html",
+    "indexable": true,
+    "type": "collection"
+  },
   "candles-close-to-you-2.html": {
     "title": "Close to You Candles \u2014 Page 2 | Lanarve",
     "description": "Explore Close to You, a Lanarve candles collection. Warm scents for moments shared. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
@@ -402,6 +416,13 @@
     "title": "Grapefruit & Bergamot Candles & Diffuser Options | Lanarve",
     "description": "Explore Grapefruit & Bergamot fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
     "canonical": "https://www.lanarve.com/fragrance-grapefruit-bergamot.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-green-tea-cedarwood-2.html": {
+    "title": "Green Tea & Cedarwood Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Green Tea & Cedarwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-green-tea-cedarwood-2.html",
     "indexable": true,
     "type": "page"
   },
@@ -860,6 +881,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-0c71e465.html": {
+    "title": "One Circle Scented candle | Lanarve",
+    "description": "Explore One Circle from Lanarve\u2019s Mahjong Stories designs. Discuss Green Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-0c71e465.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-0e5e04d9.html": {
     "title": "Happy Fries Scented candle | Lanarve",
     "description": "Explore Happy Fries from Lanarve\u2019s Joyful Little Things designs. Discuss Caramel & Cream fragrance, private label presentation and packaging for your collection.",
@@ -1119,6 +1147,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-36f81f85.html": {
+    "title": "Two Bamboo Scented candle | Lanarve",
+    "description": "Explore Two Bamboo from Lanarve\u2019s Mahjong Stories designs. Discuss Bamboo & White Florals fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-36f81f85.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-382db110.html": {
     "title": "Panda Slumber Scented Candle | Lanarve",
     "description": "Explore Panda Slumber from Lanarve\u2019s Little Dreamers designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
@@ -1207,6 +1242,13 @@
     "title": "Ribbon of Joy Scented candle | Lanarve",
     "description": "Explore Ribbon of Joy from Lanarve\u2019s Words in Bloom designs. Discuss Soft Linen fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-4aca101b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-4b99e55f.html": {
+    "title": "Bamboo Sparrow Scented candle | Lanarve",
+    "description": "Explore Bamboo Sparrow from Lanarve\u2019s Mahjong Stories designs. Discuss Bamboo & White Florals fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-4b99e55f.html",
     "indexable": true,
     "type": "product"
   },
@@ -1312,6 +1354,13 @@
     "title": "Blue Shoal Scented candle | Lanarve",
     "description": "Explore Blue Shoal from Lanarve\u2019s Coastal Daydreams designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-5b68ce58.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-5b8353fd.html": {
+    "title": "Red Dragon Scented candle | Lanarve",
+    "description": "Explore Red Dragon from Lanarve\u2019s Mahjong Stories designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-5b8353fd.html",
     "indexable": true,
     "type": "product"
   },
@@ -1805,6 +1854,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-b3eb9d3d.html": {
+    "title": "Fortune Tile Scented candle | Lanarve",
+    "description": "Explore Fortune Tile from Lanarve\u2019s Mahjong Stories designs. Discuss Osmanthus & Green Tea fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-b3eb9d3d.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-b407d637.html": {
     "title": "Sweet Pear Scented candle | Lanarve",
     "description": "Explore Sweet Pear from Lanarve\u2019s Everyday Poetry designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
@@ -1816,6 +1872,13 @@
     "title": "Botanical Keepsake Scented Candle | Lanarve",
     "description": "Explore Botanical Keepsake from Lanarve\u2019s Botanical Keepsakes designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-b43852d7.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-b4beddbc.html": {
+    "title": "East Wind Scented candle | Lanarve",
+    "description": "Explore East Wind from Lanarve\u2019s Mahjong Stories designs. Discuss Mugwort & Incense fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-b4beddbc.html",
     "indexable": true,
     "type": "product"
   },
@@ -1907,6 +1970,13 @@
     "title": "Garden Companions Scented candle | Lanarve",
     "description": "Explore Garden Companions from Lanarve\u2019s Spring & Summer Together designs. Discuss Jasmine & Orange Blossom fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-c70c133b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-c75c7b21.html": {
+    "title": "White Dragon Scented candle | Lanarve",
+    "description": "Explore White Dragon from Lanarve\u2019s Mahjong Stories designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-c75c7b21.html",
     "indexable": true,
     "type": "product"
   },

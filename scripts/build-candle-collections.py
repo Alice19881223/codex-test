@@ -19,6 +19,7 @@ icons={
  'heart':'<path d="M32 54C-2 34 10 6 26 16l6 6 6-6c16-10 28 18-6 38Z"/><path d="M23 30h.1m18 0h.1M26 39q6 6 12 0"/>',
  'joy':'<circle cx="32" cy="34" r="19"/><path d="M24 30h.1m16 0h.1M23 39q9 13 18 0M12 8l2 5 6 1-5 4 1 5-4-3-5 3 1-5-4-4 6-1ZM48 6l2 4 5 1-4 3 1 5-4-2-4 2 1-5-4-3 5-1Z"/>'}
 icons['everyday']='<path d="M12 29h30v15a10 10 0 0 1-10 10H22a10 10 0 0 1-10-10ZM42 32h5a7 7 0 0 1 0 14h-5M8 59h44M22 21c-7-8 7-9 0-17M33 21c-7-8 7-9 0-17"/><path d="M49 8v8m-4-4h8"/>'
+icons['chinese-style']='<rect x="13" y="6" width="38" height="50" rx="7"/><path d="M23 20h18v22H23zM32 14v34"/><circle cx="19" cy="12" r="1.5"/><circle cx="45" cy="50" r="1.5"/>'
 for name,shape in icons.items():(ROOT/f'assets/mood-{name}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#e4ecd9" stroke="#486347" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">{shape}</g></svg>')
 def esc(t):return html.escape(t,quote=True)
 def filename(slug,page=1):return f'candles-{slug}'+(f'-{page}' if page>1 else '')+'.html'

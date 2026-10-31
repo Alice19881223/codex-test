@@ -20,6 +20,7 @@ SERIES = {
 }
 COLLECTION_OVERRIDES = {
     'Midnight Poppy': 'close-to-you',
+    'Golden Midnight Bloom': 'chinese-style',
 }
 
 # archive, standalone, archive, gift-box image, name, series, scent, palette, introduction
@@ -146,7 +147,7 @@ def main():
                 'category': 'candle', 'image': src, 'name': name, 'series': series
             })
 
-    by_collection = {slug: [] for slug in set(SERIES.values())}
+    by_collection = {slug: [] for slug in set(SERIES.values()) | set(COLLECTION_OVERRIDES.values())}
     for product in added:
         slug = COLLECTION_OVERRIDES.get(product['name'], SERIES[product['series']])
         by_collection[slug].append(product['series'] + ' | ' + product['name'])

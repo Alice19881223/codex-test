@@ -891,7 +891,7 @@ const scents = [
         "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
         "name": "Orchid Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-126c54c6.html?scent=jasmine-orange-blossom"
       },
       {
@@ -1286,7 +1286,7 @@ const scents = [
         "image": "assets/candles/candles-008.webp",
         "name": "Woven Hearth",
         "series": "Woven Hearth",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-86a1b64b.html?scent=grapefruit-bergamot"
       },
       {
@@ -1310,7 +1310,7 @@ const scents = [
         "image": "assets/candles/standalone/ce5925a4e4cce0c3a0be.png",
         "name": "Morning Citrus Garden",
         "series": "Painted Gardens",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-7ace2c64.html?scent=grapefruit-bergamot"
       },
       {
@@ -1366,7 +1366,7 @@ const scents = [
         "image": "assets/candles/standalone/b35477ecc4b3afa62445.png",
         "name": "Sunlit Grove",
         "series": "Woodland Stories",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-7bd30b48.html?scent=grapefruit-bergamot"
       },
       {
@@ -1901,7 +1901,7 @@ const scents = [
         "image": "assets/candles/standalone/0d8e7c66e2de2314e052.png",
         "name": "Plum Blossom Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
       },
       {
@@ -2040,6 +2040,14 @@ const scents = [
         "href": "product-lnv-hlw-3a1f4410.html?scent=pomegranate-amber"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+        "name": "Red Dragon",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-5b8353fd.html?scent=pomegranate-amber"
+      },
+      {
         "category": "halloween",
         "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
         "name": "Magenta Bat",
@@ -2162,7 +2170,7 @@ const scents = [
         "image": "assets/candles/standalone/5c9feb70d50ca3f8c5d6.png",
         "name": "Lavender Garden",
         "series": "Garden Jars",
-        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-56bf11bf.html?scent=lavender-cedarwood"
       },
       {
@@ -2508,7 +2516,7 @@ const scents = [
         "image": "assets/candles/standalone/b2082322ade0e92da2d5.png",
         "name": "Chrysanthemum Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-1e624f9c.html?scent=white-tea-bergamot"
       },
       {
@@ -2686,6 +2694,14 @@ const scents = [
         "series": "Coastal Daydreams",
         "catalogueHref": "candles-everyday-poetry-3.html",
         "href": "product-lnv-cnd-cb4ad54c.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+        "name": "White Dragon",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-c75c7b21.html?scent=white-tea-bergamot"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2776,7 +2792,7 @@ const scents = [
         "image": "assets/candles/standalone/701c10bbdc77fc3599c0.png",
         "name": "Sage Stillness",
         "series": "Stone & Stillness",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-51ebce22.html?scent=white-tea-rosemary"
       },
       {
@@ -3065,6 +3081,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+        "name": "Fortune Tile",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-b3eb9d3d.html?scent=osmanthus-green-tea"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
         "name": "Mint Folk Egg",
         "series": "Easter Little Joys",
@@ -3285,7 +3309,7 @@ const scents = [
         "image": "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp",
         "name": "Little Sailor",
         "series": "Coastal Daydreams",
-        "catalogueHref": "candles-everyday-poetry-3.html",
+        "catalogueHref": "candles-everyday-poetry-2.html",
         "href": "product-lnv-cnd-2f25d135.html?scent=soft-linen"
       },
       {
@@ -3425,7 +3449,7 @@ const scents = [
         "image": "assets/candles/standalone/48975371a77ec68b8df5.png",
         "name": "Ocean Poetry",
         "series": "Everyday Botanicals",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-26103f10.html?scent=sea-salt-driftwood"
       },
       {
@@ -3589,7 +3613,7 @@ const scents = [
         "image": "assets/candles/standalone/540de41607775da6cc17.png",
         "name": "Bamboo Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-69918d3a.html?scent=bamboo-white-florals"
       },
       {
@@ -3597,7 +3621,7 @@ const scents = [
         "image": "assets/candles/standalone/dfc3ae74dada1434df0a.png",
         "name": "Golden Bamboo Ripple",
         "series": "Bamboo Grove",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-870785b5.html?scent=bamboo-white-florals"
       },
       {
@@ -3605,8 +3629,24 @@ const scents = [
         "image": "assets/candles/standalone/24ee05d2fc0410a7edf9.png",
         "name": "Sage Bamboo Ripple",
         "series": "Bamboo Grove",
-        "catalogueHref": "candles-morning-light-2.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-f9db0840.html?scent=bamboo-white-florals"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+        "name": "Two Bamboo",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-36f81f85.html?scent=bamboo-white-florals"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+        "name": "Bamboo Sparrow",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-4b99e55f.html?scent=bamboo-white-florals"
       }
     ],
     "family": "Fresh & Natural",
@@ -3705,7 +3745,7 @@ const scents = [
         "image": "assets/candles/standalone/770c18767b941a79a4e7.png",
         "name": "Ivory Soft Square",
         "series": "Soft Squares",
-        "catalogueHref": "candles-a-moment-of-quiet-2.html",
+        "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-c8706653.html?scent=sandalwood-cashmere"
       },
       {
@@ -3817,7 +3857,7 @@ const scents = [
         "image": "assets/candles/standalone/c7bb37286a562de02e63.png",
         "name": "Snow Muse",
         "series": "Classical Relief",
-        "catalogueHref": "candles-a-moment-of-quiet-4.html",
+        "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-fc69a435.html?scent=sandalwood-cashmere"
       },
       {
@@ -4015,7 +4055,7 @@ const scents = [
         "image": "assets/candles/standalone/ca78f49f63c3984fe232.png",
         "name": "Woodland Tale",
         "series": "Woodland Stories",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-c0f0aacf.html?scent=cedarwood-vetiver"
       },
       {
@@ -4451,7 +4491,7 @@ const scents = [
         "image": "assets/candles/paired/d9feede215a30484aa79.webp",
         "name": "Baltic Amber",
         "series": "Lace Glass",
-        "catalogueHref": "candles-a-moment-of-quiet-3.html",
+        "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-c0404e25.html?scent=amber-vanilla"
       },
       {
@@ -5542,7 +5582,7 @@ const scents = [
         "image": "assets/candles/paired/d6e65e02000c1649cfca.webp",
         "name": "Blood Orange",
         "series": "Lace Glass",
-        "catalogueHref": "candles-morning-light-4.html",
+        "catalogueHref": "candles-morning-light-3.html",
         "href": "product-lnv-cnd-1f01ed91.html?scent=orange-clove"
       },
       {
@@ -5870,6 +5910,14 @@ const scents = [
         "series": "Fabric Fragrance Sachets",
         "catalogueHref": "sachets.html",
         "href": "product-lnv-sch-8df631a3.html?scent=mugwort-incense"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+        "name": "East Wind",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-b4beddbc.html?scent=mugwort-incense"
       }
     ],
     "family": "Oriental Mystery",
@@ -5938,7 +5986,7 @@ const scents = [
         "image": "assets/candles/standalone/18e0a2baf489e98f7b5c.png",
         "name": "Green Tea Poetry",
         "series": "Everyday Botanicals",
-        "catalogueHref": "candles-morning-light-3.html",
+        "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-d63b27c8.html?scent=green-tea-cedarwood"
       },
       {
@@ -5972,6 +6020,14 @@ const scents = [
         "series": "Floral Tea",
         "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+        "name": "One Circle",
+        "series": "Mahjong Stories",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-0c71e465.html?scent=green-tea-cedarwood"
       },
       {
         "category": "candle",
@@ -6111,7 +6167,7 @@ const scents = [
         "image": "assets/candles/curated-gifts/f0a103257b1bee06273f.webp",
         "name": "Golden Midnight Bloom",
         "series": "Poetic Botanicals",
-        "catalogueHref": "candles-everyday-poetry-2.html",
+        "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-06ce127e.html?scent=oud-saffron"
       },
       {
@@ -6197,7 +6253,7 @@ const scents = [
         "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
         "name": "Blue & White Landscape Candle",
         "series": "Blue & White Landscapes",
-        "catalogueHref": "candles-a-moment-of-quiet.html",
+        "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-e94abf31.html?scent=incense-myrrh"
       },
       {
@@ -9552,6 +9608,104 @@ const candleProducts = [
     ],
     "assignedScent": "clean-cotton",
     "designDescription": "A pale blue parachute drifts across ivory ceramic in a small story of open air and gentle adventure. Clean Cotton gives it a bright, weightless freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-6eeeeccdbb0b090d97c4",
+    "name": "Fortune Tile",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+    "packagingImage": "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp",
+    "images": [
+      "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+      "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp"
+    ],
+    "assignedScent": "osmanthus-green-tea",
+    "designDescription": "The blue 發 tile is a traditional symbol of prosperity, presented as a small ivory ceramic keepsake. Osmanthus & Green Tea adds a graceful floral-tea character inspired by an unhurried gathering. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-834abc7de1a2ce80b4fa",
+    "name": "One Circle",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+    "packagingImage": "assets/candles/mahjong/80f5fd3f741f817df6e8.webp",
+    "images": [
+      "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+      "assets/candles/mahjong/80f5fd3f741f817df6e8.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "The colourful one-circle tile becomes a precise enamel-like motif on softly formed ivory ceramic. Green Tea & Cedarwood balances its graphic detail with calm tea leaves and polished wood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-c3d02fd64f478d4d6cdb",
+    "name": "East Wind",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+    "packagingImage": "assets/candles/mahjong/cc3b875541427878b94b.webp",
+    "images": [
+      "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+      "assets/candles/mahjong/cc3b875541427878b94b.webp"
+    ],
+    "assignedScent": "mugwort-incense",
+    "designDescription": "A deep green East Wind tile gives the ivory vessel a bold, auspicious focal point. Mugwort & Incense brings an aromatic herbal and softly smoky direction to the traditional character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-6caa143eada8be6f5ea9",
+    "name": "Two Bamboo",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+    "packagingImage": "assets/candles/mahjong/5b67de7b4fed57c19687.webp",
+    "images": [
+      "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+      "assets/candles/mahjong/5b67de7b4fed57c19687.webp"
+    ],
+    "assignedScent": "bamboo-white-florals",
+    "designDescription": "Two slender bamboo forms create a crisp green-and-blue Mahjong emblem on tactile ivory ceramic. Bamboo & White Florals mirrors the motif with fresh stems and luminous petals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-e3f178f1fb916732d3d3",
+    "name": "White Dragon",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+    "packagingImage": "assets/candles/mahjong/87d7fd634edee3157bf4.webp",
+    "images": [
+      "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+      "assets/candles/mahjong/87d7fd634edee3157bf4.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "The restrained blue frame of the White Dragon tile celebrates the beauty of open space and balance. White Tea & Bergamot keeps the composition clear, refined and quietly radiant. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-d0a62108c3177061cb23",
+    "name": "Red Dragon",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+    "packagingImage": "assets/candles/mahjong/bef550f7573a0f54b6eb.webp",
+    "images": [
+      "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+      "assets/candles/mahjong/bef550f7573a0f54b6eb.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "The vermilion 中 tile gives the ivory candle a confident festive accent associated with good fortune. Pomegranate & Amber adds juicy red fruit and a warm, glowing base. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "mahjong-07cb5e41ea249876428e",
+    "name": "Bamboo Sparrow",
+    "series": "Mahjong Stories",
+    "productType": "Scented candle",
+    "image": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+    "packagingImage": "assets/candles/mahjong/fdb0e700375dbbccac64.webp",
+    "images": [
+      "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+      "assets/candles/mahjong/fdb0e700375dbbccac64.webp"
+    ],
+    "assignedScent": "bamboo-white-florals",
+    "designDescription": "A green sparrow, the classic one-bamboo Mahjong motif, is drawn with fine red and blue detail. Bamboo & White Florals gives this lively emblem a fresh garden-air character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 const reedProducts = [
@@ -13398,7 +13552,14 @@ const productPages = {
     "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp": "product-lnv-cnd-ee52d666.html",
     "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp": "product-lnv-cnd-fec0b9a5.html",
     "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp": "product-lnv-cnd-1d4e7c79.html",
-    "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp": "product-lnv-cnd-ddaf6766.html"
+    "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp": "product-lnv-cnd-ddaf6766.html",
+    "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp": "product-lnv-cnd-b3eb9d3d.html",
+    "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp": "product-lnv-cnd-0c71e465.html",
+    "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp": "product-lnv-cnd-b4beddbc.html",
+    "assets/candles/mahjong/6caa143eada8be6f5ea9.webp": "product-lnv-cnd-36f81f85.html",
+    "assets/candles/mahjong/e3f178f1fb916732d3d3.webp": "product-lnv-cnd-c75c7b21.html",
+    "assets/candles/mahjong/d0a62108c3177061cb23.webp": "product-lnv-cnd-5b8353fd.html",
+    "assets/candles/mahjong/07cb5e41ea249876428e.webp": "product-lnv-cnd-4b99e55f.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",

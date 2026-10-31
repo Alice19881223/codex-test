@@ -151,7 +151,7 @@ try{
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
    for(const slug of Object.keys(manifest.collectionCounts)){
     const collection=collections.find(c=>c.slug===slug),expected=designs.filter(d=>d.seasonalCollection===slug);
-    await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
+    await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),6);
     await page.locator('.candle-mood-card').filter({hasText:collection.name}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
     assert.equal(await page.locator('main h1').textContent(),collection.name);
     assert.deepEqual(await page.locator('#catalogue-grid h3').allTextContents(),collection.pages[0].map(k=>k.split(' | ')[1]));assert.equal(await page.locator('#catalogue-grid h3').count(),12);assert.deepEqual((await page.locator('#catalogue-grid h3').allTextContents()).slice(0,expected.length),expected.map(d=>d.name));
@@ -181,7 +181,7 @@ try{
   const manifest=JSON.parse(fs.readFileSync(curatedManifestPath)),designs=manifest.products;
   const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json')));
   const placement={'Quiet Botanicals':'a-moment-of-quiet','For Mum, With Love':'close-to-you','Garden Joys':'little-joys','Spring Garden':'morning-light','Poetic Botanicals':'everyday-poetry'};
-  const placementOverrides={'Midnight Poppy':'close-to-you'};
+  const placementOverrides={'Midnight Poppy':'close-to-you','Golden Midnight Bloom':'chinese-style'};
   assert.equal(designs.length,12);assert.equal(manifest.images.length,24);assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.designDescription&&d.assignedScent));
   for(const design of designs){const collection=collections.find(c=>c.slug===(placementOverrides[design.name]||placement[design.series]));assert.ok(collection);assert.equal(collection.productKeys.filter(key=>key===design.series+' | '+design.name).length,1);assert.ok(records.find(record=>record.category==='candle'&&record.image===design.image));}
   const representatives=['Midnight Poppy','Oakheart for Mum','Ivory Daisy','Blue Linen Botanicals','Golden Midnight Bloom'].map(name=>designs.find(d=>d.name===name));
@@ -194,6 +194,27 @@ try{
     await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);assert.ok((await page.locator('.product-design-description').textContent()).trim().length>80);assert.match(await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent(),/Never leave a burning candle unattended/);
    }
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'curated candle detail overflow');await ctx.close();
+  }
+ }
+ // The 中国风 directory combines every reviewed Mahjong pair with the existing Chinese-inspired candle edit.
+ const mahjongManifestPath=path.join(root,'assets/mahjong-source-manifest.json');
+ if(fs.existsSync(mahjongManifestPath)){
+  const manifest=JSON.parse(fs.readFileSync(mahjongManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))),collection=collections.find(c=>c.slug==='chinese-style');
+  assert.equal(designs.length,7);assert.equal(manifest.images.length,14);assert.equal(manifest.pairedCount,7);assert.equal(manifest.integratedExistingKeys.length,8);assert.equal(collection.name,'中国风');assert.equal(collection.icon,'chinese-style');assert.equal(collection.productKeys.length,15);assert.deepEqual(collection.pages.map(page=>page.length),[12,3]);
+  assert.deepEqual(collection.productKeys.slice(0,7),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.productKeys.slice(7),manifest.integratedExistingKeys);assert.ok(fs.existsSync(path.join(root,'assets/mood-chinese-style.svg')));
+  for(const key of collection.productKeys)assert.equal(collections.reduce((count,c)=>count+c.productKeys.filter(item=>item===key).length,0),1,key+' belongs to one candle directory');
+  assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.assignedScent&&d.designDescription.length>140));
+  const representatives=['Fortune Tile','East Wind','Red Dragon','Bamboo Sparrow'].map(name=>designs.find(d=>d.name===name));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
+   await page.goto(base+'/products-current.html');const directory=page.locator('.candle-mood-card').filter({has:page.getByRole('heading',{name:'中国风',exact:true})});assert.equal(await directory.count(),1);assert.equal(await directory.locator('img').getAttribute('src'),'assets/mood-chinese-style.svg');await directory.click();assert.ok(new URL(page.url()).searchParams.get('v'));assert.equal(await page.locator('main h1').textContent(),'中国风');assert.match(await page.locator('.candle-mood-intro').textContent(),/CHINESE ARTISTRY|Mahjong/);
+   for(const design of representatives){
+    const record=records.find(r=>r.category==='candle'&&r.image===design.image),pageNumber=collection.pages.findIndex(pageKeys=>pageKeys.includes(design.series+' | '+design.name))+1,route='candles-chinese-style'+(pageNumber>1?'-'+pageNumber:'')+'.html';assert.ok(record);await page.goto(base+'/'+route);
+    const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}),wrapper=card.locator('xpath=..');assert.equal(await card.locator('.paired-photo img').count(),2);
+    if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}
+    await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);assert.match(await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent(),/Never leave a burning candle unattended/);
+   }
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'中国风 detail overflow');await ctx.close();
   }
  }
  // The Easter edit is a continuous Little Joys story with every unique supplied photograph preserved.
@@ -248,7 +269,7 @@ try{
   assert.equal(designs.find(d=>d.name==='Dolce Vita Blue Pasta').images.length,2);
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390});const page=await ctx.newPage();
-   await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),5);
+   await page.goto(base+'/products-current.html');assert.equal(await page.locator('.candle-mood-card').count(),6);
    await page.locator('.candle-mood-card').filter({hasText:'Everyday Poetry'}).click();assert.ok(new URL(page.url()).searchParams.get('v'));
    assert.equal(await page.locator('main h1').textContent(),'Everyday Poetry');assert.equal(await page.locator('.everyday-story').count(),0);
    const sharedStyle=()=>{const intro=document.querySelector('.candle-mood-intro'),title=intro.querySelector('h1'),nav=document.querySelector('.candle-mood-nav a[aria-current]');return [getComputedStyle(intro).backgroundColor,getComputedStyle(intro).backgroundImage,getComputedStyle(intro).borderBottomWidth,getComputedStyle(title).color,getComputedStyle(title).fontFamily,getComputedStyle(nav).backgroundColor];};

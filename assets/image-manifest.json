@@ -18999,5 +18999,327 @@
         "bytes": 78082
       }
     ]
+  },
+  "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1656694,
+    "src": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/6eeeeccdbb0b090d97c4-480.webp",
+        "width": 480,
+        "bytes": 8280
+      },
+      {
+        "src": "assets/candles/mahjong/6eeeeccdbb0b090d97c4-960.webp",
+        "width": 960,
+        "bytes": 23964
+      },
+      {
+        "src": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+        "width": 1254,
+        "bytes": 41418
+      }
+    ]
+  },
+  "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1795160,
+    "src": "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/147d5e2c20bcf9636f4c-480.webp",
+        "width": 480,
+        "bytes": 15316
+      },
+      {
+        "src": "assets/candles/mahjong/147d5e2c20bcf9636f4c-960.webp",
+        "width": 960,
+        "bytes": 46708
+      },
+      {
+        "src": "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp",
+        "width": 1254,
+        "bytes": 78740
+      }
+    ]
+  },
+  "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1623633,
+    "src": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/834abc7de1a2ce80b4fa-480.webp",
+        "width": 480,
+        "bytes": 9128
+      },
+      {
+        "src": "assets/candles/mahjong/834abc7de1a2ce80b4fa-960.webp",
+        "width": 960,
+        "bytes": 25336
+      },
+      {
+        "src": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+        "width": 1254,
+        "bytes": 43190
+      }
+    ]
+  },
+  "assets/candles/mahjong/80f5fd3f741f817df6e8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1878680,
+    "src": "assets/candles/mahjong/80f5fd3f741f817df6e8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/80f5fd3f741f817df6e8-480.webp",
+        "width": 480,
+        "bytes": 18704
+      },
+      {
+        "src": "assets/candles/mahjong/80f5fd3f741f817df6e8-960.webp",
+        "width": 960,
+        "bytes": 61850
+      },
+      {
+        "src": "assets/candles/mahjong/80f5fd3f741f817df6e8.webp",
+        "width": 1254,
+        "bytes": 103518
+      }
+    ]
+  },
+  "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1707732,
+    "src": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/c3d02fd64f478d4d6cdb-480.webp",
+        "width": 480,
+        "bytes": 8138
+      },
+      {
+        "src": "assets/candles/mahjong/c3d02fd64f478d4d6cdb-960.webp",
+        "width": 960,
+        "bytes": 27264
+      },
+      {
+        "src": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+        "width": 1254,
+        "bytes": 49440
+      }
+    ]
+  },
+  "assets/candles/mahjong/cc3b875541427878b94b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1971494,
+    "src": "assets/candles/mahjong/cc3b875541427878b94b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/cc3b875541427878b94b-480.webp",
+        "width": 480,
+        "bytes": 16470
+      },
+      {
+        "src": "assets/candles/mahjong/cc3b875541427878b94b-960.webp",
+        "width": 960,
+        "bytes": 57548
+      },
+      {
+        "src": "assets/candles/mahjong/cc3b875541427878b94b.webp",
+        "width": 1254,
+        "bytes": 101034
+      }
+    ]
+  },
+  "assets/candles/mahjong/6caa143eada8be6f5ea9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1705362,
+    "src": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/6caa143eada8be6f5ea9-480.webp",
+        "width": 480,
+        "bytes": 10104
+      },
+      {
+        "src": "assets/candles/mahjong/6caa143eada8be6f5ea9-960.webp",
+        "width": 960,
+        "bytes": 32380
+      },
+      {
+        "src": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+        "width": 1254,
+        "bytes": 55900
+      }
+    ]
+  },
+  "assets/candles/mahjong/5b67de7b4fed57c19687.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1805764,
+    "src": "assets/candles/mahjong/5b67de7b4fed57c19687.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/5b67de7b4fed57c19687-480.webp",
+        "width": 480,
+        "bytes": 16074
+      },
+      {
+        "src": "assets/candles/mahjong/5b67de7b4fed57c19687-960.webp",
+        "width": 960,
+        "bytes": 49378
+      },
+      {
+        "src": "assets/candles/mahjong/5b67de7b4fed57c19687.webp",
+        "width": 1254,
+        "bytes": 83568
+      }
+    ]
+  },
+  "assets/candles/mahjong/e3f178f1fb916732d3d3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1590363,
+    "src": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/e3f178f1fb916732d3d3-480.webp",
+        "width": 480,
+        "bytes": 7966
+      },
+      {
+        "src": "assets/candles/mahjong/e3f178f1fb916732d3d3-960.webp",
+        "width": 960,
+        "bytes": 21928
+      },
+      {
+        "src": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+        "width": 1254,
+        "bytes": 37574
+      }
+    ]
+  },
+  "assets/candles/mahjong/87d7fd634edee3157bf4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1890642,
+    "src": "assets/candles/mahjong/87d7fd634edee3157bf4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/87d7fd634edee3157bf4-480.webp",
+        "width": 480,
+        "bytes": 17104
+      },
+      {
+        "src": "assets/candles/mahjong/87d7fd634edee3157bf4-960.webp",
+        "width": 960,
+        "bytes": 58538
+      },
+      {
+        "src": "assets/candles/mahjong/87d7fd634edee3157bf4.webp",
+        "width": 1254,
+        "bytes": 98916
+      }
+    ]
+  },
+  "assets/candles/mahjong/d0a62108c3177061cb23.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1624792,
+    "src": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/d0a62108c3177061cb23-480.webp",
+        "width": 480,
+        "bytes": 8106
+      },
+      {
+        "src": "assets/candles/mahjong/d0a62108c3177061cb23-960.webp",
+        "width": 960,
+        "bytes": 21590
+      },
+      {
+        "src": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+        "width": 1254,
+        "bytes": 36998
+      }
+    ]
+  },
+  "assets/candles/mahjong/bef550f7573a0f54b6eb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1845075,
+    "src": "assets/candles/mahjong/bef550f7573a0f54b6eb.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/bef550f7573a0f54b6eb-480.webp",
+        "width": 480,
+        "bytes": 16318
+      },
+      {
+        "src": "assets/candles/mahjong/bef550f7573a0f54b6eb-960.webp",
+        "width": 960,
+        "bytes": 53762
+      },
+      {
+        "src": "assets/candles/mahjong/bef550f7573a0f54b6eb.webp",
+        "width": 1254,
+        "bytes": 89852
+      }
+    ]
+  },
+  "assets/candles/mahjong/07cb5e41ea249876428e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1646161,
+    "src": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/07cb5e41ea249876428e-480.webp",
+        "width": 480,
+        "bytes": 8720
+      },
+      {
+        "src": "assets/candles/mahjong/07cb5e41ea249876428e-960.webp",
+        "width": 960,
+        "bytes": 24612
+      },
+      {
+        "src": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+        "width": 1254,
+        "bytes": 43322
+      }
+    ]
+  },
+  "assets/candles/mahjong/fdb0e700375dbbccac64.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1925036,
+    "src": "assets/candles/mahjong/fdb0e700375dbbccac64.webp",
+    "variants": [
+      {
+        "src": "assets/candles/mahjong/fdb0e700375dbbccac64-480.webp",
+        "width": 480,
+        "bytes": 17612
+      },
+      {
+        "src": "assets/candles/mahjong/fdb0e700375dbbccac64-960.webp",
+        "width": 960,
+        "bytes": 58298
+      },
+      {
+        "src": "assets/candles/mahjong/fdb0e700375dbbccac64.webp",
+        "width": 1254,
+        "bytes": 100164
+      }
+    ]
   }
 }

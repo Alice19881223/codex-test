@@ -11,7 +11,7 @@ from product_records import item_no
 ROOT=Path(__file__).resolve().parents[1]
 DESIGNS=[
  ('Meadow Butterfly','黄绿色棋盘蝴蝶蜡烛-2.png','黄绿棋盘格蝴蝶蜡烛礼盒-1.png','candle','morning-light','Spring & Summer Light','lime-basil','sage','A smiling butterfly in yellow-green checks on an ivory-toned background captures the lightness of a spring meadow and early summer. Lime & Basil is a suggested crisp citrus-and-herb fragrance direction.'),
- ('Blue & White Landscape Candle','蓝白山水香氛蜡烛.png','微信图片_20261024142344_307_2.png','candle','a-moment-of-quiet','Blue & White Landscapes','incense-myrrh','blue','Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene.'),
+ ('Blue & White Landscape Candle','蓝白山水香氛蜡烛.png','微信图片_20261024142344_307_2.png','candle','chinese-style','Blue & White Landscapes','incense-myrrh','blue','Cobalt-blue mountains, pavilions, trees and water on an ivory-toned vessel recall classical blue-and-white landscape decoration. Incense & Myrrh from the Oriental Mystery fragrance family offers a quiet, resinous direction for this contemplative scene.'),
  ('Blue & White Landscape Reed Diffuser','青花山水香薰扩香瓶-1.png','兰维香薰与山水礼盒-2.png','reed','a-quiet-pause','Blue & White Landscapes','oud-saffron','blue','A blue-and-white landscape bottle with mountains, pavilions and water, shown with natural-coloured reeds. Oud & Saffron from the Oriental Mystery fragrance family adds warm woods, saffron and a softly spiced sense of depth.'),
 ]
 def read(n):return json.loads((ROOT/'assets'/n).read_text())

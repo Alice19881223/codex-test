@@ -1282,8 +1282,8 @@
     "title": "Plum Blossom Teacup Scented candle",
     "url": "product-lnv-cnd-fe56a1c8.html",
     "series": "Botanical Teacups",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "blackcurrant-rose"
     ],
@@ -1299,8 +1299,8 @@
     "title": "Orchid Teacup Scented candle",
     "url": "product-lnv-cnd-126c54c6.html",
     "series": "Botanical Teacups",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "jasmine-orange-blossom"
     ],
@@ -1316,8 +1316,8 @@
     "title": "Bamboo Teacup Scented candle",
     "url": "product-lnv-cnd-69918d3a.html",
     "series": "Botanical Teacups",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "bamboo-white-florals"
     ],
@@ -1333,8 +1333,8 @@
     "title": "Chrysanthemum Teacup Scented candle",
     "url": "product-lnv-cnd-1e624f9c.html",
     "series": "Botanical Teacups",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "white-tea-bergamot"
     ],
@@ -1758,8 +1758,8 @@
     "title": "Golden Bamboo Ripple Scented candle",
     "url": "product-lnv-cnd-870785b5.html",
     "series": "Bamboo Grove",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "bamboo-white-florals"
     ],
@@ -1775,8 +1775,8 @@
     "title": "Sage Bamboo Ripple Scented candle",
     "url": "product-lnv-cnd-f9db0840.html",
     "series": "Bamboo Grove",
-    "collection": "Morning Light",
-    "collectionHref": "candles-morning-light.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "bamboo-white-florals"
     ],
@@ -2761,8 +2761,8 @@
     "title": "Blue & White Landscape Candle Scented candle",
     "url": "product-lnv-cnd-e94abf31.html",
     "series": "Blue & White Landscapes",
-    "collection": "A Moment of Quiet",
-    "collectionHref": "candles-a-moment-of-quiet.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "incense-myrrh"
     ],
@@ -2863,8 +2863,8 @@
     "title": "Golden Midnight Bloom Scented candle",
     "url": "product-lnv-cnd-06ce127e.html",
     "series": "Poetic Botanicals",
-    "collection": "Everyday Poetry",
-    "collectionHref": "candles-everyday-poetry.html",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
     "suggestedScents": [
       "oud-saffron"
     ],
@@ -3804,6 +3804,125 @@
       "clean-cotton"
     ],
     "primaryScent": "clean-cotton",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-B3EB9D3D",
+    "category": "candle",
+    "image": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+    "name": "Fortune Tile",
+    "title": "Fortune Tile Scented candle",
+    "url": "product-lnv-cnd-b3eb9d3d.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "osmanthus-green-tea"
+    ],
+    "primaryScent": "osmanthus-green-tea",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-0C71E465",
+    "category": "candle",
+    "image": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+    "name": "One Circle",
+    "title": "One Circle Scented candle",
+    "url": "product-lnv-cnd-0c71e465.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-B4BEDDBC",
+    "category": "candle",
+    "image": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+    "name": "East Wind",
+    "title": "East Wind Scented candle",
+    "url": "product-lnv-cnd-b4beddbc.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "mugwort-incense"
+    ],
+    "primaryScent": "mugwort-incense",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-36F81F85",
+    "category": "candle",
+    "image": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+    "name": "Two Bamboo",
+    "title": "Two Bamboo Scented candle",
+    "url": "product-lnv-cnd-36f81f85.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "bamboo-white-florals"
+    ],
+    "primaryScent": "bamboo-white-florals",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-C75C7B21",
+    "category": "candle",
+    "image": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+    "name": "White Dragon",
+    "title": "White Dragon Scented candle",
+    "url": "product-lnv-cnd-c75c7b21.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-5B8353FD",
+    "category": "candle",
+    "image": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+    "name": "Red Dragon",
+    "title": "Red Dragon Scented candle",
+    "url": "product-lnv-cnd-5b8353fd.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-4B99E55F",
+    "category": "candle",
+    "image": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+    "name": "Bamboo Sparrow",
+    "title": "Bamboo Sparrow Scented candle",
+    "url": "product-lnv-cnd-4b99e55f.html",
+    "series": "Mahjong Stories",
+    "collection": "\u4e2d\u56fd\u98ce",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "bamboo-white-florals"
+    ],
+    "primaryScent": "bamboo-white-florals",
     "specifications": {},
     "documents": []
   },

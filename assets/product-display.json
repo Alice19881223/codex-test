@@ -1867,5 +1867,26 @@
   },
   "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp": {
     "palette": "blue"
+  },
+  "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/mahjong/6caa143eada8be6f5ea9.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/mahjong/e3f178f1fb916732d3d3.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/mahjong/d0a62108c3177061cb23.webp": {
+    "palette": "burgundy"
+  },
+  "assets/candles/mahjong/07cb5e41ea249876428e.webp": {
+    "palette": "sage"
   }
 }

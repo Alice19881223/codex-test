@@ -1,0 +1,250 @@
+{
+  "sourceArchives": [
+    "麻将系列.zip"
+  ],
+  "collection": "chinese-style",
+  "series": "Mahjong Stories",
+  "productCount": 7,
+  "imageCount": 14,
+  "pairedCount": 7,
+  "products": [
+    {
+      "id": "mahjong-6eeeeccdbb0b090d97c4",
+      "name": "Fortune Tile",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+      "packagingImage": "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp",
+      "images": [
+        "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+        "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp"
+      ],
+      "assignedScent": "osmanthus-green-tea",
+      "designDescription": "The blue 發 tile is a traditional symbol of prosperity, presented as a small ivory ceramic keepsake. Osmanthus & Green Tea adds a graceful floral-tea character inspired by an unhurried gathering. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-834abc7de1a2ce80b4fa",
+      "name": "One Circle",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+      "packagingImage": "assets/candles/mahjong/80f5fd3f741f817df6e8.webp",
+      "images": [
+        "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+        "assets/candles/mahjong/80f5fd3f741f817df6e8.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "The colourful one-circle tile becomes a precise enamel-like motif on softly formed ivory ceramic. Green Tea & Cedarwood balances its graphic detail with calm tea leaves and polished wood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-c3d02fd64f478d4d6cdb",
+      "name": "East Wind",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+      "packagingImage": "assets/candles/mahjong/cc3b875541427878b94b.webp",
+      "images": [
+        "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+        "assets/candles/mahjong/cc3b875541427878b94b.webp"
+      ],
+      "assignedScent": "mugwort-incense",
+      "designDescription": "A deep green East Wind tile gives the ivory vessel a bold, auspicious focal point. Mugwort & Incense brings an aromatic herbal and softly smoky direction to the traditional character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-6caa143eada8be6f5ea9",
+      "name": "Two Bamboo",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+      "packagingImage": "assets/candles/mahjong/5b67de7b4fed57c19687.webp",
+      "images": [
+        "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+        "assets/candles/mahjong/5b67de7b4fed57c19687.webp"
+      ],
+      "assignedScent": "bamboo-white-florals",
+      "designDescription": "Two slender bamboo forms create a crisp green-and-blue Mahjong emblem on tactile ivory ceramic. Bamboo & White Florals mirrors the motif with fresh stems and luminous petals. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-e3f178f1fb916732d3d3",
+      "name": "White Dragon",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+      "packagingImage": "assets/candles/mahjong/87d7fd634edee3157bf4.webp",
+      "images": [
+        "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+        "assets/candles/mahjong/87d7fd634edee3157bf4.webp"
+      ],
+      "assignedScent": "white-tea-bergamot",
+      "designDescription": "The restrained blue frame of the White Dragon tile celebrates the beauty of open space and balance. White Tea & Bergamot keeps the composition clear, refined and quietly radiant. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-d0a62108c3177061cb23",
+      "name": "Red Dragon",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+      "packagingImage": "assets/candles/mahjong/bef550f7573a0f54b6eb.webp",
+      "images": [
+        "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+        "assets/candles/mahjong/bef550f7573a0f54b6eb.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "The vermilion 中 tile gives the ivory candle a confident festive accent associated with good fortune. Pomegranate & Amber adds juicy red fruit and a warm, glowing base. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "mahjong-07cb5e41ea249876428e",
+      "name": "Bamboo Sparrow",
+      "series": "Mahjong Stories",
+      "productType": "Scented candle",
+      "image": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+      "packagingImage": "assets/candles/mahjong/fdb0e700375dbbccac64.webp",
+      "images": [
+        "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+        "assets/candles/mahjong/fdb0e700375dbbccac64.webp"
+      ],
+      "assignedScent": "bamboo-white-florals",
+      "designDescription": "A green sparrow, the classic one-bamboo Mahjong motif, is drawn with fine red and blue detail. Bamboo & White Florals gives this lively emblem a fresh garden-air character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "fortune-product.png",
+      "role": "product",
+      "sha256": "6eeeeccdbb0b090d97c42db1ffb0e786aca09f46a33d5d6d2ae96006480978ad",
+      "image": "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "fortune-packaging.png",
+      "role": "packaging",
+      "sha256": "147d5e2c20bcf9636f4c7c6fe9193f61a2c2d55c8ff81e7e2bc27e75e293dd24",
+      "image": "assets/candles/mahjong/147d5e2c20bcf9636f4c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "一圈麻将香氛蜡烛-2.png",
+      "role": "product",
+      "sha256": "834abc7de1a2ce80b4fa06a3a15227131ccc5fa9eb96bf9a4f78f6098416781f",
+      "image": "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "象牙白麻将香氛礼盒-8.png",
+      "role": "packaging",
+      "sha256": "80f5fd3f741f817df6e8358ad987ca9fa9c567e707f73a279e79641f58e41f81",
+      "image": "assets/candles/mahjong/80f5fd3f741f817df6e8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "东字麻将香薰蜡烛.png",
+      "role": "product",
+      "sha256": "c3d02fd64f478d4d6cdb370974a5c30198bef265d590f8c321b59750c6753863",
+      "image": "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "麻将灵感象牙香薰蜡烛礼盒-4.png",
+      "role": "packaging",
+      "sha256": "cc3b875541427878b94b822f94d7f7f26d86a997c48bb6eeb87a62847cdef143",
+      "image": "assets/candles/mahjong/cc3b875541427878b94b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "象牙陶瓷双竹麻将蜡烛-2.png",
+      "role": "product",
+      "sha256": "6caa143eada8be6f5ea99d3546de7cf1cd795a001590fef4c9e13ac5dcd0b87c",
+      "image": "assets/candles/mahjong/6caa143eada8be6f5ea9.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "双竹香氛蜡烛与麻将纹礼盒-3.png",
+      "role": "packaging",
+      "sha256": "5b67de7b4fed57c1968769f59717ad8a9c9d04452f8c3a5dd965f93b5c54d516",
+      "image": "assets/candles/mahjong/5b67de7b4fed57c19687.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "白龙麻将香薰蜡烛.png",
+      "role": "product",
+      "sha256": "e3f178f1fb916732d3d30675e42da6074ee5dd43e0c96f41bf63db5496c2f3f4",
+      "image": "assets/candles/mahjong/e3f178f1fb916732d3d3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "白龙纹香氛蜡烛礼盒-6.png",
+      "role": "packaging",
+      "sha256": "87d7fd634edee3157bf4c34307b7723ed141569948a336c5eb3745ae1443dc37",
+      "image": "assets/candles/mahjong/87d7fd634edee3157bf4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "红龙中牌香氛蜡烛.png",
+      "role": "product",
+      "sha256": "d0a62108c3177061cb23f71ce2b1ba18a897ba5d76db575bbc04b5db528dbbc7",
+      "image": "assets/candles/mahjong/d0a62108c3177061cb23.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "红龙香氛蜡烛礼盒-5.png",
+      "role": "packaging",
+      "sha256": "bef550f7573a0f54b6eb08dc9536bf867fbb9281ee4fd1408cdb5187f7d73ecf",
+      "image": "assets/candles/mahjong/bef550f7573a0f54b6eb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "翡翠雀牌香氛蜡烛.png",
+      "role": "product",
+      "sha256": "07cb5e41ea249876428ea9587089a70a994bb7cb88ab308df1a2e0436a6bab71",
+      "image": "assets/candles/mahjong/07cb5e41ea249876428e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "麻将系列.zip",
+      "source": "象牙香氛蜡烛与竹雀礼盒-7.png",
+      "role": "packaging",
+      "sha256": "fdb0e700375dbbccac64bebe2f60b5390e14a36ee1b5b70a8803d098f46cae02",
+      "image": "assets/candles/mahjong/fdb0e700375dbbccac64.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "integratedExistingKeys": [
+    "Blue & White Landscapes | Blue & White Landscape Candle",
+    "Poetic Botanicals | Golden Midnight Bloom",
+    "Botanical Teacups | Plum Blossom Teacup",
+    "Botanical Teacups | Orchid Teacup",
+    "Botanical Teacups | Bamboo Teacup",
+    "Botanical Teacups | Chrysanthemum Teacup",
+    "Bamboo Grove | Golden Bamboo Ripple",
+    "Bamboo Grove | Sage Bamboo Ripple"
+  ],
+  "collectionCount": 15,
+  "reviewNotes": "All seven supplied Mahjong designs were visually reviewed and paired with their coordinated packaging photograph."
+}
