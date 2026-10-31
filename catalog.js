@@ -184,7 +184,7 @@ const scents = [
         "image": "assets/christmas/paired/e710e9777530e1a2f07e.webp",
         "name": "English Pear & Freesia",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-5a010473.html?scent=pear-freesia"
       },
       {
@@ -380,7 +380,7 @@ const scents = [
         "image": "assets/christmas/paired/9df584ca1e1685589d46.webp",
         "name": "Rose Pink Cone Candle",
         "series": "Botanical Christmas Trees",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-5855d453.html?scent=rose-green-leaves"
       },
       {
@@ -422,6 +422,14 @@ const scents = [
         "series": "For Mum, With Love",
         "catalogueHref": "candles-close-to-you-3.html",
         "href": "product-lnv-cnd-e2f8a52d.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/fd5bec1cf8d336505976.webp",
+        "name": "Pink Ribbon Wreath",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-dbb6f5bc.html?scent=rose-green-leaves"
       },
       {
         "category": "candle",
@@ -1163,7 +1171,7 @@ const scents = [
         "image": "assets/christmas/paired/1480094b012dbf961dae.webp",
         "name": "Coastal Lime",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-a8811e93.html?scent=lime-basil"
       },
       {
@@ -1392,6 +1400,14 @@ const scents = [
         "series": "Spring & Summer Light",
         "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-e690a18e.html?scent=grapefruit-bergamot"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/03d007b7f45ca53b2601.webp",
+        "name": "Magic Holiday",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-a71cf032.html?scent=grapefruit-bergamot"
       },
       {
         "category": "candle",
@@ -1901,7 +1917,7 @@ const scents = [
         "image": "assets/christmas/standalone/4fee0c8b694b3a6cac99.png",
         "name": "Winter Berry Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-80c34b43.html?scent=blackcurrant-rose"
       },
       {
@@ -2012,7 +2028,7 @@ const scents = [
         "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
         "name": "Burgundy Botanical Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
       },
       {
@@ -2202,7 +2218,7 @@ const scents = [
         "image": "assets/christmas/paired/e5c69a3391c36ae30d80.webp",
         "name": "Violet Christmas Village",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-3cc7b61f.html?scent=lavender-cedarwood"
       },
       {
@@ -2210,7 +2226,7 @@ const scents = [
         "image": "assets/christmas/paired/b6c2bb5498f24b8f6f65.png",
         "name": "Violet Christmas Village Duo",
         "series": "Winter Glass Duos",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-acae1bf4.html?scent=lavender-cedarwood"
       },
       {
@@ -2576,6 +2592,14 @@ const scents = [
         "href": "product-lnv-rd-e80bc643.html?scent=white-tea-bergamot"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/464540a7f9c8bfa3c27e.webp",
+        "name": "Golden Snowflake",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-11.html",
+        "href": "product-lnv-xms-85285b29.html?scent=white-tea-bergamot"
+      },
+      {
         "category": "crystal",
         "image": "assets/companions/7d04b24755dabebec6e7.webp",
         "name": "Botanical Light",
@@ -2676,7 +2700,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/face9669e0d216bac8da.webp",
         "name": "Ice Star Wish",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-36e038d3.html?scent=white-tea-bergamot"
       },
       {
@@ -2684,7 +2708,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/34001addd28405e77ff8.webp",
         "name": "Ice Blue Snowflake",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-49aa1caf.html?scent=white-tea-bergamot"
       },
       {
@@ -2710,6 +2734,22 @@ const scents = [
         "series": "Mahjong Stories",
         "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-c75c7b21.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/897b9963f9af797e42e8.webp",
+        "name": "Blue Merry & Bright",
+        "series": "Winter Blue Christmas",
+        "catalogueHref": "christmas-collection-10.html",
+        "href": "product-lnv-xms-38541809.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/566a2738941dc9ada268.webp",
+        "name": "Ice Blue Snowman",
+        "series": "Winter Blue Christmas",
+        "catalogueHref": "christmas-collection-10.html",
+        "href": "product-lnv-xms-61f66ce6.html?scent=white-tea-bergamot"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3545,7 +3585,7 @@ const scents = [
         "image": "assets/christmas/paired/e40a6c47b33c64f54ee4.webp",
         "name": "Blue Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-7c89fb28.html?scent=sea-salt-driftwood"
       },
       {
@@ -3601,7 +3641,7 @@ const scents = [
         "image": "assets/christmas/paired/f77399a59a07a9b8e1ad.webp",
         "name": "Sea Salt & Sage",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-bed2d989.html?scent=sea-salt-driftwood"
       }
     ],
@@ -3817,7 +3857,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/a03d654247b59385d337.webp",
         "name": "Angel\u2019s Wish Candle",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-38395bae.html?scent=sandalwood-cashmere"
       },
       {
@@ -3825,7 +3865,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp",
         "name": "Ivory Winter Rocking Horse",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-dbc19ddb.html?scent=sandalwood-cashmere"
       },
       {
@@ -3933,6 +3973,30 @@ const scents = [
         "href": "product-lnv-cnd-43ee30b4.html?scent=sandalwood-cashmere"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/eb3a225aa6ea758bda01.webp",
+        "name": "Joy to the World Ballet",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-12.html",
+        "href": "product-lnv-xms-1f25d2c7.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/18d76beb2203e33dc229.webp",
+        "name": "Golden Forest Reindeer",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-11.html",
+        "href": "product-lnv-xms-15ee8af8.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/f9d34049ee8f23fdd8c6.webp",
+        "name": "Golden Christmas Ballet",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-12.html",
+        "href": "product-lnv-xms-6e2435dd.html?scent=sandalwood-cashmere"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/e6663bcb37430197de2d.png",
         "name": "Sandalwood Script",
@@ -3989,6 +4053,14 @@ const scents = [
         "href": "product-lnv-cnd-a241a2cd.html?scent=sandalwood-cashmere"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/c6c939bfd75309adfd2f.webp",
+        "name": "Pink Christmas Ballet",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-8132327a.html?scent=sandalwood-cashmere"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/791bce03c4b84ac8fd06.png",
         "name": "Sky Ribbon",
@@ -4017,7 +4089,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/f9a299e1cb5e477f08b4.webp",
         "name": "Sage Rocking Horse",
         "series": "Evergreen Christmas",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-71ad2b2f.html?scent=sandalwood-cashmere"
       },
       {
@@ -4239,7 +4311,7 @@ const scents = [
         "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-3adc7f14.html?scent=cedarwood-vetiver"
       },
       {
@@ -4373,7 +4445,7 @@ const scents = [
         "image": "assets/christmas/paired/35a8205a0dcc5801c828.webp",
         "name": "Charcoal Golden Reindeer",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-00898c2e.html?scent=fireside-smoked-woods"
       }
     ],
@@ -4451,7 +4523,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/480e0015923eaa4b1516.webp",
         "name": "Christmas Angel Reed Diffuser",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-852907ee.html?scent=amber-vanilla"
       },
       {
@@ -4459,7 +4531,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/0783bb9024f92a66b9fa.webp",
         "name": "Golden Winter Reindeer",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-38860c7a.html?scent=amber-vanilla"
       },
       {
@@ -4467,7 +4539,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/237cd948e7e3d2a1a401.webp",
         "name": "Golden Noel Angel",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-fbe7c79d.html?scent=amber-vanilla"
       },
       {
@@ -4541,6 +4613,14 @@ const scents = [
         "series": "Easter Little Joys",
         "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-d80a2454.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/5317acab91d6c629c50b.webp",
+        "name": "Golden Santa",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-11.html",
+        "href": "product-lnv-xms-4fe82a8b.html?scent=amber-vanilla"
       },
       {
         "category": "candle",
@@ -4651,7 +4731,7 @@ const scents = [
         "image": "assets/christmas/paired/aa4efc0a88d60dfb26a0.webp",
         "name": "Amber Christmas Cookies",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-2222a11f.html?scent=amber-vanilla"
       },
       {
@@ -4661,6 +4741,14 @@ const scents = [
         "series": "Coastal Daydreams",
         "catalogueHref": "candles-everyday-poetry-3.html",
         "href": "product-lnv-cnd-0af9e794.html?scent=amber-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/e22666428fce8619a9a0.webp",
+        "name": "Disco Ball Holiday",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-40bfdf15.html?scent=amber-vanilla"
       },
       {
         "category": "candle",
@@ -4804,12 +4892,44 @@ const scents = [
         "href": "product-lnv-cnd-e7b06251.html?scent=vanilla-tonka"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/adfe40a4c027bfa5cb27.webp",
+        "name": "Nutcracker Merry Christmas",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-e3a37f4f.html?scent=vanilla-tonka"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/3e6c7d3bd32ae38d8a92.png",
         "name": "Vanilla Grove",
         "series": "Botanical Warmth",
         "catalogueHref": "candles-a-moment-of-quiet-3.html",
         "href": "product-lnv-cnd-1f173fc3.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/bc96fbf4e986bcc2c38d.webp",
+        "name": "Pastel Christmas Train",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-ed001e08.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/f92c3f1c25c2844cf78c.webp",
+        "name": "Christmas Wishes Gift",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-c511358d.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/63dcf06d19b4701459ec.webp",
+        "name": "Christmas Mittens",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-7b01ad9e.html?scent=vanilla-tonka"
       },
       {
         "category": "candle",
@@ -4824,7 +4944,7 @@ const scents = [
         "image": "assets/poetic-moments/80d0627f8a9391cd25b6.webp",
         "name": "Winter Ballet Candle",
         "series": "Festive Ballet",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-9.html",
         "href": "product-lnv-xms-7c9115c3.html?scent=vanilla-tonka"
       },
       {
@@ -4832,7 +4952,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/d091f1ee9d84f618ec5c.webp",
         "name": "Frosted Nutcracker",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-57f744f9.html?scent=vanilla-tonka"
       },
       {
@@ -4926,6 +5046,14 @@ const scents = [
         "series": "Quiet Domes",
         "catalogueHref": "candles-a-moment-of-quiet-2.html",
         "href": "product-lnv-cnd-03d3255d.html?scent=caramel-cream"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/2512e65c990561ee9b00.webp",
+        "name": "Christmas Cocoa",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-c6b490b8.html?scent=caramel-cream"
       },
       {
         "category": "halloween",
@@ -5141,6 +5269,22 @@ const scents = [
         "href": "product-lnv-xms-3a97715b.html?scent=apple-cinnamon"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/60d30e5caef9c8a720e0.webp",
+        "name": "North Pole Post",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-b5af5ff9.html?scent=apple-cinnamon"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/63611c7a8b946fe8c447.webp",
+        "name": "Letters to Santa North Pole",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-7977e658.html?scent=apple-cinnamon"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
         "name": "Ochre Wild",
@@ -5231,7 +5375,7 @@ const scents = [
         "image": "assets/christmas/paired/437b85b84ad977d9adc1.webp",
         "name": "Ivory Silver Trees",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-a71be608.html?scent=fir-cedarwood"
       },
       {
@@ -5239,7 +5383,7 @@ const scents = [
         "image": "assets/christmas/paired/7244c0a1884379c3fc46.webp",
         "name": "Silver Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-2ba5d180.html?scent=fir-cedarwood"
       },
       {
@@ -5247,7 +5391,7 @@ const scents = [
         "image": "assets/christmas/paired/39e039fb54a6b60d7eeb.webp",
         "name": "Champagne Winter Forest",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-c969e77f.html?scent=fir-cedarwood"
       },
       {
@@ -5255,7 +5399,7 @@ const scents = [
         "image": "assets/christmas/paired/6db267b2806699718c15.webp",
         "name": "Silver Snowflakes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-2d5f8d8e.html?scent=fir-cedarwood"
       },
       {
@@ -5279,7 +5423,7 @@ const scents = [
         "image": "assets/christmas/paired/ff765036bc45dff2513b.webp",
         "name": "Olive Christmas Wishes",
         "series": "Winter Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-73fbf427.html?scent=fir-cedarwood"
       },
       {
@@ -5287,7 +5431,7 @@ const scents = [
         "image": "assets/christmas/paired/b22e9bf1bb681718f5a4.webp",
         "name": "Ivory Botanical Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-b8221ee8.html?scent=fir-cedarwood"
       },
       {
@@ -5295,7 +5439,7 @@ const scents = [
         "image": "assets/christmas/paired/208837f07b39c307c4fe.webp",
         "name": "Olive Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-57d648b6.html?scent=fir-cedarwood"
       },
       {
@@ -5303,7 +5447,7 @@ const scents = [
         "image": "assets/christmas/paired/a59a1441e620ff595494.webp",
         "name": "Forest Tree Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-13.html",
         "href": "product-lnv-xms-0f67d8cb.html?scent=fir-cedarwood"
       },
       {
@@ -5311,7 +5455,7 @@ const scents = [
         "image": "assets/christmas/paired/d2035366cd0dcfcc2393.webp",
         "name": "Warm Ivory Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-b72c52be.html?scent=fir-cedarwood"
       },
       {
@@ -5319,7 +5463,7 @@ const scents = [
         "image": "assets/christmas/paired/b654bd843ac4c8041f8c.webp",
         "name": "Forest Green Candle Trio",
         "series": "Christmas Pillars",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-af62e8de.html?scent=fir-cedarwood"
       },
       {
@@ -5327,7 +5471,7 @@ const scents = [
         "image": "assets/christmas/paired/538f9f0b02ba68c5c5dd.webp",
         "name": "Ivory Tree, Snowflake & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-15cdd6ab.html?scent=fir-cedarwood"
       },
       {
@@ -5335,7 +5479,7 @@ const scents = [
         "image": "assets/christmas/paired/4a7ace3c9ca9f11e146c.webp",
         "name": "Snowflake, Cottage & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-652d9fb2.html?scent=fir-cedarwood"
       },
       {
@@ -5367,7 +5511,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/d47a3e205f49d9a4857a.webp",
         "name": "Crimson Star Tree",
         "series": "Golden Christmas Wishes",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-2230991c.html?scent=fir-cedarwood"
       },
       {
@@ -5377,6 +5521,70 @@ const scents = [
         "series": "Golden Christmas Wishes",
         "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-0ea9d06a.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/1bd3d8f8c412f82b944d.webp",
+        "name": "Ribbon Evergreen",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-b808750c.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/125c677ec7274fd79add.webp",
+        "name": "Vintage Ribbon Tree",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-03bacbf7.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/5d08c60ea5f1749aee30.webp",
+        "name": "Crimson Tree",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-6b4856c8.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/486afa4432e20fc4e563.webp",
+        "name": "Candy Stripe Tree",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-399b7c58.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/b9cc4624280ff67b3faf.webp",
+        "name": "Evergreen Tag Tree",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-e1cc6ecb.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/7e4de9df67e182bb9475.webp",
+        "name": "Ivory Tree Tag",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-11.html",
+        "href": "product-lnv-xms-e61a51c1.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/8d45d1a1887afe9bd5e2.webp",
+        "name": "Ivory Three Trees",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-12.html",
+        "href": "product-lnv-xms-aa573589.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/72fd3bc87f57ecc3411e.webp",
+        "name": "Golden Starlight Tree",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-11.html",
+        "href": "product-lnv-xms-2eedee14.html?scent=fir-cedarwood"
       },
       {
         "category": "crystal",
@@ -5391,7 +5599,7 @@ const scents = [
         "image": "assets/christmas/standalone/b7c2f963b441ad3ea550.png",
         "name": "Forest Garland Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-b26959c2.html?scent=fir-cedarwood"
       },
       {
@@ -5460,10 +5668,34 @@ const scents = [
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/312d20dcbc5e05a218fe.webp",
+        "name": "Pink Christmas Forest",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-00aba78e.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/3edaa0baf6ae249d1ada.webp",
+        "name": "Pink Checkerboard Tree",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-e21ab5db.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/485925b8dbcaa9c41d41.webp",
+        "name": "Bright Three Trees",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-6163659c.html?scent=fir-cedarwood"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-8.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -5590,7 +5822,7 @@ const scents = [
         "image": "assets/poetic-moments/8c32deb76b6323292a36.webp",
         "name": "Citrus Christmas Joy Candle",
         "series": "Festive Ceramic Moments",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-82415b18.html?scent=orange-clove"
       },
       {
@@ -5603,10 +5835,42 @@ const scents = [
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/43a83bbe160930758749.webp",
+        "name": "Christmas Cheer Snowman",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-889651db.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/b61008f0cc52f8e371f8.webp",
+        "name": "Festive HO!",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-87ffb671.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/8f653abc6b9ef5dc06a8.webp",
+        "name": "Christmas Icon Parade",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-3f1c69f9.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/a7b1a83aa530445c5d1d.webp",
+        "name": "Snowman Ho Ho Ho",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-fc738a99.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
         "series": "Festive Glass Domes",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-8.html",
         "href": "product-lnv-xms-499cc25c.html?scent=orange-clove"
       },
       {
@@ -5696,6 +5960,14 @@ const scents = [
         "series": "Christmas Hearth & Story",
         "catalogueHref": "christmas-collection-4.html",
         "href": "product-lnv-xms-b608df1a.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/bf5d9b78891638e7c723.webp",
+        "name": "Santa Merry & Bright",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-8.html",
+        "href": "product-lnv-xms-23657d2d.html?scent=orange-clove"
       },
       {
         "category": "christmas",
@@ -5810,6 +6082,46 @@ const scents = [
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/40119b5966d2381aaf7b.webp",
+        "name": "Christmas Tree & Gingerbread",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-d126bec5.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/644b227955e30e566285.webp",
+        "name": "Christmas Countdown",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-a6e1ebb1.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/3014e9a33fe35e239c76.webp",
+        "name": "Candy Garden",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-7.html",
+        "href": "product-lnv-xms-76fd296b.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/be5e91df1d9178741a3b.webp",
+        "name": "Gingerbread Noel",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-f7be9e0c.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/e41baa7e930f50367937.webp",
+        "name": "Merry XMAS Market",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-efe6eccc.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/1383bf46ac80e1d62944.webp",
         "name": "Smiling Gingerbread Candle",
         "series": "Playful Christmas",
@@ -5837,7 +6149,7 @@ const scents = [
         "image": "assets/christmas/storybook-glass/aeaff802c624f5599ec5.webp",
         "name": "Pink Gingerbread Candle",
         "series": "Christmas Storybook Glass",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-291ca72d.html?scent=gingerbread-vanilla"
       },
       {
@@ -5845,7 +6157,7 @@ const scents = [
         "image": "assets/christmas/storybook-glass/2ee18b2fc1a7e4985ff6.webp",
         "name": "Pink Gingerbread Reed Diffuser",
         "series": "Christmas Storybook Glass",
-        "catalogueHref": "christmas-collection-6.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-0015a6ab.html?scent=gingerbread-vanilla"
       },
       {
@@ -5853,7 +6165,7 @@ const scents = [
         "image": "assets/christmas/storybook-glass/d56084a6a7778b791c20.webp",
         "name": "Lilac Gingerbread Candle",
         "series": "Christmas Storybook Glass",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-7e4775fc.html?scent=gingerbread-vanilla"
       },
       {
@@ -5861,15 +6173,31 @@ const scents = [
         "image": "assets/christmas/storybook-glass/43e96a50773df70dad14.webp",
         "name": "Lilac Gingerbread Reed Diffuser",
         "series": "Christmas Storybook Glass",
-        "catalogueHref": "christmas-collection-5.html",
+        "catalogueHref": "christmas-collection-7.html",
         "href": "product-lnv-xms-f4e60cde.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/0242746bb2253bfa6037.webp",
+        "name": "Sweet Gingerbread Wishes",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-9ff3e484.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/01cef5cf639868e2fdd4.webp",
+        "name": "Snow Globe Gingerbread",
+        "series": "Pastel Christmas Magic",
+        "catalogueHref": "christmas-collection-9.html",
+        "href": "product-lnv-xms-b4ece4b2.html?scent=gingerbread-vanilla"
       },
       {
         "category": "christmas",
         "image": "assets/christmas/paired/fc5ea0dccfc61f30e459.webp",
         "name": "Gingerbread, Tree & Reindeer",
         "series": "Festive Wax Ornaments",
-        "catalogueHref": "christmas-collection-9.html",
+        "catalogueHref": "christmas-collection-12.html",
         "href": "product-lnv-xms-ddeeefd6.html?scent=gingerbread-vanilla"
       },
       {
@@ -6329,6 +6657,14 @@ const scents = [
     "description": "Smoky resin with a golden warmth; contemplative spaces and winter rituals.",
     "matches": [
       {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/a0cde4ba7afd0f675362.webp",
+        "name": "Silent Night Strings",
+        "series": "Golden Christmas Eve",
+        "catalogueHref": "christmas-collection-12.html",
+        "href": "product-lnv-xms-863ffd88.html?scent=incense-myrrh"
+      },
+      {
         "category": "candle",
         "image": "assets/blue-landscapes/23065f06e2b23e8559c9.webp",
         "name": "Blue & White Landscape Candle",
@@ -6450,10 +6786,26 @@ const scents = [
       },
       {
         "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/8c8aa4449f4a55e08ace.webp",
+        "name": "Ivory Winter Village",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-5.html",
+        "href": "product-lnv-xms-42bc7fae.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/3180a723218c1ae49288.webp",
+        "name": "Evergreen Village",
+        "series": "Classic Christmas Cheer",
+        "catalogueHref": "christmas-collection-6.html",
+        "href": "product-lnv-xms-1489a35e.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
         "image": "assets/christmas/paired/c082e2bf728f7ad74860.webp",
         "name": "Pinecone Candle",
         "series": "Woodland Christmas",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-ec3e85a9.html?scent=pine-cedarwood"
       },
       {
@@ -6469,7 +6821,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/07fa7357eac67ee1c03b.webp",
         "name": "Snowman Moonlit Cottage",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-3d69a753.html?scent=pine-cedarwood"
       },
       {
@@ -6477,7 +6829,7 @@ const scents = [
         "image": "assets/christmas/festive-stories/77aec5f775a59335ca25.webp",
         "name": "Silent Night Tree",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-122894fa.html?scent=pine-cedarwood"
       },
       {
@@ -6485,8 +6837,16 @@ const scents = [
         "image": "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp",
         "name": "Midnight Snowflake",
         "series": "Winter Night & Snow",
-        "catalogueHref": "christmas-collection-7.html",
+        "catalogueHref": "christmas-collection-10.html",
         "href": "product-lnv-xms-119d2353.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/atmosphere-2026/f879670bc121d60a4d13.webp",
+        "name": "Ice Blue Tree",
+        "series": "Winter Blue Christmas",
+        "catalogueHref": "christmas-collection-10.html",
+        "href": "product-lnv-xms-2074070b.html?scent=pine-cedarwood"
       },
       {
         "category": "christmas",
@@ -12899,6 +13259,636 @@ const christmasProducts = [
     ],
     "assignedScent": "fir-cedarwood",
     "designDescription": "A single deep-green deer on an ivory-toned ground offers a clean, woodland expression of Christmas. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-e22666428fce8619a9a0",
+    "name": "Disco Ball Holiday",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/e22666428fce8619a9a0.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/19d14e3a75a8f124ed38.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/e22666428fce8619a9a0.webp",
+      "assets/christmas/atmosphere-2026/19d14e3a75a8f124ed38.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Disco Ball Holiday brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-486afa4432e20fc4e563",
+    "name": "Candy Stripe Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/486afa4432e20fc4e563.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/916dfb29e14cafc0c285.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/486afa4432e20fc4e563.webp",
+      "assets/christmas/atmosphere-2026/916dfb29e14cafc0c285.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Candy Stripe Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-464540a7f9c8bfa3c27e",
+    "name": "Golden Snowflake",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/464540a7f9c8bfa3c27e.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/8f4615e82e94f3c1fe53.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/464540a7f9c8bfa3c27e.webp",
+      "assets/christmas/atmosphere-2026/8f4615e82e94f3c1fe53.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "Golden Snowflake brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-43a83bbe160930758749",
+    "name": "Christmas Cheer Snowman",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/43a83bbe160930758749.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/3f81cb88812276df1450.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/43a83bbe160930758749.webp",
+      "assets/christmas/atmosphere-2026/3f81cb88812276df1450.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Christmas Cheer Snowman brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-40119b5966d2381aaf7b",
+    "name": "Christmas Tree & Gingerbread",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/40119b5966d2381aaf7b.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/055bc7a64f9c0b784700.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/40119b5966d2381aaf7b.webp",
+      "assets/christmas/atmosphere-2026/055bc7a64f9c0b784700.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Christmas Tree & Gingerbread brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-8c8aa4449f4a55e08ace",
+    "name": "Ivory Winter Village",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/8c8aa4449f4a55e08ace.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/fa7da8d507a82cba4a56.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/8c8aa4449f4a55e08ace.webp",
+      "assets/christmas/atmosphere-2026/fa7da8d507a82cba4a56.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "Ivory Winter Village brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-bf5d9b78891638e7c723",
+    "name": "Santa Merry & Bright",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/bf5d9b78891638e7c723.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/11baac3a178ad5e7197b.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/bf5d9b78891638e7c723.webp",
+      "assets/christmas/atmosphere-2026/11baac3a178ad5e7197b.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Santa Merry & Bright brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-72fd3bc87f57ecc3411e",
+    "name": "Golden Starlight Tree",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/72fd3bc87f57ecc3411e.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/dffb0b33751161f774c6.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/72fd3bc87f57ecc3411e.webp",
+      "assets/christmas/atmosphere-2026/dffb0b33751161f774c6.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Golden Starlight Tree brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-e41baa7e930f50367937",
+    "name": "Merry XMAS Market",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/e41baa7e930f50367937.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/ad8e509702a392ba4159.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/e41baa7e930f50367937.webp",
+      "assets/christmas/atmosphere-2026/ad8e509702a392ba4159.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Merry XMAS Market brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-897b9963f9af797e42e8",
+    "name": "Blue Merry & Bright",
+    "series": "Winter Blue Christmas",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/897b9963f9af797e42e8.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/c7fe8a806ee59dbdf2d4.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/897b9963f9af797e42e8.webp",
+      "assets/christmas/atmosphere-2026/c7fe8a806ee59dbdf2d4.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "Blue Merry & Bright brings cool blue winter light to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-f879670bc121d60a4d13",
+    "name": "Ice Blue Tree",
+    "series": "Winter Blue Christmas",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/f879670bc121d60a4d13.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/376c2f3c8923a340719a.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/f879670bc121d60a4d13.webp",
+      "assets/christmas/atmosphere-2026/376c2f3c8923a340719a.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "Ice Blue Tree brings cool blue winter light to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-5d08c60ea5f1749aee30",
+    "name": "Crimson Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/5d08c60ea5f1749aee30.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/0830be234569c7c40afe.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/5d08c60ea5f1749aee30.webp",
+      "assets/christmas/atmosphere-2026/0830be234569c7c40afe.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Crimson Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-312d20dcbc5e05a218fe",
+    "name": "Pink Christmas Forest",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/312d20dcbc5e05a218fe.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/18f0bed960c1353ccfc7.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/312d20dcbc5e05a218fe.webp",
+      "assets/christmas/atmosphere-2026/18f0bed960c1353ccfc7.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Pink Christmas Forest brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-3180a723218c1ae49288",
+    "name": "Evergreen Village",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/3180a723218c1ae49288.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/358a72fd96819f6a75c5.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/3180a723218c1ae49288.webp",
+      "assets/christmas/atmosphere-2026/358a72fd96819f6a75c5.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "Evergreen Village brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-1bd3d8f8c412f82b944d",
+    "name": "Ribbon Evergreen",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/1bd3d8f8c412f82b944d.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/24b947e5696ec4d2c8cc.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/1bd3d8f8c412f82b944d.webp",
+      "assets/christmas/atmosphere-2026/24b947e5696ec4d2c8cc.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Ribbon Evergreen brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-a7b1a83aa530445c5d1d",
+    "name": "Snowman Ho Ho Ho",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/a7b1a83aa530445c5d1d.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/8d908ac016e0c10bc890.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/a7b1a83aa530445c5d1d.webp",
+      "assets/christmas/atmosphere-2026/8d908ac016e0c10bc890.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Snowman Ho Ho Ho brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-b9cc4624280ff67b3faf",
+    "name": "Evergreen Tag Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/b9cc4624280ff67b3faf.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/4539389fe1e8835382ed.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/b9cc4624280ff67b3faf.webp",
+      "assets/christmas/atmosphere-2026/4539389fe1e8835382ed.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Evergreen Tag Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-5317acab91d6c629c50b",
+    "name": "Golden Santa",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/5317acab91d6c629c50b.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/193f9d13b31e539af755.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/5317acab91d6c629c50b.webp",
+      "assets/christmas/atmosphere-2026/193f9d13b31e539af755.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Golden Santa brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-644b227955e30e566285",
+    "name": "Christmas Countdown",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/644b227955e30e566285.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/fe65310f5079bc2665ac.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/644b227955e30e566285.webp",
+      "assets/christmas/atmosphere-2026/fe65310f5079bc2665ac.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Christmas Countdown brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-adfe40a4c027bfa5cb27",
+    "name": "Nutcracker Merry Christmas",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/adfe40a4c027bfa5cb27.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/662bcc287208c51f650a.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/adfe40a4c027bfa5cb27.webp",
+      "assets/christmas/atmosphere-2026/662bcc287208c51f650a.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Nutcracker Merry Christmas brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-b61008f0cc52f8e371f8",
+    "name": "Festive HO!",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/b61008f0cc52f8e371f8.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/a279f108e73364b588a2.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/b61008f0cc52f8e371f8.webp",
+      "assets/christmas/atmosphere-2026/a279f108e73364b588a2.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Festive HO! brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-3edaa0baf6ae249d1ada",
+    "name": "Pink Checkerboard Tree",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/3edaa0baf6ae249d1ada.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/72317d9184f603a0c4aa.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/3edaa0baf6ae249d1ada.webp",
+      "assets/christmas/atmosphere-2026/72317d9184f603a0c4aa.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Pink Checkerboard Tree brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-be5e91df1d9178741a3b",
+    "name": "Gingerbread Noel",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/be5e91df1d9178741a3b.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/240ae41a891528ac23e4.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/be5e91df1d9178741a3b.webp",
+      "assets/christmas/atmosphere-2026/240ae41a891528ac23e4.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Gingerbread Noel brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-18d76beb2203e33dc229",
+    "name": "Golden Forest Reindeer",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/18d76beb2203e33dc229.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/d66bbe80b22a1842855e.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/18d76beb2203e33dc229.webp",
+      "assets/christmas/atmosphere-2026/d66bbe80b22a1842855e.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Golden Forest Reindeer brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-63611c7a8b946fe8c447",
+    "name": "Letters to Santa North Pole",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/63611c7a8b946fe8c447.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/6bf555cf3b6e64846987.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/63611c7a8b946fe8c447.webp",
+      "assets/christmas/atmosphere-2026/6bf555cf3b6e64846987.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "Letters to Santa North Pole brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-7e4de9df67e182bb9475",
+    "name": "Ivory Tree Tag",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/7e4de9df67e182bb9475.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/2be52e5c11ec1c2caa26.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/7e4de9df67e182bb9475.webp",
+      "assets/christmas/atmosphere-2026/2be52e5c11ec1c2caa26.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Ivory Tree Tag brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-c6c939bfd75309adfd2f",
+    "name": "Pink Christmas Ballet",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/c6c939bfd75309adfd2f.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/d152348f62b5886ef23e.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/c6c939bfd75309adfd2f.webp",
+      "assets/christmas/atmosphere-2026/d152348f62b5886ef23e.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Pink Christmas Ballet brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-fd5bec1cf8d336505976",
+    "name": "Pink Ribbon Wreath",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/fd5bec1cf8d336505976.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/d4b1a995d098a27b3b2a.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/fd5bec1cf8d336505976.webp",
+      "assets/christmas/atmosphere-2026/d4b1a995d098a27b3b2a.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "Pink Ribbon Wreath brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-f9d34049ee8f23fdd8c6",
+    "name": "Golden Christmas Ballet",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/f9d34049ee8f23fdd8c6.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/272695f0074fe99e62f1.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/f9d34049ee8f23fdd8c6.webp",
+      "assets/christmas/atmosphere-2026/272695f0074fe99e62f1.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Golden Christmas Ballet brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-60d30e5caef9c8a720e0",
+    "name": "North Pole Post",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/60d30e5caef9c8a720e0.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/b4e32533eb39b8246aca.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/60d30e5caef9c8a720e0.webp",
+      "assets/christmas/atmosphere-2026/b4e32533eb39b8246aca.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "North Pole Post brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-01cef5cf639868e2fdd4",
+    "name": "Snow Globe Gingerbread",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/01cef5cf639868e2fdd4.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/4b3f3f8c0c21d331af8b.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/01cef5cf639868e2fdd4.webp",
+      "assets/christmas/atmosphere-2026/4b3f3f8c0c21d331af8b.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Snow Globe Gingerbread brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-bc96fbf4e986bcc2c38d",
+    "name": "Pastel Christmas Train",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/bc96fbf4e986bcc2c38d.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/dea7a35e28c9e68efd9f.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/bc96fbf4e986bcc2c38d.webp",
+      "assets/christmas/atmosphere-2026/dea7a35e28c9e68efd9f.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Pastel Christmas Train brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-8f653abc6b9ef5dc06a8",
+    "name": "Christmas Icon Parade",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/8f653abc6b9ef5dc06a8.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/e1a961ea6b9cfd2f2be8.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/8f653abc6b9ef5dc06a8.webp",
+      "assets/christmas/atmosphere-2026/e1a961ea6b9cfd2f2be8.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Christmas Icon Parade brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-f92c3f1c25c2844cf78c",
+    "name": "Christmas Wishes Gift",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/f92c3f1c25c2844cf78c.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/21812ff5225a8842c758.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/f92c3f1c25c2844cf78c.webp",
+      "assets/christmas/atmosphere-2026/21812ff5225a8842c758.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Christmas Wishes Gift brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-3014e9a33fe35e239c76",
+    "name": "Candy Garden",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/3014e9a33fe35e239c76.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/11c9a08676c320a7972c.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/3014e9a33fe35e239c76.webp",
+      "assets/christmas/atmosphere-2026/11c9a08676c320a7972c.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Candy Garden brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-125c677ec7274fd79add",
+    "name": "Vintage Ribbon Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/125c677ec7274fd79add.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/f46686ba876604b3fcf1.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/125c677ec7274fd79add.webp",
+      "assets/christmas/atmosphere-2026/f46686ba876604b3fcf1.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Vintage Ribbon Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-8d45d1a1887afe9bd5e2",
+    "name": "Ivory Three Trees",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/8d45d1a1887afe9bd5e2.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/105678c356d2615ccfc5.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/8d45d1a1887afe9bd5e2.webp",
+      "assets/christmas/atmosphere-2026/105678c356d2615ccfc5.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Ivory Three Trees brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-03d007b7f45ca53b2601",
+    "name": "Magic Holiday",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/03d007b7f45ca53b2601.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/f6873168f5447c8c2c93.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/03d007b7f45ca53b2601.webp",
+      "assets/christmas/atmosphere-2026/f6873168f5447c8c2c93.webp"
+    ],
+    "assignedScent": "grapefruit-bergamot",
+    "designDescription": "Magic Holiday brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-485925b8dbcaa9c41d41",
+    "name": "Bright Three Trees",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/485925b8dbcaa9c41d41.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/b56cb418785965fbeac3.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/485925b8dbcaa9c41d41.webp",
+      "assets/christmas/atmosphere-2026/b56cb418785965fbeac3.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Bright Three Trees brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-a0cde4ba7afd0f675362",
+    "name": "Silent Night Strings",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/a0cde4ba7afd0f675362.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/7b5de842e3d6a66583fa.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/a0cde4ba7afd0f675362.webp",
+      "assets/christmas/atmosphere-2026/7b5de842e3d6a66583fa.webp"
+    ],
+    "assignedScent": "incense-myrrh",
+    "designDescription": "Silent Night Strings brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-566a2738941dc9ada268",
+    "name": "Ice Blue Snowman",
+    "series": "Winter Blue Christmas",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/566a2738941dc9ada268.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/10d4f8d907072fb43229.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/566a2738941dc9ada268.webp",
+      "assets/christmas/atmosphere-2026/10d4f8d907072fb43229.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "Ice Blue Snowman brings cool blue winter light to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-0242746bb2253bfa6037",
+    "name": "Sweet Gingerbread Wishes",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/0242746bb2253bfa6037.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/dff2d5a909f19a55d381.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/0242746bb2253bfa6037.webp",
+      "assets/christmas/atmosphere-2026/dff2d5a909f19a55d381.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Sweet Gingerbread Wishes brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-2512e65c990561ee9b00",
+    "name": "Christmas Cocoa",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/2512e65c990561ee9b00.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/c1f8c7ed6c0c39d2402c.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/2512e65c990561ee9b00.webp",
+      "assets/christmas/atmosphere-2026/c1f8c7ed6c0c39d2402c.webp"
+    ],
+    "assignedScent": "caramel-cream",
+    "designDescription": "Christmas Cocoa brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-eb3a225aa6ea758bda01",
+    "name": "Joy to the World Ballet",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/eb3a225aa6ea758bda01.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/00f30ba08b030f316c93.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/eb3a225aa6ea758bda01.webp",
+      "assets/christmas/atmosphere-2026/00f30ba08b030f316c93.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Joy to the World Ballet brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-2026-63dcf06d19b4701459ec",
+    "name": "Christmas Mittens",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-2026/63dcf06d19b4701459ec.webp",
+    "packagingImage": "assets/christmas/atmosphere-2026/b65154e168b9084ade63.webp",
+    "images": [
+      "assets/christmas/atmosphere-2026/63dcf06d19b4701459ec.webp",
+      "assets/christmas/atmosphere-2026/b65154e168b9084ade63.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Christmas Mittens brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 
@@ -14013,7 +15003,52 @@ const productPages = {
     "assets/christmas/festive-stories/120c8120d6a63843cd4d.webp": "product-lnv-xms-119d2353.html",
     "assets/christmas/festive-stories/2c78123ba764baa8d07c.webp": "product-lnv-xms-dbc19ddb.html",
     "assets/christmas/festive-stories/24fa4e0a2a5c15b47a67.webp": "product-lnv-xms-9d47fabe.html",
-    "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp": "product-lnv-xms-0ea9d06a.html"
+    "assets/christmas/festive-stories/87016be937a2fca4ccd3.webp": "product-lnv-xms-0ea9d06a.html",
+    "assets/christmas/atmosphere-2026/e22666428fce8619a9a0.webp": "product-lnv-xms-40bfdf15.html",
+    "assets/christmas/atmosphere-2026/486afa4432e20fc4e563.webp": "product-lnv-xms-399b7c58.html",
+    "assets/christmas/atmosphere-2026/464540a7f9c8bfa3c27e.webp": "product-lnv-xms-85285b29.html",
+    "assets/christmas/atmosphere-2026/43a83bbe160930758749.webp": "product-lnv-xms-889651db.html",
+    "assets/christmas/atmosphere-2026/40119b5966d2381aaf7b.webp": "product-lnv-xms-d126bec5.html",
+    "assets/christmas/atmosphere-2026/8c8aa4449f4a55e08ace.webp": "product-lnv-xms-42bc7fae.html",
+    "assets/christmas/atmosphere-2026/bf5d9b78891638e7c723.webp": "product-lnv-xms-23657d2d.html",
+    "assets/christmas/atmosphere-2026/72fd3bc87f57ecc3411e.webp": "product-lnv-xms-2eedee14.html",
+    "assets/christmas/atmosphere-2026/e41baa7e930f50367937.webp": "product-lnv-xms-efe6eccc.html",
+    "assets/christmas/atmosphere-2026/897b9963f9af797e42e8.webp": "product-lnv-xms-38541809.html",
+    "assets/christmas/atmosphere-2026/f879670bc121d60a4d13.webp": "product-lnv-xms-2074070b.html",
+    "assets/christmas/atmosphere-2026/5d08c60ea5f1749aee30.webp": "product-lnv-xms-6b4856c8.html",
+    "assets/christmas/atmosphere-2026/312d20dcbc5e05a218fe.webp": "product-lnv-xms-00aba78e.html",
+    "assets/christmas/atmosphere-2026/3180a723218c1ae49288.webp": "product-lnv-xms-1489a35e.html",
+    "assets/christmas/atmosphere-2026/1bd3d8f8c412f82b944d.webp": "product-lnv-xms-b808750c.html",
+    "assets/christmas/atmosphere-2026/a7b1a83aa530445c5d1d.webp": "product-lnv-xms-fc738a99.html",
+    "assets/christmas/atmosphere-2026/b9cc4624280ff67b3faf.webp": "product-lnv-xms-e1cc6ecb.html",
+    "assets/christmas/atmosphere-2026/5317acab91d6c629c50b.webp": "product-lnv-xms-4fe82a8b.html",
+    "assets/christmas/atmosphere-2026/644b227955e30e566285.webp": "product-lnv-xms-a6e1ebb1.html",
+    "assets/christmas/atmosphere-2026/adfe40a4c027bfa5cb27.webp": "product-lnv-xms-e3a37f4f.html",
+    "assets/christmas/atmosphere-2026/b61008f0cc52f8e371f8.webp": "product-lnv-xms-87ffb671.html",
+    "assets/christmas/atmosphere-2026/3edaa0baf6ae249d1ada.webp": "product-lnv-xms-e21ab5db.html",
+    "assets/christmas/atmosphere-2026/be5e91df1d9178741a3b.webp": "product-lnv-xms-f7be9e0c.html",
+    "assets/christmas/atmosphere-2026/18d76beb2203e33dc229.webp": "product-lnv-xms-15ee8af8.html",
+    "assets/christmas/atmosphere-2026/63611c7a8b946fe8c447.webp": "product-lnv-xms-7977e658.html",
+    "assets/christmas/atmosphere-2026/7e4de9df67e182bb9475.webp": "product-lnv-xms-e61a51c1.html",
+    "assets/christmas/atmosphere-2026/c6c939bfd75309adfd2f.webp": "product-lnv-xms-8132327a.html",
+    "assets/christmas/atmosphere-2026/fd5bec1cf8d336505976.webp": "product-lnv-xms-dbb6f5bc.html",
+    "assets/christmas/atmosphere-2026/f9d34049ee8f23fdd8c6.webp": "product-lnv-xms-6e2435dd.html",
+    "assets/christmas/atmosphere-2026/60d30e5caef9c8a720e0.webp": "product-lnv-xms-b5af5ff9.html",
+    "assets/christmas/atmosphere-2026/01cef5cf639868e2fdd4.webp": "product-lnv-xms-b4ece4b2.html",
+    "assets/christmas/atmosphere-2026/bc96fbf4e986bcc2c38d.webp": "product-lnv-xms-ed001e08.html",
+    "assets/christmas/atmosphere-2026/8f653abc6b9ef5dc06a8.webp": "product-lnv-xms-3f1c69f9.html",
+    "assets/christmas/atmosphere-2026/f92c3f1c25c2844cf78c.webp": "product-lnv-xms-c511358d.html",
+    "assets/christmas/atmosphere-2026/3014e9a33fe35e239c76.webp": "product-lnv-xms-76fd296b.html",
+    "assets/christmas/atmosphere-2026/125c677ec7274fd79add.webp": "product-lnv-xms-03bacbf7.html",
+    "assets/christmas/atmosphere-2026/8d45d1a1887afe9bd5e2.webp": "product-lnv-xms-aa573589.html",
+    "assets/christmas/atmosphere-2026/03d007b7f45ca53b2601.webp": "product-lnv-xms-a71cf032.html",
+    "assets/christmas/atmosphere-2026/485925b8dbcaa9c41d41.webp": "product-lnv-xms-6163659c.html",
+    "assets/christmas/atmosphere-2026/a0cde4ba7afd0f675362.webp": "product-lnv-xms-863ffd88.html",
+    "assets/christmas/atmosphere-2026/566a2738941dc9ada268.webp": "product-lnv-xms-61f66ce6.html",
+    "assets/christmas/atmosphere-2026/0242746bb2253bfa6037.webp": "product-lnv-xms-9ff3e484.html",
+    "assets/christmas/atmosphere-2026/2512e65c990561ee9b00.webp": "product-lnv-xms-c6b490b8.html",
+    "assets/christmas/atmosphere-2026/eb3a225aa6ea758bda01.webp": "product-lnv-xms-1f25d2c7.html",
+    "assets/christmas/atmosphere-2026/63dcf06d19b4701459ec.webp": "product-lnv-xms-7b01ad9e.html"
   },
   "halloween": {
     "assets/halloween/paired/e27109d911843e795479.webp": "product-lnv-hlw-6aea9b57.html",

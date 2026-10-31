@@ -181,6 +181,34 @@
     "indexable": false,
     "type": "redirect"
   },
+  "christmas-collection-10.html": {
+    "title": "Wholesale Christmas Candles & Fragrance Gifts \u2014 Page 10 | Lanarve",
+    "description": "Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements. Page 10.",
+    "canonical": "https://www.lanarve.com/christmas-collection-10.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "christmas-collection-11.html": {
+    "title": "Wholesale Christmas Candles & Fragrance Gifts \u2014 Page 11 | Lanarve",
+    "description": "Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements. Page 11.",
+    "canonical": "https://www.lanarve.com/christmas-collection-11.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "christmas-collection-12.html": {
+    "title": "Wholesale Christmas Candles & Fragrance Gifts \u2014 Page 12 | Lanarve",
+    "description": "Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements. Page 12.",
+    "canonical": "https://www.lanarve.com/christmas-collection-12.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "christmas-collection-13.html": {
+    "title": "Wholesale Christmas Candles & Fragrance Gifts \u2014 Page 13 | Lanarve",
+    "description": "Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements. Page 13.",
+    "canonical": "https://www.lanarve.com/christmas-collection-13.html",
+    "indexable": true,
+    "type": "page"
+  },
   "christmas-collection-2.html": {
     "title": "Wholesale Christmas Candles & Fragrance Gifts \u2014 Page 2 | Lanarve",
     "description": "Explore Lanarve Christmas candle and fragrance gift designs. Build a coordinated festive assortment and discuss branding, fragrance and packaging requirements. Page 2.",
@@ -405,6 +433,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-gingerbread-vanilla-2.html": {
+    "title": "Gingerbread & Vanilla Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Gingerbread & Vanilla fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-gingerbread-vanilla-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-gingerbread-vanilla.html": {
     "title": "Gingerbread & Vanilla Candles & Diffuser Options | Lanarve",
     "description": "Explore Gingerbread & Vanilla fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -573,6 +608,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-pine-cedarwood-2.html": {
+    "title": "Pine & Cedarwood Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Pine & Cedarwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-pine-cedarwood-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-pine-cedarwood.html": {
     "title": "Pine & Cedarwood Candles & Diffuser Options | Lanarve",
     "description": "Explore Pine & Cedarwood fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -601,6 +643,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-rose-green-leaves-3.html": {
+    "title": "Rose & Green Leaves Candles & Diffuser Options \u2014 Page 3 | Lanarve",
+    "description": "Explore Rose & Green Leaves fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 3.",
+    "canonical": "https://www.lanarve.com/fragrance-rose-green-leaves-3.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-rose-green-leaves.html": {
     "title": "Rose & Green Leaves Candles & Diffuser Options | Lanarve",
     "description": "Explore Rose & Green Leaves fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -619,6 +668,13 @@
     "title": "Sandalwood & Cashmere Candles & Diffuser Options \u2014 Page 3 | Lanarve",
     "description": "Explore Sandalwood & Cashmere fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 3.",
     "canonical": "https://www.lanarve.com/fragrance-sandalwood-cashmere-3.html",
+    "indexable": true,
+    "type": "page"
+  },
+  "fragrance-sandalwood-cashmere-4.html": {
+    "title": "Sandalwood & Cashmere Candles & Diffuser Options \u2014 Page 4 | Lanarve",
+    "description": "Explore Sandalwood & Cashmere fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 4.",
+    "canonical": "https://www.lanarve.com/fragrance-sandalwood-cashmere-4.html",
     "indexable": true,
     "type": "page"
   },
@@ -3744,6 +3800,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-00aba78e.html": {
+    "title": "Pink Christmas Forest Scented candle | Lanarve",
+    "description": "Explore Pink Christmas Forest from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-00aba78e.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-00beb3be.html": {
     "title": "Santa & Tree Candle Duo | Lanarve",
     "description": "Explore Santa & Tree Candle Duo from Lanarve\u2019s Christmas Characters designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -3769,6 +3832,13 @@
     "title": "Evergreen Tree Reed Diffuser | Lanarve",
     "description": "Explore Evergreen Tree Reed Diffuser from Lanarve\u2019s Christmas Keepsake Diffusers designs. Discuss Pine & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-0354628e.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-03bacbf7.html": {
+    "title": "Vintage Ribbon Tree Scented candle | Lanarve",
+    "description": "Explore Vintage Ribbon Tree from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-03bacbf7.html",
     "indexable": true,
     "type": "product"
   },
@@ -3814,6 +3884,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-1489a35e.html": {
+    "title": "Evergreen Village Scented candle | Lanarve",
+    "description": "Explore Evergreen Village from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Pine & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-1489a35e.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-15cdd6ab.html": {
     "title": "Ivory Tree, Snowflake & Reindeer Scented Candle | Lanarve",
     "description": "Explore Ivory Tree, Snowflake & Reindeer from Lanarve\u2019s Festive Wax Ornaments designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -3821,10 +3898,31 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-15ee8af8.html": {
+    "title": "Golden Forest Reindeer Scented candle | Lanarve",
+    "description": "Explore Golden Forest Reindeer from Lanarve\u2019s Golden Christmas Eve designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-15ee8af8.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-1d272741.html": {
     "title": "Snowy Christmas Village Scented candle | Lanarve",
     "description": "Explore Snowy Christmas Village from Lanarve\u2019s Christmas Hearth & Story designs. Discuss Pine & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-1d272741.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-1f25d2c7.html": {
+    "title": "Joy to the World Ballet Scented candle | Lanarve",
+    "description": "Explore Joy to the World Ballet from Lanarve\u2019s Golden Christmas Eve designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-1f25d2c7.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-2074070b.html": {
+    "title": "Ice Blue Tree Scented candle | Lanarve",
+    "description": "Explore Ice Blue Tree from Lanarve\u2019s Winter Blue Christmas designs. Discuss Pine & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-2074070b.html",
     "indexable": true,
     "type": "product"
   },
@@ -3839,6 +3937,13 @@
     "title": "Crimson Star Tree Scented candle | Lanarve",
     "description": "Explore Crimson Star Tree from Lanarve\u2019s Golden Christmas Wishes designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-2230991c.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-23657d2d.html": {
+    "title": "Santa Merry & Bright Scented candle | Lanarve",
+    "description": "Explore Santa Merry & Bright from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-23657d2d.html",
     "indexable": true,
     "type": "product"
   },
@@ -3867,6 +3972,13 @@
     "title": "Silver Snowflakes Scented Candle | Lanarve",
     "description": "Explore Silver Snowflakes from Lanarve\u2019s Winter Glass designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-2d5f8d8e.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-2eedee14.html": {
+    "title": "Golden Starlight Tree Scented candle | Lanarve",
+    "description": "Explore Golden Starlight Tree from Lanarve\u2019s Golden Christmas Eve designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-2eedee14.html",
     "indexable": true,
     "type": "product"
   },
@@ -3926,10 +4038,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-38541809.html": {
+    "title": "Blue Merry & Bright Scented candle | Lanarve",
+    "description": "Explore Blue Merry & Bright from Lanarve\u2019s Winter Blue Christmas designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-38541809.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-38860c7a.html": {
     "title": "Golden Winter Reindeer Scented candle | Lanarve",
     "description": "Explore Golden Winter Reindeer from Lanarve\u2019s Golden Christmas Wishes designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-38860c7a.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-399b7c58.html": {
+    "title": "Candy Stripe Tree Scented candle | Lanarve",
+    "description": "Explore Candy Stripe Tree from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-399b7c58.html",
     "indexable": true,
     "type": "product"
   },
@@ -3975,6 +4101,27 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-3f1c69f9.html": {
+    "title": "Christmas Icon Parade Scented candle | Lanarve",
+    "description": "Explore Christmas Icon Parade from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-3f1c69f9.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-40bfdf15.html": {
+    "title": "Disco Ball Holiday Scented candle | Lanarve",
+    "description": "Explore Disco Ball Holiday from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-40bfdf15.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-42bc7fae.html": {
+    "title": "Ivory Winter Village Scented candle | Lanarve",
+    "description": "Explore Ivory Winter Village from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Pine & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-42bc7fae.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-499cc25c.html": {
     "title": "Cinnamon Orange Dome Scented Candle | Lanarve",
     "description": "Explore Cinnamon Orange Dome from Lanarve\u2019s Festive Glass Domes designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
@@ -3986,6 +4133,13 @@
     "title": "Ice Blue Snowflake Scented candle | Lanarve",
     "description": "Explore Ice Blue Snowflake from Lanarve\u2019s Winter Night & Snow designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-49aa1caf.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-4fe82a8b.html": {
+    "title": "Golden Santa Scented candle | Lanarve",
+    "description": "Explore Golden Santa from Lanarve\u2019s Golden Christmas Eve designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-4fe82a8b.html",
     "indexable": true,
     "type": "product"
   },
@@ -4031,6 +4185,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-6163659c.html": {
+    "title": "Bright Three Trees Scented candle | Lanarve",
+    "description": "Explore Bright Three Trees from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-6163659c.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-61f66ce6.html": {
+    "title": "Ice Blue Snowman Scented candle | Lanarve",
+    "description": "Explore Ice Blue Snowman from Lanarve\u2019s Winter Blue Christmas designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-61f66ce6.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-650aea95.html": {
     "title": "Forest Green Silver Trees Scented Candle | Lanarve",
     "description": "Explore Forest Green Silver Trees from Lanarve\u2019s Winter Glass designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -4059,6 +4227,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-6b4856c8.html": {
+    "title": "Crimson Tree Scented candle | Lanarve",
+    "description": "Explore Crimson Tree from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-6b4856c8.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-6c4a6ad8.html": {
     "title": "Crimson Christmas Angel Scented candle | Lanarve",
     "description": "Explore Crimson Christmas Angel from Lanarve\u2019s Golden Christmas Wishes designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
@@ -4070,6 +4245,13 @@
     "title": "Festive Dachshund Candle | Lanarve",
     "description": "Explore Festive Dachshund Candle from Lanarve\u2019s Christmas Storybook Glass designs. Discuss Apple & Cinnamon fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-6dbefb57.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-6e2435dd.html": {
+    "title": "Golden Christmas Ballet Scented candle | Lanarve",
+    "description": "Explore Golden Christmas Ballet from Lanarve\u2019s Golden Christmas Eve designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-6e2435dd.html",
     "indexable": true,
     "type": "product"
   },
@@ -4094,6 +4276,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-76fd296b.html": {
+    "title": "Candy Garden Scented candle | Lanarve",
+    "description": "Explore Candy Garden from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-76fd296b.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-793b2f36.html": {
     "title": "Christmas Tree Candle | Lanarve",
     "description": "Explore Christmas Tree Candle from Lanarve\u2019s Christmas Characters designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -4101,10 +4290,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-7977e658.html": {
+    "title": "Letters to Santa North Pole Scented candle | Lanarve",
+    "description": "Explore Letters to Santa North Pole from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Apple & Cinnamon fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-7977e658.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-7a217650.html": {
     "title": "Christmas Pets Candle | Lanarve",
     "description": "Explore Christmas Pets Candle from Lanarve\u2019s Playful Christmas designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-7a217650.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-7b01ad9e.html": {
+    "title": "Christmas Mittens Scented candle | Lanarve",
+    "description": "Explore Christmas Mittens from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-7b01ad9e.html",
     "indexable": true,
     "type": "product"
   },
@@ -4143,6 +4346,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-8132327a.html": {
+    "title": "Pink Christmas Ballet Scented candle | Lanarve",
+    "description": "Explore Pink Christmas Ballet from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-8132327a.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-81f21639.html": {
     "title": "Christmas Keepsake Glass Reed Diffuser | Lanarve",
     "description": "Explore Christmas Keepsake Glass Reed Diffuser from Lanarve\u2019s Christmas Storybook Glass designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
@@ -4157,10 +4367,38 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-85285b29.html": {
+    "title": "Golden Snowflake Scented candle | Lanarve",
+    "description": "Explore Golden Snowflake from Lanarve\u2019s Golden Christmas Eve designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-85285b29.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-852907ee.html": {
     "title": "Christmas Angel Reed Diffuser | Lanarve",
     "description": "Explore Christmas Angel Reed Diffuser from Lanarve\u2019s Golden Christmas Wishes designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-852907ee.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-863ffd88.html": {
+    "title": "Silent Night Strings Scented candle | Lanarve",
+    "description": "Explore Silent Night Strings from Lanarve\u2019s Golden Christmas Eve designs. Discuss Incense & Myrrh fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-863ffd88.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-87ffb671.html": {
+    "title": "Festive HO! Scented candle | Lanarve",
+    "description": "Explore Festive HO! from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-87ffb671.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-889651db.html": {
+    "title": "Christmas Cheer Snowman Scented candle | Lanarve",
+    "description": "Explore Christmas Cheer Snowman from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-889651db.html",
     "indexable": true,
     "type": "product"
   },
@@ -4213,6 +4451,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-9ff3e484.html": {
+    "title": "Sweet Gingerbread Wishes Scented candle | Lanarve",
+    "description": "Explore Sweet Gingerbread Wishes from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-9ff3e484.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-a0612eaa.html": {
     "title": "Christmas Stocking Candle | Lanarve",
     "description": "Explore Christmas Stocking Candle from Lanarve\u2019s Christmas Keepsake Candles designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
@@ -4234,10 +4479,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-a6e1ebb1.html": {
+    "title": "Christmas Countdown Scented candle | Lanarve",
+    "description": "Explore Christmas Countdown from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-a6e1ebb1.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-a71be608.html": {
     "title": "Ivory Silver Trees Scented Candle | Lanarve",
     "description": "Explore Ivory Silver Trees from Lanarve\u2019s Winter Glass designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-a71be608.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-a71cf032.html": {
+    "title": "Magic Holiday Scented candle | Lanarve",
+    "description": "Explore Magic Holiday from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-a71cf032.html",
     "indexable": true,
     "type": "product"
   },
@@ -4252,6 +4511,13 @@
     "title": "Coastal Lime Scented Candle | Lanarve",
     "description": "Explore Coastal Lime from Lanarve\u2019s Christmas Sand Art designs. Discuss Lime & Basil fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-a8811e93.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-aa573589.html": {
+    "title": "Ivory Three Trees Scented candle | Lanarve",
+    "description": "Explore Ivory Three Trees from Lanarve\u2019s Golden Christmas Eve designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-aa573589.html",
     "indexable": true,
     "type": "product"
   },
@@ -4283,6 +4549,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-b4ece4b2.html": {
+    "title": "Snow Globe Gingerbread Scented candle | Lanarve",
+    "description": "Explore Snow Globe Gingerbread from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-b4ece4b2.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-b5af5ff9.html": {
+    "title": "North Pole Post Scented candle | Lanarve",
+    "description": "Explore North Pole Post from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Apple & Cinnamon fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-b5af5ff9.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-b608df1a.html": {
     "title": "Cedar & Spice Tree Scented candle | Lanarve",
     "description": "Explore Cedar & Spice Tree from Lanarve\u2019s Christmas Hearth & Story designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
@@ -4297,6 +4577,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-b808750c.html": {
+    "title": "Ribbon Evergreen Scented candle | Lanarve",
+    "description": "Explore Ribbon Evergreen from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-b808750c.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-b8221ee8.html": {
     "title": "Ivory Botanical Tree Ornament | Lanarve",
     "description": "Explore Ivory Botanical Tree Ornament from Lanarve\u2019s Botanical Wax Ornaments designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -4308,6 +4595,20 @@
     "title": "Sea Salt & Sage Scented Candle | Lanarve",
     "description": "Explore Sea Salt & Sage from Lanarve\u2019s Christmas Sand Art designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-bed2d989.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-c511358d.html": {
+    "title": "Christmas Wishes Gift Scented candle | Lanarve",
+    "description": "Explore Christmas Wishes Gift from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-c511358d.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-c6b490b8.html": {
+    "title": "Christmas Cocoa Scented candle | Lanarve",
+    "description": "Explore Christmas Cocoa from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Caramel & Cream fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-c6b490b8.html",
     "indexable": true,
     "type": "product"
   },
@@ -4332,10 +4633,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-d126bec5.html": {
+    "title": "Christmas Tree & Gingerbread Scented candle | Lanarve",
+    "description": "Explore Christmas Tree & Gingerbread from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-d126bec5.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-d5956a72.html": {
     "title": "Gingerbread Fragrance Gift Set | Lanarve",
     "description": "Explore Gingerbread Fragrance Gift Set from Lanarve\u2019s Christmas Rituals designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-d5956a72.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-dbb6f5bc.html": {
+    "title": "Pink Ribbon Wreath Scented candle | Lanarve",
+    "description": "Explore Pink Ribbon Wreath from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-dbb6f5bc.html",
     "indexable": true,
     "type": "product"
   },
@@ -4353,6 +4668,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-e1cc6ecb.html": {
+    "title": "Evergreen Tag Tree Scented candle | Lanarve",
+    "description": "Explore Evergreen Tag Tree from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-e1cc6ecb.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-e21ab5db.html": {
+    "title": "Pink Checkerboard Tree Scented candle | Lanarve",
+    "description": "Explore Pink Checkerboard Tree from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-e21ab5db.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-e2d915b1.html": {
     "title": "Joy to the World Tree Scented candle | Lanarve",
     "description": "Explore Joy to the World Tree from Lanarve\u2019s Christmas Hearth & Story designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -4367,10 +4696,24 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-e3a37f4f.html": {
+    "title": "Nutcracker Merry Christmas Scented candle | Lanarve",
+    "description": "Explore Nutcracker Merry Christmas from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-e3a37f4f.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-e5769b2f.html": {
     "title": "A Little Christmas Joy Santa Scented candle | Lanarve",
     "description": "Explore A Little Christmas Joy Santa from Lanarve\u2019s Christmas Hearth & Story designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-e5769b2f.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-e61a51c1.html": {
+    "title": "Ivory Tree Tag Scented candle | Lanarve",
+    "description": "Explore Ivory Tree Tag from Lanarve\u2019s Golden Christmas Eve designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-e61a51c1.html",
     "indexable": true,
     "type": "product"
   },
@@ -4402,6 +4745,20 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-xms-ed001e08.html": {
+    "title": "Pastel Christmas Train Scented candle | Lanarve",
+    "description": "Explore Pastel Christmas Train from Lanarve\u2019s Pastel Christmas Magic designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-ed001e08.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-efe6eccc.html": {
+    "title": "Merry XMAS Market Scented candle | Lanarve",
+    "description": "Explore Merry XMAS Market from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-efe6eccc.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-xms-f4e60cde.html": {
     "title": "Lilac Gingerbread Reed Diffuser | Lanarve",
     "description": "Explore Lilac Gingerbread Reed Diffuser from Lanarve\u2019s Christmas Storybook Glass designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
@@ -4420,6 +4777,13 @@
     "title": "Christmas Tree Sand Candle | Lanarve",
     "description": "Explore Christmas Tree Sand Candle from Lanarve\u2019s Christmas Sand Art designs. Discuss Fir & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-f7070bc9.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-f7be9e0c.html": {
+    "title": "Gingerbread Noel Scented candle | Lanarve",
+    "description": "Explore Gingerbread Noel from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Gingerbread & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-f7be9e0c.html",
     "indexable": true,
     "type": "product"
   },
@@ -4448,6 +4812,13 @@
     "title": "Golden Noel Angel Scented candle | Lanarve",
     "description": "Explore Golden Noel Angel from Lanarve\u2019s Golden Christmas Wishes designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-xms-fbe7c79d.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-xms-fc738a99.html": {
+    "title": "Snowman Ho Ho Ho Scented candle | Lanarve",
+    "description": "Explore Snowman Ho Ho Ho from Lanarve\u2019s Classic Christmas Cheer designs. Discuss Orange & Clove fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-xms-fc738a99.html",
     "indexable": true,
     "type": "product"
   },

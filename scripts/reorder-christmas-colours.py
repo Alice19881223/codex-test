@@ -58,7 +58,26 @@ A Little Christmas Joy Santa
 Evergreen Minimal Tree
 Nordic Forest Story
 Letters to Santa
-Ivory Forest Deer'''),
+Ivory Forest Deer
+Candy Stripe Tree
+Christmas Cheer Snowman
+Christmas Tree & Gingerbread
+Ivory Winter Village
+Merry XMAS Market
+Crimson Tree
+Evergreen Village
+Ribbon Evergreen
+Snowman Ho Ho Ho
+Evergreen Tag Tree
+Christmas Countdown
+Nutcracker Merry Christmas
+Festive HO!
+Gingerbread Noel
+Letters to Santa North Pole
+North Pole Post
+Christmas Icon Parade
+Candy Garden
+Vintage Ribbon Tree'''),
  ('Bright Colour','''Lilac Gingerbread Candle
 Lilac Gingerbread Reed Diffuser
 Violet Christmas Village
@@ -76,7 +95,21 @@ Charcoal Golden Reindeer
 Olive Christmas Wishes
 Cinnamon Orange Dome
 Forest Garland Dome
-Winter Berry Dome'''),
+Winter Berry Dome
+Disco Ball Holiday
+Santa Merry & Bright
+Pink Christmas Forest
+Pink Checkerboard Tree
+Pink Christmas Ballet
+Pink Ribbon Wreath
+Snow Globe Gingerbread
+Pastel Christmas Train
+Christmas Wishes Gift
+Magic Holiday
+Bright Three Trees
+Sweet Gingerbread Wishes
+Christmas Cocoa
+Christmas Mittens'''),
  ('Winter Blue','''Winter Ballet Candle
 Blue Winter Forest
 Snowman Moonlit Cottage
@@ -84,7 +117,10 @@ Ice Star Wish
 Frosted Nutcracker
 Ice Blue Snowflake
 Silent Night Tree
-Midnight Snowflake'''),
+Midnight Snowflake
+Blue Merry & Bright
+Ice Blue Tree
+Ice Blue Snowman'''),
  ('Harmonious Tones','''Warm Ivory Candle Trio
 Pinecone Candle
 Golden Winter Reindeer
@@ -94,7 +130,16 @@ Christmas Angel Reed Diffuser
 Ivory Winter Rocking Horse
 Crimson Star Tree
 Sage Rocking Horse
-Forest Green Candle Trio'''),
+Forest Green Candle Trio
+Golden Snowflake
+Golden Starlight Tree
+Golden Santa
+Golden Forest Reindeer
+Ivory Tree Tag
+Golden Christmas Ballet
+Ivory Three Trees
+Silent Night Strings
+Joy to the World Ballet'''),
  ('Sand Art','''Cedar Kiss
 Christmas Tree Sand Candle
 Coastal Lime
