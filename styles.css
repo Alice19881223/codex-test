@@ -355,8 +355,9 @@ a.crystal-item>img.photo-single{height:auto}
 
 /* Halloween catalogue: deep night tones, warm pumpkin light and soft pastel magic. */
 body[data-category="halloween"]{--halloween-ink:#34452f;--halloween-green:#637958;--halloween-cream:#f8f5e9;background:#f4f6ef}
-body[data-category="halloween"] .halloween-intro{position:relative;overflow:hidden;min-height:400px;padding-block:78px;background:radial-gradient(circle at 82% 30%,#fdfbf2c7 0 14%,transparent 31%),linear-gradient(118deg,#edf2e8 0%,#e4ecdd 58%,#d7e3cf 100%);border-bottom:1px solid #c6d2bd}
-body[data-category="halloween"] .halloween-intro::after{content:"";position:absolute;right:9%;top:50%;width:min(24vw,260px);aspect-ratio:1;transform:translateY(-50%) rotate(-2deg);border:1px solid #c8d5be;border-radius:50%;background:#f7f7ed url("assets/nav-halloween-round.svg") center/72% no-repeat;box-shadow:0 18px 45px #48634718}
+body[data-category="halloween"] .halloween-intro{position:relative;overflow:hidden;min-height:410px;padding-block:82px;background:radial-gradient(circle at 79% 46%,#faf8ee 0 13%,transparent 29%),linear-gradient(118deg,#f0f3e9 0%,#e6eddf 57%,#d9e5d2 100%);border-bottom:1px solid #c6d2bd}
+body[data-category="halloween"] .halloween-intro::before{content:"";position:absolute;right:-7%;bottom:-54%;width:44%;aspect-ratio:1;border:1px solid #b7c9ad66;border-radius:50%;box-shadow:0 0 0 38px #f8f5e621,0 0 0 76px #f8f5e612}
+body[data-category="halloween"] .halloween-intro::after{content:"";position:absolute;right:6.5%;top:50%;width:min(27vw,300px);aspect-ratio:1;transform:translateY(-50%);border:1px solid #b9cbae;border-radius:50%;background:#f8f7ed url("assets/halloween-ghost-botanical-2026.svg") center/88% no-repeat;box-shadow:0 22px 55px #4863471f,inset 0 0 0 9px #edf2e8}
 body[data-category="halloween"] .halloween-intro .eyebrow{position:relative;z-index:1;color:#6c805f}
 body[data-category="halloween"] .halloween-intro h1{position:relative;z-index:1;max-width:760px;color:#34452f;font-family:'Cormorant Garamond',Georgia,serif;font-size:clamp(52px,5.4vw,78px);line-height:1.02;letter-spacing:-1.7px;text-shadow:none}
 body[data-category="halloween"] .halloween-intro>p:not(.eyebrow){position:relative;z-index:1;max-width:630px;color:#65705f;font-size:15px;line-height:1.85}

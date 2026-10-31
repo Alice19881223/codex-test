@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="A round friendly ghost framed by leaves">
+  <g fill="none" stroke="#587151" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".72">
+    <path d="M67 250c-15-38-17-83 1-126 10-24 24-42 43-57"/>
+    <path d="M253 250c15-38 17-83-1-126-10-24-24-42-43-57"/>
+    <path d="M77 215c-20-1-33 8-39 23 19 4 33-4 39-23Z" fill="#e5ecdc"/>
+    <path d="M68 178c-19-6-34-1-44 12 17 9 32 5 44-12Z" fill="#e5ecdc"/>
+    <path d="M71 138c-17-11-32-10-45 0 14 14 30 14 45 0Z" fill="#e5ecdc"/>
+    <path d="M88 101c-12-15-27-19-43-13 10 17 24 22 43 13Z" fill="#e5ecdc"/>
+    <path d="M243 215c20-1 33 8 39 23-19 4-33-4-39-23Z" fill="#e5ecdc"/>
+    <path d="M252 178c19-6 34-1 44 12-17 9-32 5-44-12Z" fill="#e5ecdc"/>
+    <path d="M249 138c17-11 32-10 45 0-14 14-30 14-45 0Z" fill="#e5ecdc"/>
+    <path d="M232 101c12-15 27-19 43-13-10 17-24 22-43 13Z" fill="#e5ecdc"/>
+  </g>
+  <path d="M99 252V145c0-56 23-88 61-88s61 32 61 88v107c-18 10-38 11-61 4-23 7-43 6-61-4Z" fill="#fbf8ed" stroke="#486347" stroke-width="8" stroke-linejoin="round"/>
+  <g fill="#263025">
+    <ellipse cx="139" cy="142" rx="9" ry="14"/>
+    <ellipse cx="181" cy="142" rx="9" ry="14"/>
+  </g>
+  <path d="M146 173q14 12 28 0" fill="none" stroke="#486347" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#dfa39c" opacity=".72">
+    <circle cx="123" cy="167" r="7"/>
+    <circle cx="197" cy="167" r="7"/>
+  </g>
+</svg>
