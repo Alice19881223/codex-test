@@ -331,7 +331,7 @@
   {
     "slug": "little-joys",
     "name": "Little Joys",
-    "description": "Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances.",
+    "description": "Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions.",
     "productKeys": [
       "Wild Elegance | Golden Leopard",
       "Wild Elegance | Ember Leopard",
@@ -339,6 +339,28 @@
       "Wild Elegance | Blush Leopard",
       "Wild Elegance | Sandstone Spots",
       "Wild Elegance | Ivory Zebra",
+      "Easter Little Joys | Painted Easter Egg",
+      "Easter Little Joys | Mint Folk Egg",
+      "Easter Little Joys | Easter Flower Wreath",
+      "Easter Little Joys | Meadow Leap Rabbit",
+      "Easter Little Joys | Blue Daisy Egg",
+      "Easter Little Joys | Blush Speckled Egg",
+      "Easter Little Joys | Rainy Day Duckling",
+      "Easter Little Joys | Blue Gingham Bunny",
+      "Easter Little Joys | Easter Meadow Rabbit",
+      "Easter Little Joys | Hop into Spring",
+      "Easter Little Joys | Pistachio Egg Charm",
+      "Easter Little Joys | Carrot Garden Bunny",
+      "Easter Little Joys | Golden Daisy Egg",
+      "Easter Little Joys | Honeybee Basket",
+      "Easter Little Joys | Blossom Shell Chick",
+      "Easter Little Joys | Little Yellow Chick",
+      "Easter Little Joys | Sage Gingham Bunny",
+      "Easter Little Joys | Bunny-Ear Egg",
+      "Easter Little Joys | Blush Bunny Ears",
+      "Easter Little Joys | Easter Duckling",
+      "Easter Little Joys | Easter Swan Egg",
+      "Easter Little Joys | Hello Spring Goose",
       "Playful Birthday | Birthday Celebration",
       "Little Dreamers | Puppy Dreams",
       "Little Dreamers | Panda Slumber",
@@ -368,16 +390,42 @@
         "Wild Elegance | Blush Leopard",
         "Wild Elegance | Sandstone Spots",
         "Wild Elegance | Ivory Zebra",
+        "Easter Little Joys | Painted Easter Egg",
+        "Easter Little Joys | Mint Folk Egg",
+        "Easter Little Joys | Easter Flower Wreath",
+        "Easter Little Joys | Meadow Leap Rabbit",
+        "Easter Little Joys | Blue Daisy Egg",
+        "Easter Little Joys | Blush Speckled Egg"
+      ],
+      [
+        "Easter Little Joys | Rainy Day Duckling",
+        "Easter Little Joys | Blue Gingham Bunny",
+        "Easter Little Joys | Easter Meadow Rabbit",
+        "Easter Little Joys | Hop into Spring",
+        "Easter Little Joys | Pistachio Egg Charm",
+        "Easter Little Joys | Carrot Garden Bunny",
+        "Easter Little Joys | Golden Daisy Egg",
+        "Easter Little Joys | Honeybee Basket",
+        "Easter Little Joys | Blossom Shell Chick",
+        "Easter Little Joys | Little Yellow Chick",
+        "Easter Little Joys | Sage Gingham Bunny",
+        "Easter Little Joys | Bunny-Ear Egg"
+      ],
+      [
+        "Easter Little Joys | Blush Bunny Ears",
+        "Easter Little Joys | Easter Duckling",
+        "Easter Little Joys | Easter Swan Egg",
+        "Easter Little Joys | Hello Spring Goose",
         "Playful Birthday | Birthday Celebration",
         "Little Dreamers | Puppy Dreams",
         "Little Dreamers | Panda Slumber",
         "Little Dreamers | Kitten Daydream",
         "Little Dreamers | Little Pumpkin Ghost",
-        "Lucky Charms | Sunny Six"
+        "Lucky Charms | Sunny Six",
+        "Lucky Charms | Blush Two",
+        "Lucky Charms | Violet Eight"
       ],
       [
-        "Lucky Charms | Blush Two",
-        "Lucky Charms | Violet Eight",
         "Little Companions | Silver Kitten",
         "Little Companions | Ginger Kitten",
         "Little Companions | Golden Companion",
@@ -387,13 +435,12 @@
         "Jellyfish | Jellyfish Egg Candle",
         "Jellyfish | Jellyfish Glass Candle",
         "Midnight Ballet | Midnight Ballet Candle",
-        "Garden Joys | Ivory Daisy"
-      ],
-      [
+        "Garden Joys | Ivory Daisy",
         "Garden Joys | Emerald Bubbles"
       ]
     ],
-    "manualPageOrder": true
+    "manualPageOrder": true,
+    "story": "Our Easter edit brings together painted eggs, garden rabbits, chicks and spring geese in soft seasonal colour, with fresh floral, citrus, tea and green fragrance directions."
   },
   {
     "slug": "everyday-poetry",

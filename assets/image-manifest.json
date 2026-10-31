@@ -16860,5 +16860,994 @@
         "bytes": 135828
       }
     ]
+  },
+  "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1697841,
+    "src": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47-480.webp",
+        "width": 480,
+        "bytes": 11128
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47-960.webp",
+        "width": 960,
+        "bytes": 30414
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+        "width": 1254,
+        "bytes": 52332
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1883620,
+    "src": "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/d7757da0afd7507bf20c-480.webp",
+        "width": 480,
+        "bytes": 19252
+      },
+      {
+        "src": "assets/candles/easter-little-joys/d7757da0afd7507bf20c-960.webp",
+        "width": 960,
+        "bytes": 60508
+      },
+      {
+        "src": "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp",
+        "width": 1254,
+        "bytes": 100816
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1758949,
+    "src": "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/28b6655aec720e5a1013-480.webp",
+        "width": 480,
+        "bytes": 12606
+      },
+      {
+        "src": "assets/candles/easter-little-joys/28b6655aec720e5a1013-960.webp",
+        "width": 960,
+        "bytes": 35346
+      },
+      {
+        "src": "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
+        "width": 1254,
+        "bytes": 58120
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1938782,
+    "src": "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/92336f09a94419f3dbc0-480.webp",
+        "width": 480,
+        "bytes": 21090
+      },
+      {
+        "src": "assets/candles/easter-little-joys/92336f09a94419f3dbc0-960.webp",
+        "width": 960,
+        "bytes": 67328
+      },
+      {
+        "src": "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp",
+        "width": 1254,
+        "bytes": 112996
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1781754,
+    "src": "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/5c7facd269fb8da956c1-480.webp",
+        "width": 480,
+        "bytes": 19784
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5c7facd269fb8da956c1-960.webp",
+        "width": 960,
+        "bytes": 58130
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp",
+        "width": 1254,
+        "bytes": 96320
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2012908,
+    "src": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2-480.webp",
+        "width": 480,
+        "bytes": 27392
+      },
+      {
+        "src": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2-960.webp",
+        "width": 960,
+        "bytes": 88674
+      },
+      {
+        "src": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp",
+        "width": 1254,
+        "bytes": 149760
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/ecfc716d389883331083.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1731654,
+    "src": "assets/candles/easter-little-joys/ecfc716d389883331083.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/ecfc716d389883331083-480.webp",
+        "width": 480,
+        "bytes": 14814
+      },
+      {
+        "src": "assets/candles/easter-little-joys/ecfc716d389883331083-960.webp",
+        "width": 960,
+        "bytes": 44020
+      },
+      {
+        "src": "assets/candles/easter-little-joys/ecfc716d389883331083.webp",
+        "width": 1254,
+        "bytes": 72652
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1972562,
+    "src": "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/a42e476cbcaf85ead504-480.webp",
+        "width": 480,
+        "bytes": 21858
+      },
+      {
+        "src": "assets/candles/easter-little-joys/a42e476cbcaf85ead504-960.webp",
+        "width": 960,
+        "bytes": 78152
+      },
+      {
+        "src": "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp",
+        "width": 1254,
+        "bytes": 132030
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1760802,
+    "src": "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/fcffda7dcf826f435794-480.webp",
+        "width": 480,
+        "bytes": 12148
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fcffda7dcf826f435794-960.webp",
+        "width": 960,
+        "bytes": 34160
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp",
+        "width": 1254,
+        "bytes": 57390
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1929091,
+    "src": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039-480.webp",
+        "width": 480,
+        "bytes": 19542
+      },
+      {
+        "src": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039-960.webp",
+        "width": 960,
+        "bytes": 67688
+      },
+      {
+        "src": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp",
+        "width": 1254,
+        "bytes": 115924
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1866069,
+    "src": "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/410ed60fa107538d7b24-480.webp",
+        "width": 480,
+        "bytes": 17976
+      },
+      {
+        "src": "assets/candles/easter-little-joys/410ed60fa107538d7b24-960.webp",
+        "width": 960,
+        "bytes": 52170
+      },
+      {
+        "src": "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp",
+        "width": 1254,
+        "bytes": 84886
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/07fe2d60615669f43346.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2043332,
+    "src": "assets/candles/easter-little-joys/07fe2d60615669f43346.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/07fe2d60615669f43346-480.webp",
+        "width": 480,
+        "bytes": 18892
+      },
+      {
+        "src": "assets/candles/easter-little-joys/07fe2d60615669f43346-960.webp",
+        "width": 960,
+        "bytes": 75706
+      },
+      {
+        "src": "assets/candles/easter-little-joys/07fe2d60615669f43346.webp",
+        "width": 1254,
+        "bytes": 124796
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/fe21b004828e774050a2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1496972,
+    "src": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/fe21b004828e774050a2-480.webp",
+        "width": 480,
+        "bytes": 13210
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fe21b004828e774050a2-960.webp",
+        "width": 960,
+        "bytes": 36070
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+        "width": 1254,
+        "bytes": 60668
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1900449,
+    "src": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb-480.webp",
+        "width": 480,
+        "bytes": 20360
+      },
+      {
+        "src": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb-960.webp",
+        "width": 960,
+        "bytes": 62850
+      },
+      {
+        "src": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp",
+        "width": 1254,
+        "bytes": 104582
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1381435,
+    "src": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b-480.webp",
+        "width": 480,
+        "bytes": 9700
+      },
+      {
+        "src": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b-960.webp",
+        "width": 960,
+        "bytes": 26944
+      },
+      {
+        "src": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
+        "width": 1254,
+        "bytes": 44822
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1857694,
+    "src": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a-480.webp",
+        "width": 480,
+        "bytes": 15400
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a-960.webp",
+        "width": 960,
+        "bytes": 52364
+      },
+      {
+        "src": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp",
+        "width": 1254,
+        "bytes": 89708
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/570cc81f12daae238009.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1583551,
+    "src": "assets/candles/easter-little-joys/570cc81f12daae238009.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/570cc81f12daae238009-480.webp",
+        "width": 480,
+        "bytes": 20494
+      },
+      {
+        "src": "assets/candles/easter-little-joys/570cc81f12daae238009-960.webp",
+        "width": 960,
+        "bytes": 62590
+      },
+      {
+        "src": "assets/candles/easter-little-joys/570cc81f12daae238009.webp",
+        "width": 1254,
+        "bytes": 101610
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2093277,
+    "src": "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/1d8aa75758490de25bbf-480.webp",
+        "width": 480,
+        "bytes": 28758
+      },
+      {
+        "src": "assets/candles/easter-little-joys/1d8aa75758490de25bbf-960.webp",
+        "width": 960,
+        "bytes": 96822
+      },
+      {
+        "src": "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp",
+        "width": 1254,
+        "bytes": 170916
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/84552298dadb317fd050.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1387354,
+    "src": "assets/candles/easter-little-joys/84552298dadb317fd050.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/84552298dadb317fd050-480.webp",
+        "width": 480,
+        "bytes": 9696
+      },
+      {
+        "src": "assets/candles/easter-little-joys/84552298dadb317fd050-960.webp",
+        "width": 960,
+        "bytes": 28602
+      },
+      {
+        "src": "assets/candles/easter-little-joys/84552298dadb317fd050.webp",
+        "width": 1254,
+        "bytes": 49922
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1903085,
+    "src": "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/46d99eb9867eea73a820-480.webp",
+        "width": 480,
+        "bytes": 14758
+      },
+      {
+        "src": "assets/candles/easter-little-joys/46d99eb9867eea73a820-960.webp",
+        "width": 960,
+        "bytes": 56916
+      },
+      {
+        "src": "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp",
+        "width": 1254,
+        "bytes": 100620
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1683954,
+    "src": "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/f90d0cc0ef884d599585-480.webp",
+        "width": 480,
+        "bytes": 9782
+      },
+      {
+        "src": "assets/candles/easter-little-joys/f90d0cc0ef884d599585-960.webp",
+        "width": 960,
+        "bytes": 27842
+      },
+      {
+        "src": "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp",
+        "width": 1254,
+        "bytes": 47460
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1950364,
+    "src": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa-480.webp",
+        "width": 480,
+        "bytes": 13940
+      },
+      {
+        "src": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa-960.webp",
+        "width": 960,
+        "bytes": 61556
+      },
+      {
+        "src": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp",
+        "width": 1254,
+        "bytes": 108734
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/fa10951302934c5c5113.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1821419,
+    "src": "assets/candles/easter-little-joys/fa10951302934c5c5113.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/fa10951302934c5c5113-480.webp",
+        "width": 480,
+        "bytes": 12960
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fa10951302934c5c5113-960.webp",
+        "width": 960,
+        "bytes": 42638
+      },
+      {
+        "src": "assets/candles/easter-little-joys/fa10951302934c5c5113.webp",
+        "width": 1254,
+        "bytes": 75142
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1985711,
+    "src": "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/eb47767811e24a7d399f-480.webp",
+        "width": 480,
+        "bytes": 20172
+      },
+      {
+        "src": "assets/candles/easter-little-joys/eb47767811e24a7d399f-960.webp",
+        "width": 960,
+        "bytes": 69114
+      },
+      {
+        "src": "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp",
+        "width": 1254,
+        "bytes": 118552
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1653096,
+    "src": "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/1fafcd2869cc31a12563-480.webp",
+        "width": 480,
+        "bytes": 12014
+      },
+      {
+        "src": "assets/candles/easter-little-joys/1fafcd2869cc31a12563-960.webp",
+        "width": 960,
+        "bytes": 35394
+      },
+      {
+        "src": "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp",
+        "width": 1254,
+        "bytes": 57484
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1895479,
+    "src": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a-480.webp",
+        "width": 480,
+        "bytes": 20884
+      },
+      {
+        "src": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a-960.webp",
+        "width": 960,
+        "bytes": 67426
+      },
+      {
+        "src": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp",
+        "width": 1254,
+        "bytes": 114818
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1762031,
+    "src": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80-480.webp",
+        "width": 480,
+        "bytes": 24020
+      },
+      {
+        "src": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80-960.webp",
+        "width": 960,
+        "bytes": 67900
+      },
+      {
+        "src": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp",
+        "width": 1254,
+        "bytes": 109124
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1851974,
+    "src": "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/17a2aeab463808a652b8-480.webp",
+        "width": 480,
+        "bytes": 23490
+      },
+      {
+        "src": "assets/candles/easter-little-joys/17a2aeab463808a652b8-960.webp",
+        "width": 960,
+        "bytes": 84984
+      },
+      {
+        "src": "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp",
+        "width": 1254,
+        "bytes": 140590
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1388528,
+    "src": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/11a950dcb703e13298b8-480.webp",
+        "width": 480,
+        "bytes": 11558
+      },
+      {
+        "src": "assets/candles/easter-little-joys/11a950dcb703e13298b8-960.webp",
+        "width": 960,
+        "bytes": 30040
+      },
+      {
+        "src": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+        "width": 1254,
+        "bytes": 49244
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1841399,
+    "src": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc-480.webp",
+        "width": 480,
+        "bytes": 17206
+      },
+      {
+        "src": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc-960.webp",
+        "width": 960,
+        "bytes": 55194
+      },
+      {
+        "src": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp",
+        "width": 1254,
+        "bytes": 93288
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/f931f46175023821afba.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1719506,
+    "src": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/f931f46175023821afba-480.webp",
+        "width": 480,
+        "bytes": 11728
+      },
+      {
+        "src": "assets/candles/easter-little-joys/f931f46175023821afba-960.webp",
+        "width": 960,
+        "bytes": 36542
+      },
+      {
+        "src": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+        "width": 1254,
+        "bytes": 62334
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1956512,
+    "src": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0-480.webp",
+        "width": 480,
+        "bytes": 17274
+      },
+      {
+        "src": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0-960.webp",
+        "width": 960,
+        "bytes": 64126
+      },
+      {
+        "src": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp",
+        "width": 1254,
+        "bytes": 114986
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1369702,
+    "src": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c-480.webp",
+        "width": 480,
+        "bytes": 9830
+      },
+      {
+        "src": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c-960.webp",
+        "width": 960,
+        "bytes": 26106
+      },
+      {
+        "src": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp",
+        "width": 1254,
+        "bytes": 44496
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1906897,
+    "src": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d-480.webp",
+        "width": 480,
+        "bytes": 16066
+      },
+      {
+        "src": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d-960.webp",
+        "width": 960,
+        "bytes": 60224
+      },
+      {
+        "src": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp",
+        "width": 1254,
+        "bytes": 105840
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/598633183e66e52747ea.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1241787,
+    "src": "assets/candles/easter-little-joys/598633183e66e52747ea.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/598633183e66e52747ea-480.webp",
+        "width": 480,
+        "bytes": 8406
+      },
+      {
+        "src": "assets/candles/easter-little-joys/598633183e66e52747ea-960.webp",
+        "width": 960,
+        "bytes": 21754
+      },
+      {
+        "src": "assets/candles/easter-little-joys/598633183e66e52747ea.webp",
+        "width": 1254,
+        "bytes": 36670
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1887614,
+    "src": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae-480.webp",
+        "width": 480,
+        "bytes": 14316
+      },
+      {
+        "src": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae-960.webp",
+        "width": 960,
+        "bytes": 49760
+      },
+      {
+        "src": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp",
+        "width": 1254,
+        "bytes": 90006
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1438321,
+    "src": "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/0717d004c8c7344c8852-480.webp",
+        "width": 480,
+        "bytes": 7394
+      },
+      {
+        "src": "assets/candles/easter-little-joys/0717d004c8c7344c8852-960.webp",
+        "width": 960,
+        "bytes": 20118
+      },
+      {
+        "src": "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp",
+        "width": 1254,
+        "bytes": 33454
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/af660984e567720e9ea2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1928154,
+    "src": "assets/candles/easter-little-joys/af660984e567720e9ea2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/af660984e567720e9ea2-480.webp",
+        "width": 480,
+        "bytes": 14960
+      },
+      {
+        "src": "assets/candles/easter-little-joys/af660984e567720e9ea2-960.webp",
+        "width": 960,
+        "bytes": 56812
+      },
+      {
+        "src": "assets/candles/easter-little-joys/af660984e567720e9ea2.webp",
+        "width": 1254,
+        "bytes": 101594
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1862571,
+    "src": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea-480.webp",
+        "width": 480,
+        "bytes": 16186
+      },
+      {
+        "src": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea-960.webp",
+        "width": 960,
+        "bytes": 54478
+      },
+      {
+        "src": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp",
+        "width": 1254,
+        "bytes": 93614
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1329583,
+    "src": "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/3544e86be5b6320bca4b-480.webp",
+        "width": 480,
+        "bytes": 10550
+      },
+      {
+        "src": "assets/candles/easter-little-joys/3544e86be5b6320bca4b-960.webp",
+        "width": 960,
+        "bytes": 29184
+      },
+      {
+        "src": "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp",
+        "width": 1254,
+        "bytes": 48460
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/94c6941702653a640d79.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1871191,
+    "src": "assets/candles/easter-little-joys/94c6941702653a640d79.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/94c6941702653a640d79-480.webp",
+        "width": 480,
+        "bytes": 17030
+      },
+      {
+        "src": "assets/candles/easter-little-joys/94c6941702653a640d79-960.webp",
+        "width": 960,
+        "bytes": 58066
+      },
+      {
+        "src": "assets/candles/easter-little-joys/94c6941702653a640d79.webp",
+        "width": 1254,
+        "bytes": 102188
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1301121,
+    "src": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8-480.webp",
+        "width": 480,
+        "bytes": 10660
+      },
+      {
+        "src": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8-960.webp",
+        "width": 960,
+        "bytes": 25634
+      },
+      {
+        "src": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp",
+        "width": 1254,
+        "bytes": 41210
+      }
+    ]
+  },
+  "assets/candles/easter-little-joys/66202329c51cc97f258d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1757932,
+    "src": "assets/candles/easter-little-joys/66202329c51cc97f258d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/easter-little-joys/66202329c51cc97f258d-480.webp",
+        "width": 480,
+        "bytes": 15316
+      },
+      {
+        "src": "assets/candles/easter-little-joys/66202329c51cc97f258d-960.webp",
+        "width": 960,
+        "bytes": 46006
+      },
+      {
+        "src": "assets/candles/easter-little-joys/66202329c51cc97f258d.webp",
+        "width": 1254,
+        "bytes": 78602
+      }
+    ]
   }
 }

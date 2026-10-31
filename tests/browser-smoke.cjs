@@ -195,6 +195,25 @@ try{
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'curated candle detail overflow');await ctx.close();
   }
  }
+ // The Easter edit is a continuous Little Joys story with every unique supplied photograph preserved.
+ const easterManifestPath=path.join(root,'assets/easter-little-joys-source-manifest.json');
+ if(fs.existsSync(easterManifestPath)){
+  const manifest=JSON.parse(fs.readFileSync(easterManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='little-joys');
+  assert.equal(designs.length,22);assert.equal(manifest.images.length,43);assert.equal(manifest.pairedCount,21);assert.equal(manifest.singleCompositionCount,1);assert.equal(manifest.duplicateSourceFilesExcluded.length,3);assert.match(collection.description+collection.story,/Easter/);
+  assert.deepEqual(collection.productKeys.slice(6,28),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,11]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
+  const representatives=['Painted Easter Egg','Rainy Day Duckling','Honeybee Basket','Bunny-Ear Egg','Easter Duckling'].map(name=>designs.find(d=>d.name===name));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
+   await page.goto(base+'/candles-little-joys.html');assert.match(await page.locator('.candle-mood-intro').textContent(),/Easter edit/);
+   for(const design of representatives){
+    const record=records.find(r=>r.category==='candle'&&r.image===design.image),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+design.name+'</h3>'));assert.ok(record&&route,design.name+' published');await page.goto(base+'/'+route);
+    const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})});assert.equal(await card.locator('.photo-single').count(),1);
+    if(design.packagingImage){const wrapper=card.locator('xpath=..');assert.equal(await card.locator('.photo-packaging').count(),1);if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}}
+    await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),design.packagingImage?2:1);assert.match(await page.locator('.product-design-description').textContent(),/Easter|spring/i);assert.match(await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent(),/Never leave a burning candle unattended/);
+   }
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'Easter detail overflow');await ctx.close();
+  }
+ }
  // The independent lifestyle theme must be reachable as a fifth collection.
  const poetryManifest=path.join(root,'assets/everyday-poetry-source-manifest.json');
  if(fs.existsSync(poetryManifest)){

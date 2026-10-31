@@ -1,0 +1,703 @@
+{
+  "sourceArchives": [
+    "打包1.zip",
+    "打包2.zip",
+    "打包3.zip",
+    "打包4.zip",
+    "打包5.zip"
+  ],
+  "collection": "little-joys",
+  "series": "Easter Little Joys",
+  "productCount": 22,
+  "imageCount": 43,
+  "pairedCount": 21,
+  "singleCompositionCount": 1,
+  "products": [
+    {
+      "id": "easter-2026-5c999e54e4ad6503dc47",
+      "name": "Painted Easter Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+      "images": [
+        "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+        "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "season": "Easter",
+      "designDescription": "A hand-painted Easter egg in blush, mint and soft yellow brings folk-inspired spring colour to the table. Peony & Lychee adds a bright floral-fruit lift for Easter gifting. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp"
+    },
+    {
+      "id": "easter-2026-28b6655aec720e5a1013",
+      "name": "Mint Folk Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
+      "images": [
+        "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
+        "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp"
+      ],
+      "assignedScent": "osmanthus-green-tea",
+      "season": "Easter",
+      "designDescription": "A decorative Easter egg sits on cool mint ceramic with tiny tulip-like details. Osmanthus & Green Tea echoes the pastel palette with a light, fresh spring character. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp"
+    },
+    {
+      "id": "easter-2026-5c7facd269fb8da956c1",
+      "name": "Easter Flower Wreath",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp",
+      "images": [
+        "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp",
+        "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp"
+      ],
+      "assignedScent": "jasmine-orange-blossom",
+      "season": "Easter",
+      "designDescription": "A soft wreath of spring flowers frames a Happy Easter message on warm ivory ceramic. Jasmine & Orange Blossom extends the design with luminous white florals. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp"
+    },
+    {
+      "id": "easter-2026-ecfc716d389883331083",
+      "name": "Meadow Leap Rabbit",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/ecfc716d389883331083.webp",
+      "images": [
+        "assets/candles/easter-little-joys/ecfc716d389883331083.webp",
+        "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp"
+      ],
+      "assignedScent": "fig-green-leaves",
+      "season": "Easter",
+      "designDescription": "A white rabbit leaps through new leaves and meadow flowers on butter-yellow ceramic. Fig & Green Leaves brings the freshness of an Easter garden. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp"
+    },
+    {
+      "id": "easter-2026-fcffda7dcf826f435794",
+      "name": "Blue Daisy Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp",
+      "images": [
+        "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp",
+        "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp"
+      ],
+      "assignedScent": "white-tea-bergamot",
+      "season": "Easter",
+      "designDescription": "A pale blue Easter egg filled with daisies and fine gold lines feels crisp and celebratory. White Tea & Bergamot keeps the pairing airy and sunlit. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp"
+    },
+    {
+      "id": "easter-2026-410ed60fa107538d7b24",
+      "name": "Blush Speckled Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp",
+      "images": [
+        "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp",
+        "assets/candles/easter-little-joys/07fe2d60615669f43346.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "season": "Easter",
+      "designDescription": "A cracked-egg rim and speckled blush glaze turn this sculptural candle into a playful Easter centrepiece. Rose & Green Leaves balances sweetness with fresh spring foliage. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/07fe2d60615669f43346.webp"
+    },
+    {
+      "id": "easter-2026-fe21b004828e774050a2",
+      "name": "Rainy Day Duckling",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+      "images": [
+        "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+        "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp"
+      ],
+      "assignedScent": "lemon-verbena",
+      "season": "Easter",
+      "designDescription": "A cheerful duckling carries a yellow umbrella through a powder-blue Easter scene. Lemon & Verbena adds a clean citrus brightness after a spring shower. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp"
+    },
+    {
+      "id": "easter-2026-22038c5c89fc786f2c0b",
+      "name": "Blue Gingham Bunny",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
+      "images": [
+        "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
+        "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "season": "Easter",
+      "designDescription": "A chocolate-brown rabbit in blue gingham overalls gives Easter gifting a storybook charm. Vanilla & Tonka adds a soft, comforting sweetness. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp"
+    },
+    {
+      "id": "easter-2026-570cc81f12daae238009",
+      "name": "Easter Meadow Rabbit",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/570cc81f12daae238009.webp",
+      "images": [
+        "assets/candles/easter-little-joys/570cc81f12daae238009.webp",
+        "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp"
+      ],
+      "assignedScent": "jasmine-orange-blossom",
+      "season": "Easter",
+      "designDescription": "Spring flowers and a tiny rabbit fill an egg-shaped Happy Easter frame. Jasmine & Orange Blossom captures the feeling of a garden opening in spring. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp"
+    },
+    {
+      "id": "easter-2026-84552298dadb317fd050",
+      "name": "Hop into Spring",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/84552298dadb317fd050.webp",
+      "images": [
+        "assets/candles/easter-little-joys/84552298dadb317fd050.webp",
+        "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp"
+      ],
+      "assignedScent": "pear-freesia",
+      "season": "Easter",
+      "designDescription": "A green rabbit silhouette completes the playful HOP lettering on translucent ivory glass. Pear & Freesia gives the Easter message a light, joyful freshness. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp"
+    },
+    {
+      "id": "easter-2026-f90d0cc0ef884d599585",
+      "name": "Pistachio Egg Charm",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp",
+      "images": [
+        "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp",
+        "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "season": "Easter",
+      "designDescription": "A tiny speckled egg hangs from a natural bow on pistachio-green ceramic. Green Tea & Cedarwood keeps this refined Easter design calm and gently grounded. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp"
+    },
+    {
+      "id": "easter-2026-fa10951302934c5c5113",
+      "name": "Carrot Garden Bunny",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/fa10951302934c5c5113.webp",
+      "images": [
+        "assets/candles/easter-little-joys/fa10951302934c5c5113.webp",
+        "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp"
+      ],
+      "assignedScent": "fig-green-leaves",
+      "season": "Easter",
+      "designDescription": "An ivory rabbit holds a carrot among small white flowers on garden-green glass. Fig & Green Leaves complements its fresh Easter garden story. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp"
+    },
+    {
+      "id": "easter-2026-1fafcd2869cc31a12563",
+      "name": "Golden Daisy Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp",
+      "images": [
+        "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp",
+        "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "season": "Easter",
+      "designDescription": "Blue daisies and delicate gold bands decorate an ivory Easter egg motif. White Tea & Rosemary adds a clean herbal breeze to the polished seasonal design. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp"
+    },
+    {
+      "id": "easter-2026-55cb88a0d93e3b453b80",
+      "name": "Honeybee Basket",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp",
+      "images": [
+        "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp",
+        "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "season": "Easter",
+      "designDescription": "Woven yellow-and-ivory texture and small raised bees celebrate the first busy days of spring. Amber & Vanilla suggests warm honeyed light for an Easter table. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp"
+    },
+    {
+      "id": "easter-2026-11a950dcb703e13298b8",
+      "name": "Blossom Shell Chick",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+      "images": [
+        "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+        "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "season": "Easter",
+      "designDescription": "A newly hatched chick peeks from a floral Easter egg on creamy yellow glass. Peony & Lychee makes the design feel soft, bright and celebratory. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp"
+    },
+    {
+      "id": "easter-2026-f931f46175023821afba",
+      "name": "Little Yellow Chick",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+      "images": [
+        "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+        "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp"
+      ],
+      "assignedScent": "lemon-verbena",
+      "season": "Easter",
+      "designDescription": "A fluffy yellow chick stands among tiny spring flowers in a warm Easter palette. Lemon & Verbena brings a sunny citrus-green direction. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp"
+    },
+    {
+      "id": "easter-2026-aeef938f8d7c8cf47e0c",
+      "name": "Sage Gingham Bunny",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp",
+      "images": [
+        "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp",
+        "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "season": "Easter",
+      "designDescription": "A white rabbit in sage gingham overalls sits among delicate flowers. White Tea & Rosemary supports the quiet, garden-fresh Easter palette. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp"
+    },
+    {
+      "id": "easter-2026-598633183e66e52747ea",
+      "name": "Bunny-Ear Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/598633183e66e52747ea.webp",
+      "images": [
+        "assets/candles/easter-little-joys/598633183e66e52747ea.webp",
+        "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "season": "Easter",
+      "designDescription": "Tall pink-lined ears rise from a cracked ivory egg to create a sculptural Easter keepsake. Vanilla & Tonka adds a soft, familiar warmth. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp"
+    },
+    {
+      "id": "easter-2026-0717d004c8c7344c8852",
+      "name": "Blush Bunny Ears",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp",
+      "images": [
+        "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp",
+        "assets/candles/easter-little-joys/af660984e567720e9ea2.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "season": "Easter",
+      "designDescription": "Raised blush bunny ears and a small ribbon give ivory ceramic a gentle Easter detail. Rose & Green Leaves keeps the floral pairing fresh rather than sweet. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/af660984e567720e9ea2.webp"
+    },
+    {
+      "id": "easter-2026-e9ab81b8917d0589c5ea",
+      "name": "Easter Duckling",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp",
+      "images": [
+        "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp"
+      ],
+      "assignedScent": "lemon-lavender",
+      "season": "Easter",
+      "designDescription": "A yellow Easter duckling and pink bunny ears brighten mint-green glass with a friendly spring character. Lemon & Lavender pairs sunny citrus with a calm floral finish. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "view": "product and gift-box composition",
+      "viewLabels": [
+        "Product & gift packaging"
+      ]
+    },
+    {
+      "id": "easter-2026-3544e86be5b6320bca4b",
+      "name": "Easter Swan Egg",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp",
+      "images": [
+        "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp",
+        "assets/candles/easter-little-joys/94c6941702653a640d79.webp"
+      ],
+      "assignedScent": "soft-linen",
+      "season": "Easter",
+      "designDescription": "A white spring bird carries a blue floral Easter egg beneath delicate gold lettering. Soft Linen keeps the ivory design clean, gentle and giftable. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/94c6941702653a640d79.webp"
+    },
+    {
+      "id": "easter-2026-21b4e1e1d16a8009acd8",
+      "name": "Hello Spring Goose",
+      "series": "Easter Little Joys",
+      "productType": "Scented candle",
+      "image": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp",
+      "images": [
+        "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp",
+        "assets/candles/easter-little-joys/66202329c51cc97f258d.webp"
+      ],
+      "assignedScent": "lime-basil",
+      "season": "Easter",
+      "designDescription": "A white goose walks through green stripes, tiny eggs and spring flowers. Lime & Basil gives the playful Easter illustration a crisp green freshness. Suggested Easter fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "packagingImage": "assets/candles/easter-little-joys/66202329c51cc97f258d.webp"
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "复活节彩绘香薰蜡烛-3.png",
+      "sha256": "5c999e54e4ad6503dc474c2ec08f99624e3d9ba41a620ba03bb48e857ec8401a",
+      "image": "assets/candles/easter-little-joys/5c999e54e4ad6503dc47.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "复活节条纹彩蛋蜡烛礼盒-13.png",
+      "sha256": "d7757da0afd7507bf20c1c49fedd5d80cff959835d8e1ef5c24ea52168f4307f",
+      "image": "assets/candles/easter-little-joys/d7757da0afd7507bf20c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "复活节薄荷彩蛋香薰蜡烛-7.png",
+      "sha256": "28b6655aec720e5a1013733689dce77f871e1faa3b8c22386def7fe49f04d776",
+      "image": "assets/candles/easter-little-joys/28b6655aec720e5a1013.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "波浪彩蛋复活节香薰礼盒-14.png",
+      "sha256": "92336f09a94419f3dbc074181d10f9c9f747fa2acd8a69de70e3c7587fe0c2d8",
+      "image": "assets/candles/easter-little-joys/92336f09a94419f3dbc0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "春日花卉复活节香薰蜡烛-6 (1).png",
+      "sha256": "5c7facd269fb8da956c120db1de61239e7bbdcf57b23cae6bcad785e7df5613f",
+      "image": "assets/candles/easter-little-joys/5c7facd269fb8da956c1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "春日花语复活节蜡烛礼盒-15 (1).png",
+      "sha256": "b9e30dc86235bfa07fb23b679f0150ca210a9b167a33de07246cda9a35884659",
+      "image": "assets/candles/easter-little-joys/b9e30dc86235bfa07fb2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "淡黄兔跃复活节香薰蜡烛-1 (1).png",
+      "sha256": "ecfc716d3898833310832e3a52a9ba3da3adab83e16331732d68809c03afb646",
+      "image": "assets/candles/easter-little-joys/ecfc716d389883331083.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "跃兔复活节蜡烛礼盒-9.png",
+      "sha256": "a42e476cbcaf85ead504f63d7573883ca76ac04a6f2350f5fed0be75dd9442e9",
+      "image": "assets/candles/easter-little-joys/a42e476cbcaf85ead504.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "粉彩彩蛋奢华香薰蜡烛-2.png",
+      "sha256": "fcffda7dcf826f4357944c906d4b4619971cefd232f6146f511b0d2f75da7381",
+      "image": "assets/candles/easter-little-joys/fcffda7dcf826f435794.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "春花彩蛋香薰蜡烛礼盒-10.png",
+      "sha256": "2635f0cf5ce7792f7039e3b65194ec5527bc2efa541939a616e50792e5bd2cea",
+      "image": "assets/candles/easter-little-joys/2635f0cf5ce7792f7039.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "粉彩斑点陶瓷香薰蜡烛-5.png",
+      "sha256": "410ed60fa107538d7b245288c1119ddc032c38d5ee53a02b53c935b3004220ac",
+      "image": "assets/candles/easter-little-joys/410ed60fa107538d7b24.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "象牙礼盒与香薰蜡烛-6.png",
+      "sha256": "07fe2d60615669f43346421818f00e12aed4cd182405660c22716df9970d3c4a",
+      "image": "assets/candles/easter-little-joys/07fe2d60615669f43346.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "粉蓝小鸭复活节香薰蜡烛-2.png",
+      "sha256": "fe21b004828e774050a229a6f66623003226232d05a0ddf8f7bf13a40f194786",
+      "image": "assets/candles/easter-little-joys/fe21b004828e774050a2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "雨伞小鸭复活节香薰蜡烛礼盒-8.png",
+      "sha256": "63a95ed9e5ea9853aefb67d068d768e2d99224ce0959ce45c50c396f399db31f",
+      "image": "assets/candles/easter-little-joys/63a95ed9e5ea9853aefb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "粉蓝格纹兔子复活节蜡烛-3.png",
+      "sha256": "22038c5c89fc786f2c0bb751d859127ce3615149f9bf538c6522a5c68ec82876",
+      "image": "assets/candles/easter-little-joys/22038c5c89fc786f2c0b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "蓝格棕兔复活节蜡烛礼盒-8 (1).png",
+      "sha256": "5f65fbfd92a7709cd14a86f4aa7f9d1dd7f95719401e316517afb06761a1d290",
+      "image": "assets/candles/easter-little-joys/5f65fbfd92a7709cd14a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "复活节兔子花卉蜡烛-1.png",
+      "sha256": "570cc81f12daae238009f36cef6068b3faea3917bfe5c17e4757eb85b0d546b7",
+      "image": "assets/candles/easter-little-joys/570cc81f12daae238009.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "复活节花卉兔彩蛋蜡烛礼盒-6.png",
+      "sha256": "1d8aa75758490de25bbfd46d5e20ab887853aceeaa245b2030234b28d794ac16",
+      "image": "assets/candles/easter-little-joys/1d8aa75758490de25bbf.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "复活节兔影玻璃蜡烛-1.png",
+      "sha256": "84552298dadb317fd05035fd6e3e67ffa051c33f6fc829c8580fdcdec15a8693",
+      "image": "assets/candles/easter-little-joys/84552298dadb317fd050.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "高端复活节蜡烛与配套礼盒-2.png",
+      "sha256": "46d99eb9867eea73a8201314951d94271ff86c257a44607536da4969621b4e60",
+      "image": "assets/candles/easter-little-joys/46d99eb9867eea73a820.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "开心果陶瓷彩蛋香氛蜡烛-3.png",
+      "sha256": "f90d0cc0ef884d599585e3078ecf636ee55605d9248004b343936772a64c5372",
+      "image": "assets/candles/easter-little-joys/f90d0cc0ef884d599585.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "香薰蜡烛与精致礼盒-4.png",
+      "sha256": "ebd51404646aa71ce9aa307aa7cb497fc68db8e3ae63e5b8721f4ef81ce0d5c7",
+      "image": "assets/candles/easter-little-joys/ebd51404646aa71ce9aa.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "象牙兔与胡萝卜复活节香薰蜡烛-4.png",
+      "sha256": "fa10951302934c5c5113c2c0e2be2a035b8dd6ba5b5bbb311ac3ba9be4048479",
+      "image": "assets/candles/easter-little-joys/fa10951302934c5c5113.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "胡萝卜兔复活节香薰蜡烛礼盒-12.png",
+      "sha256": "eb47767811e24a7d399fde9f8fb77e4d0f31b069befd6a4d78f2f3e9c17b32ed",
+      "image": "assets/candles/easter-little-joys/eb47767811e24a7d399f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "蓝蛋金带复活节香薰蜡烛-5.png",
+      "sha256": "1fafcd2869cc31a12563f47339fe4c81b7ff2c9205a461f73e95f31f50ac9508",
+      "image": "assets/candles/easter-little-joys/1fafcd2869cc31a12563.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "雏菊彩蛋复活节蜡烛礼盒-11.png",
+      "sha256": "a2bf27cf938e3eae620aec008a295082ca7ce740b78c78ebb544b529e11cb60a",
+      "image": "assets/candles/easter-little-joys/a2bf27cf938e3eae620a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "蜜蜂浮雕奢华香薰蜡烛-1.png",
+      "sha256": "55cb88a0d93e3b453b805cae5562529ddfaaecdbef38f423b2cad4924934ef69",
+      "image": "assets/candles/easter-little-joys/55cb88a0d93e3b453b80.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "奢华香氛蜡烛与蜂纹礼盒-2.png",
+      "sha256": "17a2aeab463808a652b8aa4bb2af5da290bb5dad3edab1d293404435e95a066d",
+      "image": "assets/candles/easter-little-joys/17a2aeab463808a652b8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "奶油黄复活节小鸡花卉蜡烛-4.png",
+      "sha256": "11a950dcb703e13298b85b7cd2cbc2d13cbface3528a188f31fb6c49d33d3d8d",
+      "image": "assets/candles/easter-little-joys/11a950dcb703e13298b8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "破壳小鸡复活节蜡烛礼盒-9.png",
+      "sha256": "7a8e6d6c36bb6b54ecccb1e2e2205c166e9bb2b1093c7d79d76ee5dccf27e119",
+      "image": "assets/candles/easter-little-joys/7a8e6d6c36bb6b54eccc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "奶油黄小鸡复活节香薰蜡烛-8.png",
+      "sha256": "f931f46175023821afba4f07efb772324fde6ed3736e2e2ba69e8cb28486f6a6",
+      "image": "assets/candles/easter-little-joys/f931f46175023821afba.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "小鸡复活节蜡烛礼盒-16.png",
+      "sha256": "8d9df435e5bbd1919dc0f8266eb02162516fd80c163ce8694f6b33d36570251c",
+      "image": "assets/candles/easter-little-joys/8d9df435e5bbd1919dc0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "鼠尾草格纹兔子复活节蜡烛-2.png",
+      "sha256": "aeef938f8d7c8cf47e0c9185ce7da4e196a2321d6f1a4290a0536ba0f24ccb42",
+      "image": "assets/candles/easter-little-joys/aeef938f8d7c8cf47e0c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包3.zip",
+      "source": "绿格纹白兔复活节蜡烛礼盒-7.png",
+      "sha256": "812e8a3c0a4548614e8dcc85896791e1474129c52b8bf7b4e2589cd71fb3a40e",
+      "image": "assets/candles/easter-little-joys/812e8a3c0a4548614e8d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "象牙兔耳彩蛋蜡烛-5 (1).png",
+      "sha256": "598633183e66e52747ea682363c3c519024e4ae8e9b94cff8bca6e0fab27e039",
+      "image": "assets/candles/easter-little-joys/598633183e66e52747ea.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兔耳彩蛋香薰蜡烛礼盒-10.png",
+      "sha256": "0220d87a11b0ee97bdaea221b7bad2664ae29f7cde32ec31e133887f32cd5809",
+      "image": "assets/candles/easter-little-joys/0220d87a11b0ee97bdae.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "象牙兔耳复活节香薰蜡烛-3.png",
+      "sha256": "0717d004c8c7344c8852b04114beb6a2d42997110ee7aefa95574ccea0e15be6",
+      "image": "assets/candles/easter-little-joys/0717d004c8c7344c8852.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兔耳浮雕复活节蜡烛礼盒-7.png",
+      "sha256": "af660984e567720e9ea2422b273fc3fa703f4088a007257f0381ca8708a4f403",
+      "image": "assets/candles/easter-little-joys/af660984e567720e9ea2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "兔耳黄鸭复活节蜡烛礼盒-10.png",
+      "sha256": "e9ab81b8917d0589c5ead4692b67c7f0a15594782b0adb487c92a6ab29f637e1",
+      "image": "assets/candles/easter-little-joys/e9ab81b8917d0589c5ea.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "天鹅彩蛋复活节香薰蜡烛-4.png",
+      "sha256": "3544e86be5b6320bca4b85a5eaad8a3223ac6d0c55ce5d2fd82b77b680f6d14f",
+      "image": "assets/candles/easter-little-joys/3544e86be5b6320bca4b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "白鹅彩蛋复活节蜡烛礼盒-9.png",
+      "sha256": "94c6941702653a640d79d62f07e9c6f6ecc514d488d46f3cc162e70c619e9731",
+      "image": "assets/candles/easter-little-joys/94c6941702653a640d79.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包5.zip",
+      "source": "白鹅春日复活节香氛蜡烛-1.png",
+      "sha256": "21b4e1e1d16a8009acd8a0f65b985fb41ac94d1a7a69f91b4182d96a5bcc995c",
+      "image": "assets/candles/easter-little-joys/21b4e1e1d16a8009acd8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包4.zip",
+      "source": "条纹白鹅复活节蜡烛礼盒-6.png",
+      "sha256": "66202329c51cc97f258dd9a9f396fa80385231435d7e5d2c26c8a8639d8e47e6",
+      "image": "assets/candles/easter-little-joys/66202329c51cc97f258d.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "duplicateSourceFilesExcluded": [
+    "打包5/波浪彩蛋复活节香薰礼盒-14 (1).png",
+    "打包3/春花彩蛋香薰蜡烛礼盒-10 (1).png",
+    "打包5/雏菊彩蛋复活节蜡烛礼盒-11 (1).png"
+  ],
+  "singleComposition": [
+    "Easter Duckling"
+  ]
+}

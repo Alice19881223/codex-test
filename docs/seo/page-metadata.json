@@ -78,21 +78,28 @@
   },
   "candles-little-joys-2.html": {
     "title": "Little Joys Candles \u2014 Page 2 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 2 of 3.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 2 of 4.",
     "canonical": "https://www.lanarve.com/candles-little-joys-2.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys-3.html": {
     "title": "Little Joys Candles \u2014 Page 3 | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options. Page 3 of 3.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 3 of 4.",
     "canonical": "https://www.lanarve.com/candles-little-joys-3.html",
+    "indexable": true,
+    "type": "collection"
+  },
+  "candles-little-joys-4.html": {
+    "title": "Little Joys Candles \u2014 Page 4 | Lanarve",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options. Page 4 of 4.",
+    "canonical": "https://www.lanarve.com/candles-little-joys-4.html",
     "indexable": true,
     "type": "collection"
   },
   "candles-little-joys.html": {
     "title": "Little Joys Candles | Lanarve",
-    "description": "Explore Little Joys, a Lanarve candles collection. Expressive animal prints and playful candle designs to brighten the everyday. Discover Wild Elegance: leopard rosettes, spotted neutrals and zebra stripes with suggested colour-led fragrances. Discuss wholesale, fragrance and private label options.",
+    "description": "Explore Little Joys, a Lanarve candles collection. Playful candles for little celebrations: Easter eggs, spring rabbits, ducklings, cheerful animals and expressive patterns, paired with bright floral, citrus and green fragrance directions. Discuss wholesale, fragrance and private label options.",
     "canonical": "https://www.lanarve.com/candles-little-joys.html",
     "indexable": true,
     "type": "collection"
@@ -433,6 +440,13 @@
     "indexable": true,
     "type": "page"
   },
+  "fragrance-lemon-verbena-2.html": {
+    "title": "Lemon & Verbena Candles & Diffuser Options \u2014 Page 2 | Lanarve",
+    "description": "Explore Lemon & Verbena fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief. Page 2.",
+    "canonical": "https://www.lanarve.com/fragrance-lemon-verbena-2.html",
+    "indexable": true,
+    "type": "page"
+  },
   "fragrance-lemon-verbena.html": {
     "title": "Lemon & Verbena Candles & Diffuser Options | Lanarve",
     "description": "Explore Lemon & Verbena fragrance notes and suggested Lanarve candle, diffuser and gift pairings. Discuss your private label scent and packaging brief.",
@@ -713,6 +727,13 @@
     "indexable": true,
     "type": "page"
   },
+  "product-lnv-cnd-0106cf42.html": {
+    "title": "Painted Easter Egg Scented candle | Lanarve",
+    "description": "Explore Painted Easter Egg from Lanarve\u2019s Easter Little Joys designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-0106cf42.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-0176b016.html": {
     "title": "Amber Rivulet Scented candle | Lanarve",
     "description": "Explore Amber Rivulet from Lanarve\u2019s Quiet Botanicals designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
@@ -745,6 +766,13 @@
     "title": "Ochre Wild Scented Candle | Lanarve",
     "description": "Explore Ochre Wild from Lanarve\u2019s Earth Tones designs. Discuss Apple & Cinnamon fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-024abdb4.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-02d1f212.html": {
+    "title": "Carrot Garden Bunny Scented candle | Lanarve",
+    "description": "Explore Carrot Garden Bunny from Lanarve\u2019s Easter Little Joys designs. Discuss Fig & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-02d1f212.html",
     "indexable": true,
     "type": "product"
   },
@@ -797,6 +825,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-0f334ec1.html": {
+    "title": "Easter Flower Wreath Scented candle | Lanarve",
+    "description": "Explore Easter Flower Wreath from Lanarve\u2019s Easter Little Joys designs. Discuss Jasmine & Orange Blossom fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-0f334ec1.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-1200010f.html": {
     "title": "Golden Sunflower Scented Candle | Lanarve",
     "description": "Explore Golden Sunflower from Lanarve\u2019s Sunflower designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
@@ -829,6 +864,20 @@
     "title": "Kitten Daydream Scented Candle | Lanarve",
     "description": "Explore Kitten Daydream from Lanarve\u2019s Little Dreamers designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-13297d04.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-147b1cc3.html": {
+    "title": "Easter Duckling Scented candle | Lanarve",
+    "description": "Explore Easter Duckling from Lanarve\u2019s Easter Little Joys designs. Discuss Lemon & Lavender fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-147b1cc3.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-14be914a.html": {
+    "title": "Pistachio Egg Charm Scented candle | Lanarve",
+    "description": "Explore Pistachio Egg Charm from Lanarve\u2019s Easter Little Joys designs. Discuss Green Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-14be914a.html",
     "indexable": true,
     "type": "product"
   },
@@ -895,6 +944,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-21349bfc.html": {
+    "title": "Meadow Leap Rabbit Scented candle | Lanarve",
+    "description": "Explore Meadow Leap Rabbit from Lanarve\u2019s Easter Little Joys designs. Discuss Fig & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-21349bfc.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-26103f10.html": {
     "title": "Ocean Poetry Scented Candle | Lanarve",
     "description": "Explore Ocean Poetry from Lanarve\u2019s Everyday Botanicals designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
@@ -913,6 +969,13 @@
     "title": "Her Soft Glow Scented Candle | Lanarve",
     "description": "Explore Her Soft Glow from Lanarve\u2019s Moments Together designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-29e722e6.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-2a5a36b0.html": {
+    "title": "Hello Spring Goose Scented candle | Lanarve",
+    "description": "Explore Hello Spring Goose from Lanarve\u2019s Easter Little Joys designs. Discuss Lime & Basil fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-2a5a36b0.html",
     "indexable": true,
     "type": "product"
   },
@@ -937,6 +1000,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-2c35ba25.html": {
+    "title": "Sage Gingham Bunny Scented candle | Lanarve",
+    "description": "Explore Sage Gingham Bunny from Lanarve\u2019s Easter Little Joys designs. Discuss White Tea & Rosemary fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-2c35ba25.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-2e6a0e69.html": {
     "title": "Blue Leopard Scented candle | Lanarve",
     "description": "Explore Blue Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
@@ -948,6 +1018,13 @@
     "title": "Ivory Zebra Scented candle | Lanarve",
     "description": "Explore Ivory Zebra from Lanarve\u2019s Wild Elegance designs. Discuss Black Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-300dcebb.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-30fc990b.html": {
+    "title": "Blue Daisy Egg Scented candle | Lanarve",
+    "description": "Explore Blue Daisy Egg from Lanarve\u2019s Easter Little Joys designs. Discuss White Tea & Bergamot fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-30fc990b.html",
     "indexable": true,
     "type": "product"
   },
@@ -969,6 +1046,13 @@
     "title": "Panda Slumber Scented Candle | Lanarve",
     "description": "Explore Panda Slumber from Lanarve\u2019s Little Dreamers designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-382db110.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-386e0a9a.html": {
+    "title": "Rainy Day Duckling Scented candle | Lanarve",
+    "description": "Explore Rainy Day Duckling from Lanarve\u2019s Easter Little Joys designs. Discuss Lemon & Verbena fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-386e0a9a.html",
     "indexable": true,
     "type": "product"
   },
@@ -1147,6 +1231,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-5fd1ed65.html": {
+    "title": "Easter Meadow Rabbit Scented candle | Lanarve",
+    "description": "Explore Easter Meadow Rabbit from Lanarve\u2019s Easter Little Joys designs. Discuss Jasmine & Orange Blossom fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-5fd1ed65.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-6039213d.html": {
     "title": "Gilded Azure Scented Candle | Lanarve",
     "description": "Explore Gilded Azure from Lanarve\u2019s Gilded Skies designs. Discuss Sea Salt & Driftwood fragrance, private label presentation and packaging for your collection.",
@@ -1242,6 +1333,13 @@
     "title": "Blush Heart Confetti Scented candle | Lanarve",
     "description": "Explore Blush Heart Confetti from Lanarve\u2019s For Mum, With Love designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-6bc642ee.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-6c74c82a.html": {
+    "title": "Easter Swan Egg Scented candle | Lanarve",
+    "description": "Explore Easter Swan Egg from Lanarve\u2019s Easter Little Joys designs. Discuss Soft Linen fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-6c74c82a.html",
     "indexable": true,
     "type": "product"
   },
@@ -1490,6 +1588,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-a0956c79.html": {
+    "title": "Golden Daisy Egg Scented candle | Lanarve",
+    "description": "Explore Golden Daisy Egg from Lanarve\u2019s Easter Little Joys designs. Discuss White Tea & Rosemary fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-a0956c79.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-a10a6d55.html": {
     "title": "Golden Gardenia Scented Candle | Lanarve",
     "description": "Explore Golden Gardenia from Lanarve\u2019s Gradient Glass designs. Discuss Gardenia & Tuberose fragrance, private label presentation and packaging for your collection.",
@@ -1560,6 +1665,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-afcaf5ae.html": {
+    "title": "Blush Bunny Ears Scented candle | Lanarve",
+    "description": "Explore Blush Bunny Ears from Lanarve\u2019s Easter Little Joys designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-afcaf5ae.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-b0af05ea.html": {
     "title": "Violet Eight Scented Candle | Lanarve",
     "description": "Explore Violet Eight from Lanarve\u2019s Lucky Charms designs. Discuss Lavender & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -1585,6 +1697,13 @@
     "title": "Botanical Keepsake Scented Candle | Lanarve",
     "description": "Explore Botanical Keepsake from Lanarve\u2019s Botanical Keepsakes designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-b43852d7.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-b674e58d.html": {
+    "title": "Hop into Spring Scented candle | Lanarve",
+    "description": "Explore Hop into Spring from Lanarve\u2019s Easter Little Joys designs. Discuss Pear & Freesia fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-b674e58d.html",
     "indexable": true,
     "type": "product"
   },
@@ -1672,6 +1791,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-cd9e7b1d.html": {
+    "title": "Little Yellow Chick Scented candle | Lanarve",
+    "description": "Explore Little Yellow Chick from Lanarve\u2019s Easter Little Joys designs. Discuss Lemon & Verbena fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-cd9e7b1d.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-ce7cfa4a.html": {
     "title": "Ivory Sunflower Scented Candle | Lanarve",
     "description": "Explore Ivory Sunflower from Lanarve\u2019s Sunflower designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
@@ -1714,6 +1840,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-d5f4a8ed.html": {
+    "title": "Blush Speckled Egg Scented candle | Lanarve",
+    "description": "Explore Blush Speckled Egg from Lanarve\u2019s Easter Little Joys designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-d5f4a8ed.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-d63b27c8.html": {
     "title": "Green Tea Poetry Scented Candle | Lanarve",
     "description": "Explore Green Tea Poetry from Lanarve\u2019s Everyday Botanicals designs. Discuss Green Tea & Cedarwood fragrance, private label presentation and packaging for your collection.",
@@ -1739,6 +1872,13 @@
     "title": "Ember Leopard Scented candle | Lanarve",
     "description": "Explore Ember Leopard from Lanarve\u2019s Wild Elegance designs. Discuss Pomegranate & Amber fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-d7f8bbb8.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-d80a2454.html": {
+    "title": "Honeybee Basket Scented candle | Lanarve",
+    "description": "Explore Honeybee Basket from Lanarve\u2019s Easter Little Joys designs. Discuss Amber & Vanilla fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-d80a2454.html",
     "indexable": true,
     "type": "product"
   },
@@ -1819,6 +1959,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-e7b06251.html": {
+    "title": "Blue Gingham Bunny Scented candle | Lanarve",
+    "description": "Explore Blue Gingham Bunny from Lanarve\u2019s Easter Little Joys designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-e7b06251.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-e7e0db65.html": {
     "title": "Ivory Oval Scented Candle | Lanarve",
     "description": "Explore Ivory Oval from Lanarve\u2019s Oval Relief designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
@@ -1837,6 +1984,13 @@
     "title": "Olive Botanical Keepsake Scented Candle | Lanarve",
     "description": "Explore Olive Botanical Keepsake from Lanarve\u2019s Botanical Cylinder designs. Discuss Grapefruit & Bergamot fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-e96d2f2b.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-ebd7af0a.html": {
+    "title": "Blossom Shell Chick Scented candle | Lanarve",
+    "description": "Explore Blossom Shell Chick from Lanarve\u2019s Easter Little Joys designs. Discuss Peony & Lychee fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-ebd7af0a.html",
     "indexable": true,
     "type": "product"
   },
@@ -1868,6 +2022,13 @@
     "indexable": true,
     "type": "product"
   },
+  "product-lnv-cnd-f1dc6280.html": {
+    "title": "Bunny-Ear Egg Scented candle | Lanarve",
+    "description": "Explore Bunny-Ear Egg from Lanarve\u2019s Easter Little Joys designs. Discuss Vanilla & Tonka fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-f1dc6280.html",
+    "indexable": true,
+    "type": "product"
+  },
   "product-lnv-cnd-f1f08177.html": {
     "title": "Ivory Speckle Scented Candle | Lanarve",
     "description": "Explore Ivory Speckle from Lanarve\u2019s Speckled Forms designs. Discuss Sandalwood & Cashmere fragrance, private label presentation and packaging for your collection.",
@@ -1879,6 +2040,13 @@
     "title": "Desert Rose Scented Candle | Lanarve",
     "description": "Explore Desert Rose from Lanarve\u2019s Organic Glass designs. Discuss Rose & Green Leaves fragrance, private label presentation and packaging for your collection.",
     "canonical": "https://www.lanarve.com/product-lnv-cnd-f2bcaa94.html",
+    "indexable": true,
+    "type": "product"
+  },
+  "product-lnv-cnd-f34846f0.html": {
+    "title": "Mint Folk Egg Scented candle | Lanarve",
+    "description": "Explore Mint Folk Egg from Lanarve\u2019s Easter Little Joys designs. Discuss Osmanthus & Green Tea fragrance, private label presentation and packaging for your collection.",
+    "canonical": "https://www.lanarve.com/product-lnv-cnd-f34846f0.html",
     "indexable": true,
     "type": "product"
   },
