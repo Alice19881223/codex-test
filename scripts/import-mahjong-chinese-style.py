@@ -34,7 +34,7 @@ DESIGNS = [
 # Existing candle designs whose motifs clearly belong to the same visual story.
 EXISTING_KEYS = [
     'Blue & White Landscapes | Blue & White Landscape Candle',
-    'Poetic Botanicals | Golden Midnight Bloom',
+    'Little Dreamers | Panda Slumber',
     'Botanical Teacups | Plum Blossom Teacup',
     'Botanical Teacups | Orchid Teacup',
     'Botanical Teacups | Bamboo Teacup',
@@ -42,6 +42,9 @@ EXISTING_KEYS = [
     'Bamboo Grove | Golden Bamboo Ripple',
     'Bamboo Grove | Sage Bamboo Ripple',
 ]
+RELOCATIONS = {
+    'Poetic Botanicals | Golden Midnight Bloom': 'close-to-you',
+}
 
 def read(name):
     return json.loads((ROOT / 'assets' / name).read_text())
@@ -131,11 +134,16 @@ def main():
 
     # Keep the new Mahjong story first, followed by the reviewed Chinese-style archive edit.
     new_keys = [p['series'] + ' | ' + p['name'] for p in added]
-    claimed = previous_keys | set(EXISTING_KEYS)
+    claimed = previous_keys | set(EXISTING_KEYS) | set(RELOCATIONS)
     for collection in collections:
         collection['productKeys'] = [key for key in collection['productKeys'] if key not in claimed]
         collection['pages'] = [collection['productKeys'][i:i + 12]
                                for i in range(0, len(collection['productKeys']), 12)]
+    for relocated_key, target_slug in RELOCATIONS.items():
+        target = next(c for c in collections if c['slug'] == target_slug)
+        target['productKeys'].append(relocated_key)
+        target['pages'] = [target['productKeys'][i:i + 12]
+                           for i in range(0, len(target['productKeys']), 12)]
     chinese = next((c for c in collections if c['slug'] == COLLECTION_SLUG), None)
     collection_keys = new_keys + EXISTING_KEYS
     if chinese is None:
@@ -143,7 +151,7 @@ def main():
         collections.append(chinese)
     chinese.update({
         'slug': COLLECTION_SLUG,
-        'name': '中国风',
+        'name': 'Chinese Artistry',
         'description': 'Mahjong symbols, blue-and-white landscapes, the Four Gentlemen and bamboo forms bring Chinese visual culture into a refined candle collection, paired with tea, incense, woods and luminous florals.',
         'eyebrow': 'CHINESE ARTISTRY',
         'story': 'From the social ritual of a Mahjong table to blue-and-white porcelain and the symbolic plum, orchid, bamboo and chrysanthemum, each design translates a familiar Chinese motif into a contemporary object for the home.',
@@ -163,6 +171,7 @@ def main():
         'products': added,
         'images': sources,
         'integratedExistingKeys': EXISTING_KEYS,
+        'relocations': RELOCATIONS,
         'collectionCount': len(collection_keys),
         'reviewNotes': 'All seven supplied Mahjong designs were visually reviewed and paired with their coordinated packaging photograph.',
     }

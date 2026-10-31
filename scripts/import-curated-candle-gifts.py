@@ -20,7 +20,7 @@ SERIES = {
 }
 COLLECTION_OVERRIDES = {
     'Midnight Poppy': 'close-to-you',
-    'Golden Midnight Bloom': 'chinese-style',
+    'Golden Midnight Bloom': 'close-to-you',
 }
 
 # archive, standalone, archive, gift-box image, name, series, scent, palette, introduction

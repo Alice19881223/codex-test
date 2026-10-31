@@ -274,7 +274,8 @@
       "Words in Bloom | A Little Happiness",
       "Words in Bloom | Kindness Grows",
       "Words in Bloom | Ribbon of Joy",
-      "Quiet Botanicals | Midnight Poppy"
+      "Quiet Botanicals | Midnight Poppy",
+      "Poetic Botanicals | Golden Midnight Bloom"
     ],
     "icon": "heart",
     "pages": [
@@ -315,7 +316,8 @@
         "Words in Bloom | A Little Happiness",
         "Words in Bloom | Kindness Grows",
         "Words in Bloom | Ribbon of Joy",
-        "Quiet Botanicals | Midnight Poppy"
+        "Quiet Botanicals | Midnight Poppy",
+        "Poetic Botanicals | Golden Midnight Bloom"
       ]
     ],
     "manualPageOrder": true,
@@ -365,7 +367,6 @@
       "Easter Little Joys | Spring Bunny Wreath",
       "Playful Birthday | Birthday Celebration",
       "Little Dreamers | Puppy Dreams",
-      "Little Dreamers | Panda Slumber",
       "Little Dreamers | Kitten Daydream",
       "Little Dreamers | Little Pumpkin Ghost",
       "Lucky Charms | Sunny Six",
@@ -429,7 +430,6 @@
         "Little Dreamers | Puppy Dreams"
       ],
       [
-        "Little Dreamers | Panda Slumber",
         "Little Dreamers | Kitten Daydream",
         "Little Dreamers | Little Pumpkin Ghost",
         "Lucky Charms | Sunny Six",
@@ -440,10 +440,10 @@
         "Little Companions | Golden Companion",
         "Little Companions | Corgi Cuddles",
         "Halloween | Pumpkin & Ghost",
-        "Birthday Wishes | Birthday Surprise Egg"
+        "Birthday Wishes | Birthday Surprise Egg",
+        "Jellyfish | Jellyfish Egg Candle"
       ],
       [
-        "Jellyfish | Jellyfish Egg Candle",
         "Jellyfish | Jellyfish Glass Candle",
         "Midnight Ballet | Midnight Ballet Candle",
         "Garden Joys | Ivory Daisy",
@@ -541,7 +541,7 @@
   },
   {
     "slug": "chinese-style",
-    "name": "中国风",
+    "name": "Chinese Artistry",
     "description": "Mahjong symbols, blue-and-white landscapes, the Four Gentlemen and bamboo forms bring Chinese visual culture into a refined candle collection, paired with tea, incense, woods and luminous florals.",
     "eyebrow": "CHINESE ARTISTRY",
     "story": "From the social ritual of a Mahjong table to blue-and-white porcelain and the symbolic plum, orchid, bamboo and chrysanthemum, each design translates a familiar Chinese motif into a contemporary object for the home.",
@@ -555,7 +555,7 @@
       "Mahjong Stories | Red Dragon",
       "Mahjong Stories | Bamboo Sparrow",
       "Blue & White Landscapes | Blue & White Landscape Candle",
-      "Poetic Botanicals | Golden Midnight Bloom",
+      "Little Dreamers | Panda Slumber",
       "Botanical Teacups | Plum Blossom Teacup",
       "Botanical Teacups | Orchid Teacup",
       "Botanical Teacups | Bamboo Teacup",
@@ -573,7 +573,7 @@
         "Mahjong Stories | Red Dragon",
         "Mahjong Stories | Bamboo Sparrow",
         "Blue & White Landscapes | Blue & White Landscape Candle",
-        "Poetic Botanicals | Golden Midnight Bloom",
+        "Little Dreamers | Panda Slumber",
         "Botanical Teacups | Plum Blossom Teacup",
         "Botanical Teacups | Orchid Teacup",
         "Botanical Teacups | Bamboo Teacup"

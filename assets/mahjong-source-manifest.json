@@ -237,7 +237,7 @@
   ],
   "integratedExistingKeys": [
     "Blue & White Landscapes | Blue & White Landscape Candle",
-    "Poetic Botanicals | Golden Midnight Bloom",
+    "Little Dreamers | Panda Slumber",
     "Botanical Teacups | Plum Blossom Teacup",
     "Botanical Teacups | Orchid Teacup",
     "Botanical Teacups | Bamboo Teacup",
@@ -245,6 +245,9 @@
     "Bamboo Grove | Golden Bamboo Ripple",
     "Bamboo Grove | Sage Bamboo Ripple"
   ],
+  "relocations": {
+    "Poetic Botanicals | Golden Midnight Bloom": "close-to-you"
+  },
   "collectionCount": 15,
   "reviewNotes": "All seven supplied Mahjong designs were visually reviewed and paired with their coordinated packaging photograph."
 }
