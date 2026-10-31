@@ -284,7 +284,12 @@
       "For Mum, With Love | Oakheart for Mum",
       "For Mum, With Love | Love Note for Mum",
       "For Mum, With Love | Blue Garden for Mum",
-      "For Mum, With Love | Blush Heart Confetti"
+      "For Mum, With Love | Blush Heart Confetti",
+      "Words in Bloom | Rose Ribbon",
+      "Words in Bloom | Gratitude in Bloom",
+      "Words in Bloom | A Little Happiness",
+      "Words in Bloom | Kindness Grows",
+      "Words in Bloom | Ribbon of Joy"
     ],
     "icon": "heart",
     "pages": [
@@ -319,7 +324,12 @@
       [
         "For Mum, With Love | Love Note for Mum",
         "For Mum, With Love | Blue Garden for Mum",
-        "For Mum, With Love | Blush Heart Confetti"
+        "For Mum, With Love | Blush Heart Confetti",
+        "Words in Bloom | Rose Ribbon",
+        "Words in Bloom | Gratitude in Bloom",
+        "Words in Bloom | A Little Happiness",
+        "Words in Bloom | Kindness Grows",
+        "Words in Bloom | Ribbon of Joy"
       ]
     ],
     "manualPageOrder": true,
@@ -385,7 +395,8 @@
       "Jellyfish | Jellyfish Glass Candle",
       "Midnight Ballet | Midnight Ballet Candle",
       "Garden Joys | Ivory Daisy",
-      "Garden Joys | Emerald Bubbles"
+      "Garden Joys | Emerald Bubbles",
+      "Joyful Little Things | Happy Fries"
     ],
     "icon": "joy",
     "pages": [
@@ -450,7 +461,8 @@
         "Jellyfish | Jellyfish Glass Candle",
         "Midnight Ballet | Midnight Ballet Candle",
         "Garden Joys | Ivory Daisy",
-        "Garden Joys | Emerald Bubbles"
+        "Garden Joys | Emerald Bubbles",
+        "Joyful Little Things | Happy Fries"
       ]
     ],
     "manualPageOrder": true,
@@ -482,7 +494,20 @@
       "Everyday Poetry | Crab & Tide",
       "Everyday Poetry | Peach Anchovies",
       "Everyday Poetry | Coastal Glow Candle",
-      "Poetic Botanicals | Golden Midnight Bloom"
+      "Poetic Botanicals | Golden Midnight Bloom",
+      "Coastal Daydreams | Blue Shoal",
+      "Coastal Daydreams | Steady Helm",
+      "Coastal Daydreams | Little Sailor",
+      "Coastal Daydreams | After the Rain",
+      "Coastal Daydreams | Coastal Shell",
+      "Coastal Daydreams | Sail Away",
+      "Coastal Daydreams | Tidepool Star",
+      "Coastal Daydreams | Sea Breeze Fish",
+      "Coastal Daydreams | Golden Hour Tide",
+      "Coastal Daydreams | Pocket Sunshine",
+      "Coastal Daydreams | Cloud Linen",
+      "Coastal Daydreams | Moon & Little Star",
+      "Coastal Daydreams | Cedar Air"
     ],
     "icon": "everyday",
     "pages": [
@@ -510,7 +535,22 @@
         "Everyday Poetry | Crab & Tide",
         "Everyday Poetry | Peach Anchovies",
         "Everyday Poetry | Coastal Glow Candle",
-        "Poetic Botanicals | Golden Midnight Bloom"
+        "Poetic Botanicals | Golden Midnight Bloom",
+        "Coastal Daydreams | Blue Shoal",
+        "Coastal Daydreams | Steady Helm"
+      ],
+      [
+        "Coastal Daydreams | Little Sailor",
+        "Coastal Daydreams | After the Rain",
+        "Coastal Daydreams | Coastal Shell",
+        "Coastal Daydreams | Sail Away",
+        "Coastal Daydreams | Tidepool Star",
+        "Coastal Daydreams | Sea Breeze Fish",
+        "Coastal Daydreams | Golden Hour Tide",
+        "Coastal Daydreams | Pocket Sunshine",
+        "Coastal Daydreams | Cloud Linen",
+        "Coastal Daydreams | Moon & Little Star",
+        "Coastal Daydreams | Cedar Air"
       ]
     ],
     "manualPageOrder": true

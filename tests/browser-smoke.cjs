@@ -200,18 +200,39 @@ try{
  if(fs.existsSync(easterManifestPath)){
   const manifest=JSON.parse(fs.readFileSync(easterManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='little-joys');
   assert.equal(designs.length,28);assert.equal(manifest.images.length,55);assert.equal(manifest.pairedCount,27);assert.equal(manifest.singleCompositionCount,1);assert.equal(manifest.duplicateSourceFilesExcluded.length,3);assert.match(collection.description+collection.story,/Easter/);
-  assert.deepEqual(collection.productKeys.slice(6,34),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,12,5]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
+  assert.deepEqual(collection.productKeys.slice(6,34),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,12,6]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
   const representatives=['Painted Easter Egg','Rainy Day Duckling','Honeybee Basket','Bunny-Ear Egg','Easter Duckling','Spring Bunny Wreath'].map(name=>designs.find(d=>d.name===name));
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
    await page.goto(base+'/candles-little-joys.html');assert.match(await page.locator('.candle-mood-intro').textContent(),/Easter edit/);
    for(const design of representatives){
-    const record=records.find(r=>r.category==='candle'&&r.image===design.image),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+design.name+'</h3>'));assert.ok(record&&route,design.name+' published');await page.goto(base+'/'+route);
+    const record=records.find(r=>r.category==='candle'&&r.image===design.image),htmlName=design.name.replaceAll('&','&amp;'),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+htmlName+'</h3>'));assert.ok(record&&route,design.name+' published');await page.goto(base+'/'+route);
     const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})});assert.equal(await card.locator('.photo-single').count(),1);
     if(design.packagingImage){const wrapper=card.locator('xpath=..');assert.equal(await card.locator('.photo-packaging').count(),1);if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}}
     await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),design.packagingImage?2:1);assert.match(await page.locator('.product-design-description').textContent(),/Easter|spring/i);assert.match(await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent(),/Never leave a burning candle unattended/);
    }
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'Easter detail overflow');await ctx.close();
+  }
+ }
+ // Lifestyle messages and coastal motifs retain every supplied product/packaging pair and use theme-led fragrance assignments.
+ const lifestyleOceanManifestPath=path.join(root,'assets/lifestyle-ocean-source-manifest.json');
+ if(fs.existsSync(lifestyleOceanManifestPath)){
+  const manifest=JSON.parse(fs.readFileSync(lifestyleOceanManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json')));
+  const placement={'Joyful Little Things':'little-joys','Words in Bloom':'close-to-you','Coastal Daydreams':'everyday-poetry'};
+  assert.equal(designs.length,19);assert.equal(manifest.images.length,38);assert.equal(manifest.pairedCount,19);assert.deepEqual(manifest.collectionCounts,{'close-to-you':5,'everyday-poetry':13,'little-joys':1});
+  assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.assignedScent&&d.designDescription.length>120));
+  for(const design of designs){const collection=collections.find(c=>c.slug===placement[design.series]);assert.equal(collection.productKeys.filter(key=>key===design.series+' | '+design.name).length,1);assert.ok(records.find(r=>r.category==='candle'&&r.image===design.image));}
+  assert.ok(collections.every(collection=>collection.pages.slice(0,-1).every(page=>page.length===12)),'every non-final collection page contains twelve products');
+  const representatives=['Happy Fries','Gratitude in Bloom','Blue Shoal','Golden Hour Tide','Moon & Little Star'].map(name=>designs.find(d=>d.name===name));
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
+   for(const design of representatives){
+    const record=records.find(r=>r.category==='candle'&&r.image===design.image),htmlName=design.name.replaceAll('&','&amp;'),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+htmlName+'</h3>'));assert.ok(record&&route,design.name+' published');await page.goto(base+'/'+route);
+    const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}),wrapper=card.locator('xpath=..');assert.equal(await card.locator('.paired-photo img').count(),2);
+    if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}
+    await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);assert.ok((await page.locator('.product-design-description').textContent()).trim().length>100);
+   }
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'lifestyle and ocean detail overflow');await ctx.close();
   }
  }
  // The independent lifestyle theme must be reachable as a fifth collection.

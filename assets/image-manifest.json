@@ -18125,5 +18125,879 @@
         "bytes": 103670
       }
     ]
+  },
+  "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1676860,
+    "src": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4-480.webp",
+        "width": 480,
+        "bytes": 8810
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4-960.webp",
+        "width": 960,
+        "bytes": 27008
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
+        "width": 1254,
+        "bytes": 47122
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/d8e14fc5234ef7a5df21.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1785925,
+    "src": "assets/candles/lifestyle-ocean/d8e14fc5234ef7a5df21.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/d8e14fc5234ef7a5df21-480.webp",
+        "width": 480,
+        "bytes": 13748
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d8e14fc5234ef7a5df21-960.webp",
+        "width": 960,
+        "bytes": 38660
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d8e14fc5234ef7a5df21.webp",
+        "width": 1254,
+        "bytes": 66718
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1630964,
+    "src": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf-480.webp",
+        "width": 480,
+        "bytes": 10076
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf-960.webp",
+        "width": 960,
+        "bytes": 26216
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf.webp",
+        "width": 1254,
+        "bytes": 44996
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/299a9b34b2a47e5ca036.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1908026,
+    "src": "assets/candles/lifestyle-ocean/299a9b34b2a47e5ca036.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/299a9b34b2a47e5ca036-480.webp",
+        "width": 480,
+        "bytes": 17908
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/299a9b34b2a47e5ca036-960.webp",
+        "width": 960,
+        "bytes": 57284
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/299a9b34b2a47e5ca036.webp",
+        "width": 1254,
+        "bytes": 97714
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1654324,
+    "src": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6-480.webp",
+        "width": 480,
+        "bytes": 8174
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6-960.webp",
+        "width": 960,
+        "bytes": 25904
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6.webp",
+        "width": 1254,
+        "bytes": 45626
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/11867e982c9ad2a3fa5f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1847708,
+    "src": "assets/candles/lifestyle-ocean/11867e982c9ad2a3fa5f.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/11867e982c9ad2a3fa5f-480.webp",
+        "width": 480,
+        "bytes": 14952
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/11867e982c9ad2a3fa5f-960.webp",
+        "width": 960,
+        "bytes": 45668
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/11867e982c9ad2a3fa5f.webp",
+        "width": 1254,
+        "bytes": 79312
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/0751c281a72560bcb096.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1689725,
+    "src": "assets/candles/lifestyle-ocean/0751c281a72560bcb096.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/0751c281a72560bcb096-480.webp",
+        "width": 480,
+        "bytes": 9080
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/0751c281a72560bcb096-960.webp",
+        "width": 960,
+        "bytes": 28496
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/0751c281a72560bcb096.webp",
+        "width": 1254,
+        "bytes": 50300
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/b8e2ede5365e2ba86ea7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1856665,
+    "src": "assets/candles/lifestyle-ocean/b8e2ede5365e2ba86ea7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/b8e2ede5365e2ba86ea7-480.webp",
+        "width": 480,
+        "bytes": 15272
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/b8e2ede5365e2ba86ea7-960.webp",
+        "width": 960,
+        "bytes": 49702
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/b8e2ede5365e2ba86ea7.webp",
+        "width": 1254,
+        "bytes": 87034
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1719959,
+    "src": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c-480.webp",
+        "width": 480,
+        "bytes": 8128
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c-960.webp",
+        "width": 960,
+        "bytes": 28674
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c.webp",
+        "width": 1254,
+        "bytes": 51644
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/88ca8d1cb527985b8225.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1877959,
+    "src": "assets/candles/lifestyle-ocean/88ca8d1cb527985b8225.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/88ca8d1cb527985b8225-480.webp",
+        "width": 480,
+        "bytes": 13858
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/88ca8d1cb527985b8225-960.webp",
+        "width": 960,
+        "bytes": 50866
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/88ca8d1cb527985b8225.webp",
+        "width": 1254,
+        "bytes": 87240
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1685057,
+    "src": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0-480.webp",
+        "width": 480,
+        "bytes": 9846
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0-960.webp",
+        "width": 960,
+        "bytes": 28870
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0.webp",
+        "width": 1254,
+        "bytes": 49002
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/8fdf1a33d9837eec42ed.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1892870,
+    "src": "assets/candles/lifestyle-ocean/8fdf1a33d9837eec42ed.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/8fdf1a33d9837eec42ed-480.webp",
+        "width": 480,
+        "bytes": 16194
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/8fdf1a33d9837eec42ed-960.webp",
+        "width": 960,
+        "bytes": 56108
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/8fdf1a33d9837eec42ed.webp",
+        "width": 1254,
+        "bytes": 95492
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1668094,
+    "src": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d-480.webp",
+        "width": 480,
+        "bytes": 10016
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d-960.webp",
+        "width": 960,
+        "bytes": 27690
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d.webp",
+        "width": 1254,
+        "bytes": 48150
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/30a3d8849b1e134d3866.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1827453,
+    "src": "assets/candles/lifestyle-ocean/30a3d8849b1e134d3866.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/30a3d8849b1e134d3866-480.webp",
+        "width": 480,
+        "bytes": 18732
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/30a3d8849b1e134d3866-960.webp",
+        "width": 960,
+        "bytes": 51620
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/30a3d8849b1e134d3866.webp",
+        "width": 1254,
+        "bytes": 85808
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1719111,
+    "src": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a-480.webp",
+        "width": 480,
+        "bytes": 10858
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a-960.webp",
+        "width": 960,
+        "bytes": 29648
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a.webp",
+        "width": 1254,
+        "bytes": 49822
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/144476b41fa6d8b127ed.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1887275,
+    "src": "assets/candles/lifestyle-ocean/144476b41fa6d8b127ed.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/144476b41fa6d8b127ed-480.webp",
+        "width": 480,
+        "bytes": 18374
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/144476b41fa6d8b127ed-960.webp",
+        "width": 960,
+        "bytes": 53844
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/144476b41fa6d8b127ed.webp",
+        "width": 1254,
+        "bytes": 91746
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1687534,
+    "src": "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/74da322c9515e846a67f-480.webp",
+        "width": 480,
+        "bytes": 9998
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/74da322c9515e846a67f-960.webp",
+        "width": 960,
+        "bytes": 27520
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp",
+        "width": 1254,
+        "bytes": 48194
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/d3081f7694a998474523.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1903202,
+    "src": "assets/candles/lifestyle-ocean/d3081f7694a998474523.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/d3081f7694a998474523-480.webp",
+        "width": 480,
+        "bytes": 18166
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d3081f7694a998474523-960.webp",
+        "width": 960,
+        "bytes": 57022
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d3081f7694a998474523.webp",
+        "width": 1254,
+        "bytes": 97058
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1677226,
+    "src": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce-480.webp",
+        "width": 480,
+        "bytes": 8274
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce-960.webp",
+        "width": 960,
+        "bytes": 27538
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce.webp",
+        "width": 1254,
+        "bytes": 49352
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/d593bc3f01c928897785.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1748306,
+    "src": "assets/candles/lifestyle-ocean/d593bc3f01c928897785.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/d593bc3f01c928897785-480.webp",
+        "width": 480,
+        "bytes": 13340
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d593bc3f01c928897785-960.webp",
+        "width": 960,
+        "bytes": 40268
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d593bc3f01c928897785.webp",
+        "width": 1254,
+        "bytes": 68366
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1724005,
+    "src": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683-480.webp",
+        "width": 480,
+        "bytes": 9140
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683-960.webp",
+        "width": 960,
+        "bytes": 31000
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683.webp",
+        "width": 1254,
+        "bytes": 54756
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/b9f55f473f1cae15b5d3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1806734,
+    "src": "assets/candles/lifestyle-ocean/b9f55f473f1cae15b5d3.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/b9f55f473f1cae15b5d3-480.webp",
+        "width": 480,
+        "bytes": 13652
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/b9f55f473f1cae15b5d3-960.webp",
+        "width": 960,
+        "bytes": 45800
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/b9f55f473f1cae15b5d3.webp",
+        "width": 1254,
+        "bytes": 78934
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1711464,
+    "src": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8-480.webp",
+        "width": 480,
+        "bytes": 7176
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8-960.webp",
+        "width": 960,
+        "bytes": 26340
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8.webp",
+        "width": 1254,
+        "bytes": 48950
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/4ac2956bb6e3725d397e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1908414,
+    "src": "assets/candles/lifestyle-ocean/4ac2956bb6e3725d397e.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/4ac2956bb6e3725d397e-480.webp",
+        "width": 480,
+        "bytes": 12596
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/4ac2956bb6e3725d397e-960.webp",
+        "width": 960,
+        "bytes": 50914
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/4ac2956bb6e3725d397e.webp",
+        "width": 1254,
+        "bytes": 89004
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1718409,
+    "src": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2-480.webp",
+        "width": 480,
+        "bytes": 10028
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2-960.webp",
+        "width": 960,
+        "bytes": 32766
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2.webp",
+        "width": 1254,
+        "bytes": 57156
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/53c118753bdb7504e0d7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1904342,
+    "src": "assets/candles/lifestyle-ocean/53c118753bdb7504e0d7.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/53c118753bdb7504e0d7-480.webp",
+        "width": 480,
+        "bytes": 15564
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/53c118753bdb7504e0d7-960.webp",
+        "width": 960,
+        "bytes": 53680
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/53c118753bdb7504e0d7.webp",
+        "width": 1254,
+        "bytes": 92332
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1773416,
+    "src": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a-480.webp",
+        "width": 480,
+        "bytes": 9162
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a-960.webp",
+        "width": 960,
+        "bytes": 33334
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a.webp",
+        "width": 1254,
+        "bytes": 61206
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/e2d23e8d4dfd8e416592.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1814826,
+    "src": "assets/candles/lifestyle-ocean/e2d23e8d4dfd8e416592.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/e2d23e8d4dfd8e416592-480.webp",
+        "width": 480,
+        "bytes": 12206
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/e2d23e8d4dfd8e416592-960.webp",
+        "width": 960,
+        "bytes": 42314
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/e2d23e8d4dfd8e416592.webp",
+        "width": 1254,
+        "bytes": 72918
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1728183,
+    "src": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba-480.webp",
+        "width": 480,
+        "bytes": 9164
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba-960.webp",
+        "width": 960,
+        "bytes": 33390
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba.webp",
+        "width": 1254,
+        "bytes": 59418
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/25f6018dc602f0f10d62.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1917942,
+    "src": "assets/candles/lifestyle-ocean/25f6018dc602f0f10d62.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/25f6018dc602f0f10d62-480.webp",
+        "width": 480,
+        "bytes": 13324
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/25f6018dc602f0f10d62-960.webp",
+        "width": 960,
+        "bytes": 52874
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/25f6018dc602f0f10d62.webp",
+        "width": 1254,
+        "bytes": 96084
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1716575,
+    "src": "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/359f38c2906afe0da243-480.webp",
+        "width": 480,
+        "bytes": 8722
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/359f38c2906afe0da243-960.webp",
+        "width": 960,
+        "bytes": 27262
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp",
+        "width": 1254,
+        "bytes": 48610
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/a082d6be7e2343743820.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1762196,
+    "src": "assets/candles/lifestyle-ocean/a082d6be7e2343743820.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/a082d6be7e2343743820-480.webp",
+        "width": 480,
+        "bytes": 14142
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/a082d6be7e2343743820-960.webp",
+        "width": 960,
+        "bytes": 42002
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/a082d6be7e2343743820.webp",
+        "width": 1254,
+        "bytes": 70744
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1656930,
+    "src": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f-480.webp",
+        "width": 480,
+        "bytes": 8096
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f-960.webp",
+        "width": 960,
+        "bytes": 21756
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp",
+        "width": 1254,
+        "bytes": 37652
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/3534703573da501b3ebc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1868015,
+    "src": "assets/candles/lifestyle-ocean/3534703573da501b3ebc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/3534703573da501b3ebc-480.webp",
+        "width": 480,
+        "bytes": 11126
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/3534703573da501b3ebc-960.webp",
+        "width": 960,
+        "bytes": 44948
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/3534703573da501b3ebc.webp",
+        "width": 1254,
+        "bytes": 80012
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1736948,
+    "src": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9-480.webp",
+        "width": 480,
+        "bytes": 10466
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9-960.webp",
+        "width": 960,
+        "bytes": 30180
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp",
+        "width": 1254,
+        "bytes": 51534
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/d777fe72c2e5408baf3b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1844915,
+    "src": "assets/candles/lifestyle-ocean/d777fe72c2e5408baf3b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/d777fe72c2e5408baf3b-480.webp",
+        "width": 480,
+        "bytes": 20598
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d777fe72c2e5408baf3b-960.webp",
+        "width": 960,
+        "bytes": 60886
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d777fe72c2e5408baf3b.webp",
+        "width": 1254,
+        "bytes": 100618
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1647114,
+    "src": "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/d76c4975922cda774150-480.webp",
+        "width": 480,
+        "bytes": 9010
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d76c4975922cda774150-960.webp",
+        "width": 960,
+        "bytes": 23714
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp",
+        "width": 1254,
+        "bytes": 41968
+      }
+    ]
+  },
+  "assets/candles/lifestyle-ocean/956f40eeda4f3ad7b265.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1833006,
+    "src": "assets/candles/lifestyle-ocean/956f40eeda4f3ad7b265.webp",
+    "variants": [
+      {
+        "src": "assets/candles/lifestyle-ocean/956f40eeda4f3ad7b265-480.webp",
+        "width": 480,
+        "bytes": 11770
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/956f40eeda4f3ad7b265-960.webp",
+        "width": 960,
+        "bytes": 43712
+      },
+      {
+        "src": "assets/candles/lifestyle-ocean/956f40eeda4f3ad7b265.webp",
+        "width": 1254,
+        "bytes": 78082
+      }
+    ]
   }
 }

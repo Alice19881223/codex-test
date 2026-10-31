@@ -281,6 +281,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6.webp",
+        "name": "Gratitude in Bloom",
+        "series": "Words in Bloom",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-c940dced.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/f9fa2d8a3fb0810dae3f.png",
         "name": "Sunlit Petals",
         "series": "Botanical Sketches",
@@ -740,6 +748,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf.webp",
+        "name": "Rose Ribbon",
+        "series": "Words in Bloom",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-da241c82.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
         "name": "Spring Muse",
         "series": "Spring & Summer Light",
@@ -1167,6 +1183,14 @@
         "href": "product-lnv-cnd-2a5a36b0.html?scent=lime-basil"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8.webp",
+        "name": "Sail Away",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-d9000768.html?scent=lime-basil"
+      },
+      {
         "category": "reed",
         "image": "assets/companions/7ca9a742e8adc548081d.webp",
         "name": "Lime & Chamomile Atelier",
@@ -1352,6 +1376,14 @@
         "series": "Spring & Summer Light",
         "catalogueHref": "candles-morning-light.html",
         "href": "product-lnv-cnd-e690a18e.html?scent=grapefruit-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a.webp",
+        "name": "Sea Breeze Fish",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-ff6ac672.html?scent=grapefruit-bergamot"
       }
     ],
     "family": "Fresh & Natural",
@@ -1599,6 +1631,22 @@
         "series": "Garden Joys",
         "catalogueHref": "candles-little-joys-5.html",
         "href": "product-lnv-cnd-8b6f3848.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/0751c281a72560bcb096.webp",
+        "name": "A Little Happiness",
+        "series": "Words in Bloom",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-1f71e1ff.html?scent=bergamot-neroli"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp",
+        "name": "Pocket Sunshine",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-ee52d666.html?scent=bergamot-neroli"
       },
       {
         "category": "candle",
@@ -2188,6 +2236,14 @@
         "series": "Lucky Charms",
         "catalogueHref": "candles-little-joys-4.html",
         "href": "product-lnv-cnd-b0af05ea.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp",
+        "name": "Moon & Little Star",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-1d4e7c79.html?scent=lavender-cedarwood"
       }
     ],
     "family": "Fresh & Natural",
@@ -2614,6 +2670,14 @@
         "series": "Easter Little Joys",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-30fc990b.html?scent=white-tea-bergamot"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce.webp",
+        "name": "After the Rain",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-cb4ad54c.html?scent=white-tea-bergamot"
       }
     ],
     "family": "Tea & Tranquility",
@@ -2770,6 +2834,14 @@
         "series": "Spring Garden",
         "catalogueHref": "candles-morning-light-4.html",
         "href": "product-lnv-cnd-d7d4f8cd.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c.webp",
+        "name": "Kindness Grows",
+        "series": "Words in Bloom",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-dc84b662.html?scent=white-tea-rosemary"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3066,6 +3138,14 @@
         "series": "Postbox",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-2aa9759f.html?scent=clean-cotton"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp",
+        "name": "Cedar Air",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-ddaf6766.html?scent=clean-cotton"
       }
     ],
     "family": "Fresh & Natural",
@@ -3154,6 +3234,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0.webp",
+        "name": "Ribbon of Joy",
+        "series": "Words in Bloom",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-4aca101b.html?scent=soft-linen"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/standalone/c16e84d4b08163a71109.png",
         "name": "Ivory Rice Blossom",
         "series": "Quiet Domes",
@@ -3183,6 +3271,22 @@
         "series": "Spring Garden",
         "catalogueHref": "candles-morning-light-4.html",
         "href": "product-lnv-cnd-e50ffd45.html?scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp",
+        "name": "Little Sailor",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-2f25d135.html?scent=soft-linen"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp",
+        "name": "Cloud Linen",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-fec0b9a5.html?scent=soft-linen"
       },
       {
         "category": "halloween",
@@ -3379,6 +3483,30 @@
         "series": "Spring & Summer Stillness",
         "catalogueHref": "candles-a-moment-of-quiet.html",
         "href": "product-lnv-cnd-69c32544.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d.webp",
+        "name": "Blue Shoal",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-5b68ce58.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683.webp",
+        "name": "Coastal Shell",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-f100e78e.html?scent=sea-salt-driftwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2.webp",
+        "name": "Tidepool Star",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-ff4acaac.html?scent=sea-salt-driftwood"
       },
       {
         "category": "christmas",
@@ -3987,6 +4115,14 @@
         "href": "product-lnv-rd-b52d22d7.html?scent=cedarwood-vetiver"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a.webp",
+        "name": "Steady Helm",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-2.html",
+        "href": "product-lnv-cnd-82450b2c.html?scent=cedarwood-vetiver"
+      },
+      {
         "category": "christmas",
         "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
         "name": "Cedar Kiss",
@@ -4408,6 +4544,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba.webp",
+        "name": "Golden Hour Tide",
+        "series": "Coastal Daydreams",
+        "catalogueHref": "candles-everyday-poetry-3.html",
+        "href": "product-lnv-cnd-0af9e794.html?scent=amber-vanilla"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/everyday-poetry/405d4c9f473d440dc1bf.webp",
         "name": "Sunset Shoal",
         "series": "Everyday Poetry",
@@ -4647,6 +4791,14 @@
     ],
     "description": "A sweet bakery-inspired mood; dessert themes and winter gifts.",
     "matches": [
+      {
+        "category": "candle",
+        "image": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
+        "name": "Happy Fries",
+        "series": "Joyful Little Things",
+        "catalogueHref": "candles-little-joys-5.html",
+        "href": "product-lnv-cnd-0e5e04d9.html?scent=caramel-cream"
+      },
       {
         "category": "halloween",
         "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",

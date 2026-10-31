@@ -3485,6 +3485,329 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-0E5E04D9",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/13b42a5607296bfd20f4.webp",
+    "name": "Happy Fries",
+    "title": "Happy Fries Scented candle",
+    "url": "product-lnv-cnd-0e5e04d9.html",
+    "series": "Joyful Little Things",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "caramel-cream"
+    ],
+    "primaryScent": "caramel-cream",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-DA241C82",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/af50db297fa8e03de1cf.webp",
+    "name": "Rose Ribbon",
+    "title": "Rose Ribbon Scented candle",
+    "url": "product-lnv-cnd-da241c82.html",
+    "series": "Words in Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-C940DCED",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/0a8b7570896afdf3fca6.webp",
+    "name": "Gratitude in Bloom",
+    "title": "Gratitude in Bloom Scented candle",
+    "url": "product-lnv-cnd-c940dced.html",
+    "series": "Words in Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "rose-green-leaves"
+    ],
+    "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-1F71E1FF",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/0751c281a72560bcb096.webp",
+    "name": "A Little Happiness",
+    "title": "A Little Happiness Scented candle",
+    "url": "product-lnv-cnd-1f71e1ff.html",
+    "series": "Words in Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-DC84B662",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/f6486db86b5e0be5775c.webp",
+    "name": "Kindness Grows",
+    "title": "Kindness Grows Scented candle",
+    "url": "product-lnv-cnd-dc84b662.html",
+    "series": "Words in Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-4ACA101B",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/091d8c223b3b266b4be0.webp",
+    "name": "Ribbon of Joy",
+    "title": "Ribbon of Joy Scented candle",
+    "url": "product-lnv-cnd-4aca101b.html",
+    "series": "Words in Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-5B68CE58",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/80d3fafcf3018b08286d.webp",
+    "name": "Blue Shoal",
+    "title": "Blue Shoal Scented candle",
+    "url": "product-lnv-cnd-5b68ce58.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-82450B2C",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/cfa7dfa4b04e97ae983a.webp",
+    "name": "Steady Helm",
+    "title": "Steady Helm Scented candle",
+    "url": "product-lnv-cnd-82450b2c.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "cedarwood-vetiver"
+    ],
+    "primaryScent": "cedarwood-vetiver",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-2F25D135",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/74da322c9515e846a67f.webp",
+    "name": "Little Sailor",
+    "title": "Little Sailor Scented candle",
+    "url": "product-lnv-cnd-2f25d135.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-CB4AD54C",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/e560e8e511bebad4c9ce.webp",
+    "name": "After the Rain",
+    "title": "After the Rain Scented candle",
+    "url": "product-lnv-cnd-cb4ad54c.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "white-tea-bergamot"
+    ],
+    "primaryScent": "white-tea-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-F100E78E",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/edfefeb82cf8ed4f1683.webp",
+    "name": "Coastal Shell",
+    "title": "Coastal Shell Scented candle",
+    "url": "product-lnv-cnd-f100e78e.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D9000768",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/f1f0ed3768b81fe172a8.webp",
+    "name": "Sail Away",
+    "title": "Sail Away Scented candle",
+    "url": "product-lnv-cnd-d9000768.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lime-basil"
+    ],
+    "primaryScent": "lime-basil",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-FF4ACAAC",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/cc55b0fa2ae2a94c45d2.webp",
+    "name": "Tidepool Star",
+    "title": "Tidepool Star Scented candle",
+    "url": "product-lnv-cnd-ff4acaac.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-FF6AC672",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/95453d61ed3a8d4fea1a.webp",
+    "name": "Sea Breeze Fish",
+    "title": "Sea Breeze Fish Scented candle",
+    "url": "product-lnv-cnd-ff6ac672.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "grapefruit-bergamot"
+    ],
+    "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-0AF9E794",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/91c0ff2a0cacc6ad52ba.webp",
+    "name": "Golden Hour Tide",
+    "title": "Golden Hour Tide Scented candle",
+    "url": "product-lnv-cnd-0af9e794.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-EE52D666",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/359f38c2906afe0da243.webp",
+    "name": "Pocket Sunshine",
+    "title": "Pocket Sunshine Scented candle",
+    "url": "product-lnv-cnd-ee52d666.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "bergamot-neroli"
+    ],
+    "primaryScent": "bergamot-neroli",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-FEC0B9A5",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp",
+    "name": "Cloud Linen",
+    "title": "Cloud Linen Scented candle",
+    "url": "product-lnv-cnd-fec0b9a5.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-1D4E7C79",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp",
+    "name": "Moon & Little Star",
+    "title": "Moon & Little Star Scented candle",
+    "url": "product-lnv-cnd-1d4e7c79.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-DDAF6766",
+    "category": "candle",
+    "image": "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp",
+    "name": "Cedar Air",
+    "title": "Cedar Air Scented candle",
+    "url": "product-lnv-cnd-ddaf6766.html",
+    "series": "Coastal Daydreams",
+    "collection": "Everyday Poetry",
+    "collectionHref": "candles-everyday-poetry.html",
+    "suggestedScents": [
+      "clean-cotton"
+    ],
+    "primaryScent": "clean-cotton",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",
