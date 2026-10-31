@@ -9,13 +9,15 @@ icons={
 'crystal':'<path d="m14 35 11-15 14 2 11 13-16 23ZM14 35h36M25 20l-2 15 11 23 7-23-2-13M23 35h18"/><path d="m8 16 2-5 2 5 5 2-5 2-2 5-2-5-5-2ZM48 9l2-4 2 4 4 2-4 2-2 4-2-4-4-2Z"/>',
 'gift':'<path d="M12 27h40v29H12ZM9 20h46v7H9ZM32 20v36M32 20C13 22 13 6 21 7c7 0 11 13 11 13Zm0 0c19 2 19-14 11-13-7 0-11 13-11 13Z"/>',
 'christmas':'<path d="m32 4 2 5 6 1-5 4 1 6-4-3-4 3 1-6-5-4 6-1Z"/><path d="m31 21-12 13h6L13 46h9L15 54h34l-7-8h9L39 34h6L33 21M28 54v7h8v-7"/><circle cx="31" cy="34" r="2"/><circle cx="37" cy="45" r="2"/><path d="M26 45h.1"/>',
-'halloween':'<path d="M17 55V30C17 16 23 7 32 7s15 9 15 23v25l-7-6-8 6-8-6Z"/><path d="M18 39c-6 1-9 5-10 10 6 0 10-2 12-6M46 39c6 1 9 5 10 10-6 0-10-2-12-6"/><circle cx="27" cy="28" r="2"/><circle cx="37" cy="28" r="2"/><path d="M27 37q5 6 10 0M12 15l1.5 3 3.5.5-2.5 2.5.5 3.5-3-1.5-3 1.5.5-3.5L6 18.5l3.5-.5Z"/>',
+'halloween':'<path d="M16 55V30C16 15 22.5 7 32 7s16 8 16 23v25c-4.5 2.6-9.8 2.8-16 .8-6.2 2-11.5 1.8-16-.8Z"/>',
 'sachets':'<path d="M10 18h20v32H10ZM20 18v-5c0-9 14-9 14 0"/><path d="M19 31c-7-8-14 3 0 10 14-7 7-18 0-10Z"/><path d="M39 26h13l5 28H34ZM39 22l6 4 7-4M40 37h.1m9 0h.1M41 43q3 3 6 0"/>',
 'fragrance':'<path d="M32 35v24m0-12c-12-10-20-9-21-1 8 5 16 5 21 1m0 5c12-10 20-9 21-1-8 5-16 5-21 1"/><path d="M32 12c-9-15-22-1-12 8-17 0-14 19 1 18-8 13 12 20 16 7 8 11 23-3 12-12 17-5 7-22-6-15 0-15-15-19-11-6Z"/><circle cx="33" cy="27" r="5"/>',
 'contact':'<rect x="8" y="19" width="48" height="34" rx="7"/><path d="m10 22 22 17 22-17M11 49l14-12m28 12L39 37M32 11c-8-9-17 2 0 10 17-8 8-19 0-10Z"/>'}
 for key,paths in icons.items():
  if key=='halloween':
-  Path(f'assets/nav-{key}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#f7f4e9" stroke="#486347" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">{paths}</g><g fill="#e7a6a1" opacity=".9"><circle cx="22" cy="34" r="2.3"/><circle cx="42" cy="34" r="2.3"/></g></svg>')
+  ghost_svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#f7f4e9" stroke="#486347" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">{paths}</g><g fill="#486347"><ellipse cx="26.5" cy="29" rx="2.8" ry="4.2"/><ellipse cx="37.5" cy="29" rx="2.8" ry="4.2"/></g><path d="M28 39q4 3.2 8 0" fill="none" stroke="#486347" stroke-width="2.2" stroke-linecap="round"/><g fill="#e7a6a1" opacity=".9"><circle cx="21.5" cy="35" r="2.2"/><circle cx="42.5" cy="35" r="2.2"/></g></svg>'
+  Path(f'assets/nav-{key}.svg').write_text(ghost_svg)
+  Path(f'assets/nav-{key}-round.svg').write_text(ghost_svg)
  else:Path(f'assets/nav-{key}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g fill="#e5ecd9" stroke="#486347" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">{paths}</g></svg>')
 items=[('home','Who we are','index.html'),('candle','Scented candles','products-current.html'),('reed','Reed diffusers','reed-collections.html'),('crystal','Crystal diffusers','products-crystal-1.html'),('gift','Gift setting','gift-collection.html'),('christmas','Christmas','christmas-collection.html'),('halloween','Halloween','halloween-collection.html'),('sachets','Tablets &amp; Sachets','sachets.html'),('fragrance','Fragrance','fragrance.html'),('contact','Let’s connect','contact.html')]
 for p in Path('.').glob('*.html'):
@@ -24,7 +26,8 @@ for p in Path('.').glob('*.html'):
  cat=re.search(r'data-(?:product-)?category="([^"]+)"',s)
  active=cat[1] if cat else ('candle' if p.name in ['products-current.html','products.html'] else 'reed' if p.name in ['products-reed-1.html','reed-collections.html'] else 'home' if p.name=='index.html' else 'fragrance' if p.name=='fragrance.html' or p.name.startswith('fragrance-') else 'contact' if p.name=='contact.html' else '')
  def nav_item(k,label,href):
-  link=f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="assets/nav-{k}.svg" alt="" width="38" height="38"><span>{label}</span></a>'
+  icon_src=f'assets/nav-{k}-round.svg' if k=='halloween' else f'assets/nav-{k}.svg'
+  link=f'<a class="nav-picture {"active" if k==active else ""}" href="{href}"'+(' aria-current="page"' if k==active else '')+f'><img src="{icon_src}" alt="" width="38" height="38"><span>{label}</span></a>'
   if k!='fragrance':return link
   import json,html
   rows=json.loads(Path('assets/fragrances.json').read_text())
