@@ -173,7 +173,6 @@
       "Postbox | Lavender Postbox",
       "Sand Wax | Lavender Dusk Sand Wax Candle",
       "Dove Reverie | Blue Dove Candle",
-      "Quiet Botanicals | Midnight Poppy",
       "Quiet Botanicals | Amber Rivulet",
       "Quiet Botanicals | Mint Stillness"
     ],
@@ -242,7 +241,6 @@
         "Postbox | Lavender Postbox",
         "Sand Wax | Lavender Dusk Sand Wax Candle",
         "Dove Reverie | Blue Dove Candle",
-        "Quiet Botanicals | Midnight Poppy",
         "Quiet Botanicals | Amber Rivulet",
         "Quiet Botanicals | Mint Stillness"
       ]
@@ -289,7 +287,8 @@
       "Words in Bloom | Gratitude in Bloom",
       "Words in Bloom | A Little Happiness",
       "Words in Bloom | Kindness Grows",
-      "Words in Bloom | Ribbon of Joy"
+      "Words in Bloom | Ribbon of Joy",
+      "Quiet Botanicals | Midnight Poppy"
     ],
     "icon": "heart",
     "pages": [
@@ -329,7 +328,8 @@
         "Words in Bloom | Gratitude in Bloom",
         "Words in Bloom | A Little Happiness",
         "Words in Bloom | Kindness Grows",
-        "Words in Bloom | Ribbon of Joy"
+        "Words in Bloom | Ribbon of Joy",
+        "Quiet Botanicals | Midnight Poppy"
       ]
     ],
     "manualPageOrder": true,

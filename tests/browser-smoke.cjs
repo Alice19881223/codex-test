@@ -181,8 +181,9 @@ try{
   const manifest=JSON.parse(fs.readFileSync(curatedManifestPath)),designs=manifest.products;
   const records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json')));
   const placement={'Quiet Botanicals':'a-moment-of-quiet','For Mum, With Love':'close-to-you','Garden Joys':'little-joys','Spring Garden':'morning-light','Poetic Botanicals':'everyday-poetry'};
+  const placementOverrides={'Midnight Poppy':'close-to-you'};
   assert.equal(designs.length,12);assert.equal(manifest.images.length,24);assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.designDescription&&d.assignedScent));
-  for(const design of designs){const collection=collections.find(c=>c.slug===placement[design.series]);assert.ok(collection);assert.equal(collection.productKeys.filter(key=>key===design.series+' | '+design.name).length,1);assert.ok(records.find(record=>record.category==='candle'&&record.image===design.image));}
+  for(const design of designs){const collection=collections.find(c=>c.slug===(placementOverrides[design.name]||placement[design.series]));assert.ok(collection);assert.equal(collection.productKeys.filter(key=>key===design.series+' | '+design.name).length,1);assert.ok(records.find(record=>record.category==='candle'&&record.image===design.image));}
   const representatives=['Midnight Poppy','Oakheart for Mum','Ivory Daisy','Blue Linen Botanicals','Golden Midnight Bloom'].map(name=>designs.find(d=>d.name===name));
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();

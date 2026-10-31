@@ -18,6 +18,9 @@ SERIES = {
     'Spring Garden': 'morning-light',
     'Poetic Botanicals': 'everyday-poetry',
 }
+COLLECTION_OVERRIDES = {
+    'Midnight Poppy': 'close-to-you',
+}
 
 # archive, standalone, archive, gift-box image, name, series, scent, palette, introduction
 DESIGNS = [
@@ -145,7 +148,8 @@ def main():
 
     by_collection = {slug: [] for slug in set(SERIES.values())}
     for product in added:
-        by_collection[SERIES[product['series']]].append(product['series'] + ' | ' + product['name'])
+        slug = COLLECTION_OVERRIDES.get(product['name'], SERIES[product['series']])
+        by_collection[slug].append(product['series'] + ' | ' + product['name'])
     for collection in collections:
         flat = [key for key in collection['productKeys'] if key not in previous_keys]
         new_keys = by_collection.get(collection['slug'], [])
