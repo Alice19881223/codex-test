@@ -555,13 +555,20 @@
       "Mahjong Stories | Red Dragon",
       "Mahjong Stories | Bamboo Sparrow",
       "Blue & White Landscapes | Blue & White Landscape Candle",
+      "Blue & White Botanicals | Blue Willow Arch",
+      "Blue & White Botanicals | Lotus Medallion",
+      "Blue & White Botanicals | Cobalt Branch",
+      "Blue & White Botanicals | Porcelain Garden",
+      "Blue & White Botanicals | Jade Leaf Rhythm",
+      "Blue & White Botanicals | Ink Lotus",
+      "Blue & White Botanicals | Cobalt Blossom",
       "Little Dreamers | Panda Slumber",
+      "Bamboo Grove | Golden Bamboo Ripple",
+      "Bamboo Grove | Sage Bamboo Ripple",
       "Botanical Teacups | Plum Blossom Teacup",
       "Botanical Teacups | Orchid Teacup",
       "Botanical Teacups | Bamboo Teacup",
-      "Botanical Teacups | Chrysanthemum Teacup",
-      "Bamboo Grove | Golden Bamboo Ripple",
-      "Bamboo Grove | Sage Bamboo Ripple"
+      "Botanical Teacups | Chrysanthemum Teacup"
     ],
     "pages": [
       [
@@ -573,15 +580,22 @@
         "Mahjong Stories | Red Dragon",
         "Mahjong Stories | Bamboo Sparrow",
         "Blue & White Landscapes | Blue & White Landscape Candle",
-        "Little Dreamers | Panda Slumber",
-        "Botanical Teacups | Plum Blossom Teacup",
-        "Botanical Teacups | Orchid Teacup",
-        "Botanical Teacups | Bamboo Teacup"
+        "Blue & White Botanicals | Blue Willow Arch",
+        "Blue & White Botanicals | Lotus Medallion",
+        "Blue & White Botanicals | Cobalt Branch",
+        "Blue & White Botanicals | Porcelain Garden"
       ],
       [
-        "Botanical Teacups | Chrysanthemum Teacup",
+        "Blue & White Botanicals | Jade Leaf Rhythm",
+        "Blue & White Botanicals | Ink Lotus",
+        "Blue & White Botanicals | Cobalt Blossom",
+        "Little Dreamers | Panda Slumber",
         "Bamboo Grove | Golden Bamboo Ripple",
-        "Bamboo Grove | Sage Bamboo Ripple"
+        "Bamboo Grove | Sage Bamboo Ripple",
+        "Botanical Teacups | Plum Blossom Teacup",
+        "Botanical Teacups | Orchid Teacup",
+        "Botanical Teacups | Bamboo Teacup",
+        "Botanical Teacups | Chrysanthemum Teacup"
       ]
     ],
     "manualPageOrder": true

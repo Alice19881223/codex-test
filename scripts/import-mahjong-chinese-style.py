@@ -11,6 +11,7 @@ from product_records import item_no
 
 ROOT = Path(__file__).resolve().parents[1]
 SERIES = 'Mahjong Stories'
+BLUE_SERIES = 'Blue & White Botanicals'
 COLLECTION_SLUG = 'chinese-style'
 
 # product image, packaging image, name, scent, palette, description
@@ -32,16 +33,21 @@ DESIGNS = [
 ]
 
 # Existing candle designs whose motifs clearly belong to the same visual story.
-EXISTING_KEYS = [
+BLUE_EXISTING_KEYS = [
     'Blue & White Landscapes | Blue & White Landscape Candle',
+]
+PANDA_BAMBOO_KEYS = [
     'Little Dreamers | Panda Slumber',
+    'Bamboo Grove | Golden Bamboo Ripple',
+    'Bamboo Grove | Sage Bamboo Ripple',
+]
+GAIWAN_KEYS = [
     'Botanical Teacups | Plum Blossom Teacup',
     'Botanical Teacups | Orchid Teacup',
     'Botanical Teacups | Bamboo Teacup',
     'Botanical Teacups | Chrysanthemum Teacup',
-    'Bamboo Grove | Golden Bamboo Ripple',
-    'Bamboo Grove | Sage Bamboo Ripple',
 ]
+EXISTING_KEYS = BLUE_EXISTING_KEYS + PANDA_BAMBOO_KEYS + GAIWAN_KEYS
 RELOCATIONS = {
     'Poetic Botanicals | Golden Midnight Bloom': 'close-to-you',
 }
@@ -145,7 +151,8 @@ def main():
         target['pages'] = [target['productKeys'][i:i + 12]
                            for i in range(0, len(target['productKeys']), 12)]
     chinese = next((c for c in collections if c['slug'] == COLLECTION_SLUG), None)
-    collection_keys = new_keys + EXISTING_KEYS
+    blue_keys = [p['series'] + ' | ' + p['name'] for p in products if p['series'] == BLUE_SERIES]
+    collection_keys = new_keys + BLUE_EXISTING_KEYS + blue_keys + PANDA_BAMBOO_KEYS + GAIWAN_KEYS
     if chinese is None:
         chinese = {}
         collections.append(chinese)

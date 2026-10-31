@@ -80,7 +80,7 @@ const scents = [
         "image": "assets/candles/standalone/d160e808ad7656acaeef.png",
         "name": "Panda Slumber",
         "series": "Little Dreamers",
-        "catalogueHref": "candles-chinese-style.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-382db110.html?scent=pear-freesia"
       },
       {
@@ -891,7 +891,7 @@ const scents = [
         "image": "assets/candles/standalone/0abab97241dfa7d3dcc3.png",
         "name": "Orchid Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-chinese-style.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-126c54c6.html?scent=jasmine-orange-blossom"
       },
       {
@@ -1901,7 +1901,7 @@ const scents = [
         "image": "assets/candles/standalone/0d8e7c66e2de2314e052.png",
         "name": "Plum Blossom Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-chinese-style.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-fe56a1c8.html?scent=blackcurrant-rose"
       },
       {
@@ -2968,6 +2968,14 @@ const scents = [
         "series": "Quiet Botanicals",
         "catalogueHref": "candles-close-to-you-3.html",
         "href": "product-lnv-cnd-9632442a.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/3509428823f681f46284.webp",
+        "name": "Ink Lotus",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style-2.html",
+        "href": "product-lnv-cnd-6f4fafd2.html?scent=black-tea-cedarwood"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3078,6 +3086,22 @@ const scents = [
         "series": "Postbox",
         "catalogueHref": "candles-morning-light-2.html",
         "href": "product-lnv-cnd-f0ac78c1.html?scent=osmanthus-green-tea"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp",
+        "name": "Blue Willow Arch",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-e34222da.html?scent=osmanthus-green-tea"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp",
+        "name": "Cobalt Blossom",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style-2.html",
+        "href": "product-lnv-cnd-4e5a9e71.html?scent=osmanthus-green-tea"
       },
       {
         "category": "candle",
@@ -3613,7 +3637,7 @@ const scents = [
         "image": "assets/candles/standalone/540de41607775da6cc17.png",
         "name": "Bamboo Teacup",
         "series": "Botanical Teacups",
-        "catalogueHref": "candles-chinese-style.html",
+        "catalogueHref": "candles-chinese-style-2.html",
         "href": "product-lnv-cnd-69918d3a.html?scent=bamboo-white-florals"
       },
       {
@@ -5904,6 +5928,14 @@ const scents = [
         "href": "product-lnv-hlw-c07db49b.html?scent=mugwort-incense"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp",
+        "name": "Jade Leaf Rhythm",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style-2.html",
+        "href": "product-lnv-cnd-beefa9de.html?scent=mugwort-incense"
+      },
+      {
         "category": "sachets",
         "image": "assets/sachets/paired/d2a2c13cb519e3a3e386.webp",
         "name": "Moss Sachet",
@@ -6020,6 +6052,14 @@ const scents = [
         "series": "Floral Tea",
         "catalogueHref": "reeds-a-quiet-pause-2.html",
         "href": "product-lnv-rd-3a9c0a7a.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp",
+        "name": "Cobalt Branch",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-c64a788c.html?scent=green-tea-cedarwood"
       },
       {
         "category": "candle",
@@ -6171,6 +6211,14 @@ const scents = [
         "href": "product-lnv-cnd-06ce127e.html?scent=oud-saffron"
       },
       {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp",
+        "name": "Porcelain Garden",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-44a337ee.html?scent=oud-saffron"
+      },
+      {
         "category": "halloween",
         "image": "assets/halloween/replacements/4323c27762e03e59ef00.webp",
         "name": "Bat & Pumpkin Gold",
@@ -6255,6 +6303,14 @@ const scents = [
         "series": "Blue & White Landscapes",
         "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-e94abf31.html?scent=incense-myrrh"
+      },
+      {
+        "category": "candle",
+        "image": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp",
+        "name": "Lotus Medallion",
+        "series": "Blue & White Botanicals",
+        "catalogueHref": "candles-chinese-style.html",
+        "href": "product-lnv-cnd-27374737.html?scent=incense-myrrh"
       },
       {
         "category": "candle",
@@ -9608,6 +9664,104 @@ const candleProducts = [
     ],
     "assignedScent": "clean-cotton",
     "designDescription": "A pale blue parachute drifts across ivory ceramic in a small story of open air and gentle adventure. Clean Cotton gives it a bright, weightless freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-e3304d9e74bba24ccb21",
+    "name": "Blue Willow Arch",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/aee68ff6075e6325d276.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp",
+      "assets/candles/blue-white-botanicals/aee68ff6075e6325d276.webp"
+    ],
+    "assignedScent": "osmanthus-green-tea",
+    "designDescription": "Cobalt willow leaves rise in a graceful arch across ivory porcelain, balancing open space with fine botanical movement. Osmanthus & Green Tea gives the blue-and-white design a luminous floral-tea direction. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-ac1f6048710ac0cd524c",
+    "name": "Lotus Medallion",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp",
+      "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0.webp"
+    ],
+    "assignedScent": "incense-myrrh",
+    "designDescription": "A single blue lotus is framed by a delicate botanical wreath, recalling the symmetry of painted porcelain medallions. Incense & Myrrh adds a quiet resinous depth to the contemplative floral motif. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-cd24aa8f5ac707c599b4",
+    "name": "Cobalt Branch",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp",
+      "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A hand-painted cobalt flower rises from a low border of leaves on clean ivory ceramic. Green Tea & Cedarwood supports the poised composition with fresh tea and polished wood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-d685966c4e87ead19c60",
+    "name": "Porcelain Garden",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp",
+      "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd.webp"
+    ],
+    "assignedScent": "oud-saffron",
+    "designDescription": "Layered blue flowers and fine leafy stems form an abundant garden across the porcelain surface. Oud & Saffron brings warm woods and subtle spice to its richly detailed blue-and-white character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-62187ba86c7416b79cab",
+    "name": "Jade Leaf Rhythm",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp",
+      "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a.webp"
+    ],
+    "assignedScent": "mugwort-incense",
+    "designDescription": "Rows of elongated blue-green leaves create a rhythmic border inspired by stylised porcelain decoration. Mugwort & Incense gives the graphic pattern an aromatic herbal and softly smoky tone. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-3509428823f681f46284",
+    "name": "Ink Lotus",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/3509428823f681f46284.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/40a454041585d572a716.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/3509428823f681f46284.webp",
+      "assets/candles/blue-white-botanicals/40a454041585d572a716.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "A deep cobalt lotus opens among expressive ink-like leaves, translating brushwork into a contemporary porcelain candle. Black Tea & Cedarwood echoes the dark blue detail with dry tea and elegant woods. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "blue-white-botanical-c38d8133f5410fc05d1b",
+    "name": "Cobalt Blossom",
+    "series": "Blue & White Botanicals",
+    "productType": "Scented candle",
+    "image": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp",
+    "packagingImage": "assets/candles/blue-white-botanicals/605a07b5226677eabebc.webp",
+    "images": [
+      "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp",
+      "assets/candles/blue-white-botanicals/605a07b5226677eabebc.webp"
+    ],
+    "assignedScent": "osmanthus-green-tea",
+    "designDescription": "A single cobalt blossom and slender leaves create a calm blue-and-white composition with generous ivory space. Osmanthus & Green Tea adds a light floral sweetness and refined tea freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "mahjong-6eeeeccdbb0b090d97c4",
@@ -13553,6 +13707,13 @@ const productPages = {
     "assets/candles/lifestyle-ocean/f7f4cdb76d31673b6d8f.webp": "product-lnv-cnd-fec0b9a5.html",
     "assets/candles/lifestyle-ocean/c9133c4c4a8422f388a9.webp": "product-lnv-cnd-1d4e7c79.html",
     "assets/candles/lifestyle-ocean/d76c4975922cda774150.webp": "product-lnv-cnd-ddaf6766.html",
+    "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp": "product-lnv-cnd-e34222da.html",
+    "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp": "product-lnv-cnd-27374737.html",
+    "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp": "product-lnv-cnd-c64a788c.html",
+    "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp": "product-lnv-cnd-44a337ee.html",
+    "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp": "product-lnv-cnd-beefa9de.html",
+    "assets/candles/blue-white-botanicals/3509428823f681f46284.webp": "product-lnv-cnd-6f4fafd2.html",
+    "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp": "product-lnv-cnd-4e5a9e71.html",
     "assets/candles/mahjong/6eeeeccdbb0b090d97c4.webp": "product-lnv-cnd-b3eb9d3d.html",
     "assets/candles/mahjong/834abc7de1a2ce80b4fa.webp": "product-lnv-cnd-0c71e465.html",
     "assets/candles/mahjong/c3d02fd64f478d4d6cdb.webp": "product-lnv-cnd-b4beddbc.html",

@@ -19321,5 +19321,327 @@
         "bytes": 100164
       }
     ]
+  },
+  "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1734551,
+    "src": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21-480.webp",
+        "width": 480,
+        "bytes": 21194
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21-960.webp",
+        "width": 960,
+        "bytes": 53438
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/e3304d9e74bba24ccb21.webp",
+        "width": 1254,
+        "bytes": 80850
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/aee68ff6075e6325d276.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1927482,
+    "src": "assets/candles/blue-white-botanicals/aee68ff6075e6325d276.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/aee68ff6075e6325d276-480.webp",
+        "width": 480,
+        "bytes": 27616
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/aee68ff6075e6325d276-960.webp",
+        "width": 960,
+        "bytes": 76812
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/aee68ff6075e6325d276.webp",
+        "width": 1254,
+        "bytes": 126244
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1754882,
+    "src": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c-480.webp",
+        "width": 480,
+        "bytes": 16830
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c-960.webp",
+        "width": 960,
+        "bytes": 42966
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/ac1f6048710ac0cd524c.webp",
+        "width": 1254,
+        "bytes": 68504
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1991838,
+    "src": "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0-480.webp",
+        "width": 480,
+        "bytes": 23376
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0-960.webp",
+        "width": 960,
+        "bytes": 76082
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/7d3004c87b9c404635f0.webp",
+        "width": 1254,
+        "bytes": 129104
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1691959,
+    "src": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4-480.webp",
+        "width": 480,
+        "bytes": 13992
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4-960.webp",
+        "width": 960,
+        "bytes": 35834
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/cd24aa8f5ac707c599b4.webp",
+        "width": 1254,
+        "bytes": 58970
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1943415,
+    "src": "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d-480.webp",
+        "width": 480,
+        "bytes": 20496
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d-960.webp",
+        "width": 960,
+        "bytes": 65432
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/692185ba7241e6aecf1d.webp",
+        "width": 1254,
+        "bytes": 110682
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1874663,
+    "src": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60-480.webp",
+        "width": 480,
+        "bytes": 26896
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60-960.webp",
+        "width": 960,
+        "bytes": 69752
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/d685966c4e87ead19c60.webp",
+        "width": 1254,
+        "bytes": 108614
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2041344,
+    "src": "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd-480.webp",
+        "width": 480,
+        "bytes": 33846
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd-960.webp",
+        "width": 960,
+        "bytes": 98442
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/d9af7d4f23cdab8c32cd.webp",
+        "width": 1254,
+        "bytes": 164496
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1807782,
+    "src": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab-480.webp",
+        "width": 480,
+        "bytes": 22120
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab-960.webp",
+        "width": 960,
+        "bytes": 56552
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/62187ba86c7416b79cab.webp",
+        "width": 1254,
+        "bytes": 86296
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1898898,
+    "src": "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a-480.webp",
+        "width": 480,
+        "bytes": 29514
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a-960.webp",
+        "width": 960,
+        "bytes": 86904
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/f65e0683aa055fa3fd2a.webp",
+        "width": 1254,
+        "bytes": 142614
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/3509428823f681f46284.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1775317,
+    "src": "assets/candles/blue-white-botanicals/3509428823f681f46284.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/3509428823f681f46284-480.webp",
+        "width": 480,
+        "bytes": 17844
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/3509428823f681f46284-960.webp",
+        "width": 960,
+        "bytes": 46780
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/3509428823f681f46284.webp",
+        "width": 1254,
+        "bytes": 74566
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/40a454041585d572a716.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2004923,
+    "src": "assets/candles/blue-white-botanicals/40a454041585d572a716.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/40a454041585d572a716-480.webp",
+        "width": 480,
+        "bytes": 24172
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/40a454041585d572a716-960.webp",
+        "width": 960,
+        "bytes": 75116
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/40a454041585d572a716.webp",
+        "width": 1254,
+        "bytes": 121720
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1770095,
+    "src": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b-480.webp",
+        "width": 480,
+        "bytes": 18018
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b-960.webp",
+        "width": 960,
+        "bytes": 47050
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/c38d8133f5410fc05d1b.webp",
+        "width": 1254,
+        "bytes": 74210
+      }
+    ]
+  },
+  "assets/candles/blue-white-botanicals/605a07b5226677eabebc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1914971,
+    "src": "assets/candles/blue-white-botanicals/605a07b5226677eabebc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/blue-white-botanicals/605a07b5226677eabebc-480.webp",
+        "width": 480,
+        "bytes": 24842
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/605a07b5226677eabebc-960.webp",
+        "width": 960,
+        "bytes": 71566
+      },
+      {
+        "src": "assets/candles/blue-white-botanicals/605a07b5226677eabebc.webp",
+        "width": 1254,
+        "bytes": 115166
+      }
+    ]
   }
 }
