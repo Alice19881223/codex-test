@@ -764,6 +764,14 @@ const scents = [
       },
       {
         "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+        "name": "Birthday Flower Garden",
+        "series": "Celebration Gardens",
+        "catalogueHref": "candles-little-joys-5.html",
+        "href": "product-lnv-cnd-6d34f841.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
         "name": "Spring Muse",
         "series": "Spring & Summer Light",
@@ -2866,6 +2874,22 @@ const scents = [
         "series": "Words in Bloom",
         "catalogueHref": "candles-close-to-you-3.html",
         "href": "product-lnv-cnd-dc84b662.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+        "name": "Sage Lace Candle",
+        "series": "Sage Lace",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-2a11bb59.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+        "name": "Sage Lace Reed Diffuser",
+        "series": "Sage Lace",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
+        "href": "product-lnv-rd-fe498683.html?scent=white-tea-rosemary"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3187,6 +3211,14 @@ const scents = [
     ],
     "description": "Freshly dried cotton; bedrooms and laundry spaces.",
     "matches": [
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+        "name": "Happy New Home",
+        "series": "Celebration Gardens",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-d3b2a3fb.html?scent=clean-cotton"
+      },
       {
         "category": "candle",
         "image": "assets/candles/paired/9dbd2373b514ef18213d.webp",
@@ -3947,6 +3979,14 @@ const scents = [
         "series": "Earth Tones",
         "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-401266a5.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+        "name": "Pieces Together",
+        "series": "Together Pieces",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-a241a2cd.html?scent=sandalwood-cashmere"
       },
       {
         "category": "candle",
@@ -9860,6 +9900,62 @@ const candleProducts = [
     ],
     "assignedScent": "bamboo-white-florals",
     "designDescription": "A green sparrow, the classic one-bamboo Mahjong motif, is drawn with fine red and blue detail. Bamboo & White Florals gives this lively emblem a fresh garden-air character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-61d15c9d2491c829b5d4",
+    "name": "Pieces Together",
+    "series": "Together Pieces",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+      "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Two sculptural candle vessels in wine red and soft blush interlock like puzzle pieces, expressing closeness through a form designed to come together. Sandalwood & Cashmere adds a smooth, comforting warmth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-35142689c28361fa2eb3",
+    "name": "Happy New Home",
+    "series": "Celebration Gardens",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+      "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp"
+    ],
+    "assignedScent": "clean-cotton",
+    "designDescription": "A welcoming little house sits among cheerful garden flowers with a handwritten new-home message. Clean Cotton suggests fresh rooms, sunlit windows and the calm beginning of a new chapter. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-bfca83f724741fb7fad0",
+    "name": "Birthday Flower Garden",
+    "series": "Celebration Gardens",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+      "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Birthday candles and colourful flowers form a joyful illustrated garden around a handwritten greeting. Peony & Lychee gives the celebration a bright floral-fruit sparkle. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-cb764d2db91188e2afc2",
+    "name": "Sage Lace Candle",
+    "series": "Sage Lace",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+      "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp"
+    ],
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "A repeating lace-like rosette pattern wraps a softly coloured sage vessel, combining delicate detail with a restful palette. White Tea & Rosemary keeps the mood airy, herbal and composed. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 const reedProducts = [
@@ -13720,7 +13816,11 @@ const productPages = {
     "assets/candles/mahjong/6caa143eada8be6f5ea9.webp": "product-lnv-cnd-36f81f85.html",
     "assets/candles/mahjong/e3f178f1fb916732d3d3.webp": "product-lnv-cnd-c75c7b21.html",
     "assets/candles/mahjong/d0a62108c3177061cb23.webp": "product-lnv-cnd-5b8353fd.html",
-    "assets/candles/mahjong/07cb5e41ea249876428e.webp": "product-lnv-cnd-4b99e55f.html"
+    "assets/candles/mahjong/07cb5e41ea249876428e.webp": "product-lnv-cnd-4b99e55f.html",
+    "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp": "product-lnv-cnd-a241a2cd.html",
+    "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp": "product-lnv-cnd-d3b2a3fb.html",
+    "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp": "product-lnv-cnd-6d34f841.html",
+    "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": "product-lnv-cnd-2a11bb59.html"
   },
   "reed": {
     "assets/reeds/paired/8e262fb59fe070149987.webp": "product-lnv-rd-b55b5f35.html",
@@ -13825,7 +13925,8 @@ const productPages = {
     "assets/little-daydreams/3dc6cccc09a292df8837.webp": "product-lnv-rd-cf73adef.html",
     "assets/little-daydreams/44b9fa37de5ae0f0c145.webp": "product-lnv-rd-98c6c35f.html",
     "assets/little-daydreams/afb584c558bf5c6f0097.webp": "product-lnv-rd-1f4b21bd.html",
-    "assets/little-daydreams/22857d32f7690844a98d.webp": "product-lnv-rd-92f77b6c.html"
+    "assets/little-daydreams/22857d32f7690844a98d.webp": "product-lnv-rd-92f77b6c.html",
+    "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp": "product-lnv-rd-fe498683.html"
   },
   "crystal": {
     "assets/companions/040856927401c5aa9fe5.webp": "product-lnv-cry-2961f11a.html",

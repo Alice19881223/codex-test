@@ -29,7 +29,8 @@
     "assets/reeds/standalone/c821eba660237cc578b0.png": "LNV-RD-38069535",
     "assets/reeds/standalone/aab336d571bb3ae38f55.png": "LNV-RD-87093553",
     "assets/reeds/standalone/c8492d4ed292f4f84eed.png": "LNV-RD-D2E2464D",
-    "assets/reeds/standalone/71b8b741712233d95541.png": "LNV-RD-45957F71"
+    "assets/reeds/standalone/71b8b741712233d95541.png": "LNV-RD-45957F71",
+    "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp": "LNV-RD-FE498683"
   },
   "candle": {
     "assets/candles/standalone/df082b833c999a07cd26.png": "LNV-CND-D9B4EE7C",
@@ -207,7 +208,11 @@
     "assets/candles/mahjong/6caa143eada8be6f5ea9.webp": "LNV-CND-36F81F85",
     "assets/candles/mahjong/e3f178f1fb916732d3d3.webp": "LNV-CND-C75C7B21",
     "assets/candles/mahjong/d0a62108c3177061cb23.webp": "LNV-CND-5B8353FD",
-    "assets/candles/mahjong/07cb5e41ea249876428e.webp": "LNV-CND-4B99E55F"
+    "assets/candles/mahjong/07cb5e41ea249876428e.webp": "LNV-CND-4B99E55F",
+    "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp": "LNV-CND-A241A2CD",
+    "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp": "LNV-CND-D3B2A3FB",
+    "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp": "LNV-CND-6D34F841",
+    "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": "LNV-CND-2A11BB59"
   },
   "christmas": {
     "assets/christmas/standalone/4fee0c8b694b3a6cac99.png": "LNV-XMS-80C34B43",

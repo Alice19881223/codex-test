@@ -2070,5 +2070,25 @@
   "LNV-CND-4B99E55F": {
     "scent": "bamboo-white-florals",
     "basis": "Suggested pairing based on the supplied Mahjong symbol, colour and Chinese cultural theme."
+  },
+  "LNV-CND-A241A2CD": {
+    "scent": "sandalwood-cashmere",
+    "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
+  },
+  "LNV-CND-D3B2A3FB": {
+    "scent": "clean-cotton",
+    "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
+  },
+  "LNV-CND-6D34F841": {
+    "scent": "peony-lychee",
+    "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
+  },
+  "LNV-CND-2A11BB59": {
+    "scent": "white-tea-rosemary",
+    "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
+  },
+  "LNV-RD-FE498683": {
+    "scent": "white-tea-rosemary",
+    "basis": "Suggested pairing based on the supplied design, palette, product format and gifting theme."
   }
 }

@@ -1,0 +1,190 @@
+{
+  "sourceArchives": [
+    "打包2.zip",
+    "打包.zip"
+  ],
+  "productCount": 5,
+  "imageCount": 10,
+  "pairedCount": 5,
+  "products": [
+    {
+      "id": "gift-sage-lace-61d15c9d2491c829b5d4",
+      "name": "Pieces Together",
+      "series": "Together Pieces",
+      "productType": "Scented candle",
+      "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+      "packagingImage": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+      "images": [
+        "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+        "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp"
+      ],
+      "assignedScent": "sandalwood-cashmere",
+      "designDescription": "Two sculptural candle vessels in wine red and soft blush interlock like puzzle pieces, expressing closeness through a form designed to come together. Sandalwood & Cashmere adds a smooth, comforting warmth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "close-to-you"
+    },
+    {
+      "id": "gift-sage-lace-35142689c28361fa2eb3",
+      "name": "Happy New Home",
+      "series": "Celebration Gardens",
+      "productType": "Scented candle",
+      "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+      "packagingImage": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+      "images": [
+        "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+        "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp"
+      ],
+      "assignedScent": "clean-cotton",
+      "designDescription": "A welcoming little house sits among cheerful garden flowers with a handwritten new-home message. Clean Cotton suggests fresh rooms, sunlit windows and the calm beginning of a new chapter. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "close-to-you"
+    },
+    {
+      "id": "gift-sage-lace-bfca83f724741fb7fad0",
+      "name": "Birthday Flower Garden",
+      "series": "Celebration Gardens",
+      "productType": "Scented candle",
+      "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+      "packagingImage": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+      "images": [
+        "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+        "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Birthday candles and colourful flowers form a joyful illustrated garden around a handwritten greeting. Peony & Lychee gives the celebration a bright floral-fruit sparkle. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "little-joys"
+    },
+    {
+      "id": "gift-sage-lace-cb764d2db91188e2afc2",
+      "name": "Sage Lace Candle",
+      "series": "Sage Lace",
+      "productType": "Scented candle",
+      "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+      "packagingImage": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+      "images": [
+        "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+        "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "designDescription": "A repeating lace-like rosette pattern wraps a softly coloured sage vessel, combining delicate detail with a restful palette. White Tea & Rosemary keeps the mood airy, herbal and composed. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "a-moment-of-quiet"
+    },
+    {
+      "id": "gift-sage-lace-d08abc1ebeb787f51e75",
+      "name": "Sage Lace Reed Diffuser",
+      "series": "Sage Lace",
+      "productType": "Reed diffuser",
+      "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+      "packagingImage": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp",
+      "images": [
+        "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+        "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp"
+      ],
+      "assignedScent": "white-tea-rosemary",
+      "designDescription": "The Sage Lace pattern continues across a compact ceramic diffuser with natural reeds and coordinated ivory packaging. White Tea & Rosemary brings a transparent tea note and gentle herbal freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "reed",
+      "collection": "a-quiet-pause"
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "酒红豆沙拼合香薰蜡烛双器-1.png",
+      "role": "product",
+      "sha256": "61d15c9d2491c829b5d4fd2a28c91745dcc2cb3928841973e2b14dda8143f6bf",
+      "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "兰纳维拼图双烛礼盒-2.png",
+      "role": "packaging",
+      "sha256": "45b2b5c8a4e2ada33e6893f707f6611b3162adec36bb176351df1dc828d769d1",
+      "image": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "新居花语香薰蜡烛-3.png",
+      "role": "product",
+      "sha256": "35142689c28361fa2eb31a20f639d5a5557c96de34e7c76fde5b7d40819bc32a",
+      "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "新居香薰蜡烛礼盒-4.png",
+      "role": "packaging",
+      "sha256": "a2a0ece5c30e490bdb69147da8dc8f225e3b48179d81dc7d96b7b5d14a12e1c9",
+      "image": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "生日花卉香薰蜡烛-1.png",
+      "role": "product",
+      "sha256": "bfca83f724741fb7fad0cd925f4a58455f8190393c04bb334f9ab3065c7ad6f8",
+      "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包2.zip",
+      "source": "生日限定香氛蜡烛礼盒-2.png",
+      "role": "packaging",
+      "sha256": "7283001096a903d102783938f7c4bf4888bf694aeab7d02393b62a5666b1efb7",
+      "image": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包.zip",
+      "source": "lanarve-candle-v2.png",
+      "role": "product",
+      "sha256": "cb764d2db91188e2afc296486612a2a86194812fe838d0874e54459047641576",
+      "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包.zip",
+      "source": "lanarve-candle-packaging-v2.png",
+      "role": "packaging",
+      "sha256": "9f1915967c47138089ca592be776aa7a3454bb5f300d0a2c6752c9ba141b2077",
+      "image": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包.zip",
+      "source": "lanarve-diffuser-v4.png",
+      "role": "product",
+      "sha256": "d08abc1ebeb787f51e753cade810c9988d36657631091adc4d42ae5304fbcdfd",
+      "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包.zip",
+      "source": "lanarve-diffuser-packaging-v4.png",
+      "role": "packaging",
+      "sha256": "b6cf5385b3ba7a8821ad7dce074c6905958e618a75523c1bfe57eee693947fb6",
+      "image": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "collectionCounts": {
+    "candle/close-to-you": 2,
+    "candle/little-joys": 1,
+    "candle/a-moment-of-quiet": 1,
+    "reed/a-quiet-pause": 1
+  },
+  "reviewNotes": "All five supplied products were visually reviewed and paired with their coordinated packaging photograph; no exact source duplicates were found."
+}

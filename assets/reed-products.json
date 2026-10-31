@@ -1275,5 +1275,19 @@
     ],
     "assignedScent": "grapefruit-bergamot",
     "designDescription": "An orange-gold rabbit with long green ears and a tiny red flower brings a bright, humorous spark to the collection. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-d08abc1ebeb787f51e75",
+    "name": "Sage Lace Reed Diffuser",
+    "series": "Sage Lace",
+    "productType": "Reed diffuser",
+    "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+      "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp"
+    ],
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "The Sage Lace pattern continues across a compact ceramic diffuser with natural reeds and coordinated ivory packaging. White Tea & Rosemary brings a transparent tea note and gentle herbal freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

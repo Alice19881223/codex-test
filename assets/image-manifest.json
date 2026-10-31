@@ -19643,5 +19643,235 @@
         "bytes": 115166
       }
     ]
+  },
+  "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1635153,
+    "src": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4-480.webp",
+        "width": 480,
+        "bytes": 11000
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4-960.webp",
+        "width": 960,
+        "bytes": 44082
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+        "width": 1254,
+        "bytes": 82532
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2189576,
+    "src": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68-480.webp",
+        "width": 480,
+        "bytes": 14770
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68-960.webp",
+        "width": 960,
+        "bytes": 73874
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+        "width": 1254,
+        "bytes": 146208
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1709198,
+    "src": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3-480.webp",
+        "width": 480,
+        "bytes": 20430
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3-960.webp",
+        "width": 960,
+        "bytes": 54828
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+        "width": 1254,
+        "bytes": 85784
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1996938,
+    "src": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69-480.webp",
+        "width": 480,
+        "bytes": 32316
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69-960.webp",
+        "width": 960,
+        "bytes": 95464
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+        "width": 1254,
+        "bytes": 156926
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1687108,
+    "src": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0-480.webp",
+        "width": 480,
+        "bytes": 18790
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0-960.webp",
+        "width": 960,
+        "bytes": 49914
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+        "width": 1254,
+        "bytes": 77716
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1943481,
+    "src": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/7283001096a903d10278-480.webp",
+        "width": 480,
+        "bytes": 29604
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/7283001096a903d10278-960.webp",
+        "width": 960,
+        "bytes": 89168
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+        "width": 1254,
+        "bytes": 141036
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1976497,
+    "src": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2-480.webp",
+        "width": 480,
+        "bytes": 30632
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2-960.webp",
+        "width": 960,
+        "bytes": 93042
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+        "width": 1254,
+        "bytes": 146834
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2261896,
+    "src": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca-480.webp",
+        "width": 480,
+        "bytes": 36726
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca-960.webp",
+        "width": 960,
+        "bytes": 122936
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+        "width": 1254,
+        "bytes": 202812
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1800499,
+    "src": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75-480.webp",
+        "width": 480,
+        "bytes": 20682
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75-960.webp",
+        "width": 960,
+        "bytes": 63860
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+        "width": 1254,
+        "bytes": 100598
+      }
+    ]
+  },
+  "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2010391,
+    "src": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp",
+    "variants": [
+      {
+        "src": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad-480.webp",
+        "width": 480,
+        "bytes": 28514
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad-960.webp",
+        "width": 960,
+        "bytes": 93982
+      },
+      {
+        "src": "assets/companions/gift-and-sage-lace/b6cf5385b3ba7a8821ad.webp",
+        "width": 1254,
+        "bytes": 142698
+      }
+    ]
   }
 }

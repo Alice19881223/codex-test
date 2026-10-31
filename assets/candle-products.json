@@ -3326,5 +3326,61 @@
     ],
     "assignedScent": "bamboo-white-florals",
     "designDescription": "A green sparrow, the classic one-bamboo Mahjong motif, is drawn with fine red and blue detail. Bamboo & White Florals gives this lively emblem a fresh garden-air character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-61d15c9d2491c829b5d4",
+    "name": "Pieces Together",
+    "series": "Together Pieces",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+      "assets/companions/gift-and-sage-lace/45b2b5c8a4e2ada33e68.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "Two sculptural candle vessels in wine red and soft blush interlock like puzzle pieces, expressing closeness through a form designed to come together. Sandalwood & Cashmere adds a smooth, comforting warmth. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-35142689c28361fa2eb3",
+    "name": "Happy New Home",
+    "series": "Celebration Gardens",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+      "assets/companions/gift-and-sage-lace/a2a0ece5c30e490bdb69.webp"
+    ],
+    "assignedScent": "clean-cotton",
+    "designDescription": "A welcoming little house sits among cheerful garden flowers with a handwritten new-home message. Clean Cotton suggests fresh rooms, sunlit windows and the calm beginning of a new chapter. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-bfca83f724741fb7fad0",
+    "name": "Birthday Flower Garden",
+    "series": "Celebration Gardens",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+      "assets/companions/gift-and-sage-lace/7283001096a903d10278.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Birthday candles and colourful flowers form a joyful illustrated garden around a handwritten greeting. Peony & Lychee gives the celebration a bright floral-fruit sparkle. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "gift-sage-lace-cb764d2db91188e2afc2",
+    "name": "Sage Lace Candle",
+    "series": "Sage Lace",
+    "productType": "Scented candle",
+    "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+    "packagingImage": "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp",
+    "images": [
+      "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+      "assets/companions/gift-and-sage-lace/9f1915967c47138089ca.webp"
+    ],
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "A repeating lace-like rosette pattern wraps a softly coloured sage vessel, combining delicate detail with a restful palette. White Tea & Rosemary keeps the mood airy, herbal and composed. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

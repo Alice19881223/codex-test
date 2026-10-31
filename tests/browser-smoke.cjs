@@ -217,12 +217,30 @@ try{
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'中国风 detail overflow');await ctx.close();
   }
  }
+ // The gifting and Sage Lace edit preserves every supplied product/packaging pair across candle and reed themes.
+ const giftLaceManifestPath=path.join(root,'assets/gift-and-sage-lace-source-manifest.json');
+ if(fs.existsSync(giftLaceManifestPath)){
+  const manifest=JSON.parse(fs.readFileSync(giftLaceManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),candleCollections=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))),reedCollections=JSON.parse(fs.readFileSync(path.join(root,'assets/reed-collections.json')));
+  assert.equal(designs.length,5);assert.equal(manifest.images.length,10);assert.equal(manifest.pairedCount,5);assert.deepEqual(manifest.collectionCounts,{'candle/close-to-you':2,'candle/little-joys':1,'candle/a-moment-of-quiet':1,'reed/a-quiet-pause':1});assert.ok(designs.every(d=>d.images.length===2&&d.image!==d.packagingImage&&d.assignedScent&&d.designDescription.length>130));
+  for(const design of designs){const collections=design.category==='candle'?candleCollections:reedCollections,collection=collections.find(c=>c.slug===design.collection),key=design.series+' | '+design.name;assert.equal(collection.productKeys.filter(item=>item===key).length,1);assert.ok(records.find(r=>r.category===design.category&&r.image===design.image));}
+  assert.ok([...candleCollections,...reedCollections].every(collection=>collection.pages.slice(0,-1).every(page=>page.length===12)),'every non-final candle and reed page contains twelve products');
+  for(const width of [1440,390]){
+   const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();
+   for(const design of designs){
+    const record=records.find(r=>r.category===design.category&&r.image===design.image),route=listingFiles.find(name=>!name.startsWith('fragrance-')&&fs.readFileSync(path.join(root,name),'utf8').includes('>'+design.name+'</h3>'));assert.ok(record&&route,design.name+' published');await page.goto(base+'/'+route);
+    const card=page.locator('#catalogue-grid a.crystal-item').filter({has:page.getByRole('heading',{name:design.name,exact:true})}),wrapper=card.locator('xpath=..');assert.equal(await card.locator('.paired-photo img').count(),2);
+    if(width===390){await wrapper.locator('.photo-toggle').click();assert.equal(await wrapper.locator('.photo-toggle').getAttribute('aria-pressed'),'true');}else{await card.hover();await page.waitForTimeout(500);assert.equal(await card.locator('.photo-packaging').evaluate(el=>getComputedStyle(el).opacity),'1');}
+    await card.click();assert.equal(new URL(page.url()).pathname,'/'+record.url);assert.equal(await page.locator('#product-fragrance').inputValue(),design.assignedScent);assert.equal(await page.locator('[data-gallery-src]').count(),2);const care=await page.locator('details').filter({has:page.getByText('Use & Care',{exact:true})}).textContent();if(design.category==='reed'){assert.match(care,/inserting or turning reeds/);assert.doesNotMatch(care,/burning candle/);}else assert.match(care,/Never leave a burning candle unattended/);
+   }
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false,'gift and Sage Lace detail overflow');await ctx.close();
+  }
+ }
  // The Easter edit is a continuous Little Joys story with every unique supplied photograph preserved.
  const easterManifestPath=path.join(root,'assets/easter-little-joys-source-manifest.json');
  if(fs.existsSync(easterManifestPath)){
   const manifest=JSON.parse(fs.readFileSync(easterManifestPath)),designs=manifest.products,records=JSON.parse(fs.readFileSync(path.join(root,'assets/product-details.json'))),collection=JSON.parse(fs.readFileSync(path.join(root,'assets/candle-collections.json'))).find(c=>c.slug==='little-joys');
   assert.equal(designs.length,28);assert.equal(manifest.images.length,55);assert.equal(manifest.pairedCount,27);assert.equal(manifest.singleCompositionCount,1);assert.equal(manifest.duplicateSourceFilesExcluded.length,3);assert.match(collection.description+collection.story,/Easter/);
-  assert.deepEqual(collection.productKeys.slice(6,34),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,12,5]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
+  assert.deepEqual(collection.productKeys.slice(6,34),designs.map(d=>d.series+' | '+d.name));assert.deepEqual(collection.pages.map(page=>page.length),[12,12,12,12,6]);assert.ok(designs.every(d=>d.season==='Easter'&&/Easter|spring/i.test(d.designDescription)&&d.assignedScent));
   const representatives=['Painted Easter Egg','Rainy Day Duckling','Honeybee Basket','Bunny-Ear Egg','Easter Duckling','Spring Bunny Wreath'].map(name=>designs.find(d=>d.name===name));
   for(const width of [1440,390]){
    const ctx=await browser.newContext({viewport:{width,height:1000},isMobile:width===390,hasTouch:width===390}),page=await ctx.newPage();

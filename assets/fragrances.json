@@ -756,6 +756,14 @@
       },
       {
         "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+        "name": "Birthday Flower Garden",
+        "series": "Celebration Gardens",
+        "catalogueHref": "candles-little-joys-5.html",
+        "href": "product-lnv-cnd-6d34f841.html?scent=peony-lychee"
+      },
+      {
+        "category": "candle",
         "image": "assets/candles/spring-summer/3659e325c668561f7eb2.webp",
         "name": "Spring Muse",
         "series": "Spring & Summer Light",
@@ -2858,6 +2866,22 @@
         "series": "Words in Bloom",
         "catalogueHref": "candles-close-to-you-3.html",
         "href": "product-lnv-cnd-dc84b662.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+        "name": "Sage Lace Candle",
+        "series": "Sage Lace",
+        "catalogueHref": "candles-a-moment-of-quiet-5.html",
+        "href": "product-lnv-cnd-2a11bb59.html?scent=white-tea-rosemary"
+      },
+      {
+        "category": "reed",
+        "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+        "name": "Sage Lace Reed Diffuser",
+        "series": "Sage Lace",
+        "catalogueHref": "reeds-a-quiet-pause-2.html",
+        "href": "product-lnv-rd-fe498683.html?scent=white-tea-rosemary"
       }
     ],
     "family": "Tea & Tranquility",
@@ -3179,6 +3203,14 @@
     ],
     "description": "Freshly dried cotton; bedrooms and laundry spaces.",
     "matches": [
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+        "name": "Happy New Home",
+        "series": "Celebration Gardens",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-d3b2a3fb.html?scent=clean-cotton"
+      },
       {
         "category": "candle",
         "image": "assets/candles/paired/9dbd2373b514ef18213d.webp",
@@ -3939,6 +3971,14 @@
         "series": "Earth Tones",
         "catalogueHref": "candles-a-moment-of-quiet-4.html",
         "href": "product-lnv-cnd-401266a5.html?scent=sandalwood-cashmere"
+      },
+      {
+        "category": "candle",
+        "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+        "name": "Pieces Together",
+        "series": "Together Pieces",
+        "catalogueHref": "candles-close-to-you-3.html",
+        "href": "product-lnv-cnd-a241a2cd.html?scent=sandalwood-cashmere"
       },
       {
         "category": "candle",

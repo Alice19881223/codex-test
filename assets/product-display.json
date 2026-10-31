@@ -1909,5 +1909,20 @@
   },
   "assets/candles/mahjong/07cb5e41ea249876428e.webp": {
     "palette": "sage"
+  },
+  "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp": {
+    "palette": "burgundy"
+  },
+  "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp": {
+    "palette": "ivory"
+  },
+  "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp": {
+    "palette": "blush"
+  },
+  "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": {
+    "palette": "sage"
+  },
+  "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp": {
+    "palette": "sage"
   }
 }

@@ -45,7 +45,8 @@
         "Fluid Silhouettes | Noir Silhouette",
         "Atelier Glass | Lime & Chamomile Atelier"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   },
   {
     "slug": "a-quiet-pause",
@@ -73,7 +74,8 @@
       "Ribbon Glass | Zen Tea",
       "Floral Bouquet | Amber Tea",
       "Floral Bouquet | White Tea Blossom",
-      "Dove Reverie | Blue Dove Reed Diffuser"
+      "Dove Reverie | Blue Dove Reed Diffuser",
+      "Sage Lace | Sage Lace Reed Diffuser"
     ],
     "pages": [
       [
@@ -99,7 +101,8 @@
         "Ribbon Glass | Zen Tea",
         "Floral Bouquet | Amber Tea",
         "Floral Bouquet | White Tea Blossom",
-        "Dove Reverie | Blue Dove Reed Diffuser"
+        "Dove Reverie | Blue Dove Reed Diffuser",
+        "Sage Lace | Sage Lace Reed Diffuser"
       ]
     ],
     "manualPageOrder": true
@@ -184,7 +187,8 @@
         "Matte Glass | Graphite Jasmine",
         "Colour in Bloom | Lilac Current Reed Diffuser"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   },
   {
     "slug": "at-home-at-ease",
@@ -254,7 +258,8 @@
         "Ribbed Ceramic | Sage & Sandalwood — Tall",
         "Atelier Glass | Sandalwood Atelier"
       ]
-    ]
+    ],
+    "manualPageOrder": true
   },
   {
     "slug": "little-daydreams",
@@ -293,6 +298,7 @@
         "series": "Birthday Wishes",
         "name": "Birthday Surprise Egg"
       }
-    ]
+    ],
+    "manualPageOrder": true
   }
 ]

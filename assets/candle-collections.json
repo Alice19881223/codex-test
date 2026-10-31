@@ -161,7 +161,8 @@
       "Sand Wax | Lavender Dusk Sand Wax Candle",
       "Dove Reverie | Blue Dove Candle",
       "Quiet Botanicals | Amber Rivulet",
-      "Quiet Botanicals | Mint Stillness"
+      "Quiet Botanicals | Mint Stillness",
+      "Sage Lace | Sage Lace Candle"
     ],
     "icon": "quiet",
     "pages": [
@@ -228,7 +229,8 @@
         "Sand Wax | Lavender Dusk Sand Wax Candle",
         "Dove Reverie | Blue Dove Candle",
         "Quiet Botanicals | Amber Rivulet",
-        "Quiet Botanicals | Mint Stillness"
+        "Quiet Botanicals | Mint Stillness",
+        "Sage Lace | Sage Lace Candle"
       ]
     ],
     "manualPageOrder": true,
@@ -275,7 +277,9 @@
       "Words in Bloom | Kindness Grows",
       "Words in Bloom | Ribbon of Joy",
       "Quiet Botanicals | Midnight Poppy",
-      "Poetic Botanicals | Golden Midnight Bloom"
+      "Poetic Botanicals | Golden Midnight Bloom",
+      "Together Pieces | Pieces Together",
+      "Celebration Gardens | Happy New Home"
     ],
     "icon": "heart",
     "pages": [
@@ -317,7 +321,9 @@
         "Words in Bloom | Kindness Grows",
         "Words in Bloom | Ribbon of Joy",
         "Quiet Botanicals | Midnight Poppy",
-        "Poetic Botanicals | Golden Midnight Bloom"
+        "Poetic Botanicals | Golden Midnight Bloom",
+        "Together Pieces | Pieces Together",
+        "Celebration Gardens | Happy New Home"
       ]
     ],
     "manualPageOrder": true,
@@ -383,7 +389,8 @@
       "Midnight Ballet | Midnight Ballet Candle",
       "Garden Joys | Ivory Daisy",
       "Garden Joys | Emerald Bubbles",
-      "Joyful Little Things | Happy Fries"
+      "Joyful Little Things | Happy Fries",
+      "Celebration Gardens | Birthday Flower Garden"
     ],
     "icon": "joy",
     "pages": [
@@ -448,7 +455,8 @@
         "Midnight Ballet | Midnight Ballet Candle",
         "Garden Joys | Ivory Daisy",
         "Garden Joys | Emerald Bubbles",
-        "Joyful Little Things | Happy Fries"
+        "Joyful Little Things | Happy Fries",
+        "Celebration Gardens | Birthday Flower Garden"
       ]
     ],
     "manualPageOrder": true,

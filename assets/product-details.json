@@ -4046,6 +4046,74 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-A241A2CD",
+    "category": "candle",
+    "image": "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp",
+    "name": "Pieces Together",
+    "title": "Pieces Together Scented candle",
+    "url": "product-lnv-cnd-a241a2cd.html",
+    "series": "Together Pieces",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-D3B2A3FB",
+    "category": "candle",
+    "image": "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp",
+    "name": "Happy New Home",
+    "title": "Happy New Home Scented candle",
+    "url": "product-lnv-cnd-d3b2a3fb.html",
+    "series": "Celebration Gardens",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "clean-cotton"
+    ],
+    "primaryScent": "clean-cotton",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-6D34F841",
+    "category": "candle",
+    "image": "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp",
+    "name": "Birthday Flower Garden",
+    "title": "Birthday Flower Garden Scented candle",
+    "url": "product-lnv-cnd-6d34f841.html",
+    "series": "Celebration Gardens",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-2A11BB59",
+    "category": "candle",
+    "image": "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp",
+    "name": "Sage Lace Candle",
+    "title": "Sage Lace Candle Scented candle",
+    "url": "product-lnv-cnd-2a11bb59.html",
+    "series": "Sage Lace",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-RD-B55B5F35",
     "category": "reed",
     "image": "assets/reeds/paired/8e262fb59fe070149987.webp",
@@ -5793,6 +5861,23 @@
       "grapefruit-bergamot"
     ],
     "primaryScent": "grapefruit-bergamot",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-RD-FE498683",
+    "category": "reed",
+    "image": "assets/companions/gift-and-sage-lace/d08abc1ebeb787f51e75.webp",
+    "name": "Sage Lace Reed Diffuser",
+    "title": "Sage Lace Reed Diffuser",
+    "url": "product-lnv-rd-fe498683.html",
+    "series": "Sage Lace",
+    "collection": "A Quiet Pause",
+    "collectionHref": "reeds-a-quiet-pause.html",
+    "suggestedScents": [
+      "white-tea-rosemary"
+    ],
+    "primaryScent": "white-tea-rosemary",
     "specifications": {},
     "documents": []
   },
