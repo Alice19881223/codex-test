@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="A round friendly ghost">
+  <path d="M88 263V139c0-65 27-102 72-102s72 37 72 102v124c-21 12-45 13-72 5-27 8-51 7-72-5Z" fill="#fbf8ed" stroke="#486347" stroke-width="9" stroke-linejoin="round"/>
+  <g fill="#253025">
+    <ellipse cx="136" cy="142" rx="11" ry="16"/>
+    <ellipse cx="184" cy="142" rx="11" ry="16"/>
+  </g>
+  <path d="M143 181q17 14 34 0" fill="none" stroke="#486347" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#e2a19a" opacity=".78">
+    <circle cx="115" cy="173" r="8"/>
+    <circle cx="205" cy="173" r="8"/>
+  </g>
+</svg>
