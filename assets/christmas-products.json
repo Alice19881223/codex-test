@@ -1997,5 +1997,271 @@
     ],
     "assignedScent": "vanilla-tonka",
     "designDescription": "Christmas Mittens brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-260be2bf5401891ccfd8",
+    "name": "Ice Blue Silver Tree",
+    "series": "Winter Blue Christmas",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+      "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp"
+    ],
+    "assignedScent": "white-tea-bergamot",
+    "designDescription": "Ice Blue Silver Tree brings cool blue winter light to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-726206361fc3eb44d830",
+    "name": "North Pole Workshop Sign",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+      "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "North Pole Workshop Sign brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-d04813eca658b54eabcc",
+    "name": "North Pole Village Sign",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+      "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "North Pole Village Sign brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-621c04025d785dea5b32",
+    "name": "Christmas Gift Tower",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+      "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Christmas Gift Tower brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-5c133e5db5838bc5a269",
+    "name": "Minimal Christmas Eve Tree",
+    "series": "Golden Christmas Eve",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+      "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Minimal Christmas Eve Tree brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-02123305e119eb194dc3",
+    "name": "Pink Ribbon Wish",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+      "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "Pink Ribbon Wish brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-8c29294b3e03f5d0a3a5",
+    "name": "Red Stripe Christmas Fir",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+      "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Red Stripe Christmas Fir brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-0437f5439c4dbb1991a3",
+    "name": "Holly Jolly Christmas",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+      "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Holly Jolly Christmas brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-57d0dcd0fe72810ce1fb",
+    "name": "Christmas Wishes Bows",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+      "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "Christmas Wishes Bows brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-bbbd7a2eec8ca7bca5e2",
+    "name": "HO HO HO",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+      "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "HO HO HO brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-9036ef42f19ed58ac6a5",
+    "name": "Pink Gingham Merry Wishes",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+      "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "Pink Gingham Merry Wishes brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-3fb7538d4accd763c14c",
+    "name": "Vintage Santa Christmas",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+      "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Vintage Santa Christmas brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-3e2cad9d6e42f67dea14",
+    "name": "Christmas Icon Story",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+      "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "Christmas Icon Story brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-58da8bd8e9c41de0b1fc",
+    "name": "Pearl Candy Canes",
+    "series": "Pastel Christmas Magic",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+      "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp"
+    ],
+    "assignedScent": "eucalyptus-mint",
+    "designDescription": "Pearl Candy Canes brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-014b5e01321d02c55ee7",
+    "name": "Green Checkerboard Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+      "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Green Checkerboard Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-05e74d05022f61adaf1a",
+    "name": "Be Merry & Bright",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+      "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "Be Merry & Bright brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-572b7c3f5dac9f14f34e",
+    "name": "Christmas Peace",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+      "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp"
+    ],
+    "assignedScent": "incense-myrrh",
+    "designDescription": "Christmas Peace brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-48f8d6de552030880d91",
+    "name": "Christmas Story Signpost",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+      "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp"
+    ],
+    "assignedScent": "apple-cinnamon",
+    "designDescription": "Christmas Story Signpost brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-atmosphere-round2-c08d6450d12ec405e2ae",
+    "name": "Ivory Hand-Drawn Tree",
+    "series": "Classic Christmas Cheer",
+    "productType": "Scented candle",
+    "image": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+    "packagingImage": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp",
+    "images": [
+      "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+      "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Ivory Hand-Drawn Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

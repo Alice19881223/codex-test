@@ -22012,5 +22012,925 @@
         "bytes": 95834
       }
     ]
+  },
+  "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 147802,
+    "src": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8-480.webp",
+        "width": 480,
+        "bytes": 27048
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8-960.webp",
+        "width": 960,
+        "bytes": 87860
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+        "width": 1254,
+        "bytes": 147802
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 200194,
+    "src": "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/0656781b2935505db5f2-480.webp",
+        "width": 480,
+        "bytes": 29980
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/0656781b2935505db5f2-960.webp",
+        "width": 960,
+        "bytes": 116712
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp",
+        "width": 1254,
+        "bytes": 200194
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 167106,
+    "src": "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae-480.webp",
+        "width": 480,
+        "bytes": 29540
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae-960.webp",
+        "width": 960,
+        "bytes": 99392
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae.webp",
+        "width": 1254,
+        "bytes": 167106
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 63824,
+    "src": "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/726206361fc3eb44d830-480.webp",
+        "width": 480,
+        "bytes": 13702
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/726206361fc3eb44d830-960.webp",
+        "width": 960,
+        "bytes": 38310
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+        "width": 1254,
+        "bytes": 63824
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 95434,
+    "src": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578-480.webp",
+        "width": 480,
+        "bytes": 17110
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578-960.webp",
+        "width": 960,
+        "bytes": 54552
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp",
+        "width": 1254,
+        "bytes": 95434
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 80022,
+    "src": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc-480.webp",
+        "width": 480,
+        "bytes": 17382
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc-960.webp",
+        "width": 960,
+        "bytes": 49348
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+        "width": 1254,
+        "bytes": 80022
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 127154,
+    "src": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e-480.webp",
+        "width": 480,
+        "bytes": 22892
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e-960.webp",
+        "width": 960,
+        "bytes": 75604
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp",
+        "width": 1254,
+        "bytes": 127154
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 72814,
+    "src": "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44-480.webp",
+        "width": 480,
+        "bytes": 15708
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44-960.webp",
+        "width": 960,
+        "bytes": 44238
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44.webp",
+        "width": 1254,
+        "bytes": 72814
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 123532,
+    "src": "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/621c04025d785dea5b32-480.webp",
+        "width": 480,
+        "bytes": 25318
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/621c04025d785dea5b32-960.webp",
+        "width": 960,
+        "bytes": 77096
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+        "width": 1254,
+        "bytes": 123532
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 137964,
+    "src": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389-480.webp",
+        "width": 480,
+        "bytes": 22702
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389-960.webp",
+        "width": 960,
+        "bytes": 79560
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp",
+        "width": 1254,
+        "bytes": 137964
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 76098,
+    "src": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269-480.webp",
+        "width": 480,
+        "bytes": 15528
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269-960.webp",
+        "width": 960,
+        "bytes": 46106
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+        "width": 1254,
+        "bytes": 76098
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 141810,
+    "src": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4-480.webp",
+        "width": 480,
+        "bytes": 28586
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4-960.webp",
+        "width": 960,
+        "bytes": 87500
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp",
+        "width": 1254,
+        "bytes": 141810
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 57036,
+    "src": "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/02123305e119eb194dc3-480.webp",
+        "width": 480,
+        "bytes": 13990
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/02123305e119eb194dc3-960.webp",
+        "width": 960,
+        "bytes": 35794
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+        "width": 1254,
+        "bytes": 57036
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 81778,
+    "src": "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/7969832b75dac083c875-480.webp",
+        "width": 480,
+        "bytes": 17782
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/7969832b75dac083c875-960.webp",
+        "width": 960,
+        "bytes": 49182
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp",
+        "width": 1254,
+        "bytes": 81778
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 83858,
+    "src": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5-480.webp",
+        "width": 480,
+        "bytes": 20078
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5-960.webp",
+        "width": 960,
+        "bytes": 53396
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+        "width": 1254,
+        "bytes": 83858
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 138170,
+    "src": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a-480.webp",
+        "width": 480,
+        "bytes": 34716
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a-960.webp",
+        "width": 960,
+        "bytes": 90570
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp",
+        "width": 1254,
+        "bytes": 138170
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 97090,
+    "src": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3-480.webp",
+        "width": 480,
+        "bytes": 22022
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3-960.webp",
+        "width": 960,
+        "bytes": 59556
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+        "width": 1254,
+        "bytes": 97090
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 137302,
+    "src": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0-480.webp",
+        "width": 480,
+        "bytes": 31528
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0-960.webp",
+        "width": 960,
+        "bytes": 83512
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp",
+        "width": 1254,
+        "bytes": 137302
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 78492,
+    "src": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb-480.webp",
+        "width": 480,
+        "bytes": 18354
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb-960.webp",
+        "width": 960,
+        "bytes": 48520
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+        "width": 1254,
+        "bytes": 78492
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 142690,
+    "src": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4-480.webp",
+        "width": 480,
+        "bytes": 30190
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4-960.webp",
+        "width": 960,
+        "bytes": 87374
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp",
+        "width": 1254,
+        "bytes": 142690
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 74574,
+    "src": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2-480.webp",
+        "width": 480,
+        "bytes": 18184
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2-960.webp",
+        "width": 960,
+        "bytes": 46902
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+        "width": 1254,
+        "bytes": 74574
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 114150,
+    "src": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25-480.webp",
+        "width": 480,
+        "bytes": 23130
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25-960.webp",
+        "width": 960,
+        "bytes": 67266
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp",
+        "width": 1254,
+        "bytes": 114150
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 84186,
+    "src": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5-480.webp",
+        "width": 480,
+        "bytes": 22692
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5-960.webp",
+        "width": 960,
+        "bytes": 55020
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+        "width": 1254,
+        "bytes": 84186
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 127006,
+    "src": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2-480.webp",
+        "width": 480,
+        "bytes": 32936
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2-960.webp",
+        "width": 960,
+        "bytes": 84802
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp",
+        "width": 1254,
+        "bytes": 127006
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 111370,
+    "src": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c-480.webp",
+        "width": 480,
+        "bytes": 23194
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c-960.webp",
+        "width": 960,
+        "bytes": 68270
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+        "width": 1254,
+        "bytes": 111370
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 160674,
+    "src": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3-480.webp",
+        "width": 480,
+        "bytes": 23926
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3-960.webp",
+        "width": 960,
+        "bytes": 92396
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp",
+        "width": 1254,
+        "bytes": 160674
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 86644,
+    "src": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14-480.webp",
+        "width": 480,
+        "bytes": 17812
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14-960.webp",
+        "width": 960,
+        "bytes": 52608
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+        "width": 1254,
+        "bytes": 86644
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 94066,
+    "src": "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/4b30de731f606171cd50-480.webp",
+        "width": 480,
+        "bytes": 17714
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/4b30de731f606171cd50-960.webp",
+        "width": 960,
+        "bytes": 55252
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp",
+        "width": 1254,
+        "bytes": 94066
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 91338,
+    "src": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc-480.webp",
+        "width": 480,
+        "bytes": 14732
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc-960.webp",
+        "width": 960,
+        "bytes": 51072
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+        "width": 1254,
+        "bytes": 91338
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 162120,
+    "src": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496-480.webp",
+        "width": 480,
+        "bytes": 23674
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496-960.webp",
+        "width": 960,
+        "bytes": 91470
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp",
+        "width": 1254,
+        "bytes": 162120
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 136746,
+    "src": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7-480.webp",
+        "width": 480,
+        "bytes": 29372
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7-960.webp",
+        "width": 960,
+        "bytes": 85642
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+        "width": 1254,
+        "bytes": 136746
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 145248,
+    "src": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c-480.webp",
+        "width": 480,
+        "bytes": 26620
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c-960.webp",
+        "width": 960,
+        "bytes": 86250
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp",
+        "width": 1254,
+        "bytes": 145248
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 81266,
+    "src": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a-480.webp",
+        "width": 480,
+        "bytes": 18122
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a-960.webp",
+        "width": 960,
+        "bytes": 49876
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+        "width": 1254,
+        "bytes": 81266
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 90336,
+    "src": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f-480.webp",
+        "width": 480,
+        "bytes": 18972
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f-960.webp",
+        "width": 960,
+        "bytes": 53078
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp",
+        "width": 1254,
+        "bytes": 90336
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 64368,
+    "src": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e-480.webp",
+        "width": 480,
+        "bytes": 12766
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e-960.webp",
+        "width": 960,
+        "bytes": 38026
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+        "width": 1254,
+        "bytes": 64368
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 119964,
+    "src": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35-480.webp",
+        "width": 480,
+        "bytes": 20026
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35-960.webp",
+        "width": 960,
+        "bytes": 66504
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp",
+        "width": 1254,
+        "bytes": 119964
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 79488,
+    "src": "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/48f8d6de552030880d91-480.webp",
+        "width": 480,
+        "bytes": 17614
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/48f8d6de552030880d91-960.webp",
+        "width": 960,
+        "bytes": 49568
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+        "width": 1254,
+        "bytes": 79488
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 143508,
+    "src": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100-480.webp",
+        "width": 480,
+        "bytes": 21370
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100-960.webp",
+        "width": 960,
+        "bytes": 82498
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp",
+        "width": 1254,
+        "bytes": 143508
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 83478,
+    "src": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae-480.webp",
+        "width": 480,
+        "bytes": 20048
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae-960.webp",
+        "width": 960,
+        "bytes": 52362
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+        "width": 1254,
+        "bytes": 83478
+      }
+    ]
+  },
+  "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 98124,
+    "src": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b-480.webp",
+        "width": 480,
+        "bytes": 22134
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b-960.webp",
+        "width": 960,
+        "bytes": 59834
+      },
+      {
+        "src": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp",
+        "width": 1254,
+        "bytes": 98124
+      }
+    ]
   }
 }

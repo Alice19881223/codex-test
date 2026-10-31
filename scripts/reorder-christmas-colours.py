@@ -77,7 +77,19 @@ Letters to Santa North Pole
 North Pole Post
 Christmas Icon Parade
 Candy Garden
-Vintage Ribbon Tree'''),
+Vintage Ribbon Tree
+North Pole Workshop Sign
+North Pole Village Sign
+Red Stripe Christmas Fir
+Holly Jolly Christmas
+HO HO HO
+Vintage Santa Christmas
+Christmas Icon Story
+Green Checkerboard Tree
+Be Merry & Bright
+Christmas Peace
+Christmas Story Signpost
+Ivory Hand-Drawn Tree'''),
  ('Bright Colour','''Lilac Gingerbread Candle
 Lilac Gingerbread Reed Diffuser
 Violet Christmas Village
@@ -109,7 +121,12 @@ Magic Holiday
 Bright Three Trees
 Sweet Gingerbread Wishes
 Christmas Cocoa
-Christmas Mittens'''),
+Christmas Mittens
+Christmas Gift Tower
+Pink Ribbon Wish
+Christmas Wishes Bows
+Pink Gingham Merry Wishes
+Pearl Candy Canes'''),
  ('Winter Blue','''Winter Ballet Candle
 Blue Winter Forest
 Snowman Moonlit Cottage
@@ -120,7 +137,8 @@ Silent Night Tree
 Midnight Snowflake
 Blue Merry & Bright
 Ice Blue Tree
-Ice Blue Snowman'''),
+Ice Blue Snowman
+Ice Blue Silver Tree'''),
  ('Harmonious Tones','''Warm Ivory Candle Trio
 Pinecone Candle
 Golden Winter Reindeer
@@ -139,7 +157,8 @@ Ivory Tree Tag
 Golden Christmas Ballet
 Ivory Three Trees
 Silent Night Strings
-Joy to the World Ballet'''),
+Joy to the World Ballet
+Minimal Christmas Eve Tree'''),
  ('Sand Art','''Cedar Kiss
 Christmas Tree Sand Candle
 Coastal Lime

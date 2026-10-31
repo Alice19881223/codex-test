@@ -1,0 +1,602 @@
+{
+  "sourceArchives": [
+    "打包1.zip",
+    "打包2.zip",
+    "打包3.zip",
+    "打包4.zip"
+  ],
+  "productCount": 19,
+  "uniqueImageCount": 40,
+  "exactDuplicatesOmitted": 2,
+  "products": [
+    {
+      "id": "christmas-atmosphere-round2-260be2bf5401891ccfd8",
+      "name": "Ice Blue Silver Tree",
+      "series": "Winter Blue Christmas",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+        "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp"
+      ],
+      "assignedScent": "white-tea-bergamot",
+      "designDescription": "Ice Blue Silver Tree brings cool blue winter light to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-726206361fc3eb44d830",
+      "name": "North Pole Workshop Sign",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+        "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "North Pole Workshop Sign brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-d04813eca658b54eabcc",
+      "name": "North Pole Village Sign",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+        "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "North Pole Village Sign brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-621c04025d785dea5b32",
+      "name": "Christmas Gift Tower",
+      "series": "Pastel Christmas Magic",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+        "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "Christmas Gift Tower brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-5c133e5db5838bc5a269",
+      "name": "Minimal Christmas Eve Tree",
+      "series": "Golden Christmas Eve",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+        "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Minimal Christmas Eve Tree brings quiet ivory and gold celebration to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-02123305e119eb194dc3",
+      "name": "Pink Ribbon Wish",
+      "series": "Pastel Christmas Magic",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+        "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "Pink Ribbon Wish brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-8c29294b3e03f5d0a3a5",
+      "name": "Red Stripe Christmas Fir",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+        "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Red Stripe Christmas Fir brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-0437f5439c4dbb1991a3",
+      "name": "Holly Jolly Christmas",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+        "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Holly Jolly Christmas brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-57d0dcd0fe72810ce1fb",
+      "name": "Christmas Wishes Bows",
+      "series": "Pastel Christmas Magic",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+        "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "Christmas Wishes Bows brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-bbbd7a2eec8ca7bca5e2",
+      "name": "HO HO HO",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+        "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "HO HO HO brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-9036ef42f19ed58ac6a5",
+      "name": "Pink Gingham Merry Wishes",
+      "series": "Pastel Christmas Magic",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+        "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "Pink Gingham Merry Wishes brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-3fb7538d4accd763c14c",
+      "name": "Vintage Santa Christmas",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+        "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "Vintage Santa Christmas brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-3e2cad9d6e42f67dea14",
+      "name": "Christmas Icon Story",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+        "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp"
+      ],
+      "assignedScent": "gingerbread-vanilla",
+      "designDescription": "Christmas Icon Story brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-58da8bd8e9c41de0b1fc",
+      "name": "Pearl Candy Canes",
+      "series": "Pastel Christmas Magic",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+        "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp"
+      ],
+      "assignedScent": "eucalyptus-mint",
+      "designDescription": "Pearl Candy Canes brings playful pink and pastel holiday colour to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-014b5e01321d02c55ee7",
+      "name": "Green Checkerboard Tree",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+        "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Green Checkerboard Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-05e74d05022f61adaf1a",
+      "name": "Be Merry & Bright",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+        "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp"
+      ],
+      "assignedScent": "pine-cedarwood",
+      "designDescription": "Be Merry & Bright brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-572b7c3f5dac9f14f34e",
+      "name": "Christmas Peace",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+        "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp"
+      ],
+      "assignedScent": "incense-myrrh",
+      "designDescription": "Christmas Peace brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-48f8d6de552030880d91",
+      "name": "Christmas Story Signpost",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+        "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp"
+      ],
+      "assignedScent": "apple-cinnamon",
+      "designDescription": "Christmas Story Signpost brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "christmas-atmosphere-round2-c08d6450d12ec405e2ae",
+      "name": "Ivory Hand-Drawn Tree",
+      "series": "Classic Christmas Cheer",
+      "productType": "Scented candle",
+      "image": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+      "packagingImage": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp",
+      "images": [
+        "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+        "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Ivory Hand-Drawn Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "archive": "打包2.zip",
+      "source": "冰蓝银饰圣诞树蜡烛-1.png",
+      "sha256": "260be2bf5401891ccfd80f2b13c7f64adf5fe24e1ddac174ab38df4680303896",
+      "image": "assets/christmas/atmosphere-round2/260be2bf5401891ccfd8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "冰蓝圣诞香氛蜡烛礼盒-2.png",
+      "sha256": "0656781b2935505db5f2b87423ad3bf7976d5f3650a0c44982fc46dbd92c5787",
+      "image": "assets/christmas/atmosphere-round2/0656781b2935505db5f2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "银灰圣诞礼盒与蜡烛.png",
+      "sha256": "afcd0239bc5b53755eae31a12bde14f2a252aec92fc6d8611e599b38d19df273",
+      "image": "assets/christmas/atmosphere-round2/afcd0239bc5b53755eae.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "北极圣诞路牌香薰蜡烛-6.png",
+      "sha256": "726206361fc3eb44d8304448bc7c0939d0126d455011fa591f2c66c172ea8d2c",
+      "image": "assets/christmas/atmosphere-round2/726206361fc3eb44d830.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "北极圣诞蜡烛与礼盒-7.png",
+      "sha256": "7f8e47d6edd6da6fc5788a87b7710e745dfd60f7e45fffbf120cc19e18e062ea",
+      "image": "assets/christmas/atmosphere-round2/7f8e47d6edd6da6fc578.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "北极驿站奢华圣诞蜡烛-1.png",
+      "sha256": "d04813eca658b54eabcced36d268af8e7808fea71448774d3e95cde42cfbff04",
+      "image": "assets/christmas/atmosphere-round2/d04813eca658b54eabcc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "北极圣诞香氛蜡烛礼盒-3.png",
+      "sha256": "50595c96b9ce4bcf674ea75f1ed2bdc972b1df134ebc964cc703f65b503905a4",
+      "image": "assets/christmas/atmosphere-round2/50595c96b9ce4bcf674e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "Lanarve 金色字标蜡烛-2.png",
+      "sha256": "b0aecfeb695e7b9b5f44c6a94936d02cef5ca323adc5abe45a8378f219d003df",
+      "image": "assets/christmas/atmosphere-round2/b0aecfeb695e7b9b5f44.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "复古圣诞礼盒香氛蜡烛-1 (1).png",
+      "sha256": "621c04025d785dea5b32ff8e7a25dfd9c7eceac2a146f0dedb66383d24bc704c",
+      "image": "assets/christmas/atmosphere-round2/621c04025d785dea5b32.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "兰纳芙圣诞蜡烛礼盒-2 (1).png",
+      "sha256": "54770d0cc46ecd4ad3896bfdb2e314a9f853c6c488b863ad34ec4fab1fb5dbb6",
+      "image": "assets/christmas/atmosphere-round2/54770d0cc46ecd4ad389.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "极简奢华圣诞树香薰蜡烛-1.png",
+      "sha256": "5c133e5db5838bc5a269d159a56e44745dc5eebbc83848d63ef503487d79c985",
+      "image": "assets/christmas/atmosphere-round2/5c133e5db5838bc5a269.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "圣诞香氛蜡烛与精品礼盒-2.png",
+      "sha256": "92c33a2ab0ff3e447ff4ec19a8e26f40d7632f27d34fa66abcafe8779043d580",
+      "image": "assets/christmas/atmosphere-round2/92c33a2ab0ff3e447ff4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "粉彩条纹圣诞蜡烛-1.png",
+      "sha256": "02123305e119eb194dc39dca137742436de2d3feb2078ef18849797b70bb0c2d",
+      "image": "assets/christmas/atmosphere-round2/02123305e119eb194dc3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "Lanarve圣诞蜡烛礼盒-2.png",
+      "sha256": "7969832b75dac083c87533ee03d55b25c8103cc50aa11bc515dcc6ab58a5693b",
+      "image": "assets/christmas/atmosphere-round2/7969832b75dac083c875.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "红白条纹圣诞树香氛蜡烛.png",
+      "sha256": "8c29294b3e03f5d0a3a59512a87ec20d2fb8a6fef17459faaa990a9bf8a07a33",
+      "image": "assets/christmas/atmosphere-round2/8c29294b3e03f5d0a3a5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "条纹顶盖蜡烛礼盒.png",
+      "sha256": "db32730f37cd42310c8a29c947088be53a723db3d5c6eb547c594bbe0bca07e5",
+      "image": "assets/christmas/atmosphere-round2/db32730f37cd42310c8a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "Lanarve奢华冬青圣诞蜡烛-1.png",
+      "sha256": "0437f5439c4dbb1991a3724755e92f7269895398b71cf946d176529513add647",
+      "image": "assets/christmas/atmosphere-round2/0437f5439c4dbb1991a3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "Lanarve Holly Jolly 圣诞蜡烛礼盒-2.png",
+      "sha256": "70376a8e40e49cbc91e07d0d38c5745ef9eb2a87612561bfe49049543b048b92",
+      "image": "assets/christmas/atmosphere-round2/70376a8e40e49cbc91e0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "珀光蝴蝶结圣诞香氛蜡烛-1.png",
+      "sha256": "57d0dcd0fe72810ce1fb8c6fef2cc5244f07b6702ebfa69d57ef934afb0b0f3f",
+      "image": "assets/christmas/atmosphere-round2/57d0dcd0fe72810ce1fb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "Lanarve圣诞许愿蝴蝶结香薰礼盒-2.png",
+      "sha256": "b67d22b87838a00f8af486d80ac3e48eccb5193fb53dc1041974e9f85296ce11",
+      "image": "assets/christmas/atmosphere-round2/b67d22b87838a00f8af4.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "奢华圣诞 HO HO HO 陶瓷香薰蜡烛-1.png",
+      "sha256": "bbbd7a2eec8ca7bca5e2681f748ecdcca000d9045d9528da6313bf95dea0678a",
+      "image": "assets/christmas/atmosphere-round2/bbbd7a2eec8ca7bca5e2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "兰纳维圣诞蜡烛礼盒-2.png",
+      "sha256": "8eb3e805f4f4dde20d25b18a223b59048056d6d5f23c8b6088b110c42d7bb0d3",
+      "image": "assets/christmas/atmosphere-round2/8eb3e805f4f4dde20d25.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "粉白格纹圣诞香氛蜡烛-1.png",
+      "sha256": "9036ef42f19ed58ac6a552981e1e441d81f1a4fc9fcd52eb8b4c1c7c992dd2f5",
+      "image": "assets/christmas/atmosphere-round2/9036ef42f19ed58ac6a5.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "粉白格纹蜡烛礼盒-2.png",
+      "sha256": "2d6ca9cc8a3fcc91aac2b0cf45a55a6dc60023cc42ede1aa8d3601dd1efd10fd",
+      "image": "assets/christmas/atmosphere-round2/2d6ca9cc8a3fcc91aac2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "酒红复古圣诞老人蜡烛-1.png",
+      "sha256": "3fb7538d4accd763c14c3062f48f6829e17fe9196f28a00032169ab00e4ca52d",
+      "image": "assets/christmas/atmosphere-round2/3fb7538d4accd763c14c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "圣诞红蜡烛与高级礼盒-2.png",
+      "sha256": "cb85d1905f430b7283b3d6bf9551e55b5dc2e1c8f34dec0f971312cc92897e84",
+      "image": "assets/christmas/atmosphere-round2/cb85d1905f430b7283b3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "象牙白圣诞浮雕香薰蜡烛.png",
+      "sha256": "3e2cad9d6e42f67dea142d46129d4754426421786d6df096df97fdbdb8a32101",
+      "image": "assets/christmas/atmosphere-round2/3e2cad9d6e42f67dea14.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包2.zip",
+      "source": "金色圣诞礼盒与蜡烛.png",
+      "sha256": "4b30de731f606171cd50269ab19535fb75239a738602b06c0f5017f26674705d",
+      "image": "assets/christmas/atmosphere-round2/4b30de731f606171cd50.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "梦幻糖杖圣诞香薰蜡烛-1.png",
+      "sha256": "58da8bd8e9c41de0b1fc22835edcfaece241360bd96ad01926569e088032431e",
+      "image": "assets/christmas/atmosphere-round2/58da8bd8e9c41de0b1fc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "梦幻珍珠糖果拐杖蜡烛礼盒-2.png",
+      "sha256": "de2ecc5ff0156b5a14965371fcc3928e6ee654f5b1db95f80aecf1e4f802ac97",
+      "image": "assets/christmas/atmosphere-round2/de2ecc5ff0156b5a1496.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "森林绿格纹圣诞香薰蜡烛.png",
+      "sha256": "014b5e01321d02c55ee79169ec9d50ff29b5914149ced15a27c16ad740635333",
+      "image": "assets/christmas/atmosphere-round2/014b5e01321d02c55ee7.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "圣诞香薰蜡烛与极简礼盒.png",
+      "sha256": "241bee93ab78e261c82c587cc2770bf07fc9a606952b186e13c8705dc949e379",
+      "image": "assets/christmas/atmosphere-round2/241bee93ab78e261c82c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "绿白复古圣诞蜡烛.png",
+      "sha256": "05e74d05022f61adaf1a4c7ff5da2e25ec6b32eae2bfdedc355339c3881c40b8",
+      "image": "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "深绿圣诞蜡烛礼盒.png",
+      "sha256": "4320949e1aaadcff3b7fbd1736420b4002fa5f5edb1c2f73efad89a2e6cce8df",
+      "image": "assets/christmas/atmosphere-round2/4320949e1aaadcff3b7f.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "Lanarve象牙白PEACE圣诞蜡烛-1.png",
+      "sha256": "572b7c3f5dac9f14f34e583fe15db645a309288a76431dbe87f56e33706aa224",
+      "image": "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "象牙白PEACE香薰蜡烛礼盒-2.png",
+      "sha256": "dfd8bb0c13d5c5218e35b35309730455de92f289f6c752233412b19e25dfb7ac",
+      "image": "assets/christmas/atmosphere-round2/dfd8bb0c13d5c5218e35.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包4.zip",
+      "source": "圣诞小镇奢华蜡烛-4.png",
+      "sha256": "48f8d6de552030880d914ce0a2e94e796b9c693131cbd640eb8c37e48057a6dc",
+      "image": "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "象牙白圣诞小镇蜡烛礼盒-5.png",
+      "sha256": "b025df3fdc306d0da10005be4eb28ea6fe492137e09ddea8f96d42f008a91ca0",
+      "image": "assets/christmas/atmosphere-round2/b025df3fdc306d0da100.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "无金边的象牙色节日蜡烛.png",
+      "sha256": "c08d6450d12ec405e2ae14aa8852359af1000ff7a96b508c5ef9a01c9a22821c",
+      "image": "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包3.zip",
+      "source": "象牙色圣诞礼盒与蜡烛.png",
+      "sha256": "834b47d7bc90a442c32bae39fcdf18691d8c0c84b9e759f4874c1de2d6175401",
+      "image": "assets/christmas/atmosphere-round2/834b47d7bc90a442c32b.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "placement": "Classic Christmas, pastel celebration, winter blue and ivory-gold atmosphere groups; sand art and ornaments remain last."
+}
