@@ -158,6 +158,9 @@ Ivory Three Trees
 Silent Night Strings
 Joy to the World Ballet
 Minimal Christmas Eve Tree'''),
+ ('Christmas Storybook Finale','''Santa’s Christmas Story
+Gift-Bearing Reindeer
+Gingerbread Baker'''),
  ('Sand Art','''Cedar Kiss
 Christmas Tree Sand Candle
 Coastal Lime

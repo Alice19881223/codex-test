@@ -2378,5 +2378,17 @@
   "LNV-HLW-9C46A76C": {
     "scent": "pine-cedarwood",
     "basis": "Suggested pairing based on the reviewed Halloween design, colour and seasonal atmosphere"
+  },
+  "LNV-XMS-20964AB6": {
+    "scent": "orange-clove",
+    "basis": "Suggested pairing based on the reviewed Christmas design and seasonal atmosphere"
+  },
+  "LNV-XMS-B7000CCD": {
+    "scent": "fir-cedarwood",
+    "basis": "Suggested pairing based on the reviewed Christmas design and seasonal atmosphere"
+  },
+  "LNV-XMS-FB24255A": {
+    "scent": "gingerbread-vanilla",
+    "basis": "Suggested pairing based on the reviewed Christmas design and seasonal atmosphere"
   }
 }

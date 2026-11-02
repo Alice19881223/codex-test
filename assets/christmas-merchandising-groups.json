@@ -175,6 +175,14 @@
       ]
     },
     {
+      "name": "Christmas Storybook Finale",
+      "products": [
+        "Santa’s Christmas Story",
+        "Gift-Bearing Reindeer",
+        "Gingerbread Baker"
+      ]
+    },
+    {
       "name": "Sand Art",
       "products": [
         "Cedar Kiss",
@@ -212,6 +220,7 @@
     12,
     12,
     12,
-    10
+    12,
+    1
   ]
 }

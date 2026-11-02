@@ -9146,6 +9146,57 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-XMS-20964AB6",
+    "category": "christmas",
+    "image": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+    "name": "Santa\u2019s Christmas Story",
+    "title": "Santa\u2019s Christmas Story Scented candle",
+    "url": "product-lnv-xms-20964ab6.html",
+    "series": "Christmas Storybook Finale",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-B7000CCD",
+    "category": "christmas",
+    "image": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+    "name": "Gift-Bearing Reindeer",
+    "title": "Gift-Bearing Reindeer Scented candle",
+    "url": "product-lnv-xms-b7000ccd.html",
+    "series": "Christmas Storybook Finale",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-FB24255A",
+    "category": "christmas",
+    "image": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+    "name": "Gingerbread Baker",
+    "title": "Gingerbread Baker Scented candle",
+    "url": "product-lnv-xms-fb24255a.html",
+    "series": "Christmas Storybook Finale",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "gingerbread-vanilla"
+    ],
+    "primaryScent": "gingerbread-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-HLW-6AEA9B57",
     "category": "halloween",
     "image": "assets/halloween/paired/e27109d911843e795479.webp",

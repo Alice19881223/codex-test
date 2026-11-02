@@ -23346,5 +23346,143 @@
         "bytes": 124126
       }
     ]
+  },
+  "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 111102,
+    "src": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef-480.webp",
+        "width": 480,
+        "bytes": 27212
+      },
+      {
+        "src": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef-960.webp",
+        "width": 960,
+        "bytes": 71750
+      },
+      {
+        "src": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+        "width": 1254,
+        "bytes": 111102
+      }
+    ]
+  },
+  "assets/christmas/storybook-finale/62eec14e459a588a9298.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 150348,
+    "src": "assets/christmas/storybook-finale/62eec14e459a588a9298.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/62eec14e459a588a9298-480.webp",
+        "width": 480,
+        "bytes": 33844
+      },
+      {
+        "src": "assets/christmas/storybook-finale/62eec14e459a588a9298-960.webp",
+        "width": 960,
+        "bytes": 92468
+      },
+      {
+        "src": "assets/christmas/storybook-finale/62eec14e459a588a9298.webp",
+        "width": 1254,
+        "bytes": 150348
+      }
+    ]
+  },
+  "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 101556,
+    "src": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/6fc20b73072b7030f09c-480.webp",
+        "width": 480,
+        "bytes": 21296
+      },
+      {
+        "src": "assets/christmas/storybook-finale/6fc20b73072b7030f09c-960.webp",
+        "width": 960,
+        "bytes": 62520
+      },
+      {
+        "src": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+        "width": 1254,
+        "bytes": 101556
+      }
+    ]
+  },
+  "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 124056,
+    "src": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7-480.webp",
+        "width": 480,
+        "bytes": 23064
+      },
+      {
+        "src": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7-960.webp",
+        "width": 960,
+        "bytes": 73246
+      },
+      {
+        "src": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp",
+        "width": 1254,
+        "bytes": 124056
+      }
+    ]
+  },
+  "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 92060,
+    "src": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb-480.webp",
+        "width": 480,
+        "bytes": 20666
+      },
+      {
+        "src": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb-960.webp",
+        "width": 960,
+        "bytes": 57680
+      },
+      {
+        "src": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+        "width": 1254,
+        "bytes": 92060
+      }
+    ]
+  },
+  "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 113874,
+    "src": "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp",
+    "variants": [
+      {
+        "src": "assets/christmas/storybook-finale/bc03bcb117d9f5618009-480.webp",
+        "width": 480,
+        "bytes": 24758
+      },
+      {
+        "src": "assets/christmas/storybook-finale/bc03bcb117d9f5618009-960.webp",
+        "width": 960,
+        "bytes": 70698
+      },
+      {
+        "src": "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp",
+        "width": 1254,
+        "bytes": 113874
+      }
+    ]
   }
 }

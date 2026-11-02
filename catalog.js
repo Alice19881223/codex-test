@@ -2044,7 +2044,7 @@ const scents = [
         "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
         "name": "Burgundy Botanical Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-14.html",
+        "catalogueHref": "christmas-collection-15.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
       },
       {
@@ -4359,7 +4359,7 @@ const scents = [
         "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-14.html",
         "href": "product-lnv-xms-3adc7f14.html?scent=cedarwood-vetiver"
       },
       {
@@ -5667,6 +5667,14 @@ const scents = [
         "href": "product-lnv-xms-2eedee14.html?scent=fir-cedarwood"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+        "name": "Gift-Bearing Reindeer",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-13.html",
+        "href": "product-lnv-xms-b7000ccd.html?scent=fir-cedarwood"
+      },
+      {
         "category": "crystal",
         "image": "assets/companions/a35269a079593416887d.webp",
         "name": "Forest Reverie",
@@ -5847,7 +5855,7 @@ const scents = [
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-14.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -6176,6 +6184,14 @@ const scents = [
         "series": "Christmas Storybook Glass",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-81f21639.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+        "name": "Santa\u2019s Christmas Story",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-13.html",
+        "href": "product-lnv-xms-20964ab6.html?scent=orange-clove"
       }
     ],
     "family": "Warm & Woody",
@@ -6311,6 +6327,14 @@ const scents = [
         "series": "Classic Christmas Cheer",
         "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-efe6eccc.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+        "name": "Gingerbread Baker",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-14.html",
+        "href": "product-lnv-xms-fb24255a.html?scent=gingerbread-vanilla"
       },
       {
         "category": "christmas",
@@ -14365,6 +14389,48 @@ const christmasProducts = [
     ],
     "assignedScent": "fir-cedarwood",
     "designDescription": "Ivory Hand-Drawn Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-3724a1cb9c73e7f135ef",
+    "name": "Santa’s Christmas Story",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+    "packagingImage": "assets/christmas/storybook-finale/62eec14e459a588a9298.webp",
+    "images": [
+      "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+      "assets/christmas/storybook-finale/62eec14e459a588a9298.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Santa sits among a Christmas tree and gifts inside a ribbon-trimmed storybook frame. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-6fc20b73072b7030f09c",
+    "name": "Gift-Bearing Reindeer",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+    "packagingImage": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp",
+    "images": [
+      "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+      "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "A softly illustrated reindeer carries a red saddle filled with wrapped Christmas gifts. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-b7f2a2a22c40030784eb",
+    "name": "Gingerbread Baker",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+    "packagingImage": "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp",
+    "images": [
+      "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+      "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "A cheerful gingerbread baker in a tall chef’s hat brings a warm festive-kitchen character. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 
@@ -15710,7 +15776,10 @@ const productPages = {
     "assets/christmas/atmosphere-round2/05e74d05022f61adaf1a.webp": "product-lnv-xms-e518ee85.html",
     "assets/christmas/atmosphere-round2/572b7c3f5dac9f14f34e.webp": "product-lnv-xms-4a0915e7.html",
     "assets/christmas/atmosphere-round2/48f8d6de552030880d91.webp": "product-lnv-xms-a9cd9499.html",
-    "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp": "product-lnv-xms-cf556e0b.html"
+    "assets/christmas/atmosphere-round2/c08d6450d12ec405e2ae.webp": "product-lnv-xms-cf556e0b.html",
+    "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp": "product-lnv-xms-20964ab6.html",
+    "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp": "product-lnv-xms-b7000ccd.html",
+    "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp": "product-lnv-xms-fb24255a.html"
   },
   "halloween": {
     "assets/halloween/paired/e27109d911843e795479.webp": "product-lnv-hlw-6aea9b57.html",

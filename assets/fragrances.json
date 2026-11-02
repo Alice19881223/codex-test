@@ -2036,7 +2036,7 @@
         "image": "assets/christmas/paired/58479c85aca5612cf8f4.webp",
         "name": "Burgundy Botanical Ornament",
         "series": "Botanical Wax Ornaments",
-        "catalogueHref": "christmas-collection-14.html",
+        "catalogueHref": "christmas-collection-15.html",
         "href": "product-lnv-xms-33eac166.html?scent=pomegranate-amber"
       },
       {
@@ -4351,7 +4351,7 @@
         "image": "assets/christmas/paired/fa0a43337a95d05c5727.webp",
         "name": "Cedar Kiss",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-14.html",
         "href": "product-lnv-xms-3adc7f14.html?scent=cedarwood-vetiver"
       },
       {
@@ -5659,6 +5659,14 @@
         "href": "product-lnv-xms-2eedee14.html?scent=fir-cedarwood"
       },
       {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+        "name": "Gift-Bearing Reindeer",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-13.html",
+        "href": "product-lnv-xms-b7000ccd.html?scent=fir-cedarwood"
+      },
+      {
         "category": "crystal",
         "image": "assets/companions/a35269a079593416887d.webp",
         "name": "Forest Reverie",
@@ -5839,7 +5847,7 @@
         "image": "assets/christmas/paired/d9c6cf216c67a77a99fd.webp",
         "name": "Christmas Tree Sand Candle",
         "series": "Christmas Sand Art",
-        "catalogueHref": "christmas-collection-13.html",
+        "catalogueHref": "christmas-collection-14.html",
         "href": "product-lnv-xms-f7070bc9.html?scent=fir-cedarwood"
       },
       {
@@ -6168,6 +6176,14 @@
         "series": "Christmas Storybook Glass",
         "catalogueHref": "christmas-collection-2.html",
         "href": "product-lnv-xms-81f21639.html?scent=orange-clove"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+        "name": "Santa\u2019s Christmas Story",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-13.html",
+        "href": "product-lnv-xms-20964ab6.html?scent=orange-clove"
       }
     ],
     "family": "Warm & Woody",
@@ -6303,6 +6319,14 @@
         "series": "Classic Christmas Cheer",
         "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-efe6eccc.html?scent=gingerbread-vanilla"
+      },
+      {
+        "category": "christmas",
+        "image": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+        "name": "Gingerbread Baker",
+        "series": "Christmas Storybook Finale",
+        "catalogueHref": "christmas-collection-14.html",
+        "href": "product-lnv-xms-fb24255a.html?scent=gingerbread-vanilla"
       },
       {
         "category": "christmas",

@@ -2249,5 +2249,47 @@
     ],
     "assignedScent": "fir-cedarwood",
     "designDescription": "Ivory Hand-Drawn Tree brings classic red, green and ivory Christmas storytelling to a coordinated candle and gift-box presentation. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-3724a1cb9c73e7f135ef",
+    "name": "Santa’s Christmas Story",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+    "packagingImage": "assets/christmas/storybook-finale/62eec14e459a588a9298.webp",
+    "images": [
+      "assets/christmas/storybook-finale/3724a1cb9c73e7f135ef.webp",
+      "assets/christmas/storybook-finale/62eec14e459a588a9298.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Santa sits among a Christmas tree and gifts inside a ribbon-trimmed storybook frame. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-6fc20b73072b7030f09c",
+    "name": "Gift-Bearing Reindeer",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+    "packagingImage": "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp",
+    "images": [
+      "assets/christmas/storybook-finale/6fc20b73072b7030f09c.webp",
+      "assets/christmas/storybook-finale/1dda06b5d73f78e528a7.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "A softly illustrated reindeer carries a red saddle filled with wrapped Christmas gifts. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "christmas-storybook-finale-b7f2a2a22c40030784eb",
+    "name": "Gingerbread Baker",
+    "series": "Christmas Storybook Finale",
+    "productType": "Scented candle",
+    "image": "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+    "packagingImage": "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp",
+    "images": [
+      "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp",
+      "assets/christmas/storybook-finale/bc03bcb117d9f5618009.webp"
+    ],
+    "assignedScent": "gingerbread-vanilla",
+    "designDescription": "A cheerful gingerbread baker in a tall chef’s hat brings a warm festive-kitchen character. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]
