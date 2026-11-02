@@ -1,0 +1,314 @@
+{
+  "sourceArchives": [
+    "打包.zip",
+    "打包7.zip",
+    "打包8.zip"
+  ],
+  "productCount": 10,
+  "imageCount": 20,
+  "products": [
+    {
+      "id": "halloween-elegant-night-4de9379f8188ba32ccc2",
+      "name": "Mummy Goose",
+      "series": "Ivory Ghost Stories",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+      "packagingImage": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
+      "images": [
+        "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+        "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp"
+      ],
+      "assignedScent": "orange-clove",
+      "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
+      "name": "Book of Spells Ghost",
+      "series": "Ivory Ghost Stories",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+      "packagingImage": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
+      "images": [
+        "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+        "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp"
+      ],
+      "assignedScent": "vanilla-tonka",
+      "designDescription": "A friendly dimensional ghost reads from a little book of spells. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-b0aae3da62b44541c551",
+      "name": "Ghost Reading Club",
+      "series": "Ivory Ghost Stories",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+      "packagingImage": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
+      "images": [
+        "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+        "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp"
+      ],
+      "assignedScent": "black-tea-cedarwood",
+      "designDescription": "Three book-loving ghosts form a quiet, illustrated Halloween reading club. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-433919fdfc5e8dba6262",
+      "name": "Wise Little Ghost",
+      "series": "Ivory Ghost Stories",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+      "packagingImage": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
+      "images": [
+        "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+        "assets/halloween/elegant-night/02fef46be42f9712a4da.webp"
+      ],
+      "assignedScent": "amber-vanilla",
+      "designDescription": "A bespectacled ghost in a warm knit hat reads by autumn light. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-bc33b74de831236e3f4b",
+      "name": "Purple Witch Ghost",
+      "series": "Purple Moonlight",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+      "packagingImage": "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp",
+      "images": [
+        "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+        "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "A smiling ghost in a purple witch hat carries a glowing jack-o’-lantern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-afea8bea99107dac9065",
+      "name": "Pumpkin & Black Cat",
+      "series": "Ivory Ghost Stories",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+      "packagingImage": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
+      "images": [
+        "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+        "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp"
+      ],
+      "assignedScent": "mugwort-incense",
+      "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-2f4b76d86312dfd573c2",
+      "name": "Pumpkin Cottage Night",
+      "series": "Midnight Navy & Charcoal",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+      "packagingImage": "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp",
+      "images": [
+        "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+        "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp"
+      ],
+      "assignedScent": "pumpkin-spice",
+      "designDescription": "A glowing pumpkin cottage, little witch and ghost sit beneath a deep navy moonlit sky. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-ca0e3054758670c316af",
+      "name": "Moonlit Witch Ghost",
+      "series": "Midnight Navy & Charcoal",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+      "packagingImage": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp",
+      "images": [
+        "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+        "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp"
+      ],
+      "assignedScent": "fireside-smoked-woods",
+      "designDescription": "A friendly witch ghost carries a pumpkin through a richly painted blue forest night. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-0a3ef545312af32dd346",
+      "name": "Purple Ghost Forest",
+      "series": "Purple Moonlight",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+      "packagingImage": "assets/halloween/elegant-night/65d9b70a563381f0540d.webp",
+      "images": [
+        "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+        "assets/halloween/elegant-night/65d9b70a563381f0540d.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "White ghosts drift through a violet woodland filled with pumpkins and moonlight. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-elegant-night-2e437b1d6e87dd3d2647",
+      "name": "Deep Teal Ghost Night",
+      "series": "Midnight Navy & Charcoal",
+      "productType": "Scented candle",
+      "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+      "packagingImage": "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp",
+      "images": [
+        "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+        "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp"
+      ],
+      "assignedScent": "pine-cedarwood",
+      "designDescription": "A cheerful ghost glows among pumpkins in a dark teal enchanted forest. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "archive": "打包.zip",
+      "source": "温润白瓷小鹅香薰蜡烛.png",
+      "sha256": "4de9379f8188ba32ccc2a18fdb149881aac559b637a8a45af3e5715965c59fe7",
+      "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包.zip",
+      "source": "Lanarve蜡烛盒横向精准居中.png",
+      "sha256": "da76c6868beea4f70aa910daadee7998fd851a7a590a480b01d568811854c44d",
+      "image": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102120903_600_2.png",
+      "sha256": "b38af1ad5687e47e1c67b53449d16408724dab48a108f0d37990d8f8faebb364",
+      "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120904_601_2.png",
+      "sha256": "f5bd7365cea65ac86e414720598fcb73c6abe69045f6fe8d8cbe688419a2a3d9",
+      "image": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120907_602_2.png",
+      "sha256": "b0aae3da62b44541c551bb2877d7cfdff38d802e68df1c6eb8f918038eb5b3d0",
+      "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120912_603_2.png",
+      "sha256": "2c5d3e8d93248195fd9b253cb5fc7615ad4dd676f1732e2a05eab6d91d7dd06c",
+      "image": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120918_604_2.png",
+      "sha256": "433919fdfc5e8dba62628c58c3ba3290eb094294ecc676147c680f8766f5215c",
+      "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120920_605_2.png",
+      "sha256": "02fef46be42f9712a4dadeb5d945dd32d12c6509cf36ec9212c286054b70e488",
+      "image": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120924_606_2.png",
+      "sha256": "bc33b74de831236e3f4bb0405625ca86b322c0a92a6786304f2f31bef0a152bc",
+      "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120927_607_2.png",
+      "sha256": "a037d4835a6a1ff393e38eaf38f9ffe51100037a87446781ff78b2378afc35d6",
+      "image": "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120929_608_2.png",
+      "sha256": "afea8bea99107dac9065ca64e6cf8e518c88bfe27123d9bb013afa0a8c2ad68b",
+      "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包7.zip",
+      "source": "微信图片_20261102120933_609_2.png",
+      "sha256": "0071b4dda7afde9f7d410f4ebe27c3b0ad3e8f82d9ddc02f0b4ad3b8bdeae021",
+      "image": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102120935_610_2.png",
+      "sha256": "2f4b76d86312dfd573c20e8f1bbab7c5b094bdca0f9917e1b9baa9606e1582fd",
+      "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121204_611_2.png",
+      "sha256": "9d617da4e0fad0e6de77ad9ed556ab7eb1dc96563bc01c383837407353a128cd",
+      "image": "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121212_612_2.png",
+      "sha256": "ca0e3054758670c316af8da41e23366f156e303fc08ea19485da0fe0c7d4340f",
+      "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121226_613_2.png",
+      "sha256": "7a0c1e1ffcc18de1d10a87c76c5240ee8a7e6e9c003901731e5e8bfe1be94bac",
+      "image": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121243_617_2.png",
+      "sha256": "0a3ef545312af32dd3460075b7ff9326c631dfd307ff9546942077426e623cd8",
+      "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121238_616_2.png",
+      "sha256": "65d9b70a563381f0540d6e66dda9ff3f071e21fced3df00ef739c9aae413a1fb",
+      "image": "assets/halloween/elegant-night/65d9b70a563381f0540d.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121250_619_2.png",
+      "sha256": "2e437b1d6e87dd3d2647f4fa986c028c43eb65c50e3e302b514c74e238ac384c",
+      "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包8.zip",
+      "source": "微信图片_20261102121246_618_2.png",
+      "sha256": "caa97ff34cd32d636d18fefe038266935b8d25f412030c5e6cfebd7a3c1ec10a",
+      "image": "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "placement": "Midnight navy and charcoal, purple moonlight, pumpkin and amber, ivory ghost stories, then pastel magic."
+}

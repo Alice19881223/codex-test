@@ -220,8 +220,6 @@
   "halloween": [
     [
       "Pumpkin Parade",
-      "Batwing Pumpkin",
-      "Midnight Witch Hat",
       "Candy Corn Moon",
       "Golden Familiar",
       "Spooky Forest Night",
@@ -229,39 +227,51 @@
       "Black Cat Moon",
       "Midnight Cat Witch",
       "Botanical Ghost",
-      "Haunted Pumpkin Night",
-      "Jack-O’-Lantern Carnival"
-    ],
-    [
-      "Boo After Dark",
-      "Trick or Treat Spirits",
       "Floating Ghost",
       "Midnight Shy Ghost",
-      "Starry Witch Ghost",
-      "Pumpkin Stripe Ghost",
-      "Golden Stripe Ghost",
-      "Pumpkin Party Glow",
-      "Boo & Cream Pumpkin",
-      "Pumpkin & Little Ghost",
-      "Ghost & Black Cat",
-      "Ivory Ghost Garden"
+      "The Witch Is In",
+      "Midnight Ballet Candle"
     ],
     [
+      "Pumpkin Cottage Night",
+      "Moonlit Witch Ghost",
+      "Deep Teal Ghost Night",
+      "Boo After Dark",
+      "Trick or Treat Spirits",
       "Moonlit Magic Pumpkin",
       "Lilac Bat Spell",
-      "Woodland Toadstool",
-      "The Witch Is In",
-      "Candy Stripe Boo",
-      "Pastel Spooky",
-      "Blush Haunted House",
       "Lavender Haunted House",
       "Lavender Haunted Manor",
       "Magenta Bat",
       "Purple Bat Mischief",
-      "Little Pumpkin Ghost"
+      "Purple Witch Ghost"
     ],
     [
-      "Midnight Ballet Candle"
+      "Purple Ghost Forest",
+      "Batwing Pumpkin",
+      "Haunted Pumpkin Night",
+      "Jack-O’-Lantern Carnival",
+      "Pumpkin Party Glow",
+      "Candy Stripe Boo",
+      "Little Pumpkin Ghost",
+      "Woodland Toadstool",
+      "Midnight Witch Hat",
+      "Starry Witch Ghost",
+      "Pumpkin Stripe Ghost",
+      "Golden Stripe Ghost"
+    ],
+    [
+      "Boo & Cream Pumpkin",
+      "Pumpkin & Little Ghost",
+      "Ghost & Black Cat",
+      "Ivory Ghost Garden",
+      "Mummy Goose",
+      "Book of Spells Ghost",
+      "Ghost Reading Club",
+      "Wise Little Ghost",
+      "Pumpkin & Black Cat",
+      "Pastel Spooky",
+      "Blush Haunted House"
     ]
   ]
 }

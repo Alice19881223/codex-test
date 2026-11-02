@@ -412,7 +412,7 @@ const scents = [
         "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
         "name": "Blush Haunted House",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-ffa5cfdd.html?scent=rose-green-leaves"
       },
       {
@@ -767,7 +767,7 @@ const scents = [
         "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
         "name": "Pastel Spooky",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-6e407194.html?scent=peony-lychee"
       },
       {
@@ -1949,7 +1949,7 @@ const scents = [
         "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
         "name": "Lilac Bat Spell",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-26a34fe1.html?scent=blackcurrant-rose"
       },
       {
@@ -1957,7 +1957,7 @@ const scents = [
         "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
         "name": "Lavender Haunted Manor",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-95c53c84.html?scent=blackcurrant-rose"
       },
       {
@@ -1965,7 +1965,7 @@ const scents = [
         "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
         "name": "Purple Bat Mischief",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-d24784a6.html?scent=blackcurrant-rose"
       }
     ],
@@ -2092,7 +2092,7 @@ const scents = [
         "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
         "name": "Magenta Bat",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-bb10ea8a.html?scent=pomegranate-amber"
       },
       {
@@ -2100,7 +2100,7 @@ const scents = [
         "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
         "name": "Midnight Ballet Candle",
         "series": "Midnight Ballet",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection.html",
         "href": "product-lnv-hlw-e2f072f7.html?scent=pomegranate-amber"
       }
     ],
@@ -2274,7 +2274,7 @@ const scents = [
         "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
         "name": "Moonlit Magic Pumpkin",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-a732751d.html?scent=lavender-cedarwood"
       },
       {
@@ -2282,8 +2282,24 @@ const scents = [
         "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
         "name": "Lavender Haunted House",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-a014a97c.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+        "name": "Purple Witch Ghost",
+        "series": "Purple Moonlight",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-6d14575d.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+        "name": "Purple Ghost Forest",
+        "series": "Purple Moonlight",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-f2946f06.html?scent=lavender-cedarwood"
       },
       {
         "category": "candle",
@@ -2848,7 +2864,7 @@ const scents = [
         "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
         "name": "Ivory Ghost Garden",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-c0314877.html?scent=white-tea-rosemary"
       },
       {
@@ -3032,6 +3048,14 @@ const scents = [
         "series": "Wild Elegance",
         "catalogueHref": "candles-little-joys.html",
         "href": "product-lnv-cnd-300dcebb.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+        "name": "Ghost Reading Club",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-5a9c7404.html?scent=black-tea-cedarwood"
       },
       {
         "category": "reed",
@@ -3453,7 +3477,7 @@ const scents = [
         "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
         "name": "Floating Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection.html",
         "href": "product-lnv-hlw-bb440122.html?scent=soft-linen"
       }
     ],
@@ -3897,7 +3921,7 @@ const scents = [
         "image": "assets/halloween/paired/499d7733d304051d864d.webp",
         "name": "Starry Witch Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-b266970f.html?scent=sandalwood-cashmere"
       },
       {
@@ -4429,7 +4453,7 @@ const scents = [
         "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
         "name": "Haunted Pumpkin Night",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-466ad4bc.html?scent=fireside-smoked-woods"
       },
       {
@@ -4455,6 +4479,14 @@ const scents = [
         "series": "Festive",
         "catalogueHref": "reeds-at-home-at-ease-2.html",
         "href": "product-lnv-rd-f3b14975.html?scent=fireside-smoked-woods"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+        "name": "Moonlit Witch Ghost",
+        "series": "Midnight Navy & Charcoal",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-596ecc93.html?scent=fireside-smoked-woods"
       },
       {
         "category": "candle",
@@ -4579,8 +4611,16 @@ const scents = [
         "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
         "name": "Golden Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-52751d33.html?scent=amber-vanilla"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+        "name": "Wise Little Ghost",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-0564d16b.html?scent=amber-vanilla"
       },
       {
         "category": "gift",
@@ -4872,7 +4912,7 @@ const scents = [
         "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
         "name": "Boo & Cream Pumpkin",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-26cb487b.html?scent=vanilla-tonka"
       },
       {
@@ -4888,7 +4928,7 @@ const scents = [
         "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
         "name": "Midnight Shy Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection.html",
         "href": "product-lnv-hlw-76c9e194.html?scent=vanilla-tonka"
       },
       {
@@ -4922,6 +4962,14 @@ const scents = [
         "series": "Classic Christmas Cheer",
         "catalogueHref": "christmas-collection-6.html",
         "href": "product-lnv-xms-e3a37f4f.html?scent=vanilla-tonka"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+        "name": "Book of Spells Ghost",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-71c2faa6.html?scent=vanilla-tonka"
       },
       {
         "category": "candle",
@@ -5178,7 +5226,7 @@ const scents = [
         "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
         "name": "Jack-O\u2019-Lantern Carnival",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-345e76f1.html?scent=pumpkin-spice"
       },
       {
@@ -5194,8 +5242,16 @@ const scents = [
         "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
         "name": "Pumpkin Party Glow",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-3d53b81a.html?scent=pumpkin-spice"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+        "name": "Pumpkin Cottage Night",
+        "series": "Midnight Navy & Charcoal",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-d4f2e3d3.html?scent=pumpkin-spice"
       }
     ],
     "family": "Warm & Woody",
@@ -5926,7 +5982,7 @@ const scents = [
         "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
         "name": "Pumpkin Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-72b814d6.html?scent=orange-clove"
       },
       {
@@ -5986,6 +6042,14 @@ const scents = [
         "href": "product-lnv-xms-fc738a99.html?scent=orange-clove"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+        "name": "Mummy Goose",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-e7b66df3.html?scent=orange-clove"
+      },
+      {
         "category": "christmas",
         "image": "assets/christmas/standalone/d562217af6c6dcb7d806.png",
         "name": "Cinnamon Orange Dome",
@@ -6014,7 +6078,7 @@ const scents = [
         "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
         "name": "Batwing Pumpkin",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-08fbfc3d.html?scent=orange-clove"
       },
       {
@@ -6197,7 +6261,7 @@ const scents = [
         "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
         "name": "Pumpkin & Little Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-c45d7fc7.html?scent=gingerbread-vanilla"
       },
       {
@@ -6404,7 +6468,7 @@ const scents = [
         "image": "assets/halloween/paired/24810435e341aec553f5.webp",
         "name": "Midnight Witch Hat",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-0085bd09.html?scent=mugwort-incense"
       },
       {
@@ -6412,8 +6476,16 @@ const scents = [
         "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
         "name": "Ghost & Black Cat",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-c07db49b.html?scent=mugwort-incense"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+        "name": "Pumpkin & Black Cat",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-4.html",
+        "href": "product-lnv-hlw-3050b75c.html?scent=mugwort-incense"
       },
       {
         "category": "candle",
@@ -6602,7 +6674,7 @@ const scents = [
         "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
         "name": "The Witch Is In",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection.html",
         "href": "product-lnv-hlw-817f422d.html?scent=green-tea-cedarwood"
       },
       {
@@ -7023,6 +7095,14 @@ const scents = [
         "series": "Evergreen Christmas",
         "catalogueHref": "christmas-collection-5.html",
         "href": "product-lnv-xms-314a3016.html?scent=pine-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+        "name": "Deep Teal Ghost Night",
+        "series": "Midnight Navy & Charcoal",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-9c46a76c.html?scent=pine-cedarwood"
       }
     ],
     "collectionHref": "fragrance-pine-cedarwood.html",
@@ -14306,34 +14386,6 @@ const halloweenProducts = [
     "designDescription": "A jaunty jack-o’-lantern character glows against matte black. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-0cfecc0d4f3c7f864059",
-    "name": "Batwing Pumpkin",
-    "series": "Midnight Mischief",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
-    "packagingImage": "assets/halloween/paired/b7e513dd8a7528c8c969.webp",
-    "images": [
-      "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
-      "assets/halloween/paired/b7e513dd8a7528c8c969.webp"
-    ],
-    "assignedScent": "orange-clove",
-    "designDescription": "A winged pumpkin in a witch hat brings theatrical Halloween colour. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-24810435e341aec553f5",
-    "name": "Midnight Witch Hat",
-    "series": "Midnight Mischief",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/24810435e341aec553f5.webp",
-    "packagingImage": "assets/halloween/paired/b204b13004bb5be01105.webp",
-    "images": [
-      "assets/halloween/paired/24810435e341aec553f5.webp",
-      "assets/halloween/paired/b204b13004bb5be01105.webp"
-    ],
-    "assignedScent": "mugwort-incense",
-    "designDescription": "A graphic black witch hat creates a clean, modern seasonal design. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "halloween-2026-4e45c3407e608cb00894",
     "name": "Candy Corn Moon",
     "series": "Midnight Mischief",
@@ -14438,32 +14490,102 @@ const halloweenProducts = [
     "designDescription": "An ivory ghost framed by leafy branches softens the midnight palette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-9afb0d80ab8fe483e142",
-    "name": "Haunted Pumpkin Night",
-    "series": "Midnight Mischief",
+    "id": "halloween-2026-cf6a3670f65fee915bdd",
+    "name": "Floating Ghost",
+    "series": "Ghost Parade",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
-    "packagingImage": "assets/halloween/paired/4650f1882da949c1b48b.webp",
+    "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+    "packagingImage": "assets/halloween/paired/897fca46cc497c6a7044.webp",
     "images": [
-      "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
-      "assets/halloween/paired/4650f1882da949c1b48b.webp"
+      "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+      "assets/halloween/paired/897fca46cc497c6a7044.webp"
     ],
-    "assignedScent": "fireside-smoked-woods",
-    "designDescription": "A glowing orange vessel wraps a haunted house and wandering ghost around the candle. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "soft-linen",
+    "designDescription": "A softly drawn white ghost floats across clean black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-594d56ad03d401ab0f76",
-    "name": "Jack-O’-Lantern Carnival",
-    "series": "Midnight Mischief",
+    "id": "halloween-2026-99b536cb2505055ecc72",
+    "name": "Midnight Shy Ghost",
+    "series": "Ghost Parade",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
-    "packagingImage": "assets/halloween/paired/e313dd15e42f15cd523a.webp",
+    "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
+    "packagingImage": "assets/halloween/paired/0da4b450b8b63418768a.webp",
     "images": [
-      "assets/halloween/paired/594d56ad03d401ab0f76.webp",
-      "assets/halloween/paired/e313dd15e42f15cd523a.webp"
+      "assets/halloween/paired/99b536cb2505055ecc72.webp",
+      "assets/halloween/paired/0da4b450b8b63418768a.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "A wide-eyed ghost brings gentle character to a graphic monochrome vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-4c1129f92c19a7214a95",
+    "name": "The Witch Is In",
+    "series": "Enchanted Halloween",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
+    "images": [
+      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "assets/halloween/paired/ec498e927fe51534236f.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "poetic-moments-b5442afec89b7e1a527d",
+    "name": "Midnight Ballet Candle",
+    "series": "Midnight Ballet",
+    "productType": "Scented candle",
+    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+    "packagingImage": "assets/poetic-moments/dc0eec4a14764109aea2.webp",
+    "images": [
+      "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+      "assets/poetic-moments/dc0eec4a14764109aea2.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "Dancing skeleton ballerinas, pink ribbons, roses and crescent moons on a black ground create a playful theatrical scene with a Halloween mood. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-2f4b76d86312dfd573c2",
+    "name": "Pumpkin Cottage Night",
+    "series": "Midnight Navy & Charcoal",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+    "packagingImage": "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp",
+    "images": [
+      "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+      "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp"
     ],
     "assignedScent": "pumpkin-spice",
-    "designDescription": "A smiling pumpkin and fine web lines make a vivid seasonal centrepiece. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "A glowing pumpkin cottage, little witch and ghost sit beneath a deep navy moonlit sky. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-ca0e3054758670c316af",
+    "name": "Moonlit Witch Ghost",
+    "series": "Midnight Navy & Charcoal",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+    "packagingImage": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp",
+    "images": [
+      "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+      "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp"
+    ],
+    "assignedScent": "fireside-smoked-woods",
+    "designDescription": "A friendly witch ghost carries a pumpkin through a richly painted blue forest night. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-2e437b1d6e87dd3d2647",
+    "name": "Deep Teal Ghost Night",
+    "series": "Midnight Navy & Charcoal",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+    "packagingImage": "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp",
+    "images": [
+      "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+      "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp"
+    ],
+    "assignedScent": "pine-cedarwood",
+    "designDescription": "A cheerful ghost glows among pumpkins in a dark teal enchanted forest. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-91b6a130b289d9dc7858",
@@ -14494,32 +14616,228 @@ const halloweenProducts = [
     "designDescription": "Two friendly ghosts meet beneath a web for a playful trick-or-treat scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-cf6a3670f65fee915bdd",
-    "name": "Floating Ghost",
-    "series": "Ghost Parade",
+    "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
+    "name": "Moonlit Magic Pumpkin",
+    "series": "Enchanted Halloween",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
-    "packagingImage": "assets/halloween/paired/897fca46cc497c6a7044.webp",
+    "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+    "packagingImage": "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp",
     "images": [
-      "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
-      "assets/halloween/paired/897fca46cc497c6a7044.webp"
+      "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+      "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp"
     ],
-    "assignedScent": "soft-linen",
-    "designDescription": "A softly drawn white ghost floats across clean black glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A lilac pumpkin-shaped candle with a black cat and witch hat feels sweetly magical. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-99b536cb2505055ecc72",
-    "name": "Midnight Shy Ghost",
+    "id": "halloween-2026-5f771cdde3615e5376de",
+    "name": "Lilac Bat Spell",
+    "series": "Enchanted Halloween",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
+    "packagingImage": "assets/halloween/paired/2872b68ae4070c6eeecb.webp",
+    "images": [
+      "assets/halloween/paired/5f771cdde3615e5376de.webp",
+      "assets/halloween/paired/2872b68ae4070c6eeecb.webp"
+    ],
+    "assignedScent": "blackcurrant-rose",
+    "designDescription": "A graphic bat and small pumpkin sit on soft lilac ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-c1b55fa1215cdc6640a4",
+    "name": "Lavender Haunted House",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+    "packagingImage": "assets/halloween/paired/5618507bef7a6e61a0e2.webp",
+    "images": [
+      "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
+      "assets/halloween/paired/5618507bef7a6e61a0e2.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A sculpted haunted-house lid crowns a detailed lavender vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-8e5b83e7058590594067",
+    "name": "Lavender Haunted Manor",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
+    "packagingImage": "assets/halloween/paired/f2df81525635058a6b80.webp",
+    "images": [
+      "assets/halloween/paired/8e5b83e7058590594067.webp",
+      "assets/halloween/paired/f2df81525635058a6b80.webp"
+    ],
+    "assignedScent": "blackcurrant-rose",
+    "designDescription": "Ghosts and castle windows rise in relief across soft lavender ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-003a42a079b8d10549b8",
+    "name": "Magenta Bat",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
+    "packagingImage": "assets/halloween/paired/528bbe05b37559b0790a.webp",
+    "images": [
+      "assets/halloween/paired/003a42a079b8d10549b8.webp",
+      "assets/halloween/paired/528bbe05b37559b0790a.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "A black bat and golden stars pop against vivid magenta glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-17a4739e39ff0385df5e",
+    "name": "Purple Bat Mischief",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+    "packagingImage": "assets/halloween/paired/b5a4392215b73b3402bd.webp",
+    "images": [
+      "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+      "assets/halloween/paired/b5a4392215b73b3402bd.webp"
+    ],
+    "assignedScent": "blackcurrant-rose",
+    "designDescription": "A wide-eyed sculpted bat wraps around jewel-purple glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-bc33b74de831236e3f4b",
+    "name": "Purple Witch Ghost",
+    "series": "Purple Moonlight",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+    "packagingImage": "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp",
+    "images": [
+      "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+      "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A smiling ghost in a purple witch hat carries a glowing jack-o’-lantern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-0a3ef545312af32dd346",
+    "name": "Purple Ghost Forest",
+    "series": "Purple Moonlight",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+    "packagingImage": "assets/halloween/elegant-night/65d9b70a563381f0540d.webp",
+    "images": [
+      "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+      "assets/halloween/elegant-night/65d9b70a563381f0540d.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "White ghosts drift through a violet woodland filled with pumpkins and moonlight. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-0cfecc0d4f3c7f864059",
+    "name": "Batwing Pumpkin",
+    "series": "Midnight Mischief",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+    "packagingImage": "assets/halloween/paired/b7e513dd8a7528c8c969.webp",
+    "images": [
+      "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+      "assets/halloween/paired/b7e513dd8a7528c8c969.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "A winged pumpkin in a witch hat brings theatrical Halloween colour. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-9afb0d80ab8fe483e142",
+    "name": "Haunted Pumpkin Night",
+    "series": "Midnight Mischief",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+    "packagingImage": "assets/halloween/paired/4650f1882da949c1b48b.webp",
+    "images": [
+      "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+      "assets/halloween/paired/4650f1882da949c1b48b.webp"
+    ],
+    "assignedScent": "fireside-smoked-woods",
+    "designDescription": "A glowing orange vessel wraps a haunted house and wandering ghost around the candle. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-594d56ad03d401ab0f76",
+    "name": "Jack-O’-Lantern Carnival",
+    "series": "Midnight Mischief",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+    "packagingImage": "assets/halloween/paired/e313dd15e42f15cd523a.webp",
+    "images": [
+      "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+      "assets/halloween/paired/e313dd15e42f15cd523a.webp"
+    ],
+    "assignedScent": "pumpkin-spice",
+    "designDescription": "A smiling pumpkin and fine web lines make a vivid seasonal centrepiece. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-7b2df3b52827ebdca98e",
+    "name": "Pumpkin Party Glow",
     "series": "Ghost Parade",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
-    "packagingImage": "assets/halloween/paired/0da4b450b8b63418768a.webp",
+    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+    "packagingImage": "assets/halloween/paired/426a1396b071ee25ae82.webp",
     "images": [
-      "assets/halloween/paired/99b536cb2505055ecc72.webp",
-      "assets/halloween/paired/0da4b450b8b63418768a.webp"
+      "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+      "assets/halloween/paired/426a1396b071ee25ae82.webp"
     ],
-    "assignedScent": "vanilla-tonka",
-    "designDescription": "A wide-eyed ghost brings gentle character to a graphic monochrome vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "pumpkin-spice",
+    "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-476a41a394810eb5a0be",
+    "name": "Candy Stripe Boo",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
+    "packagingImage": "assets/halloween/paired/ceae8dcb07555827803e.webp",
+    "images": [
+      "assets/halloween/paired/476a41a394810eb5a0be.webp",
+      "assets/halloween/paired/ceae8dcb07555827803e.webp"
+    ],
+    "assignedScent": "caramel-cream",
+    "designDescription": "A friendly ghost floats across cheerful orange-and-ivory stripes. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "name": "Little Pumpkin Ghost",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ],
+    "assignedScent": "pumpkin-spice"
+  },
+  {
+    "id": "halloween-2026-10f4fa3279b8daf09b37",
+    "name": "Woodland Toadstool",
+    "series": "Enchanted Halloween",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+    "packagingImage": "assets/halloween/paired/0a6d8001fa49bddd46cf.webp",
+    "images": [
+      "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
+      "assets/halloween/paired/0a6d8001fa49bddd46cf.webp"
+    ],
+    "assignedScent": "fig-green-leaves",
+    "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-24810435e341aec553f5",
+    "name": "Midnight Witch Hat",
+    "series": "Midnight Mischief",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/24810435e341aec553f5.webp",
+    "packagingImage": "assets/halloween/paired/b204b13004bb5be01105.webp",
+    "images": [
+      "assets/halloween/paired/24810435e341aec553f5.webp",
+      "assets/halloween/paired/b204b13004bb5be01105.webp"
+    ],
+    "assignedScent": "mugwort-incense",
+    "designDescription": "A graphic black witch hat creates a clean, modern seasonal design. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-499d7733d304051d864d",
@@ -14562,20 +14880,6 @@ const halloweenProducts = [
     ],
     "assignedScent": "amber-vanilla",
     "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-7b2df3b52827ebdca98e",
-    "name": "Pumpkin Party Glow",
-    "series": "Ghost Parade",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
-    "packagingImage": "assets/halloween/paired/426a1396b071ee25ae82.webp",
-    "images": [
-      "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
-      "assets/halloween/paired/426a1396b071ee25ae82.webp"
-    ],
-    "assignedScent": "pumpkin-spice",
-    "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-e1b8ab23fd58f8dff942",
@@ -14637,74 +14941,74 @@ const halloweenProducts = [
     ]
   },
   {
-    "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
-    "name": "Moonlit Magic Pumpkin",
-    "series": "Enchanted Halloween",
+    "id": "halloween-elegant-night-4de9379f8188ba32ccc2",
+    "name": "Mummy Goose",
+    "series": "Ivory Ghost Stories",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
-    "packagingImage": "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp",
+    "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+    "packagingImage": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
     "images": [
-      "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
-      "assets/halloween/paired/e0cc9d4bca1b18e3e183.webp"
+      "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+      "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp"
     ],
-    "assignedScent": "lavender-cedarwood",
-    "designDescription": "A lilac pumpkin-shaped candle with a black cat and witch hat feels sweetly magical. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "orange-clove",
+    "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-5f771cdde3615e5376de",
-    "name": "Lilac Bat Spell",
-    "series": "Enchanted Halloween",
+    "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
+    "name": "Book of Spells Ghost",
+    "series": "Ivory Ghost Stories",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
-    "packagingImage": "assets/halloween/paired/2872b68ae4070c6eeecb.webp",
+    "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+    "packagingImage": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
     "images": [
-      "assets/halloween/paired/5f771cdde3615e5376de.webp",
-      "assets/halloween/paired/2872b68ae4070c6eeecb.webp"
+      "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+      "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp"
     ],
-    "assignedScent": "blackcurrant-rose",
-    "designDescription": "A graphic bat and small pumpkin sit on soft lilac ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "A friendly dimensional ghost reads from a little book of spells. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-10f4fa3279b8daf09b37",
-    "name": "Woodland Toadstool",
-    "series": "Enchanted Halloween",
+    "id": "halloween-elegant-night-b0aae3da62b44541c551",
+    "name": "Ghost Reading Club",
+    "series": "Ivory Ghost Stories",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
-    "packagingImage": "assets/halloween/paired/0a6d8001fa49bddd46cf.webp",
+    "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+    "packagingImage": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
     "images": [
-      "assets/halloween/paired/10f4fa3279b8daf09b37.webp",
-      "assets/halloween/paired/0a6d8001fa49bddd46cf.webp"
+      "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+      "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp"
     ],
-    "assignedScent": "fig-green-leaves",
-    "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "Three book-loving ghosts form a quiet, illustrated Halloween reading club. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-4c1129f92c19a7214a95",
-    "name": "The Witch Is In",
-    "series": "Enchanted Halloween",
+    "id": "halloween-elegant-night-433919fdfc5e8dba6262",
+    "name": "Wise Little Ghost",
+    "series": "Ivory Ghost Stories",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
+    "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+    "packagingImage": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
     "images": [
-      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-      "assets/halloween/paired/ec498e927fe51534236f.webp"
+      "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+      "assets/halloween/elegant-night/02fef46be42f9712a4da.webp"
     ],
-    "assignedScent": "green-tea-cedarwood",
-    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "amber-vanilla",
+    "designDescription": "A bespectacled ghost in a warm knit hat reads by autumn light. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-476a41a394810eb5a0be",
-    "name": "Candy Stripe Boo",
-    "series": "Pastel Spells",
+    "id": "halloween-elegant-night-afea8bea99107dac9065",
+    "name": "Pumpkin & Black Cat",
+    "series": "Ivory Ghost Stories",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
-    "packagingImage": "assets/halloween/paired/ceae8dcb07555827803e.webp",
+    "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+    "packagingImage": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
     "images": [
-      "assets/halloween/paired/476a41a394810eb5a0be.webp",
-      "assets/halloween/paired/ceae8dcb07555827803e.webp"
+      "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+      "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp"
     ],
-    "assignedScent": "caramel-cream",
-    "designDescription": "A friendly ghost floats across cheerful orange-and-ivory stripes. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "mugwort-incense",
+    "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
@@ -14733,62 +15037,6 @@ const halloweenProducts = [
     ],
     "assignedScent": "rose-green-leaves",
     "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-c1b55fa1215cdc6640a4",
-    "name": "Lavender Haunted House",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
-    "packagingImage": "assets/halloween/paired/5618507bef7a6e61a0e2.webp",
-    "images": [
-      "assets/halloween/paired/c1b55fa1215cdc6640a4.webp",
-      "assets/halloween/paired/5618507bef7a6e61a0e2.webp"
-    ],
-    "assignedScent": "lavender-cedarwood",
-    "designDescription": "A sculpted haunted-house lid crowns a detailed lavender vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-8e5b83e7058590594067",
-    "name": "Lavender Haunted Manor",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
-    "packagingImage": "assets/halloween/paired/f2df81525635058a6b80.webp",
-    "images": [
-      "assets/halloween/paired/8e5b83e7058590594067.webp",
-      "assets/halloween/paired/f2df81525635058a6b80.webp"
-    ],
-    "assignedScent": "blackcurrant-rose",
-    "designDescription": "Ghosts and castle windows rise in relief across soft lavender ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-003a42a079b8d10549b8",
-    "name": "Magenta Bat",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
-    "packagingImage": "assets/halloween/paired/528bbe05b37559b0790a.webp",
-    "images": [
-      "assets/halloween/paired/003a42a079b8d10549b8.webp",
-      "assets/halloween/paired/528bbe05b37559b0790a.webp"
-    ],
-    "assignedScent": "pomegranate-amber",
-    "designDescription": "A black bat and golden stars pop against vivid magenta glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-17a4739e39ff0385df5e",
-    "name": "Purple Bat Mischief",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
-    "packagingImage": "assets/halloween/paired/b5a4392215b73b3402bd.webp",
-    "images": [
-      "assets/halloween/paired/17a4739e39ff0385df5e.webp",
-      "assets/halloween/paired/b5a4392215b73b3402bd.webp"
-    ],
-    "assignedScent": "blackcurrant-rose",
-    "designDescription": "A wide-eyed sculpted bat wraps around jewel-purple glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ];
 
@@ -15466,8 +15714,6 @@ const productPages = {
   },
   "halloween": {
     "assets/halloween/paired/e27109d911843e795479.webp": "product-lnv-hlw-6aea9b57.html",
-    "assets/halloween/paired/0cfecc0d4f3c7f864059.webp": "product-lnv-hlw-08fbfc3d.html",
-    "assets/halloween/paired/24810435e341aec553f5.webp": "product-lnv-hlw-0085bd09.html",
     "assets/halloween/paired/4e45c3407e608cb00894.webp": "product-lnv-hlw-eef9a665.html",
     "assets/halloween/paired/d4d8d0fda1d45caac45d.webp": "product-lnv-hlw-255d01f4.html",
     "assets/halloween/paired/eb637d69e43fbc04ff1f.webp": "product-lnv-hlw-bca86495.html",
@@ -15475,33 +15721,45 @@ const productPages = {
     "assets/halloween/paired/beca87122dd54a94f7fb.webp": "product-lnv-hlw-b85e9ed9.html",
     "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": "product-lnv-hlw-849357f4.html",
     "assets/halloween/paired/5f94091a961f871be721.webp": "product-lnv-hlw-442bb5ab.html",
-    "assets/halloween/paired/9afb0d80ab8fe483e142.webp": "product-lnv-hlw-466ad4bc.html",
-    "assets/halloween/paired/594d56ad03d401ab0f76.webp": "product-lnv-hlw-345e76f1.html",
-    "assets/halloween/paired/91b6a130b289d9dc7858.webp": "product-lnv-hlw-3a1f4410.html",
-    "assets/halloween/paired/ade34691bae75dc195d0.webp": "product-lnv-hlw-5f322144.html",
     "assets/halloween/paired/cf6a3670f65fee915bdd.webp": "product-lnv-hlw-bb440122.html",
     "assets/halloween/paired/99b536cb2505055ecc72.webp": "product-lnv-hlw-76c9e194.html",
-    "assets/halloween/paired/499d7733d304051d864d.webp": "product-lnv-hlw-b266970f.html",
-    "assets/halloween/paired/687694e6aa7fd69f1f33.webp": "product-lnv-hlw-72b814d6.html",
-    "assets/halloween/paired/4dd5a01cd767291e09d0.webp": "product-lnv-hlw-52751d33.html",
-    "assets/halloween/paired/7b2df3b52827ebdca98e.webp": "product-lnv-hlw-3d53b81a.html",
-    "assets/halloween/paired/e1b8ab23fd58f8dff942.webp": "product-lnv-hlw-26cb487b.html",
-    "assets/halloween/paired/f71b9060a34f115a5abd.webp": "product-lnv-hlw-c45d7fc7.html",
-    "assets/halloween/paired/a0f8303846379cf4d8f5.webp": "product-lnv-hlw-c07db49b.html",
-    "assets/halloween/replacements/c312483816241eb90c2d.webp": "product-lnv-hlw-c0314877.html",
+    "assets/halloween/paired/4c1129f92c19a7214a95.webp": "product-lnv-hlw-817f422d.html",
+    "assets/poetic-moments/b5442afec89b7e1a527d.webp": "product-lnv-hlw-e2f072f7.html",
+    "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp": "product-lnv-hlw-d4f2e3d3.html",
+    "assets/halloween/elegant-night/ca0e3054758670c316af.webp": "product-lnv-hlw-596ecc93.html",
+    "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp": "product-lnv-hlw-9c46a76c.html",
+    "assets/halloween/paired/91b6a130b289d9dc7858.webp": "product-lnv-hlw-3a1f4410.html",
+    "assets/halloween/paired/ade34691bae75dc195d0.webp": "product-lnv-hlw-5f322144.html",
     "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": "product-lnv-hlw-a732751d.html",
     "assets/halloween/paired/5f771cdde3615e5376de.webp": "product-lnv-hlw-26a34fe1.html",
-    "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
-    "assets/halloween/paired/4c1129f92c19a7214a95.webp": "product-lnv-hlw-817f422d.html",
-    "assets/halloween/paired/476a41a394810eb5a0be.webp": "product-lnv-hlw-5a80e367.html",
-    "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp": "product-lnv-hlw-6e407194.html",
-    "assets/halloween/paired/df1d10703fd51b47cdda.webp": "product-lnv-hlw-ffa5cfdd.html",
     "assets/halloween/paired/c1b55fa1215cdc6640a4.webp": "product-lnv-hlw-a014a97c.html",
     "assets/halloween/paired/8e5b83e7058590594067.webp": "product-lnv-hlw-95c53c84.html",
     "assets/halloween/paired/003a42a079b8d10549b8.webp": "product-lnv-hlw-bb10ea8a.html",
     "assets/halloween/paired/17a4739e39ff0385df5e.webp": "product-lnv-hlw-d24784a6.html",
+    "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp": "product-lnv-hlw-6d14575d.html",
+    "assets/halloween/elegant-night/0a3ef545312af32dd346.webp": "product-lnv-hlw-f2946f06.html",
+    "assets/halloween/paired/0cfecc0d4f3c7f864059.webp": "product-lnv-hlw-08fbfc3d.html",
+    "assets/halloween/paired/9afb0d80ab8fe483e142.webp": "product-lnv-hlw-466ad4bc.html",
+    "assets/halloween/paired/594d56ad03d401ab0f76.webp": "product-lnv-hlw-345e76f1.html",
+    "assets/halloween/paired/7b2df3b52827ebdca98e.webp": "product-lnv-hlw-3d53b81a.html",
+    "assets/halloween/paired/476a41a394810eb5a0be.webp": "product-lnv-hlw-5a80e367.html",
     "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
-    "assets/poetic-moments/b5442afec89b7e1a527d.webp": "product-lnv-hlw-e2f072f7.html"
+    "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
+    "assets/halloween/paired/24810435e341aec553f5.webp": "product-lnv-hlw-0085bd09.html",
+    "assets/halloween/paired/499d7733d304051d864d.webp": "product-lnv-hlw-b266970f.html",
+    "assets/halloween/paired/687694e6aa7fd69f1f33.webp": "product-lnv-hlw-72b814d6.html",
+    "assets/halloween/paired/4dd5a01cd767291e09d0.webp": "product-lnv-hlw-52751d33.html",
+    "assets/halloween/paired/e1b8ab23fd58f8dff942.webp": "product-lnv-hlw-26cb487b.html",
+    "assets/halloween/paired/f71b9060a34f115a5abd.webp": "product-lnv-hlw-c45d7fc7.html",
+    "assets/halloween/paired/a0f8303846379cf4d8f5.webp": "product-lnv-hlw-c07db49b.html",
+    "assets/halloween/replacements/c312483816241eb90c2d.webp": "product-lnv-hlw-c0314877.html",
+    "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp": "product-lnv-hlw-e7b66df3.html",
+    "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp": "product-lnv-hlw-71c2faa6.html",
+    "assets/halloween/elegant-night/b0aae3da62b44541c551.webp": "product-lnv-hlw-5a9c7404.html",
+    "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp": "product-lnv-hlw-0564d16b.html",
+    "assets/halloween/elegant-night/afea8bea99107dac9065.webp": "product-lnv-hlw-3050b75c.html",
+    "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp": "product-lnv-hlw-6e407194.html",
+    "assets/halloween/paired/df1d10703fd51b47cdda.webp": "product-lnv-hlw-ffa5cfdd.html"
   },
   "sachets": {
     "assets/sachets/paired/2e09dbec67e3048635e7.webp": "product-lnv-sch-c9143779.html",

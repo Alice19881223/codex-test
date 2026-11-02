@@ -22886,5 +22886,465 @@
         "bytes": 98124
       }
     ]
+  },
+  "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 69794,
+    "src": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/4de9379f8188ba32ccc2-480.webp",
+        "width": 480,
+        "bytes": 15894
+      },
+      {
+        "src": "assets/halloween/elegant-night/4de9379f8188ba32ccc2-960.webp",
+        "width": 960,
+        "bytes": 43546
+      },
+      {
+        "src": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+        "width": 1254,
+        "bytes": 69794
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 89468,
+    "src": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/da76c6868beea4f70aa9-480.webp",
+        "width": 480,
+        "bytes": 20626
+      },
+      {
+        "src": "assets/halloween/elegant-night/da76c6868beea4f70aa9-960.webp",
+        "width": 960,
+        "bytes": 55492
+      },
+      {
+        "src": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
+        "width": 1254,
+        "bytes": 89468
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 52398,
+    "src": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/b38af1ad5687e47e1c67-480.webp",
+        "width": 480,
+        "bytes": 11696
+      },
+      {
+        "src": "assets/halloween/elegant-night/b38af1ad5687e47e1c67-960.webp",
+        "width": 960,
+        "bytes": 32062
+      },
+      {
+        "src": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+        "width": 1254,
+        "bytes": 52398
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 101534,
+    "src": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/f5bd7365cea65ac86e41-480.webp",
+        "width": 480,
+        "bytes": 14332
+      },
+      {
+        "src": "assets/halloween/elegant-night/f5bd7365cea65ac86e41-960.webp",
+        "width": 960,
+        "bytes": 55870
+      },
+      {
+        "src": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
+        "width": 1254,
+        "bytes": 101534
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/b0aae3da62b44541c551.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 109470,
+    "src": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/b0aae3da62b44541c551-480.webp",
+        "width": 480,
+        "bytes": 19724
+      },
+      {
+        "src": "assets/halloween/elegant-night/b0aae3da62b44541c551-960.webp",
+        "width": 960,
+        "bytes": 62914
+      },
+      {
+        "src": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+        "width": 1254,
+        "bytes": 109470
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 105458,
+    "src": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b-480.webp",
+        "width": 480,
+        "bytes": 18370
+      },
+      {
+        "src": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b-960.webp",
+        "width": 960,
+        "bytes": 59070
+      },
+      {
+        "src": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
+        "width": 1254,
+        "bytes": 105458
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 55866,
+    "src": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/433919fdfc5e8dba6262-480.webp",
+        "width": 480,
+        "bytes": 13952
+      },
+      {
+        "src": "assets/halloween/elegant-night/433919fdfc5e8dba6262-960.webp",
+        "width": 960,
+        "bytes": 35656
+      },
+      {
+        "src": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+        "width": 1254,
+        "bytes": 55866
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/02fef46be42f9712a4da.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 82794,
+    "src": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/02fef46be42f9712a4da-480.webp",
+        "width": 480,
+        "bytes": 16548
+      },
+      {
+        "src": "assets/halloween/elegant-night/02fef46be42f9712a4da-960.webp",
+        "width": 960,
+        "bytes": 48836
+      },
+      {
+        "src": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
+        "width": 1254,
+        "bytes": 82794
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 120364,
+    "src": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/bc33b74de831236e3f4b-480.webp",
+        "width": 480,
+        "bytes": 22880
+      },
+      {
+        "src": "assets/halloween/elegant-night/bc33b74de831236e3f4b-960.webp",
+        "width": 960,
+        "bytes": 72028
+      },
+      {
+        "src": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
+        "width": 1254,
+        "bytes": 120364
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 138678,
+    "src": "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/a037d4835a6a1ff393e3-480.webp",
+        "width": 480,
+        "bytes": 20700
+      },
+      {
+        "src": "assets/halloween/elegant-night/a037d4835a6a1ff393e3-960.webp",
+        "width": 960,
+        "bytes": 77190
+      },
+      {
+        "src": "assets/halloween/elegant-night/a037d4835a6a1ff393e3.webp",
+        "width": 1254,
+        "bytes": 138678
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/afea8bea99107dac9065.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 52372,
+    "src": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/afea8bea99107dac9065-480.webp",
+        "width": 480,
+        "bytes": 10718
+      },
+      {
+        "src": "assets/halloween/elegant-night/afea8bea99107dac9065-960.webp",
+        "width": 960,
+        "bytes": 31084
+      },
+      {
+        "src": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+        "width": 1254,
+        "bytes": 52372
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 115998,
+    "src": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/0071b4dda7afde9f7d41-480.webp",
+        "width": 480,
+        "bytes": 14906
+      },
+      {
+        "src": "assets/halloween/elegant-night/0071b4dda7afde9f7d41-960.webp",
+        "width": 960,
+        "bytes": 63130
+      },
+      {
+        "src": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
+        "width": 1254,
+        "bytes": 115998
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 177974,
+    "src": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/2f4b76d86312dfd573c2-480.webp",
+        "width": 480,
+        "bytes": 41712
+      },
+      {
+        "src": "assets/halloween/elegant-night/2f4b76d86312dfd573c2-960.webp",
+        "width": 960,
+        "bytes": 114832
+      },
+      {
+        "src": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+        "width": 1254,
+        "bytes": 177974
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 216762,
+    "src": "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/9d617da4e0fad0e6de77-480.webp",
+        "width": 480,
+        "bytes": 38602
+      },
+      {
+        "src": "assets/halloween/elegant-night/9d617da4e0fad0e6de77-960.webp",
+        "width": 960,
+        "bytes": 131078
+      },
+      {
+        "src": "assets/halloween/elegant-night/9d617da4e0fad0e6de77.webp",
+        "width": 1254,
+        "bytes": 216762
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/ca0e3054758670c316af.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 182276,
+    "src": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/ca0e3054758670c316af-480.webp",
+        "width": 480,
+        "bytes": 37880
+      },
+      {
+        "src": "assets/halloween/elegant-night/ca0e3054758670c316af-960.webp",
+        "width": 960,
+        "bytes": 110716
+      },
+      {
+        "src": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+        "width": 1254,
+        "bytes": 182276
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 202868,
+    "src": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a-480.webp",
+        "width": 480,
+        "bytes": 33700
+      },
+      {
+        "src": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a-960.webp",
+        "width": 960,
+        "bytes": 119390
+      },
+      {
+        "src": "assets/halloween/elegant-night/7a0c1e1ffcc18de1d10a.webp",
+        "width": 1254,
+        "bytes": 202868
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/0a3ef545312af32dd346.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 195512,
+    "src": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/0a3ef545312af32dd346-480.webp",
+        "width": 480,
+        "bytes": 45454
+      },
+      {
+        "src": "assets/halloween/elegant-night/0a3ef545312af32dd346-960.webp",
+        "width": 960,
+        "bytes": 126812
+      },
+      {
+        "src": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+        "width": 1254,
+        "bytes": 195512
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/65d9b70a563381f0540d.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 202718,
+    "src": "assets/halloween/elegant-night/65d9b70a563381f0540d.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/65d9b70a563381f0540d-480.webp",
+        "width": 480,
+        "bytes": 34848
+      },
+      {
+        "src": "assets/halloween/elegant-night/65d9b70a563381f0540d-960.webp",
+        "width": 960,
+        "bytes": 116332
+      },
+      {
+        "src": "assets/halloween/elegant-night/65d9b70a563381f0540d.webp",
+        "width": 1254,
+        "bytes": 202718
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 126538,
+    "src": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647-480.webp",
+        "width": 480,
+        "bytes": 25428
+      },
+      {
+        "src": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647-960.webp",
+        "width": 960,
+        "bytes": 76092
+      },
+      {
+        "src": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+        "width": 1254,
+        "bytes": 126538
+      }
+    ]
+  },
+  "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 124126,
+    "src": "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/elegant-night/caa97ff34cd32d636d18-480.webp",
+        "width": 480,
+        "bytes": 23428
+      },
+      {
+        "src": "assets/halloween/elegant-night/caa97ff34cd32d636d18-960.webp",
+        "width": 960,
+        "bytes": 75498
+      },
+      {
+        "src": "assets/halloween/elegant-night/caa97ff34cd32d636d18.webp",
+        "width": 1254,
+        "bytes": 124126
+      }
+    ]
   }
 }

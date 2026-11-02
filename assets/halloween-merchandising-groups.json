@@ -1,0 +1,83 @@
+{
+  "groups": [
+    {
+      "name": "Midnight Navy & Charcoal",
+      "products": [
+        "Pumpkin Parade",
+        "Candy Corn Moon",
+        "Golden Familiar",
+        "Spooky Forest Night",
+        "Bat & Pumpkin Gold",
+        "Black Cat Moon",
+        "Midnight Cat Witch",
+        "Botanical Ghost",
+        "Floating Ghost",
+        "Midnight Shy Ghost",
+        "The Witch Is In",
+        "Midnight Ballet Candle",
+        "Pumpkin Cottage Night",
+        "Moonlit Witch Ghost",
+        "Deep Teal Ghost Night"
+      ]
+    },
+    {
+      "name": "Purple Moonlight",
+      "products": [
+        "Boo After Dark",
+        "Trick or Treat Spirits",
+        "Moonlit Magic Pumpkin",
+        "Lilac Bat Spell",
+        "Lavender Haunted House",
+        "Lavender Haunted Manor",
+        "Magenta Bat",
+        "Purple Bat Mischief",
+        "Purple Witch Ghost",
+        "Purple Ghost Forest"
+      ]
+    },
+    {
+      "name": "Pumpkin & Amber",
+      "products": [
+        "Batwing Pumpkin",
+        "Haunted Pumpkin Night",
+        "Jack-O’-Lantern Carnival",
+        "Pumpkin Party Glow",
+        "Candy Stripe Boo",
+        "Little Pumpkin Ghost",
+        "Woodland Toadstool"
+      ]
+    },
+    {
+      "name": "Ivory Ghost Stories",
+      "products": [
+        "Midnight Witch Hat",
+        "Starry Witch Ghost",
+        "Pumpkin Stripe Ghost",
+        "Golden Stripe Ghost",
+        "Boo & Cream Pumpkin",
+        "Pumpkin & Little Ghost",
+        "Ghost & Black Cat",
+        "Ivory Ghost Garden",
+        "Mummy Goose",
+        "Book of Spells Ghost",
+        "Ghost Reading Club",
+        "Wise Little Ghost",
+        "Pumpkin & Black Cat"
+      ]
+    },
+    {
+      "name": "Pastel Magic",
+      "products": [
+        "Pastel Spooky",
+        "Blush Haunted House"
+      ]
+    }
+  ],
+  "pageSize": 12,
+  "pageCounts": [
+    12,
+    12,
+    12,
+    11
+  ]
+}
