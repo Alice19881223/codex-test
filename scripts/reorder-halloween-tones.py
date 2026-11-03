@@ -11,10 +11,10 @@ Blush Haunted House
 Starry Witch Ghost
 Pumpkin Stripe Ghost
 Golden Stripe Ghost
-Boo & Cream Pumpkin
+Little Pumpkin Ghost
 Pumpkin Party Glow
 Moonlit Magic Pumpkin
-Little Pumpkin Ghost
+Boo & Cream Pumpkin
 Woodland Toadstool'''),
  ('Black & Midnight','''Pumpkin Cottage Night
 Moonlit Witch Ghost

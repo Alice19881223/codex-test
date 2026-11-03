@@ -9316,19 +9316,19 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-26CB487B",
+    "itemNo": "LNV-HLW-27CEDD24",
     "category": "halloween",
-    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
-    "name": "Boo & Cream Pumpkin",
-    "title": "Boo & Cream Pumpkin Scented candle",
-    "url": "product-lnv-hlw-26cb487b.html",
-    "series": "Ghost Parade",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "name": "Little Pumpkin Ghost",
+    "title": "Little Pumpkin Ghost Scented candle",
+    "url": "product-lnv-hlw-27cedd24.html",
+    "series": "Little Dreamers",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "vanilla-tonka"
+      "pumpkin-spice"
     ],
-    "primaryScent": "vanilla-tonka",
+    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
@@ -9367,19 +9367,19 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-27CEDD24",
+    "itemNo": "LNV-HLW-26CB487B",
     "category": "halloween",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "name": "Little Pumpkin Ghost",
-    "title": "Little Pumpkin Ghost Scented candle",
-    "url": "product-lnv-hlw-27cedd24.html",
-    "series": "Little Dreamers",
+    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+    "name": "Boo & Cream Pumpkin",
+    "title": "Boo & Cream Pumpkin Scented candle",
+    "url": "product-lnv-hlw-26cb487b.html",
+    "series": "Ghost Parade",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "pumpkin-spice"
+      "vanilla-tonka"
     ],
-    "primaryScent": "pumpkin-spice",
+    "primaryScent": "vanilla-tonka",
     "specifications": {},
     "documents": []
   },
