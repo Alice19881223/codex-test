@@ -14606,20 +14606,6 @@ const halloweenProducts = [
     "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "series": "Little Dreamers",
-    "legacyImages": [
-      "assets/candles/candles-086.webp"
-    ],
-    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
-    "images": [
-      "assets/candles/standalone/dde508f3788aea3c327f.png",
-      "assets/candles/paired/1fef6394f15230e857c4.png"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
     "name": "Moonlit Magic Pumpkin",
     "series": "Enchanted Halloween",
@@ -14632,6 +14618,20 @@ const halloweenProducts = [
     ],
     "assignedScent": "lavender-cedarwood",
     "designDescription": "A lilac pumpkin-shaped candle with a black cat and witch hat feels sweetly magical. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "name": "Little Pumpkin Ghost",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ],
+    "assignedScent": "pumpkin-spice"
   },
   {
     "id": "halloween-2026-10f4fa3279b8daf09b37",
@@ -15944,8 +15944,8 @@ const productPages = {
     "assets/halloween/paired/687694e6aa7fd69f1f33.webp": "product-lnv-hlw-72b814d6.html",
     "assets/halloween/paired/e1b8ab23fd58f8dff942.webp": "product-lnv-hlw-26cb487b.html",
     "assets/halloween/paired/7b2df3b52827ebdca98e.webp": "product-lnv-hlw-3d53b81a.html",
-    "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
     "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": "product-lnv-hlw-a732751d.html",
+    "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
     "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
     "assets/halloween/paired/4c1129f92c19a7214a95.webp": "product-lnv-hlw-817f422d.html",
     "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp": "product-lnv-hlw-d4f2e3d3.html",

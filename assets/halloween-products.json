@@ -112,20 +112,6 @@
     "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "series": "Little Dreamers",
-    "legacyImages": [
-      "assets/candles/candles-086.webp"
-    ],
-    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
-    "images": [
-      "assets/candles/standalone/dde508f3788aea3c327f.png",
-      "assets/candles/paired/1fef6394f15230e857c4.png"
-    ],
-    "assignedScent": "pumpkin-spice"
-  },
-  {
     "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
     "name": "Moonlit Magic Pumpkin",
     "series": "Enchanted Halloween",
@@ -138,6 +124,20 @@
     ],
     "assignedScent": "lavender-cedarwood",
     "designDescription": "A lilac pumpkin-shaped candle with a black cat and witch hat feels sweetly magical. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "name": "Little Pumpkin Ghost",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ],
+    "assignedScent": "pumpkin-spice"
   },
   {
     "id": "halloween-2026-10f4fa3279b8daf09b37",

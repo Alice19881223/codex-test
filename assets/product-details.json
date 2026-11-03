@@ -9333,23 +9333,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-27CEDD24",
-    "category": "halloween",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "name": "Little Pumpkin Ghost",
-    "title": "Little Pumpkin Ghost Scented candle",
-    "url": "product-lnv-hlw-27cedd24.html",
-    "series": "Little Dreamers",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-HLW-A732751D",
     "category": "halloween",
     "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
@@ -9363,6 +9346,23 @@
       "lavender-cedarwood"
     ],
     "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-27CEDD24",
+    "category": "halloween",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "name": "Little Pumpkin Ghost",
+    "title": "Little Pumpkin Ghost Scented candle",
+    "url": "product-lnv-hlw-27cedd24.html",
+    "series": "Little Dreamers",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
