@@ -84,6 +84,20 @@
     "designDescription": "Orange stripes brighten a seated ghost in a jaunty witch hat. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-2026-4dd5a01cd767291e09d0",
+    "name": "Golden Stripe Ghost",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+    "packagingImage": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
+    "images": [
+      "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+      "assets/halloween/paired/5ee75958e50afa5d4ae2.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-2026-e1b8ab23fd58f8dff942",
     "name": "Boo & Cream Pumpkin",
     "series": "Ghost Parade",
@@ -152,20 +166,6 @@
     ],
     "assignedScent": "fig-green-leaves",
     "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-4c1129f92c19a7214a95",
-    "name": "The Witch Is In",
-    "series": "Enchanted Halloween",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
-    "images": [
-      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-      "assets/halloween/paired/ec498e927fe51534236f.webp"
-    ],
-    "assignedScent": "green-tea-cedarwood",
-    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-elegant-night-2f4b76d86312dfd573c2",
@@ -401,6 +401,20 @@
     "designDescription": "A witch-hatted ghost cuddles a black cat in a softly sculpted scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-2026-4c1129f92c19a7214a95",
+    "name": "The Witch Is In",
+    "series": "Enchanted Halloween",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
+    "images": [
+      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "assets/halloween/paired/ec498e927fe51534236f.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
     "name": "Book of Spells Ghost",
     "series": "Ivory Ghost Stories",
@@ -469,20 +483,6 @@
     ],
     "assignedScent": "orange-clove",
     "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-4dd5a01cd767291e09d0",
-    "name": "Golden Stripe Ghost",
-    "series": "Ghost Parade",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-    "packagingImage": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
-    "images": [
-      "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-      "assets/halloween/paired/5ee75958e50afa5d4ae2.webp"
-    ],
-    "assignedScent": "amber-vanilla",
-    "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-f71b9060a34f115a5abd",

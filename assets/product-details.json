@@ -9299,6 +9299,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-HLW-52751D33",
+    "category": "halloween",
+    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+    "name": "Golden Stripe Ghost",
+    "title": "Golden Stripe Ghost Scented candle",
+    "url": "product-lnv-hlw-52751d33.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-HLW-26CB487B",
     "category": "halloween",
     "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
@@ -9380,23 +9397,6 @@
       "fig-green-leaves"
     ],
     "primaryScent": "fig-green-leaves",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-817F422D",
-    "category": "halloween",
-    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-    "name": "The Witch Is In",
-    "title": "The Witch Is In Scented candle",
-    "url": "product-lnv-hlw-817f422d.html",
-    "series": "Enchanted Halloween",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "green-tea-cedarwood"
-    ],
-    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -9673,6 +9673,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-HLW-817F422D",
+    "category": "halloween",
+    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+    "name": "The Witch Is In",
+    "title": "The Witch Is In Scented candle",
+    "url": "product-lnv-hlw-817f422d.html",
+    "series": "Enchanted Halloween",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-HLW-71C2FAA6",
     "category": "halloween",
     "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
@@ -9754,23 +9771,6 @@
       "orange-clove"
     ],
     "primaryScent": "orange-clove",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-52751D33",
-    "category": "halloween",
-    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-    "name": "Golden Stripe Ghost",
-    "title": "Golden Stripe Ghost Scented candle",
-    "url": "product-lnv-hlw-52751d33.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "amber-vanilla"
-    ],
-    "primaryScent": "amber-vanilla",
     "specifications": {},
     "documents": []
   },

@@ -10,12 +10,12 @@ Pastel Spooky
 Blush Haunted House
 Starry Witch Ghost
 Pumpkin Stripe Ghost
+Golden Stripe Ghost
 Boo & Cream Pumpkin
 Pumpkin Party Glow
 Moonlit Magic Pumpkin
 Little Pumpkin Ghost
-Woodland Toadstool
-The Witch Is In'''),
+Woodland Toadstool'''),
  ('Black & Midnight','''Pumpkin Cottage Night
 Moonlit Witch Ghost
 Deep Teal Ghost Night
@@ -32,12 +32,12 @@ Midnight Shy Ghost'''),
  ('Ivory & White','''Midnight Witch Hat
 Ivory Ghost Garden
 Ghost & Black Cat
+The Witch Is In
 Book of Spells Ghost
 Ghost Reading Club
 Wise Little Ghost
 Pumpkin & Black Cat
 Mummy Goose
-Golden Stripe Ghost
 Pumpkin & Little Ghost'''),
  ('Golden Pumpkin','''Golden Familiar
 Haunted Pumpkin Night

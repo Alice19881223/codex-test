@@ -4651,7 +4651,7 @@ const scents = [
         "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
         "name": "Golden Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection.html",
         "href": "product-lnv-hlw-52751d33.html?scent=amber-vanilla"
       },
       {
@@ -6746,7 +6746,7 @@ const scents = [
         "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
         "name": "The Witch Is In",
         "series": "Enchanted Halloween",
-        "catalogueHref": "halloween-collection.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-817f422d.html?scent=green-tea-cedarwood"
       },
       {
@@ -14578,6 +14578,20 @@ const halloweenProducts = [
     "designDescription": "Orange stripes brighten a seated ghost in a jaunty witch hat. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-2026-4dd5a01cd767291e09d0",
+    "name": "Golden Stripe Ghost",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+    "packagingImage": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
+    "images": [
+      "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+      "assets/halloween/paired/5ee75958e50afa5d4ae2.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-2026-e1b8ab23fd58f8dff942",
     "name": "Boo & Cream Pumpkin",
     "series": "Ghost Parade",
@@ -14646,20 +14660,6 @@ const halloweenProducts = [
     ],
     "assignedScent": "fig-green-leaves",
     "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-4c1129f92c19a7214a95",
-    "name": "The Witch Is In",
-    "series": "Enchanted Halloween",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
-    "images": [
-      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-      "assets/halloween/paired/ec498e927fe51534236f.webp"
-    ],
-    "assignedScent": "green-tea-cedarwood",
-    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-elegant-night-2f4b76d86312dfd573c2",
@@ -14895,6 +14895,20 @@ const halloweenProducts = [
     "designDescription": "A witch-hatted ghost cuddles a black cat in a softly sculpted scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-2026-4c1129f92c19a7214a95",
+    "name": "The Witch Is In",
+    "series": "Enchanted Halloween",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+    "packagingImage": "assets/halloween/paired/ec498e927fe51534236f.webp",
+    "images": [
+      "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+      "assets/halloween/paired/ec498e927fe51534236f.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
     "name": "Book of Spells Ghost",
     "series": "Ivory Ghost Stories",
@@ -14963,20 +14977,6 @@ const halloweenProducts = [
     ],
     "assignedScent": "orange-clove",
     "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-4dd5a01cd767291e09d0",
-    "name": "Golden Stripe Ghost",
-    "series": "Ghost Parade",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-    "packagingImage": "assets/halloween/paired/5ee75958e50afa5d4ae2.webp",
-    "images": [
-      "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-      "assets/halloween/paired/5ee75958e50afa5d4ae2.webp"
-    ],
-    "assignedScent": "amber-vanilla",
-    "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-f71b9060a34f115a5abd",
@@ -15942,12 +15942,12 @@ const productPages = {
     "assets/halloween/paired/df1d10703fd51b47cdda.webp": "product-lnv-hlw-ffa5cfdd.html",
     "assets/halloween/paired/499d7733d304051d864d.webp": "product-lnv-hlw-b266970f.html",
     "assets/halloween/paired/687694e6aa7fd69f1f33.webp": "product-lnv-hlw-72b814d6.html",
+    "assets/halloween/paired/4dd5a01cd767291e09d0.webp": "product-lnv-hlw-52751d33.html",
     "assets/halloween/paired/e1b8ab23fd58f8dff942.webp": "product-lnv-hlw-26cb487b.html",
     "assets/halloween/paired/7b2df3b52827ebdca98e.webp": "product-lnv-hlw-3d53b81a.html",
     "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": "product-lnv-hlw-a732751d.html",
     "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
     "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
-    "assets/halloween/paired/4c1129f92c19a7214a95.webp": "product-lnv-hlw-817f422d.html",
     "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp": "product-lnv-hlw-d4f2e3d3.html",
     "assets/halloween/elegant-night/ca0e3054758670c316af.webp": "product-lnv-hlw-596ecc93.html",
     "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp": "product-lnv-hlw-9c46a76c.html",
@@ -15964,12 +15964,12 @@ const productPages = {
     "assets/halloween/paired/24810435e341aec553f5.webp": "product-lnv-hlw-0085bd09.html",
     "assets/halloween/replacements/c312483816241eb90c2d.webp": "product-lnv-hlw-c0314877.html",
     "assets/halloween/paired/a0f8303846379cf4d8f5.webp": "product-lnv-hlw-c07db49b.html",
+    "assets/halloween/paired/4c1129f92c19a7214a95.webp": "product-lnv-hlw-817f422d.html",
     "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp": "product-lnv-hlw-71c2faa6.html",
     "assets/halloween/elegant-night/b0aae3da62b44541c551.webp": "product-lnv-hlw-5a9c7404.html",
     "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp": "product-lnv-hlw-0564d16b.html",
     "assets/halloween/elegant-night/afea8bea99107dac9065.webp": "product-lnv-hlw-3050b75c.html",
     "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp": "product-lnv-hlw-e7b66df3.html",
-    "assets/halloween/paired/4dd5a01cd767291e09d0.webp": "product-lnv-hlw-52751d33.html",
     "assets/halloween/paired/f71b9060a34f115a5abd.webp": "product-lnv-hlw-c45d7fc7.html",
     "assets/halloween/paired/d4d8d0fda1d45caac45d.webp": "product-lnv-hlw-255d01f4.html",
     "assets/halloween/paired/9afb0d80ab8fe483e142.webp": "product-lnv-hlw-466ad4bc.html",
