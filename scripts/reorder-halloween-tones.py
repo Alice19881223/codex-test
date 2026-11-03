@@ -4,53 +4,53 @@ import json
 
 ROOT=Path(__file__).resolve().parents[1]
 GROUPS=[
- ('Signature Nightscapes','''Pumpkin Cottage Night
+ ('Light Designer Edit','''Lavender Haunted Manor
+Lavender Haunted House
+Moonlit Magic Pumpkin
+Woodland Toadstool
+The Witch Is In
+Ivory Ghost Garden
+Ghost & Black Cat
+Book of Spells Ghost
+Ghost Reading Club
+Wise Little Ghost
+Pumpkin & Black Cat
+Mummy Goose'''),
+ ('Black & Midnight','''Pumpkin Cottage Night
 Moonlit Witch Ghost
-Purple Ghost Forest
 Deep Teal Ghost Night
 Midnight Ballet Candle
 Spooky Forest Night
 Bat & Pumpkin Gold
 Black Cat Moon
 Midnight Cat Witch
-Lavender Haunted Manor
-Lavender Haunted House
-Moonlit Magic Pumpkin'''),
- ('Sculptural & Enchanted','''Purple Witch Ghost
-Purple Bat Mischief
-Woodland Toadstool
-The Witch Is In
-Ghost & Black Cat
-Ivory Ghost Garden
 Botanical Ghost
-Golden Familiar
-Haunted Pumpkin Night
-Jack-O’-Lantern Carnival'''),
- ('Storybook Ghosts','''Book of Spells Ghost
-Ghost Reading Club
-Wise Little Ghost
-Mummy Goose
-Pumpkin & Black Cat
-Pumpkin & Little Ghost
+Pumpkin Parade
+Candy Corn Moon
+Floating Ghost
+Midnight Shy Ghost'''),
+ ('Ivory & White','''Midnight Witch Hat
 Starry Witch Ghost
 Pumpkin Stripe Ghost
 Golden Stripe Ghost
-Trick or Treat Spirits
-Boo After Dark
-Little Pumpkin Ghost'''),
- ('Classic Halloween','''Pumpkin Parade
-Candy Corn Moon
-Floating Ghost
-Midnight Shy Ghost
+Boo & Cream Pumpkin
+Pumpkin & Little Ghost'''),
+ ('Golden Pumpkin','''Golden Familiar
+Haunted Pumpkin Night
+Jack-O’-Lantern Carnival
 Batwing Pumpkin
 Pumpkin Party Glow
 Candy Stripe Boo
-Midnight Witch Hat'''),
- ('Pastel Play','''Lilac Bat Spell
+Little Pumpkin Ghost'''),
+ ('Purple Magic','''Purple Ghost Forest
+Purple Witch Ghost
+Purple Bat Mischief
+Lilac Bat Spell
 Magenta Bat
 Pastel Spooky
 Blush Haunted House
-Boo & Cream Pumpkin'''),
+Boo After Dark
+Trick or Treat Spirits'''),
  ('Halloween Reed Diffusers','''Berry Bat Diffuser
 Lavender Castle Diffuser
 Sage Witch Diffuser
