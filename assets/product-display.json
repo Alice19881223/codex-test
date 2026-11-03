@@ -2170,5 +2170,23 @@
   },
   "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp": {
     "palette": "blush"
+  },
+  "assets/candles/style-curated/b07aa24aa16e12916ee2.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/style-curated/78bf9e664b0a30de840c.webp": {
+    "palette": "blue"
+  },
+  "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp": {
+    "palette": "sage"
+  },
+  "assets/candles/style-curated/5a16b46c2599891e9a3b.webp": {
+    "palette": "charcoal"
+  },
+  "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp": {
+    "palette": "blush"
+  },
+  "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp": {
+    "palette": "charcoal"
   }
 }

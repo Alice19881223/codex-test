@@ -23806,5 +23806,281 @@
         "bytes": 152450
       }
     ]
+  },
+  "assets/candles/style-curated/b07aa24aa16e12916ee2.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1840692,
+    "src": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/b07aa24aa16e12916ee2-480.webp",
+        "width": 480,
+        "bytes": 17998
+      },
+      {
+        "src": "assets/candles/style-curated/b07aa24aa16e12916ee2-960.webp",
+        "width": 960,
+        "bytes": 51820
+      },
+      {
+        "src": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+        "width": 1254,
+        "bytes": 86656
+      }
+    ]
+  },
+  "assets/candles/style-curated/752d6e2471b686f13cd6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1825950,
+    "src": "assets/candles/style-curated/752d6e2471b686f13cd6.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/752d6e2471b686f13cd6-480.webp",
+        "width": 480,
+        "bytes": 13290
+      },
+      {
+        "src": "assets/candles/style-curated/752d6e2471b686f13cd6-960.webp",
+        "width": 960,
+        "bytes": 50326
+      },
+      {
+        "src": "assets/candles/style-curated/752d6e2471b686f13cd6.webp",
+        "width": 1254,
+        "bytes": 86578
+      }
+    ]
+  },
+  "assets/candles/style-curated/78bf9e664b0a30de840c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2105585,
+    "src": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/78bf9e664b0a30de840c-480.webp",
+        "width": 480,
+        "bytes": 36558
+      },
+      {
+        "src": "assets/candles/style-curated/78bf9e664b0a30de840c-960.webp",
+        "width": 960,
+        "bytes": 131362
+      },
+      {
+        "src": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+        "width": 1254,
+        "bytes": 221240
+      }
+    ]
+  },
+  "assets/candles/style-curated/666d31b6ef832d9edbcc.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1834800,
+    "src": "assets/candles/style-curated/666d31b6ef832d9edbcc.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/666d31b6ef832d9edbcc-480.webp",
+        "width": 480,
+        "bytes": 17694
+      },
+      {
+        "src": "assets/candles/style-curated/666d31b6ef832d9edbcc-960.webp",
+        "width": 960,
+        "bytes": 55024
+      },
+      {
+        "src": "assets/candles/style-curated/666d31b6ef832d9edbcc.webp",
+        "width": 1254,
+        "bytes": 92084
+      }
+    ]
+  },
+  "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1528457,
+    "src": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/fd31b3a56bc2339cd8eb-480.webp",
+        "width": 480,
+        "bytes": 9744
+      },
+      {
+        "src": "assets/candles/style-curated/fd31b3a56bc2339cd8eb-960.webp",
+        "width": 960,
+        "bytes": 36648
+      },
+      {
+        "src": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+        "width": 1254,
+        "bytes": 64896
+      }
+    ]
+  },
+  "assets/candles/style-curated/f8b25147300160b6b905.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1608438,
+    "src": "assets/candles/style-curated/f8b25147300160b6b905.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/f8b25147300160b6b905-480.webp",
+        "width": 480,
+        "bytes": 8282
+      },
+      {
+        "src": "assets/candles/style-curated/f8b25147300160b6b905-960.webp",
+        "width": 960,
+        "bytes": 33726
+      },
+      {
+        "src": "assets/candles/style-curated/f8b25147300160b6b905.webp",
+        "width": 1254,
+        "bytes": 62188
+      }
+    ]
+  },
+  "assets/candles/style-curated/5a16b46c2599891e9a3b.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2244158,
+    "src": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/5a16b46c2599891e9a3b-480.webp",
+        "width": 480,
+        "bytes": 34474
+      },
+      {
+        "src": "assets/candles/style-curated/5a16b46c2599891e9a3b-960.webp",
+        "width": 960,
+        "bytes": 141058
+      },
+      {
+        "src": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+        "width": 1254,
+        "bytes": 246704
+      }
+    ]
+  },
+  "assets/candles/style-curated/7b8275b7196dce9e7208.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 2057861,
+    "src": "assets/candles/style-curated/7b8275b7196dce9e7208.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/7b8275b7196dce9e7208-480.webp",
+        "width": 480,
+        "bytes": 23798
+      },
+      {
+        "src": "assets/candles/style-curated/7b8275b7196dce9e7208-960.webp",
+        "width": 960,
+        "bytes": 104802
+      },
+      {
+        "src": "assets/candles/style-curated/7b8275b7196dce9e7208.webp",
+        "width": 1254,
+        "bytes": 188348
+      }
+    ]
+  },
+  "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1365872,
+    "src": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1-480.webp",
+        "width": 480,
+        "bytes": 7598
+      },
+      {
+        "src": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1-960.webp",
+        "width": 960,
+        "bytes": 20856
+      },
+      {
+        "src": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+        "width": 1254,
+        "bytes": 37578
+      }
+    ]
+  },
+  "assets/candles/style-curated/4104d20492142a657c5c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1490593,
+    "src": "assets/candles/style-curated/4104d20492142a657c5c.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/4104d20492142a657c5c-480.webp",
+        "width": 480,
+        "bytes": 8018
+      },
+      {
+        "src": "assets/candles/style-curated/4104d20492142a657c5c-960.webp",
+        "width": 960,
+        "bytes": 26990
+      },
+      {
+        "src": "assets/candles/style-curated/4104d20492142a657c5c.webp",
+        "width": 1254,
+        "bytes": 51798
+      }
+    ]
+  },
+  "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1406913,
+    "src": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/9dfc83ca4c1627715c1a-480.webp",
+        "width": 480,
+        "bytes": 11628
+      },
+      {
+        "src": "assets/candles/style-curated/9dfc83ca4c1627715c1a-960.webp",
+        "width": 960,
+        "bytes": 30998
+      },
+      {
+        "src": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+        "width": 1254,
+        "bytes": 51310
+      }
+    ]
+  },
+  "assets/candles/style-curated/8f62730e51167134ce85.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 1819174,
+    "src": "assets/candles/style-curated/8f62730e51167134ce85.webp",
+    "variants": [
+      {
+        "src": "assets/candles/style-curated/8f62730e51167134ce85-480.webp",
+        "width": 480,
+        "bytes": 13710
+      },
+      {
+        "src": "assets/candles/style-curated/8f62730e51167134ce85-960.webp",
+        "width": 960,
+        "bytes": 64986
+      },
+      {
+        "src": "assets/candles/style-curated/8f62730e51167134ce85.webp",
+        "width": 1254,
+        "bytes": 112532
+      }
+    ]
   }
 }

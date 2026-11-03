@@ -211,12 +211,18 @@
     "assets/companions/gift-and-sage-lace/61d15c9d2491c829b5d4.webp": "LNV-CND-A241A2CD",
     "assets/companions/gift-and-sage-lace/35142689c28361fa2eb3.webp": "LNV-CND-D3B2A3FB",
     "assets/companions/gift-and-sage-lace/bfca83f724741fb7fad0.webp": "LNV-CND-6D34F841",
-    "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": "LNV-CND-2A11BB59"
+    "assets/companions/gift-and-sage-lace/cb764d2db91188e2afc2.webp": "LNV-CND-2A11BB59",
+    "assets/candles/style-curated/78bf9e664b0a30de840c.webp": "LNV-CND-9C9F61EF",
+    "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp": "LNV-CND-BCE6C8FD",
+    "assets/candles/style-curated/5a16b46c2599891e9a3b.webp": "LNV-CND-BEFFA9C8",
+    "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp": "LNV-CND-295A80D4",
+    "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp": "LNV-CND-79DB1045"
   },
   "christmas": {
     "assets/christmas/standalone/4fee0c8b694b3a6cac99.png": "LNV-XMS-80C34B43",
     "assets/christmas/standalone/d562217af6c6dcb7d806.png": "LNV-XMS-499CC25C",
-    "assets/christmas/standalone/b7c2f963b441ad3ea550.png": "LNV-XMS-B26959C2"
+    "assets/christmas/standalone/b7c2f963b441ad3ea550.png": "LNV-XMS-B26959C2",
+    "assets/candles/style-curated/b07aa24aa16e12916ee2.webp": "LNV-XMS-F7848220"
   },
   "halloween": {
     "assets/halloween/replacements/ff5c4df0db5e6d7f3058.webp": "LNV-HLW-849357F4",

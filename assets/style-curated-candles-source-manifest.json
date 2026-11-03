@@ -1,0 +1,223 @@
+{
+  "sourceArchive": "打包1.zip",
+  "productCount": 6,
+  "imageCount": 12,
+  "pairedCount": 6,
+  "products": [
+    {
+      "id": "style-curated-christmas-b07aa24aa16e12916ee2",
+      "name": "Snowman Friends Candle",
+      "series": "Winter Blue Christmas",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+      "packagingImage": "assets/candles/style-curated/752d6e2471b686f13cd6.webp",
+      "images": [
+        "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+        "assets/candles/style-curated/752d6e2471b686f13cd6.webp"
+      ],
+      "assignedScent": "fir-cedarwood",
+      "designDescription": "Two smiling snowmen and a softly painted fir tree bring a gentle winter-blue character to this hand-finished ceramic candle. Fir & Cedarwood extends the snowy woodland mood with evergreen freshness and warm woods. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "christmas",
+      "collection": null
+    },
+    {
+      "id": "style-curated-candle-78bf9e664b0a30de840c",
+      "name": "Seafoam Woven Glass",
+      "series": "Sea Glass",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+      "packagingImage": "assets/candles/style-curated/666d31b6ef832d9edbcc.webp",
+      "images": [
+        "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+        "assets/candles/style-curated/666d31b6ef832d9edbcc.webp"
+      ],
+      "assignedScent": "sea-salt-driftwood",
+      "designDescription": "Fine seafoam, aqua and lilac threads wrap the glass in a woven textile effect that catches clear morning light. Sea Salt & Driftwood complements its airy coastal palette. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "morning-light"
+    },
+    {
+      "id": "style-curated-candle-fd31b3a56bc2339cd8eb",
+      "name": "Celadon Crane Flight",
+      "series": "Celadon Flight",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+      "packagingImage": "assets/candles/style-curated/f8b25147300160b6b905.webp",
+      "images": [
+        "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+        "assets/candles/style-curated/f8b25147300160b6b905.webp"
+      ],
+      "assignedScent": "osmanthus-green-tea",
+      "designDescription": "White cranes cross a softly speckled celadon vessel in a quiet composition inspired by traditional Chinese decorative arts. Osmanthus & Green Tea adds a refined floral-tea freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "chinese-style"
+    },
+    {
+      "id": "style-curated-candle-5a16b46c2599891e9a3b",
+      "name": "Black Silver Stillness",
+      "series": "Stone & Stillness",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+      "packagingImage": "assets/candles/style-curated/7b8275b7196dce9e7208.webp",
+      "images": [
+        "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+        "assets/candles/style-curated/7b8275b7196dce9e7208.webp"
+      ],
+      "assignedScent": "fireside-smoked-woods",
+      "designDescription": "Layered black and silver glaze gives the rounded ceramic vessel the depth of smoke moving across a moonlit surface. Fireside & Smoked Woods reinforces its dark, contemplative character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "a-moment-of-quiet"
+    },
+    {
+      "id": "style-curated-candle-e0ac0e73c6bb1ce37bd1",
+      "name": "Blush Tulip Bloom",
+      "series": "Chromatic Bloom",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+      "packagingImage": "assets/candles/style-curated/4104d20492142a657c5c.webp",
+      "images": [
+        "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+        "assets/candles/style-curated/4104d20492142a657c5c.webp"
+      ],
+      "assignedScent": "peony-lychee",
+      "designDescription": "Overlapping tulip petals rise in a blush-to-ivory gradient, turning the candle into a soft sculptural flower for thoughtful gifting. Peony & Lychee gives it a bright floral-fruit lift. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "close-to-you"
+    },
+    {
+      "id": "style-curated-candle-9dfc83ca4c1627715c1a",
+      "name": "Striped Black Cat",
+      "series": "Little Companions",
+      "productType": "Scented candle",
+      "image": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+      "packagingImage": "assets/candles/style-curated/8f62730e51167134ce85.webp",
+      "images": [
+        "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+        "assets/candles/style-curated/8f62730e51167134ce85.webp"
+      ],
+      "assignedScent": "pear-freesia",
+      "designDescription": "A curious black cat peeks from bold hand-painted stripes, giving the ceramic candle a playful illustrated personality. Pear & Freesia keeps the character light, cheerful and giftable. Suggested fragrance pairing; final formulation and availability are confirmed with your sample.",
+      "category": "candle",
+      "collection": "little-joys"
+    }
+  ],
+  "images": [
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "戴圣诞帽的双雪人陶瓷蜡烛.png",
+      "role": "product",
+      "sha256": "b07aa24aa16e12916ee26086de38a4a9763e67119df6632dc31fe31786f551f9",
+      "image": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "Lanarve包装盒字样左移.png",
+      "role": "packaging",
+      "sha256": "752d6e2471b686f13cd68b36aac97b298626b56b4e42902b82139896cab61553",
+      "image": "assets/candles/style-curated/752d6e2471b686f13cd6.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "Lanarve海沫织纹香氛蜡烛.png",
+      "role": "product",
+      "sha256": "78bf9e664b0a30de840cadaf8a8692f54567a93c7b04e8afc34baa752a21cb55",
+      "image": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "水绿色香薰蜡烛与象牙礼盒.png",
+      "role": "packaging",
+      "sha256": "666d31b6ef832d9edbcc714a30cb5c1c0b8dac1dcc7965901f19e33479f886c4",
+      "image": "assets/candles/style-curated/666d31b6ef832d9edbcc.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "青瓷飞鹤香氛蜡烛-1.png",
+      "role": "product",
+      "sha256": "fd31b3a56bc2339cd8ebe6c4203b3e240739d9acbffaac5fea4ae44889bcd69b",
+      "image": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "兰纳维青瓷仙鹤香薰礼盒-2.png",
+      "role": "packaging",
+      "sha256": "f8b25147300160b6b9055d175545b9ae706ab9d46bd01406ee54556409aa17d2",
+      "image": "assets/candles/style-curated/f8b25147300160b6b905.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "黑银陶艺香氛蜡烛-1.png",
+      "role": "product",
+      "sha256": "5a16b46c2599891e9a3b4320984d27df099c8913b0a7ea5e17ca805ad7a2406b",
+      "image": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "兰纳维黑银釉香薰礼盒-2.png",
+      "role": "packaging",
+      "sha256": "7b8275b7196dce9e720843efcb7d8a99c750639ea2c30af47fc07289d574b130",
+      "image": "assets/candles/style-curated/7b8275b7196dce9e7208.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "渐变郁金香陶瓷香薰蜡烛.png",
+      "role": "product",
+      "sha256": "e0ac0e73c6bb1ce37bd14b5aa4ddba4624948f811f3f10ad999c22b17e1b7afc",
+      "image": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "郁金香蜡烛与无缝磁吸礼盒.png",
+      "role": "packaging",
+      "sha256": "4104d20492142a657c5c89bd063018a6b8da0ce2800ae2670aac7d7ddd0f3cd6",
+      "image": "assets/candles/style-curated/4104d20492142a657c5c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "黑猫条纹陶瓷香薰蜡烛.png",
+      "role": "product",
+      "sha256": "9dfc83ca4c1627715c1a9fae34b10b3d605015d1573c6df0d8f75778c3a57185",
+      "image": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "sourceArchive": "打包1.zip",
+      "source": "黑猫蜡烛与极简礼盒.png",
+      "role": "packaging",
+      "sha256": "8f62730e51167134ce8542c609568d190cfb3d1a1f90d2a18fdab7170f6ae47e",
+      "image": "assets/candles/style-curated/8f62730e51167134ce85.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "placements": {
+    "Snowman Friends Candle": "christmas/winter-blue",
+    "Seafoam Woven Glass": "morning-light",
+    "Celadon Crane Flight": "chinese-style",
+    "Black Silver Stillness": "a-moment-of-quiet",
+    "Blush Tulip Bloom": "close-to-you",
+    "Striped Black Cat": "little-joys"
+  },
+  "reviewNotes": "All six supplied designs were visually reviewed and paired with their coordinated packaging photographs."
+}

@@ -595,6 +595,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-BEFFA9C8",
+    "category": "candle",
+    "image": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+    "name": "Black Silver Stillness",
+    "title": "Black Silver Stillness Scented candle",
+    "url": "product-lnv-cnd-beffa9c8.html",
+    "series": "Stone & Stillness",
+    "collection": "A Moment of Quiet",
+    "collectionHref": "candles-a-moment-of-quiet.html",
+    "suggestedScents": [
+      "fireside-smoked-woods"
+    ],
+    "primaryScent": "fireside-smoked-woods",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-CND-E96D2F2B",
     "category": "candle",
     "image": "assets/candles/standalone/8617f461c1f2ffa6df10.png",
@@ -833,6 +850,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-CND-79DB1045",
+    "category": "candle",
+    "image": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+    "name": "Striped Black Cat",
+    "title": "Striped Black Cat Scented candle",
+    "url": "product-lnv-cnd-79db1045.html",
+    "series": "Little Companions",
+    "collection": "Little Joys",
+    "collectionHref": "candles-little-joys.html",
+    "suggestedScents": [
+      "pear-freesia"
+    ],
+    "primaryScent": "pear-freesia",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-CND-024ABDB4",
     "category": "candle",
     "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
@@ -1060,6 +1094,23 @@
     "name": "Sea Glass Glow",
     "title": "Sea Glass Glow Scented candle",
     "url": "product-lnv-cnd-1587bb24.html",
+    "series": "Sea Glass",
+    "collection": "Morning Light",
+    "collectionHref": "candles-morning-light.html",
+    "suggestedScents": [
+      "sea-salt-driftwood"
+    ],
+    "primaryScent": "sea-salt-driftwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-9C9F61EF",
+    "category": "candle",
+    "image": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+    "name": "Seafoam Woven Glass",
+    "title": "Seafoam Woven Glass Scented candle",
+    "url": "product-lnv-cnd-9c9f61ef.html",
     "series": "Sea Glass",
     "collection": "Morning Light",
     "collectionHref": "candles-morning-light.html",
@@ -1723,6 +1774,23 @@
     "name": "Blush Blossom",
     "title": "Blush Blossom Scented candle",
     "url": "product-lnv-cnd-e05bcc53.html",
+    "series": "Chromatic Bloom",
+    "collection": "Close to You",
+    "collectionHref": "candles-close-to-you.html",
+    "suggestedScents": [
+      "peony-lychee"
+    ],
+    "primaryScent": "peony-lychee",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-295A80D4",
+    "category": "candle",
+    "image": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+    "name": "Blush Tulip Bloom",
+    "title": "Blush Tulip Bloom Scented candle",
+    "url": "product-lnv-cnd-295a80d4.html",
     "series": "Chromatic Bloom",
     "collection": "Close to You",
     "collectionHref": "candles-close-to-you.html",
@@ -4059,6 +4127,23 @@
       "white-tea-rosemary"
     ],
     "primaryScent": "white-tea-rosemary",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-CND-BCE6C8FD",
+    "category": "candle",
+    "image": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+    "name": "Celadon Crane Flight",
+    "title": "Celadon Crane Flight Scented candle",
+    "url": "product-lnv-cnd-bce6c8fd.html",
+    "series": "Celadon Flight",
+    "collection": "Chinese Artistry",
+    "collectionHref": "candles-chinese-style.html",
+    "suggestedScents": [
+      "osmanthus-green-tea"
+    ],
+    "primaryScent": "osmanthus-green-tea",
     "specifications": {},
     "documents": []
   },
@@ -9193,6 +9278,23 @@
       "gingerbread-vanilla"
     ],
     "primaryScent": "gingerbread-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-XMS-F7848220",
+    "category": "christmas",
+    "image": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+    "name": "Snowman Friends Candle",
+    "title": "Snowman Friends Candle Scented candle",
+    "url": "product-lnv-xms-f7848220.html",
+    "series": "Winter Blue Christmas",
+    "collection": "Christmas",
+    "collectionHref": "christmas-collection.html",
+    "suggestedScents": [
+      "fir-cedarwood"
+    ],
+    "primaryScent": "fir-cedarwood",
     "specifications": {},
     "documents": []
   },

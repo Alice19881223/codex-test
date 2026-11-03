@@ -130,6 +130,7 @@ Pearl Candy Canes'''),
  ('Winter Blue','''Winter Ballet Candle
 Blue Winter Forest
 Snowman Moonlit Cottage
+Snowman Friends Candle
 Ice Star Wish
 Frosted Nutcracker
 Ice Blue Snowflake

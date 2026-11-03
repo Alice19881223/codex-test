@@ -424,6 +424,20 @@
     "assignedScent": "sandalwood-cashmere"
   },
   {
+    "id": "style-curated-candle-5a16b46c2599891e9a3b",
+    "name": "Black Silver Stillness",
+    "series": "Stone & Stillness",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+    "packagingImage": "assets/candles/style-curated/7b8275b7196dce9e7208.webp",
+    "images": [
+      "assets/candles/style-curated/5a16b46c2599891e9a3b.webp",
+      "assets/candles/style-curated/7b8275b7196dce9e7208.webp"
+    ],
+    "assignedScent": "fireside-smoked-woods",
+    "designDescription": "Layered black and silver glaze gives the rounded ceramic vessel the depth of smoke moving across a moonlit surface. Fireside & Smoked Woods reinforces its dark, contemplative character. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "name": "Olive Botanical Keepsake",
     "image": "assets/candles/standalone/8617f461c1f2ffa6df10.png",
     "series": "Botanical Cylinder",
@@ -622,6 +636,20 @@
     "assignedScent": "pear-freesia"
   },
   {
+    "id": "style-curated-candle-9dfc83ca4c1627715c1a",
+    "name": "Striped Black Cat",
+    "series": "Little Companions",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+    "packagingImage": "assets/candles/style-curated/8f62730e51167134ce85.webp",
+    "images": [
+      "assets/candles/style-curated/9dfc83ca4c1627715c1a.webp",
+      "assets/candles/style-curated/8f62730e51167134ce85.webp"
+    ],
+    "assignedScent": "pear-freesia",
+    "designDescription": "A curious black cat peeks from bold hand-painted stripes, giving the ceramic candle a playful illustrated personality. Pear & Freesia keeps the character light, cheerful and giftable. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "name": "Ochre Wild",
     "image": "assets/candles/standalone/c0a082d97a20f207e6ce.png",
     "series": "Earth Tones",
@@ -816,6 +844,20 @@
       "assets/candles/candles-032.webp"
     ],
     "assignedScent": "sea-salt-driftwood"
+  },
+  {
+    "id": "style-curated-candle-78bf9e664b0a30de840c",
+    "name": "Seafoam Woven Glass",
+    "series": "Sea Glass",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+    "packagingImage": "assets/candles/style-curated/666d31b6ef832d9edbcc.webp",
+    "images": [
+      "assets/candles/style-curated/78bf9e664b0a30de840c.webp",
+      "assets/candles/style-curated/666d31b6ef832d9edbcc.webp"
+    ],
+    "assignedScent": "sea-salt-driftwood",
+    "designDescription": "Fine seafoam, aqua and lilac threads wrap the glass in a woven textile effect that catches clear morning light. Sea Salt & Driftwood complements its airy coastal palette. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "name": "Jellyfish Egg Candle",
@@ -1353,6 +1395,20 @@
       "assets/candles/candles-071.webp"
     ],
     "assignedScent": "peony-lychee"
+  },
+  {
+    "id": "style-curated-candle-e0ac0e73c6bb1ce37bd1",
+    "name": "Blush Tulip Bloom",
+    "series": "Chromatic Bloom",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+    "packagingImage": "assets/candles/style-curated/4104d20492142a657c5c.webp",
+    "images": [
+      "assets/candles/style-curated/e0ac0e73c6bb1ce37bd1.webp",
+      "assets/candles/style-curated/4104d20492142a657c5c.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Overlapping tulip petals rise in a blush-to-ivory gradient, turning the candle into a soft sculptural flower for thoughtful gifting. Peony & Lychee gives it a bright floral-fruit lift. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "name": "Golden Bamboo Ripple",
@@ -3342,5 +3398,19 @@
     ],
     "assignedScent": "white-tea-rosemary",
     "designDescription": "A repeating lace-like rosette pattern wraps a softly coloured sage vessel, combining delicate detail with a restful palette. White Tea & Rosemary keeps the mood airy, herbal and composed. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "style-curated-candle-fd31b3a56bc2339cd8eb",
+    "name": "Celadon Crane Flight",
+    "series": "Celadon Flight",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+    "packagingImage": "assets/candles/style-curated/f8b25147300160b6b905.webp",
+    "images": [
+      "assets/candles/style-curated/fd31b3a56bc2339cd8eb.webp",
+      "assets/candles/style-curated/f8b25147300160b6b905.webp"
+    ],
+    "assignedScent": "osmanthus-green-tea",
+    "designDescription": "White cranes cross a softly speckled celadon vessel in a quiet composition inspired by traditional Chinese decorative arts. Osmanthus & Green Tea adds a refined floral-tea freshness. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

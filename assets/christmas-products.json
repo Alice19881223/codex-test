@@ -2291,5 +2291,19 @@
     ],
     "assignedScent": "gingerbread-vanilla",
     "designDescription": "A cheerful gingerbread baker in a tall chef’s hat brings a warm festive-kitchen character. Suggested festive fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "style-curated-christmas-b07aa24aa16e12916ee2",
+    "name": "Snowman Friends Candle",
+    "series": "Winter Blue Christmas",
+    "productType": "Scented candle",
+    "image": "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+    "packagingImage": "assets/candles/style-curated/752d6e2471b686f13cd6.webp",
+    "images": [
+      "assets/candles/style-curated/b07aa24aa16e12916ee2.webp",
+      "assets/candles/style-curated/752d6e2471b686f13cd6.webp"
+    ],
+    "assignedScent": "fir-cedarwood",
+    "designDescription": "Two smiling snowmen and a softly painted fir tree bring a gentle winter-blue character to this hand-finished ceramic candle. Fir & Cedarwood extends the snowy woodland mood with evergreen freshness and warm woods. Suggested fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

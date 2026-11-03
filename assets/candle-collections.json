@@ -22,6 +22,7 @@
       "Botanical Script | Orange Blossom Script",
       "Botanical Script | Jasmine Script",
       "Sea Glass | Sea Glass Glow",
+      "Sea Glass | Seafoam Woven Glass",
       "Botanical Sketches | Sea Salt Sketch",
       "Botanical Sketches | White Tea Sketch",
       "Sunflower | Ivory Sunflower",
@@ -68,14 +69,15 @@
         "Botanical Script | Orange Blossom Script",
         "Botanical Script | Jasmine Script",
         "Sea Glass | Sea Glass Glow",
+        "Sea Glass | Seafoam Woven Glass",
         "Botanical Sketches | Sea Salt Sketch",
         "Botanical Sketches | White Tea Sketch",
         "Sunflower | Ivory Sunflower",
         "Sunflower | Golden Sunflower",
-        "Everyday Botanicals | Green Tea Poetry",
-        "Everyday Botanicals | Ocean Poetry"
+        "Everyday Botanicals | Green Tea Poetry"
       ],
       [
+        "Everyday Botanicals | Ocean Poetry",
         "Garden Jars | Morning Garden",
         "Garden Jars | Gardenia Tea Garden",
         "Vintage Florals | Gardenia Botanica",
@@ -86,10 +88,10 @@
         "Stone & Stillness | Sage Stillness",
         "Woven Hearth | Woven Hearth",
         "Woodland Stories | Woodland Tale",
-        "Woodland Stories | Sunlit Grove",
-        "Painted Gardens | Morning Citrus Garden"
+        "Woodland Stories | Sunlit Grove"
       ],
       [
+        "Painted Gardens | Morning Citrus Garden",
         "Painted Gardens | Verdant Garden",
         "Botanical Cylinder | Olive Botanical Keepsake",
         "Spring Garden | Blue Linen Botanicals",
@@ -125,6 +127,7 @@
       "Deer Collection | Smoky Deer",
       "Organic Glass | Iced Patchouli",
       "Stone & Stillness | Ivory Stillness",
+      "Stone & Stillness | Black Silver Stillness",
       "Quiet Domes | Cashmere Mist",
       "Quiet Domes | Ivory Rice Blossom",
       "Quiet Domes | Mocha Serenity",
@@ -187,14 +190,15 @@
         "Deer Collection | Smoky Deer",
         "Organic Glass | Iced Patchouli",
         "Stone & Stillness | Ivory Stillness",
+        "Stone & Stillness | Black Silver Stillness",
         "Quiet Domes | Cashmere Mist",
         "Quiet Domes | Ivory Rice Blossom",
         "Quiet Domes | Mocha Serenity",
         "Quiet Domes | Sage Oolong",
-        "Lace Glass | Dark Woods",
-        "Lace Glass | Baltic Amber"
+        "Lace Glass | Dark Woods"
       ],
       [
+        "Lace Glass | Baltic Amber",
         "Lace Glass | Provence Lavender",
         "Lustre | Champagne Lustre",
         "Lustre | Graphite Lustre",
@@ -205,10 +209,10 @@
         "Essential Glass | Amber & Glass",
         "Speckled Forms | Slate Speckle",
         "Speckled Forms | Ivory Speckle",
-        "Classical Relief | Ivory Muse",
-        "Classical Relief | Snow Muse"
+        "Classical Relief | Ivory Muse"
       ],
       [
+        "Classical Relief | Snow Muse",
         "Ribbon & Glow | Lavender Ribbon",
         "Ribbon & Glow | Amber Ribbon",
         "Ribbon & Glow | Sky Ribbon",
@@ -219,10 +223,10 @@
         "Earth Tones | Cocoa Wild",
         "Earth Tones | Mauve Wild",
         "Amber Heirloom | Amber Lavender Heirloom",
-        "Gilded Skies | Gilded Azure",
-        "Garden Jars | Lavender Garden"
+        "Gilded Skies | Gilded Azure"
       ],
       [
+        "Garden Jars | Lavender Garden",
         "Gradient Glass | Lavender Ombre",
         "Gradient Glass | Vanilla",
         "Postbox | Lavender Postbox",
@@ -264,6 +268,7 @@
       "Quiet Domes | Blush Daydream",
       "Garden Jars | Peony Garden",
       "Chromatic Bloom | Blush Blossom",
+      "Chromatic Bloom | Blush Tulip Bloom",
       "Organic Glass | Desert Rose",
       "Passing Hours | Blush Hour",
       "Passing Hours | Sky Hour",
@@ -308,12 +313,13 @@
         "Quiet Domes | Blush Daydream",
         "Garden Jars | Peony Garden",
         "Chromatic Bloom | Blush Blossom",
+        "Chromatic Bloom | Blush Tulip Bloom",
         "Organic Glass | Desert Rose",
         "Passing Hours | Blush Hour",
-        "Passing Hours | Sky Hour",
-        "For Mum, With Love | Oakheart for Mum"
+        "Passing Hours | Sky Hour"
       ],
       [
+        "For Mum, With Love | Oakheart for Mum",
         "For Mum, With Love | Love Note for Mum",
         "For Mum, With Love | Blue Garden for Mum",
         "For Mum, With Love | Blush Heart Confetti",
@@ -324,10 +330,10 @@
         "Words in Bloom | Ribbon of Joy",
         "Quiet Botanicals | Midnight Poppy",
         "Poetic Botanicals | Golden Midnight Bloom",
-        "Together Pieces | Pieces Together",
-        "Celebration Gardens | Happy New Home"
+        "Together Pieces | Pieces Together"
       ],
       [
+        "Celebration Gardens | Happy New Home",
         "Garden Joys | Ivory Daisy",
         "Garden Joys | Emerald Bubbles"
       ]
@@ -387,6 +393,7 @@
       "Little Companions | Ginger Kitten",
       "Little Companions | Golden Companion",
       "Little Companions | Corgi Cuddles",
+      "Little Companions | Striped Black Cat",
       "Birthday Wishes | Birthday Surprise Egg",
       "Jellyfish | Jellyfish Egg Candle",
       "Jellyfish | Jellyfish Glass Candle",
@@ -445,9 +452,12 @@
         "Little Companions | Ginger Kitten",
         "Little Companions | Golden Companion",
         "Little Companions | Corgi Cuddles",
+        "Little Companions | Striped Black Cat",
         "Birthday Wishes | Birthday Surprise Egg",
         "Jellyfish | Jellyfish Egg Candle",
-        "Jellyfish | Jellyfish Glass Candle",
+        "Jellyfish | Jellyfish Glass Candle"
+      ],
+      [
         "Celebration Gardens | Birthday Flower Garden"
       ]
     ],
@@ -564,6 +574,7 @@
       "Blue & White Botanicals | Jade Leaf Rhythm",
       "Blue & White Botanicals | Ink Lotus",
       "Blue & White Botanicals | Cobalt Blossom",
+      "Celadon Flight | Celadon Crane Flight",
       "Little Dreamers | Panda Slumber",
       "Bamboo Grove | Golden Bamboo Ripple",
       "Bamboo Grove | Sage Bamboo Ripple",
@@ -591,6 +602,7 @@
         "Blue & White Botanicals | Jade Leaf Rhythm",
         "Blue & White Botanicals | Ink Lotus",
         "Blue & White Botanicals | Cobalt Blossom",
+        "Celadon Flight | Celadon Crane Flight",
         "Little Dreamers | Panda Slumber",
         "Bamboo Grove | Golden Bamboo Ripple",
         "Bamboo Grove | Sage Bamboo Ripple",
