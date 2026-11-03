@@ -412,7 +412,7 @@ const scents = [
         "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
         "name": "Blush Haunted House",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-5.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-ffa5cfdd.html?scent=rose-green-leaves"
       },
       {
@@ -775,7 +775,7 @@ const scents = [
         "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
         "name": "Pastel Spooky",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-5.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-6e407194.html?scent=peony-lychee"
       },
       {
@@ -2108,7 +2108,7 @@ const scents = [
         "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
         "name": "Berry Bat Diffuser",
         "series": "Purple Moonlight",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-c8e35bb0.html?scent=pomegranate-amber"
       },
       {
@@ -2314,7 +2314,7 @@ const scents = [
         "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
         "name": "Purple Witch Ghost",
         "series": "Purple Moonlight",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-2.html",
         "href": "product-lnv-hlw-6d14575d.html?scent=lavender-cedarwood"
       },
       {
@@ -2330,7 +2330,7 @@ const scents = [
         "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
         "name": "Lavender Castle Diffuser",
         "series": "Purple Moonlight",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-146b0e61.html?scent=lavender-cedarwood"
       },
       {
@@ -3961,7 +3961,7 @@ const scents = [
         "image": "assets/halloween/paired/499d7733d304051d864d.webp",
         "name": "Starry Witch Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-b266970f.html?scent=sandalwood-cashmere"
       },
       {
@@ -4651,7 +4651,7 @@ const scents = [
         "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
         "name": "Golden Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-52751d33.html?scent=amber-vanilla"
       },
       {
@@ -5290,7 +5290,7 @@ const scents = [
         "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
         "name": "Pumpkin Bat Diffuser",
         "series": "Pumpkin & Amber",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-79280ca1.html?scent=pumpkin-spice"
       },
       {
@@ -6038,7 +6038,7 @@ const scents = [
         "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
         "name": "Pumpkin Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-72b814d6.html?scent=orange-clove"
       },
       {
@@ -6540,7 +6540,7 @@ const scents = [
         "image": "assets/halloween/paired/24810435e341aec553f5.webp",
         "name": "Midnight Witch Hat",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-0085bd09.html?scent=mugwort-incense"
       },
       {
@@ -6556,7 +6556,7 @@ const scents = [
         "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
         "name": "Pumpkin & Black Cat",
         "series": "Ivory Ghost Stories",
-        "catalogueHref": "halloween-collection-5.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-3050b75c.html?scent=mugwort-incense"
       },
       {
@@ -6762,7 +6762,7 @@ const scents = [
         "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
         "name": "Sage Witch Diffuser",
         "series": "Midnight Navy & Charcoal",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-71fd09e7.html?scent=green-tea-cedarwood"
       }
     ],
@@ -14710,20 +14710,6 @@ const halloweenProducts = [
     "designDescription": "A cheerful ghost glows among pumpkins in a dark teal enchanted forest. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
-    "name": "Sage Witch Diffuser",
-    "series": "Midnight Navy & Charcoal",
-    "productType": "Reed diffuser",
-    "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
-    "packagingImage": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
-    "images": [
-      "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
-      "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp"
-    ],
-    "assignedScent": "green-tea-cedarwood",
-    "designDescription": "A faceted sage vessel and tiny witch motif give Halloween a calm botanical mood. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "halloween-2026-91b6a130b289d9dc7858",
     "name": "Boo After Dark",
     "series": "Ghost Parade",
@@ -14864,34 +14850,6 @@ const halloweenProducts = [
     "designDescription": "White ghosts drift through a violet woodland filled with pumpkins and moonlight. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-reed-2026-a3ad69bca366b38626bd",
-    "name": "Berry Bat Diffuser",
-    "series": "Purple Moonlight",
-    "productType": "Reed diffuser",
-    "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
-    "packagingImage": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
-    "images": [
-      "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
-      "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp"
-    ],
-    "assignedScent": "pomegranate-amber",
-    "designDescription": "A jewel-toned berry diffuser with black bats and tiny gold stars. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-reed-2026-9108f12b57071771c62c",
-    "name": "Lavender Castle Diffuser",
-    "series": "Purple Moonlight",
-    "productType": "Reed diffuser",
-    "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
-    "packagingImage": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
-    "images": [
-      "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
-      "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp"
-    ],
-    "assignedScent": "lavender-cedarwood",
-    "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "halloween-2026-0cfecc0d4f3c7f864059",
     "name": "Batwing Pumpkin",
     "series": "Midnight Mischief",
@@ -14988,20 +14946,6 @@ const halloweenProducts = [
     ],
     "assignedScent": "fig-green-leaves",
     "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-reed-2026-c58562216fb0915f7085",
-    "name": "Pumpkin Bat Diffuser",
-    "series": "Pumpkin & Amber",
-    "productType": "Reed diffuser",
-    "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
-    "packagingImage": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
-    "images": [
-      "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
-      "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp"
-    ],
-    "assignedScent": "pumpkin-spice",
-    "designDescription": "A jack-o’-lantern in a witch hat spreads black bat wings across vivid pumpkin orange. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-24810435e341aec553f5",
@@ -15189,20 +15133,6 @@ const halloweenProducts = [
     "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-reed-2026-588c155aa46ea418d73e",
-    "name": "Reading Ghost Diffuser",
-    "series": "Ivory Ghost Stories",
-    "productType": "Reed diffuser",
-    "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
-    "packagingImage": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
-    "images": [
-      "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
-      "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp"
-    ],
-    "assignedScent": "black-tea-cedarwood",
-    "designDescription": "A bespectacled reading ghost brings a quiet storybook note to warm ivory glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
     "name": "Pastel Spooky",
     "series": "Pastel Spells",
@@ -15229,6 +15159,76 @@ const halloweenProducts = [
     ],
     "assignedScent": "rose-green-leaves",
     "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-a3ad69bca366b38626bd",
+    "name": "Berry Bat Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+      "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "A jewel-toned berry diffuser with black bats and tiny gold stars. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-9108f12b57071771c62c",
+    "name": "Lavender Castle Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+      "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
+    "name": "Sage Witch Diffuser",
+    "series": "Midnight Navy & Charcoal",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+      "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A faceted sage vessel and tiny witch motif give Halloween a calm botanical mood. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-c58562216fb0915f7085",
+    "name": "Pumpkin Bat Diffuser",
+    "series": "Pumpkin & Amber",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+      "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp"
+    ],
+    "assignedScent": "pumpkin-spice",
+    "designDescription": "A jack-o’-lantern in a witch hat spreads black bat wings across vivid pumpkin orange. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-588c155aa46ea418d73e",
+    "name": "Reading Ghost Diffuser",
+    "series": "Ivory Ghost Stories",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+      "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "A bespectacled reading ghost brings a quiet storybook note to warm ivory glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-reed-2026-4a142233f840d8321eb7",
@@ -15951,7 +15951,6 @@ const productPages = {
     "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp": "product-lnv-hlw-d4f2e3d3.html",
     "assets/halloween/elegant-night/ca0e3054758670c316af.webp": "product-lnv-hlw-596ecc93.html",
     "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp": "product-lnv-hlw-9c46a76c.html",
-    "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp": "product-lnv-hlw-71fd09e7.html",
     "assets/halloween/paired/91b6a130b289d9dc7858.webp": "product-lnv-hlw-3a1f4410.html",
     "assets/halloween/paired/ade34691bae75dc195d0.webp": "product-lnv-hlw-5f322144.html",
     "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp": "product-lnv-hlw-a732751d.html",
@@ -15962,8 +15961,6 @@ const productPages = {
     "assets/halloween/paired/17a4739e39ff0385df5e.webp": "product-lnv-hlw-d24784a6.html",
     "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp": "product-lnv-hlw-6d14575d.html",
     "assets/halloween/elegant-night/0a3ef545312af32dd346.webp": "product-lnv-hlw-f2946f06.html",
-    "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp": "product-lnv-hlw-c8e35bb0.html",
-    "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp": "product-lnv-hlw-146b0e61.html",
     "assets/halloween/paired/0cfecc0d4f3c7f864059.webp": "product-lnv-hlw-08fbfc3d.html",
     "assets/halloween/paired/9afb0d80ab8fe483e142.webp": "product-lnv-hlw-466ad4bc.html",
     "assets/halloween/paired/594d56ad03d401ab0f76.webp": "product-lnv-hlw-345e76f1.html",
@@ -15971,7 +15968,6 @@ const productPages = {
     "assets/halloween/paired/476a41a394810eb5a0be.webp": "product-lnv-hlw-5a80e367.html",
     "assets/candles/standalone/dde508f3788aea3c327f.png": "product-lnv-hlw-27cedd24.html",
     "assets/halloween/paired/10f4fa3279b8daf09b37.webp": "product-lnv-hlw-55bed201.html",
-    "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp": "product-lnv-hlw-79280ca1.html",
     "assets/halloween/paired/24810435e341aec553f5.webp": "product-lnv-hlw-0085bd09.html",
     "assets/halloween/paired/499d7733d304051d864d.webp": "product-lnv-hlw-b266970f.html",
     "assets/halloween/paired/687694e6aa7fd69f1f33.webp": "product-lnv-hlw-72b814d6.html",
@@ -15985,9 +15981,13 @@ const productPages = {
     "assets/halloween/elegant-night/b0aae3da62b44541c551.webp": "product-lnv-hlw-5a9c7404.html",
     "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp": "product-lnv-hlw-0564d16b.html",
     "assets/halloween/elegant-night/afea8bea99107dac9065.webp": "product-lnv-hlw-3050b75c.html",
-    "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp": "product-lnv-hlw-9dfb1a8a.html",
     "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp": "product-lnv-hlw-6e407194.html",
     "assets/halloween/paired/df1d10703fd51b47cdda.webp": "product-lnv-hlw-ffa5cfdd.html",
+    "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp": "product-lnv-hlw-c8e35bb0.html",
+    "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp": "product-lnv-hlw-146b0e61.html",
+    "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp": "product-lnv-hlw-71fd09e7.html",
+    "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp": "product-lnv-hlw-79280ca1.html",
+    "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp": "product-lnv-hlw-9dfb1a8a.html",
     "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp": "product-lnv-hlw-b10ba206.html",
     "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp": "product-lnv-hlw-090395d1.html"
   },

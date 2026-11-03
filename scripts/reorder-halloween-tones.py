@@ -18,8 +18,7 @@ The Witch Is In
 Midnight Ballet Candle
 Pumpkin Cottage Night
 Moonlit Witch Ghost
-Deep Teal Ghost Night
-Sage Witch Diffuser'''),
+Deep Teal Ghost Night'''),
  ('Purple Moonlight','''Boo After Dark
 Trick or Treat Spirits
 Moonlit Magic Pumpkin
@@ -29,17 +28,14 @@ Lavender Haunted Manor
 Magenta Bat
 Purple Bat Mischief
 Purple Witch Ghost
-Purple Ghost Forest
-Berry Bat Diffuser
-Lavender Castle Diffuser'''),
+Purple Ghost Forest'''),
  ('Pumpkin & Amber','''Batwing Pumpkin
 Haunted Pumpkin Night
 Jack-O’-Lantern Carnival
 Pumpkin Party Glow
 Candy Stripe Boo
 Little Pumpkin Ghost
-Woodland Toadstool
-Pumpkin Bat Diffuser'''),
+Woodland Toadstool'''),
  ('Ivory Ghost Stories','''Midnight Witch Hat
 Starry Witch Ghost
 Pumpkin Stripe Ghost
@@ -52,10 +48,14 @@ Mummy Goose
 Book of Spells Ghost
 Ghost Reading Club
 Wise Little Ghost
-Pumpkin & Black Cat
-Reading Ghost Diffuser'''),
+Pumpkin & Black Cat'''),
  ('Pastel Magic','''Pastel Spooky
-Blush Haunted House
+Blush Haunted House'''),
+ ('Halloween Reed Diffusers','''Berry Bat Diffuser
+Lavender Castle Diffuser
+Sage Witch Diffuser
+Pumpkin Bat Diffuser
+Reading Ghost Diffuser
 Pink Haunted House Diffuser
 Pastel Spooky Bat Diffuser'''),
 ]

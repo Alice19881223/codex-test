@@ -241,7 +241,6 @@
       "Pumpkin Cottage Night",
       "Moonlit Witch Ghost",
       "Deep Teal Ghost Night",
-      "Sage Witch Diffuser",
       "Boo After Dark",
       "Trick or Treat Spirits",
       "Moonlit Magic Pumpkin",
@@ -249,13 +248,11 @@
       "Lavender Haunted House",
       "Lavender Haunted Manor",
       "Magenta Bat",
-      "Purple Bat Mischief"
+      "Purple Bat Mischief",
+      "Purple Witch Ghost"
     ],
     [
-      "Purple Witch Ghost",
       "Purple Ghost Forest",
-      "Berry Bat Diffuser",
-      "Lavender Castle Diffuser",
       "Batwing Pumpkin",
       "Haunted Pumpkin Night",
       "Jack-O’-Lantern Carnival",
@@ -263,13 +260,12 @@
       "Candy Stripe Boo",
       "Little Pumpkin Ghost",
       "Woodland Toadstool",
-      "Pumpkin Bat Diffuser"
-    ],
-    [
       "Midnight Witch Hat",
       "Starry Witch Ghost",
       "Pumpkin Stripe Ghost",
-      "Golden Stripe Ghost",
+      "Golden Stripe Ghost"
+    ],
+    [
       "Boo & Cream Pumpkin",
       "Pumpkin & Little Ghost",
       "Ghost & Black Cat",
@@ -277,13 +273,17 @@
       "Mummy Goose",
       "Book of Spells Ghost",
       "Ghost Reading Club",
-      "Wise Little Ghost"
-    ],
-    [
+      "Wise Little Ghost",
       "Pumpkin & Black Cat",
-      "Reading Ghost Diffuser",
       "Pastel Spooky",
       "Blush Haunted House",
+      "Berry Bat Diffuser"
+    ],
+    [
+      "Lavender Castle Diffuser",
+      "Sage Witch Diffuser",
+      "Pumpkin Bat Diffuser",
+      "Reading Ghost Diffuser",
       "Pink Haunted House Diffuser",
       "Pastel Spooky Bat Diffuser"
     ]

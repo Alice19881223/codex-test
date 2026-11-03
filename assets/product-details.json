@@ -9452,23 +9452,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-71FD09E7",
-    "category": "halloween",
-    "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
-    "name": "Sage Witch Diffuser",
-    "title": "Sage Witch Diffuser Reed diffuser",
-    "url": "product-lnv-hlw-71fd09e7.html",
-    "series": "Midnight Navy & Charcoal",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "green-tea-cedarwood"
-    ],
-    "primaryScent": "green-tea-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-HLW-3A1F4410",
     "category": "halloween",
     "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
@@ -9639,40 +9622,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-C8E35BB0",
-    "category": "halloween",
-    "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
-    "name": "Berry Bat Diffuser",
-    "title": "Berry Bat Diffuser Reed diffuser",
-    "url": "product-lnv-hlw-c8e35bb0.html",
-    "series": "Purple Moonlight",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pomegranate-amber"
-    ],
-    "primaryScent": "pomegranate-amber",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-146B0E61",
-    "category": "halloween",
-    "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
-    "name": "Lavender Castle Diffuser",
-    "title": "Lavender Castle Diffuser Reed diffuser",
-    "url": "product-lnv-hlw-146b0e61.html",
-    "series": "Purple Moonlight",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "lavender-cedarwood"
-    ],
-    "primaryScent": "lavender-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-HLW-08FBFC3D",
     "category": "halloween",
     "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
@@ -9788,23 +9737,6 @@
       "fig-green-leaves"
     ],
     "primaryScent": "fig-green-leaves",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-79280CA1",
-    "category": "halloween",
-    "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
-    "name": "Pumpkin Bat Diffuser",
-    "title": "Pumpkin Bat Diffuser Reed diffuser",
-    "url": "product-lnv-hlw-79280ca1.html",
-    "series": "Pumpkin & Amber",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
@@ -10030,23 +9962,6 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-9DFB1A8A",
-    "category": "halloween",
-    "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
-    "name": "Reading Ghost Diffuser",
-    "title": "Reading Ghost Diffuser Reed diffuser",
-    "url": "product-lnv-hlw-9dfb1a8a.html",
-    "series": "Ivory Ghost Stories",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "black-tea-cedarwood"
-    ],
-    "primaryScent": "black-tea-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
     "itemNo": "LNV-HLW-6E407194",
     "category": "halloween",
     "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
@@ -10077,6 +9992,91 @@
       "rose-green-leaves"
     ],
     "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-C8E35BB0",
+    "category": "halloween",
+    "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+    "name": "Berry Bat Diffuser",
+    "title": "Berry Bat Diffuser Reed diffuser",
+    "url": "product-lnv-hlw-c8e35bb0.html",
+    "series": "Purple Moonlight",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-146B0E61",
+    "category": "halloween",
+    "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+    "name": "Lavender Castle Diffuser",
+    "title": "Lavender Castle Diffuser Reed diffuser",
+    "url": "product-lnv-hlw-146b0e61.html",
+    "series": "Purple Moonlight",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "lavender-cedarwood"
+    ],
+    "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-71FD09E7",
+    "category": "halloween",
+    "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+    "name": "Sage Witch Diffuser",
+    "title": "Sage Witch Diffuser Reed diffuser",
+    "url": "product-lnv-hlw-71fd09e7.html",
+    "series": "Midnight Navy & Charcoal",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "green-tea-cedarwood"
+    ],
+    "primaryScent": "green-tea-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-79280CA1",
+    "category": "halloween",
+    "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+    "name": "Pumpkin Bat Diffuser",
+    "title": "Pumpkin Bat Diffuser Reed diffuser",
+    "url": "product-lnv-hlw-79280ca1.html",
+    "series": "Pumpkin & Amber",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-9DFB1A8A",
+    "category": "halloween",
+    "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+    "name": "Reading Ghost Diffuser",
+    "title": "Reading Ghost Diffuser Reed diffuser",
+    "url": "product-lnv-hlw-9dfb1a8a.html",
+    "series": "Ivory Ghost Stories",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "black-tea-cedarwood"
+    ],
+    "primaryScent": "black-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
