@@ -28,6 +28,104 @@
     "designDescription": "A sculpted haunted-house lid crowns a detailed lavender vessel. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
+    "name": "Pastel Spooky",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+    "packagingImage": "assets/halloween/paired/7f4188abb3ba1be59d04.webp",
+    "images": [
+      "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
+      "assets/halloween/paired/7f4188abb3ba1be59d04.webp"
+    ],
+    "assignedScent": "peony-lychee",
+    "designDescription": "Raised pastel lettering and a small bat turn Halloween bright and playful. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-df1d10703fd51b47cdda",
+    "name": "Blush Haunted House",
+    "series": "Pastel Spells",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+    "packagingImage": "assets/halloween/paired/6ad58c4d54dd0834b6db.webp",
+    "images": [
+      "assets/halloween/paired/df1d10703fd51b47cdda.webp",
+      "assets/halloween/paired/6ad58c4d54dd0834b6db.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-499d7733d304051d864d",
+    "name": "Starry Witch Ghost",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/499d7733d304051d864d.webp",
+    "packagingImage": "assets/halloween/paired/da78cc7bccb4b89b10e5.webp",
+    "images": [
+      "assets/halloween/paired/499d7733d304051d864d.webp",
+      "assets/halloween/paired/da78cc7bccb4b89b10e5.webp"
+    ],
+    "assignedScent": "sandalwood-cashmere",
+    "designDescription": "A sculptural ghost in a starry black hat feels whimsical and collectable. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-687694e6aa7fd69f1f33",
+    "name": "Pumpkin Stripe Ghost",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+    "packagingImage": "assets/halloween/paired/8b514a75296a2996d713.webp",
+    "images": [
+      "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+      "assets/halloween/paired/8b514a75296a2996d713.webp"
+    ],
+    "assignedScent": "orange-clove",
+    "designDescription": "Orange stripes brighten a seated ghost in a jaunty witch hat. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-e1b8ab23fd58f8dff942",
+    "name": "Boo & Cream Pumpkin",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+    "packagingImage": "assets/halloween/paired/16252598e3983753ef5a.webp",
+    "images": [
+      "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+      "assets/halloween/paired/16252598e3983753ef5a.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "An ivory pumpkin-shaped candle carries a smiling face, ghost and crescent moon. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-2026-7b2df3b52827ebdca98e",
+    "name": "Pumpkin Party Glow",
+    "series": "Ghost Parade",
+    "productType": "Scented candle",
+    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+    "packagingImage": "assets/halloween/paired/426a1396b071ee25ae82.webp",
+    "images": [
+      "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+      "assets/halloween/paired/426a1396b071ee25ae82.webp"
+    ],
+    "assignedScent": "pumpkin-spice",
+    "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "name": "Little Pumpkin Ghost",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "series": "Little Dreamers",
+    "legacyImages": [
+      "assets/candles/candles-086.webp"
+    ],
+    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
+    "images": [
+      "assets/candles/standalone/dde508f3788aea3c327f.png",
+      "assets/candles/paired/1fef6394f15230e857c4.png"
+    ],
+    "assignedScent": "pumpkin-spice"
+  },
+  {
     "id": "halloween-2026-4ea289f1eb5bb81bf1a4",
     "name": "Moonlit Magic Pumpkin",
     "series": "Enchanted Halloween",
@@ -68,107 +166,6 @@
     ],
     "assignedScent": "green-tea-cedarwood",
     "designDescription": "A faceted sage vessel and tiny witch-hat handle offer a refined magical motif. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-bc558e4aac5a5327bd0a",
-    "name": "Ivory Ghost Garden",
-    "series": "Enchanted Halloween",
-    "productType": "Scented candle",
-    "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
-    "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
-    "images": [
-      "assets/halloween/replacements/c312483816241eb90c2d.webp",
-      "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
-    ],
-    "assignedScent": "white-tea-rosemary",
-    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
-    "legacyImages": [
-      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
-    ]
-  },
-  {
-    "id": "halloween-2026-a0f8303846379cf4d8f5",
-    "name": "Ghost & Black Cat",
-    "series": "Enchanted Halloween",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
-    "packagingImage": "assets/halloween/paired/5800cff1cb131b6ba39c.webp",
-    "images": [
-      "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
-      "assets/halloween/paired/5800cff1cb131b6ba39c.webp"
-    ],
-    "assignedScent": "mugwort-incense",
-    "designDescription": "A witch-hatted ghost cuddles a black cat in a softly sculpted scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
-    "name": "Book of Spells Ghost",
-    "series": "Ivory Ghost Stories",
-    "productType": "Scented candle",
-    "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
-    "packagingImage": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
-    "images": [
-      "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
-      "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp"
-    ],
-    "assignedScent": "vanilla-tonka",
-    "designDescription": "A friendly dimensional ghost reads from a little book of spells. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-elegant-night-b0aae3da62b44541c551",
-    "name": "Ghost Reading Club",
-    "series": "Ivory Ghost Stories",
-    "productType": "Scented candle",
-    "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
-    "packagingImage": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
-    "images": [
-      "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
-      "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp"
-    ],
-    "assignedScent": "black-tea-cedarwood",
-    "designDescription": "Three book-loving ghosts form a quiet, illustrated Halloween reading club. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-elegant-night-433919fdfc5e8dba6262",
-    "name": "Wise Little Ghost",
-    "series": "Ivory Ghost Stories",
-    "productType": "Scented candle",
-    "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
-    "packagingImage": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
-    "images": [
-      "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
-      "assets/halloween/elegant-night/02fef46be42f9712a4da.webp"
-    ],
-    "assignedScent": "amber-vanilla",
-    "designDescription": "A bespectacled ghost in a warm knit hat reads by autumn light. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-elegant-night-afea8bea99107dac9065",
-    "name": "Pumpkin & Black Cat",
-    "series": "Ivory Ghost Stories",
-    "productType": "Scented candle",
-    "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
-    "packagingImage": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
-    "images": [
-      "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
-      "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp"
-    ],
-    "assignedScent": "mugwort-incense",
-    "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-elegant-night-4de9379f8188ba32ccc2",
-    "name": "Mummy Goose",
-    "series": "Ivory Ghost Stories",
-    "productType": "Scented candle",
-    "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
-    "packagingImage": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
-    "images": [
-      "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
-      "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp"
-    ],
-    "assignedScent": "orange-clove",
-    "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-elegant-night-2f4b76d86312dfd573c2",
@@ -373,32 +370,105 @@
     "designDescription": "A graphic black witch hat creates a clean, modern seasonal design. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-499d7733d304051d864d",
-    "name": "Starry Witch Ghost",
-    "series": "Ghost Parade",
+    "id": "halloween-2026-bc558e4aac5a5327bd0a",
+    "name": "Ivory Ghost Garden",
+    "series": "Enchanted Halloween",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/499d7733d304051d864d.webp",
-    "packagingImage": "assets/halloween/paired/da78cc7bccb4b89b10e5.webp",
+    "image": "assets/halloween/replacements/c312483816241eb90c2d.webp",
+    "packagingImage": "assets/halloween/paired/695c5995a03a6b4ff5ba.webp",
     "images": [
-      "assets/halloween/paired/499d7733d304051d864d.webp",
-      "assets/halloween/paired/da78cc7bccb4b89b10e5.webp"
+      "assets/halloween/replacements/c312483816241eb90c2d.webp",
+      "assets/halloween/paired/695c5995a03a6b4ff5ba.webp"
     ],
-    "assignedScent": "sandalwood-cashmere",
-    "designDescription": "A sculptural ghost in a starry black hat feels whimsical and collectable. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "assignedScent": "white-tea-rosemary",
+    "designDescription": "Tiny ghosts, bats and pumpkins form a light botanical Halloween pattern. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample.",
+    "legacyImages": [
+      "assets/halloween/paired/bc558e4aac5a5327bd0a.webp"
+    ]
   },
   {
-    "id": "halloween-2026-687694e6aa7fd69f1f33",
-    "name": "Pumpkin Stripe Ghost",
-    "series": "Ghost Parade",
+    "id": "halloween-2026-a0f8303846379cf4d8f5",
+    "name": "Ghost & Black Cat",
+    "series": "Enchanted Halloween",
     "productType": "Scented candle",
-    "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
-    "packagingImage": "assets/halloween/paired/8b514a75296a2996d713.webp",
+    "image": "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+    "packagingImage": "assets/halloween/paired/5800cff1cb131b6ba39c.webp",
     "images": [
-      "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
-      "assets/halloween/paired/8b514a75296a2996d713.webp"
+      "assets/halloween/paired/a0f8303846379cf4d8f5.webp",
+      "assets/halloween/paired/5800cff1cb131b6ba39c.webp"
+    ],
+    "assignedScent": "mugwort-incense",
+    "designDescription": "A witch-hatted ghost cuddles a black cat in a softly sculpted scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-b38af1ad5687e47e1c67",
+    "name": "Book of Spells Ghost",
+    "series": "Ivory Ghost Stories",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+    "packagingImage": "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp",
+    "images": [
+      "assets/halloween/elegant-night/b38af1ad5687e47e1c67.webp",
+      "assets/halloween/elegant-night/f5bd7365cea65ac86e41.webp"
+    ],
+    "assignedScent": "vanilla-tonka",
+    "designDescription": "A friendly dimensional ghost reads from a little book of spells. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-b0aae3da62b44541c551",
+    "name": "Ghost Reading Club",
+    "series": "Ivory Ghost Stories",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+    "packagingImage": "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp",
+    "images": [
+      "assets/halloween/elegant-night/b0aae3da62b44541c551.webp",
+      "assets/halloween/elegant-night/2c5d3e8d93248195fd9b.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "Three book-loving ghosts form a quiet, illustrated Halloween reading club. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-433919fdfc5e8dba6262",
+    "name": "Wise Little Ghost",
+    "series": "Ivory Ghost Stories",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+    "packagingImage": "assets/halloween/elegant-night/02fef46be42f9712a4da.webp",
+    "images": [
+      "assets/halloween/elegant-night/433919fdfc5e8dba6262.webp",
+      "assets/halloween/elegant-night/02fef46be42f9712a4da.webp"
+    ],
+    "assignedScent": "amber-vanilla",
+    "designDescription": "A bespectacled ghost in a warm knit hat reads by autumn light. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-afea8bea99107dac9065",
+    "name": "Pumpkin & Black Cat",
+    "series": "Ivory Ghost Stories",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+    "packagingImage": "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp",
+    "images": [
+      "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
+      "assets/halloween/elegant-night/0071b4dda7afde9f7d41.webp"
+    ],
+    "assignedScent": "mugwort-incense",
+    "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-elegant-night-4de9379f8188ba32ccc2",
+    "name": "Mummy Goose",
+    "series": "Ivory Ghost Stories",
+    "productType": "Scented candle",
+    "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+    "packagingImage": "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp",
+    "images": [
+      "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+      "assets/halloween/elegant-night/da76c6868beea4f70aa9.webp"
     ],
     "assignedScent": "orange-clove",
-    "designDescription": "Orange stripes brighten a seated ghost in a jaunty witch hat. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    "designDescription": "A mummy-costumed little goose stands in an orange gothic window with tiny bats. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-4dd5a01cd767291e09d0",
@@ -413,20 +483,6 @@
     ],
     "assignedScent": "amber-vanilla",
     "designDescription": "Golden stripes and shoes give the friendly ghost a warm celebratory finish. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-e1b8ab23fd58f8dff942",
-    "name": "Boo & Cream Pumpkin",
-    "series": "Ghost Parade",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
-    "packagingImage": "assets/halloween/paired/16252598e3983753ef5a.webp",
-    "images": [
-      "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
-      "assets/halloween/paired/16252598e3983753ef5a.webp"
-    ],
-    "assignedScent": "vanilla-tonka",
-    "designDescription": "An ivory pumpkin-shaped candle carries a smiling face, ghost and crescent moon. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-f71b9060a34f115a5abd",
@@ -499,20 +555,6 @@
     "designDescription": "A winged pumpkin in a witch hat brings theatrical Halloween colour. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
-    "id": "halloween-2026-7b2df3b52827ebdca98e",
-    "name": "Pumpkin Party Glow",
-    "series": "Ghost Parade",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
-    "packagingImage": "assets/halloween/paired/426a1396b071ee25ae82.webp",
-    "images": [
-      "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
-      "assets/halloween/paired/426a1396b071ee25ae82.webp"
-    ],
-    "assignedScent": "pumpkin-spice",
-    "designDescription": "A smiling pumpkin-shaped candle is topped with autumn leaves and a tiny pumpkin. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
     "id": "halloween-2026-476a41a394810eb5a0be",
     "name": "Candy Stripe Boo",
     "series": "Pastel Spells",
@@ -525,20 +567,6 @@
     ],
     "assignedScent": "caramel-cream",
     "designDescription": "A friendly ghost floats across cheerful orange-and-ivory stripes. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "name": "Little Pumpkin Ghost",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "series": "Little Dreamers",
-    "legacyImages": [
-      "assets/candles/candles-086.webp"
-    ],
-    "packagingImage": "assets/candles/paired/1fef6394f15230e857c4.png",
-    "images": [
-      "assets/candles/standalone/dde508f3788aea3c327f.png",
-      "assets/candles/paired/1fef6394f15230e857c4.png"
-    ],
-    "assignedScent": "pumpkin-spice"
   },
   {
     "id": "halloween-elegant-night-0a3ef545312af32dd346",
@@ -609,34 +637,6 @@
     ],
     "assignedScent": "pomegranate-amber",
     "designDescription": "A black bat and golden stars pop against vivid magenta glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
-    "name": "Pastel Spooky",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
-    "packagingImage": "assets/halloween/paired/7f4188abb3ba1be59d04.webp",
-    "images": [
-      "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
-      "assets/halloween/paired/7f4188abb3ba1be59d04.webp"
-    ],
-    "assignedScent": "peony-lychee",
-    "designDescription": "Raised pastel lettering and a small bat turn Halloween bright and playful. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
-  },
-  {
-    "id": "halloween-2026-df1d10703fd51b47cdda",
-    "name": "Blush Haunted House",
-    "series": "Pastel Spells",
-    "productType": "Scented candle",
-    "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
-    "packagingImage": "assets/halloween/paired/6ad58c4d54dd0834b6db.webp",
-    "images": [
-      "assets/halloween/paired/df1d10703fd51b47cdda.webp",
-      "assets/halloween/paired/6ad58c4d54dd0834b6db.webp"
-    ],
-    "assignedScent": "rose-green-leaves",
-    "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-91b6a130b289d9dc7858",

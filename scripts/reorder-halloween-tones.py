@@ -6,16 +6,16 @@ ROOT=Path(__file__).resolve().parents[1]
 GROUPS=[
  ('Light Designer Edit','''Lavender Haunted Manor
 Lavender Haunted House
+Pastel Spooky
+Blush Haunted House
+Starry Witch Ghost
+Pumpkin Stripe Ghost
+Boo & Cream Pumpkin
+Pumpkin Party Glow
+Little Pumpkin Ghost
 Moonlit Magic Pumpkin
 Woodland Toadstool
-The Witch Is In
-Ivory Ghost Garden
-Ghost & Black Cat
-Book of Spells Ghost
-Ghost Reading Club
-Wise Little Ghost
-Pumpkin & Black Cat
-Mummy Goose'''),
+The Witch Is In'''),
  ('Black & Midnight','''Pumpkin Cottage Night
 Moonlit Witch Ghost
 Deep Teal Ghost Night
@@ -30,25 +30,25 @@ Candy Corn Moon
 Floating Ghost
 Midnight Shy Ghost'''),
  ('Ivory & White','''Midnight Witch Hat
-Starry Witch Ghost
-Pumpkin Stripe Ghost
+Ivory Ghost Garden
+Ghost & Black Cat
+Book of Spells Ghost
+Ghost Reading Club
+Wise Little Ghost
+Pumpkin & Black Cat
+Mummy Goose
 Golden Stripe Ghost
-Boo & Cream Pumpkin
 Pumpkin & Little Ghost'''),
  ('Golden Pumpkin','''Golden Familiar
 Haunted Pumpkin Night
 Jack-O’-Lantern Carnival
 Batwing Pumpkin
-Pumpkin Party Glow
-Candy Stripe Boo
-Little Pumpkin Ghost'''),
+Candy Stripe Boo'''),
  ('Purple Magic','''Purple Ghost Forest
 Purple Witch Ghost
 Purple Bat Mischief
 Lilac Bat Spell
 Magenta Bat
-Pastel Spooky
-Blush Haunted House
 Boo After Dark
 Trick or Treat Spirits'''),
  ('Halloween Reed Diffusers','''Berry Bat Diffuser
