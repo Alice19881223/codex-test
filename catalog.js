@@ -2350,6 +2350,14 @@ const scents = [
         "href": "product-lnv-hlw-146b0e61.html?scent=lavender-cedarwood"
       },
       {
+        "category": "halloween",
+        "image": "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp",
+        "name": "Smoky Boo Bat Diffuser",
+        "series": "Purple Moonlight",
+        "catalogueHref": "halloween-collection-5.html",
+        "href": "product-lnv-hlw-40d0e273.html?scent=lavender-cedarwood"
+      },
+      {
         "category": "candle",
         "image": "assets/candles/paired/c1025ec341c6a7b60413.webp",
         "name": "Violet Eight",
@@ -15321,6 +15329,20 @@ const halloweenProducts = [
     "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-bat-diffuser-6f18e2ffba8875db1809",
+    "name": "Smoky Boo Bat Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp",
+    "packagingImage": "assets/halloween/boo-bat-diffuser/3c197e0f62b8e1cdcb1c.webp",
+    "images": [
+      "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp",
+      "assets/halloween/boo-bat-diffuser/3c197e0f62b8e1cdcb1c.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A smoky lavender glass diffuser pairs a hand-drawn black bat with a tiny pumpkin and warm brushed-gold collar. Lavender & Cedarwood complements its muted purple moonlight atmosphere. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
     "name": "Sage Witch Diffuser",
     "series": "Midnight Navy & Charcoal",
@@ -16123,6 +16145,7 @@ const productPages = {
     "assets/halloween/paired/ade34691bae75dc195d0.webp": "product-lnv-hlw-5f322144.html",
     "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp": "product-lnv-hlw-c8e35bb0.html",
     "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp": "product-lnv-hlw-146b0e61.html",
+    "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp": "product-lnv-hlw-40d0e273.html",
     "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp": "product-lnv-hlw-71fd09e7.html",
     "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp": "product-lnv-hlw-79280ca1.html",
     "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp": "product-lnv-hlw-9dfb1a8a.html",

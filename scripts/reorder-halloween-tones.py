@@ -53,6 +53,7 @@ Boo After Dark
 Trick or Treat Spirits'''),
  ('Halloween Reed Diffusers','''Berry Bat Diffuser
 Lavender Castle Diffuser
+Smoky Boo Bat Diffuser
 Sage Witch Diffuser
 Pumpkin Bat Diffuser
 Reading Ghost Diffuser

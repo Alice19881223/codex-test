@@ -695,6 +695,20 @@
     "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-bat-diffuser-6f18e2ffba8875db1809",
+    "name": "Smoky Boo Bat Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp",
+    "packagingImage": "assets/halloween/boo-bat-diffuser/3c197e0f62b8e1cdcb1c.webp",
+    "images": [
+      "assets/halloween/boo-bat-diffuser/6f18e2ffba8875db1809.webp",
+      "assets/halloween/boo-bat-diffuser/3c197e0f62b8e1cdcb1c.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A smoky lavender glass diffuser pairs a hand-drawn black bat with a tiny pumpkin and warm brushed-gold collar. Lavender & Cedarwood complements its muted purple moonlight atmosphere. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
     "name": "Sage Witch Diffuser",
     "series": "Midnight Navy & Charcoal",
