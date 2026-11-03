@@ -1,75 +1,75 @@
 {
   "groups": [
     {
-      "name": "Midnight Navy & Charcoal",
+      "name": "Signature Nightscapes",
       "products": [
-        "Pumpkin Parade",
-        "Candy Corn Moon",
-        "Golden Familiar",
+        "Pumpkin Cottage Night",
+        "Moonlit Witch Ghost",
+        "Purple Ghost Forest",
+        "Deep Teal Ghost Night",
+        "Midnight Ballet Candle",
         "Spooky Forest Night",
         "Bat & Pumpkin Gold",
         "Black Cat Moon",
         "Midnight Cat Witch",
-        "Botanical Ghost",
-        "Floating Ghost",
-        "Midnight Shy Ghost",
-        "The Witch Is In",
-        "Midnight Ballet Candle",
-        "Pumpkin Cottage Night",
-        "Moonlit Witch Ghost",
-        "Deep Teal Ghost Night"
-      ]
-    },
-    {
-      "name": "Purple Moonlight",
-      "products": [
-        "Boo After Dark",
-        "Trick or Treat Spirits",
-        "Moonlit Magic Pumpkin",
-        "Lilac Bat Spell",
-        "Lavender Haunted House",
         "Lavender Haunted Manor",
-        "Magenta Bat",
-        "Purple Bat Mischief",
+        "Lavender Haunted House",
+        "Moonlit Magic Pumpkin"
+      ]
+    },
+    {
+      "name": "Sculptural & Enchanted",
+      "products": [
         "Purple Witch Ghost",
-        "Purple Ghost Forest"
-      ]
-    },
-    {
-      "name": "Pumpkin & Amber",
-      "products": [
-        "Batwing Pumpkin",
-        "Haunted Pumpkin Night",
-        "Jack-O’-Lantern Carnival",
-        "Pumpkin Party Glow",
-        "Candy Stripe Boo",
-        "Little Pumpkin Ghost",
-        "Woodland Toadstool"
-      ]
-    },
-    {
-      "name": "Ivory Ghost Stories",
-      "products": [
-        "Midnight Witch Hat",
-        "Starry Witch Ghost",
-        "Pumpkin Stripe Ghost",
-        "Golden Stripe Ghost",
-        "Boo & Cream Pumpkin",
-        "Pumpkin & Little Ghost",
+        "Purple Bat Mischief",
+        "Woodland Toadstool",
+        "The Witch Is In",
         "Ghost & Black Cat",
         "Ivory Ghost Garden",
-        "Mummy Goose",
+        "Botanical Ghost",
+        "Golden Familiar",
+        "Haunted Pumpkin Night",
+        "Jack-O’-Lantern Carnival"
+      ]
+    },
+    {
+      "name": "Storybook Ghosts",
+      "products": [
         "Book of Spells Ghost",
         "Ghost Reading Club",
         "Wise Little Ghost",
-        "Pumpkin & Black Cat"
+        "Mummy Goose",
+        "Pumpkin & Black Cat",
+        "Pumpkin & Little Ghost",
+        "Starry Witch Ghost",
+        "Pumpkin Stripe Ghost",
+        "Golden Stripe Ghost",
+        "Trick or Treat Spirits",
+        "Boo After Dark",
+        "Little Pumpkin Ghost"
       ]
     },
     {
-      "name": "Pastel Magic",
+      "name": "Classic Halloween",
       "products": [
+        "Pumpkin Parade",
+        "Candy Corn Moon",
+        "Floating Ghost",
+        "Midnight Shy Ghost",
+        "Batwing Pumpkin",
+        "Pumpkin Party Glow",
+        "Candy Stripe Boo",
+        "Midnight Witch Hat"
+      ]
+    },
+    {
+      "name": "Pastel Play",
+      "products": [
+        "Lilac Bat Spell",
+        "Magenta Bat",
         "Pastel Spooky",
-        "Blush Haunted House"
+        "Blush Haunted House",
+        "Boo & Cream Pumpkin"
       ]
     },
     {

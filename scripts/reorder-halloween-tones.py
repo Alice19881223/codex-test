@@ -4,53 +4,53 @@ import json
 
 ROOT=Path(__file__).resolve().parents[1]
 GROUPS=[
- ('Midnight Navy & Charcoal','''Pumpkin Parade
-Candy Corn Moon
-Golden Familiar
+ ('Signature Nightscapes','''Pumpkin Cottage Night
+Moonlit Witch Ghost
+Purple Ghost Forest
+Deep Teal Ghost Night
+Midnight Ballet Candle
 Spooky Forest Night
 Bat & Pumpkin Gold
 Black Cat Moon
 Midnight Cat Witch
-Botanical Ghost
-Floating Ghost
-Midnight Shy Ghost
-The Witch Is In
-Midnight Ballet Candle
-Pumpkin Cottage Night
-Moonlit Witch Ghost
-Deep Teal Ghost Night'''),
- ('Purple Moonlight','''Boo After Dark
-Trick or Treat Spirits
-Moonlit Magic Pumpkin
-Lilac Bat Spell
-Lavender Haunted House
 Lavender Haunted Manor
-Magenta Bat
+Lavender Haunted House
+Moonlit Magic Pumpkin'''),
+ ('Sculptural & Enchanted','''Purple Witch Ghost
 Purple Bat Mischief
-Purple Witch Ghost
-Purple Ghost Forest'''),
- ('Pumpkin & Amber','''Batwing Pumpkin
+Woodland Toadstool
+The Witch Is In
+Ghost & Black Cat
+Ivory Ghost Garden
+Botanical Ghost
+Golden Familiar
 Haunted Pumpkin Night
-Jack-O’-Lantern Carnival
-Pumpkin Party Glow
-Candy Stripe Boo
-Little Pumpkin Ghost
-Woodland Toadstool'''),
- ('Ivory Ghost Stories','''Midnight Witch Hat
+Jack-O’-Lantern Carnival'''),
+ ('Storybook Ghosts','''Book of Spells Ghost
+Ghost Reading Club
+Wise Little Ghost
+Mummy Goose
+Pumpkin & Black Cat
+Pumpkin & Little Ghost
 Starry Witch Ghost
 Pumpkin Stripe Ghost
 Golden Stripe Ghost
-Boo & Cream Pumpkin
-Pumpkin & Little Ghost
-Ghost & Black Cat
-Ivory Ghost Garden
-Mummy Goose
-Book of Spells Ghost
-Ghost Reading Club
-Wise Little Ghost
-Pumpkin & Black Cat'''),
- ('Pastel Magic','''Pastel Spooky
-Blush Haunted House'''),
+Trick or Treat Spirits
+Boo After Dark
+Little Pumpkin Ghost'''),
+ ('Classic Halloween','''Pumpkin Parade
+Candy Corn Moon
+Floating Ghost
+Midnight Shy Ghost
+Batwing Pumpkin
+Pumpkin Party Glow
+Candy Stripe Boo
+Midnight Witch Hat'''),
+ ('Pastel Play','''Lilac Bat Spell
+Magenta Bat
+Pastel Spooky
+Blush Haunted House
+Boo & Cream Pumpkin'''),
  ('Halloween Reed Diffusers','''Berry Bat Diffuser
 Lavender Castle Diffuser
 Sage Witch Diffuser

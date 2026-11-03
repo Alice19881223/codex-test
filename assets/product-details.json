@@ -9197,13 +9197,13 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-6AEA9B57",
+    "itemNo": "LNV-HLW-D4F2E3D3",
     "category": "halloween",
-    "image": "assets/halloween/paired/e27109d911843e795479.webp",
-    "name": "Pumpkin Parade",
-    "title": "Pumpkin Parade Scented candle",
-    "url": "product-lnv-hlw-6aea9b57.html",
-    "series": "Midnight Mischief",
+    "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
+    "name": "Pumpkin Cottage Night",
+    "title": "Pumpkin Cottage Night Scented candle",
+    "url": "product-lnv-hlw-d4f2e3d3.html",
+    "series": "Midnight Navy & Charcoal",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
@@ -9214,36 +9214,70 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-EEF9A665",
+    "itemNo": "LNV-HLW-596ECC93",
     "category": "halloween",
-    "image": "assets/halloween/paired/4e45c3407e608cb00894.webp",
-    "name": "Candy Corn Moon",
-    "title": "Candy Corn Moon Scented candle",
-    "url": "product-lnv-hlw-eef9a665.html",
-    "series": "Midnight Mischief",
+    "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
+    "name": "Moonlit Witch Ghost",
+    "title": "Moonlit Witch Ghost Scented candle",
+    "url": "product-lnv-hlw-596ecc93.html",
+    "series": "Midnight Navy & Charcoal",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "caramel-cream"
+      "fireside-smoked-woods"
     ],
-    "primaryScent": "caramel-cream",
+    "primaryScent": "fireside-smoked-woods",
     "specifications": {},
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-255D01F4",
+    "itemNo": "LNV-HLW-F2946F06",
     "category": "halloween",
-    "image": "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
-    "name": "Golden Familiar",
-    "title": "Golden Familiar Scented candle",
-    "url": "product-lnv-hlw-255d01f4.html",
-    "series": "Midnight Mischief",
+    "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
+    "name": "Purple Ghost Forest",
+    "title": "Purple Ghost Forest Scented candle",
+    "url": "product-lnv-hlw-f2946f06.html",
+    "series": "Purple Moonlight",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "amber-vanilla"
+      "lavender-cedarwood"
     ],
-    "primaryScent": "amber-vanilla",
+    "primaryScent": "lavender-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-9C46A76C",
+    "category": "halloween",
+    "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
+    "name": "Deep Teal Ghost Night",
+    "title": "Deep Teal Ghost Night Scented candle",
+    "url": "product-lnv-hlw-9c46a76c.html",
+    "series": "Midnight Navy & Charcoal",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pine-cedarwood"
+    ],
+    "primaryScent": "pine-cedarwood",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-E2F072F7",
+    "category": "halloween",
+    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
+    "name": "Midnight Ballet Candle",
+    "title": "Midnight Ballet Candle Scented candle",
+    "url": "product-lnv-hlw-e2f072f7.html",
+    "series": "Midnight Ballet",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
     "specifications": {},
     "documents": []
   },
@@ -9316,200 +9350,13 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-442BB5AB",
+    "itemNo": "LNV-HLW-95C53C84",
     "category": "halloween",
-    "image": "assets/halloween/paired/5f94091a961f871be721.webp",
-    "name": "Botanical Ghost",
-    "title": "Botanical Ghost Scented candle",
-    "url": "product-lnv-hlw-442bb5ab.html",
-    "series": "Midnight Mischief",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "sandalwood-cashmere"
-    ],
-    "primaryScent": "sandalwood-cashmere",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-BB440122",
-    "category": "halloween",
-    "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
-    "name": "Floating Ghost",
-    "title": "Floating Ghost Scented candle",
-    "url": "product-lnv-hlw-bb440122.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "soft-linen"
-    ],
-    "primaryScent": "soft-linen",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-76C9E194",
-    "category": "halloween",
-    "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
-    "name": "Midnight Shy Ghost",
-    "title": "Midnight Shy Ghost Scented candle",
-    "url": "product-lnv-hlw-76c9e194.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "vanilla-tonka"
-    ],
-    "primaryScent": "vanilla-tonka",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-817F422D",
-    "category": "halloween",
-    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
-    "name": "The Witch Is In",
-    "title": "The Witch Is In Scented candle",
-    "url": "product-lnv-hlw-817f422d.html",
-    "series": "Enchanted Halloween",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "green-tea-cedarwood"
-    ],
-    "primaryScent": "green-tea-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-E2F072F7",
-    "category": "halloween",
-    "image": "assets/poetic-moments/b5442afec89b7e1a527d.webp",
-    "name": "Midnight Ballet Candle",
-    "title": "Midnight Ballet Candle Scented candle",
-    "url": "product-lnv-hlw-e2f072f7.html",
-    "series": "Midnight Ballet",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pomegranate-amber"
-    ],
-    "primaryScent": "pomegranate-amber",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-D4F2E3D3",
-    "category": "halloween",
-    "image": "assets/halloween/elegant-night/2f4b76d86312dfd573c2.webp",
-    "name": "Pumpkin Cottage Night",
-    "title": "Pumpkin Cottage Night Scented candle",
-    "url": "product-lnv-hlw-d4f2e3d3.html",
-    "series": "Midnight Navy & Charcoal",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-596ECC93",
-    "category": "halloween",
-    "image": "assets/halloween/elegant-night/ca0e3054758670c316af.webp",
-    "name": "Moonlit Witch Ghost",
-    "title": "Moonlit Witch Ghost Scented candle",
-    "url": "product-lnv-hlw-596ecc93.html",
-    "series": "Midnight Navy & Charcoal",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "fireside-smoked-woods"
-    ],
-    "primaryScent": "fireside-smoked-woods",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-9C46A76C",
-    "category": "halloween",
-    "image": "assets/halloween/elegant-night/2e437b1d6e87dd3d2647.webp",
-    "name": "Deep Teal Ghost Night",
-    "title": "Deep Teal Ghost Night Scented candle",
-    "url": "product-lnv-hlw-9c46a76c.html",
-    "series": "Midnight Navy & Charcoal",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pine-cedarwood"
-    ],
-    "primaryScent": "pine-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-3A1F4410",
-    "category": "halloween",
-    "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
-    "name": "Boo After Dark",
-    "title": "Boo After Dark Scented candle",
-    "url": "product-lnv-hlw-3a1f4410.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pomegranate-amber"
-    ],
-    "primaryScent": "pomegranate-amber",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-5F322144",
-    "category": "halloween",
-    "image": "assets/halloween/paired/ade34691bae75dc195d0.webp",
-    "name": "Trick or Treat Spirits",
-    "title": "Trick or Treat Spirits Scented candle",
-    "url": "product-lnv-hlw-5f322144.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "vanilla-tonka"
-    ],
-    "primaryScent": "vanilla-tonka",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-A732751D",
-    "category": "halloween",
-    "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
-    "name": "Moonlit Magic Pumpkin",
-    "title": "Moonlit Magic Pumpkin Scented candle",
-    "url": "product-lnv-hlw-a732751d.html",
-    "series": "Enchanted Halloween",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "lavender-cedarwood"
-    ],
-    "primaryScent": "lavender-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-26A34FE1",
-    "category": "halloween",
-    "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
-    "name": "Lilac Bat Spell",
-    "title": "Lilac Bat Spell Scented candle",
-    "url": "product-lnv-hlw-26a34fe1.html",
-    "series": "Enchanted Halloween",
+    "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
+    "name": "Lavender Haunted Manor",
+    "title": "Lavender Haunted Manor Scented candle",
+    "url": "product-lnv-hlw-95c53c84.html",
+    "series": "Pastel Spells",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
@@ -9537,53 +9384,19 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-95C53C84",
+    "itemNo": "LNV-HLW-A732751D",
     "category": "halloween",
-    "image": "assets/halloween/paired/8e5b83e7058590594067.webp",
-    "name": "Lavender Haunted Manor",
-    "title": "Lavender Haunted Manor Scented candle",
-    "url": "product-lnv-hlw-95c53c84.html",
-    "series": "Pastel Spells",
+    "image": "assets/halloween/paired/4ea289f1eb5bb81bf1a4.webp",
+    "name": "Moonlit Magic Pumpkin",
+    "title": "Moonlit Magic Pumpkin Scented candle",
+    "url": "product-lnv-hlw-a732751d.html",
+    "series": "Enchanted Halloween",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "blackcurrant-rose"
+      "lavender-cedarwood"
     ],
-    "primaryScent": "blackcurrant-rose",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-BB10EA8A",
-    "category": "halloween",
-    "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
-    "name": "Magenta Bat",
-    "title": "Magenta Bat Scented candle",
-    "url": "product-lnv-hlw-bb10ea8a.html",
-    "series": "Pastel Spells",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pomegranate-amber"
-    ],
-    "primaryScent": "pomegranate-amber",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-D24784A6",
-    "category": "halloween",
-    "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
-    "name": "Purple Bat Mischief",
-    "title": "Purple Bat Mischief Scented candle",
-    "url": "product-lnv-hlw-d24784a6.html",
-    "series": "Pastel Spells",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "blackcurrant-rose"
-    ],
-    "primaryScent": "blackcurrant-rose",
+    "primaryScent": "lavender-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -9605,121 +9418,19 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-F2946F06",
+    "itemNo": "LNV-HLW-D24784A6",
     "category": "halloween",
-    "image": "assets/halloween/elegant-night/0a3ef545312af32dd346.webp",
-    "name": "Purple Ghost Forest",
-    "title": "Purple Ghost Forest Scented candle",
-    "url": "product-lnv-hlw-f2946f06.html",
-    "series": "Purple Moonlight",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "lavender-cedarwood"
-    ],
-    "primaryScent": "lavender-cedarwood",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-08FBFC3D",
-    "category": "halloween",
-    "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
-    "name": "Batwing Pumpkin",
-    "title": "Batwing Pumpkin Scented candle",
-    "url": "product-lnv-hlw-08fbfc3d.html",
-    "series": "Midnight Mischief",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "orange-clove"
-    ],
-    "primaryScent": "orange-clove",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-466AD4BC",
-    "category": "halloween",
-    "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
-    "name": "Haunted Pumpkin Night",
-    "title": "Haunted Pumpkin Night Scented candle",
-    "url": "product-lnv-hlw-466ad4bc.html",
-    "series": "Midnight Mischief",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "fireside-smoked-woods"
-    ],
-    "primaryScent": "fireside-smoked-woods",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-345E76F1",
-    "category": "halloween",
-    "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
-    "name": "Jack-O\u2019-Lantern Carnival",
-    "title": "Jack-O\u2019-Lantern Carnival Scented candle",
-    "url": "product-lnv-hlw-345e76f1.html",
-    "series": "Midnight Mischief",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-3D53B81A",
-    "category": "halloween",
-    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
-    "name": "Pumpkin Party Glow",
-    "title": "Pumpkin Party Glow Scented candle",
-    "url": "product-lnv-hlw-3d53b81a.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-5A80E367",
-    "category": "halloween",
-    "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
-    "name": "Candy Stripe Boo",
-    "title": "Candy Stripe Boo Scented candle",
-    "url": "product-lnv-hlw-5a80e367.html",
+    "image": "assets/halloween/paired/17a4739e39ff0385df5e.webp",
+    "name": "Purple Bat Mischief",
+    "title": "Purple Bat Mischief Scented candle",
+    "url": "product-lnv-hlw-d24784a6.html",
     "series": "Pastel Spells",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "caramel-cream"
+      "blackcurrant-rose"
     ],
-    "primaryScent": "caramel-cream",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-27CEDD24",
-    "category": "halloween",
-    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
-    "name": "Little Pumpkin Ghost",
-    "title": "Little Pumpkin Ghost Scented candle",
-    "url": "product-lnv-hlw-27cedd24.html",
-    "series": "Little Dreamers",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "pumpkin-spice"
-    ],
-    "primaryScent": "pumpkin-spice",
+    "primaryScent": "blackcurrant-rose",
     "specifications": {},
     "documents": []
   },
@@ -9741,104 +9452,19 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-0085BD09",
+    "itemNo": "LNV-HLW-817F422D",
     "category": "halloween",
-    "image": "assets/halloween/paired/24810435e341aec553f5.webp",
-    "name": "Midnight Witch Hat",
-    "title": "Midnight Witch Hat Scented candle",
-    "url": "product-lnv-hlw-0085bd09.html",
-    "series": "Midnight Mischief",
+    "image": "assets/halloween/paired/4c1129f92c19a7214a95.webp",
+    "name": "The Witch Is In",
+    "title": "The Witch Is In Scented candle",
+    "url": "product-lnv-hlw-817f422d.html",
+    "series": "Enchanted Halloween",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "mugwort-incense"
+      "green-tea-cedarwood"
     ],
-    "primaryScent": "mugwort-incense",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-B266970F",
-    "category": "halloween",
-    "image": "assets/halloween/paired/499d7733d304051d864d.webp",
-    "name": "Starry Witch Ghost",
-    "title": "Starry Witch Ghost Scented candle",
-    "url": "product-lnv-hlw-b266970f.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "sandalwood-cashmere"
-    ],
-    "primaryScent": "sandalwood-cashmere",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-72B814D6",
-    "category": "halloween",
-    "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
-    "name": "Pumpkin Stripe Ghost",
-    "title": "Pumpkin Stripe Ghost Scented candle",
-    "url": "product-lnv-hlw-72b814d6.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "orange-clove"
-    ],
-    "primaryScent": "orange-clove",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-52751D33",
-    "category": "halloween",
-    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
-    "name": "Golden Stripe Ghost",
-    "title": "Golden Stripe Ghost Scented candle",
-    "url": "product-lnv-hlw-52751d33.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "amber-vanilla"
-    ],
-    "primaryScent": "amber-vanilla",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-26CB487B",
-    "category": "halloween",
-    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
-    "name": "Boo & Cream Pumpkin",
-    "title": "Boo & Cream Pumpkin Scented candle",
-    "url": "product-lnv-hlw-26cb487b.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "vanilla-tonka"
-    ],
-    "primaryScent": "vanilla-tonka",
-    "specifications": {},
-    "documents": []
-  },
-  {
-    "itemNo": "LNV-HLW-C45D7FC7",
-    "category": "halloween",
-    "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
-    "name": "Pumpkin & Little Ghost",
-    "title": "Pumpkin & Little Ghost Scented candle",
-    "url": "product-lnv-hlw-c45d7fc7.html",
-    "series": "Ghost Parade",
-    "collection": "Halloween",
-    "collectionHref": "halloween-collection.html",
-    "suggestedScents": [
-      "gingerbread-vanilla"
-    ],
-    "primaryScent": "gingerbread-vanilla",
+    "primaryScent": "green-tea-cedarwood",
     "specifications": {},
     "documents": []
   },
@@ -9877,19 +9503,70 @@
     "documents": []
   },
   {
-    "itemNo": "LNV-HLW-E7B66DF3",
+    "itemNo": "LNV-HLW-442BB5AB",
     "category": "halloween",
-    "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
-    "name": "Mummy Goose",
-    "title": "Mummy Goose Scented candle",
-    "url": "product-lnv-hlw-e7b66df3.html",
-    "series": "Ivory Ghost Stories",
+    "image": "assets/halloween/paired/5f94091a961f871be721.webp",
+    "name": "Botanical Ghost",
+    "title": "Botanical Ghost Scented candle",
+    "url": "product-lnv-hlw-442bb5ab.html",
+    "series": "Midnight Mischief",
     "collection": "Halloween",
     "collectionHref": "halloween-collection.html",
     "suggestedScents": [
-      "orange-clove"
+      "sandalwood-cashmere"
     ],
-    "primaryScent": "orange-clove",
+    "primaryScent": "sandalwood-cashmere",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-255D01F4",
+    "category": "halloween",
+    "image": "assets/halloween/paired/d4d8d0fda1d45caac45d.webp",
+    "name": "Golden Familiar",
+    "title": "Golden Familiar Scented candle",
+    "url": "product-lnv-hlw-255d01f4.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-466AD4BC",
+    "category": "halloween",
+    "image": "assets/halloween/paired/9afb0d80ab8fe483e142.webp",
+    "name": "Haunted Pumpkin Night",
+    "title": "Haunted Pumpkin Night Scented candle",
+    "url": "product-lnv-hlw-466ad4bc.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "fireside-smoked-woods"
+    ],
+    "primaryScent": "fireside-smoked-woods",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-345E76F1",
+    "category": "halloween",
+    "image": "assets/halloween/paired/594d56ad03d401ab0f76.webp",
+    "name": "Jack-O\u2019-Lantern Carnival",
+    "title": "Jack-O\u2019-Lantern Carnival Scented candle",
+    "url": "product-lnv-hlw-345e76f1.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
     "specifications": {},
     "documents": []
   },
@@ -9945,6 +9622,23 @@
     "documents": []
   },
   {
+    "itemNo": "LNV-HLW-E7B66DF3",
+    "category": "halloween",
+    "image": "assets/halloween/elegant-night/4de9379f8188ba32ccc2.webp",
+    "name": "Mummy Goose",
+    "title": "Mummy Goose Scented candle",
+    "url": "product-lnv-hlw-e7b66df3.html",
+    "series": "Ivory Ghost Stories",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
     "itemNo": "LNV-HLW-3050B75C",
     "category": "halloween",
     "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
@@ -9958,6 +9652,295 @@
       "mugwort-incense"
     ],
     "primaryScent": "mugwort-incense",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-C45D7FC7",
+    "category": "halloween",
+    "image": "assets/halloween/paired/f71b9060a34f115a5abd.webp",
+    "name": "Pumpkin & Little Ghost",
+    "title": "Pumpkin & Little Ghost Scented candle",
+    "url": "product-lnv-hlw-c45d7fc7.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "gingerbread-vanilla"
+    ],
+    "primaryScent": "gingerbread-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-B266970F",
+    "category": "halloween",
+    "image": "assets/halloween/paired/499d7733d304051d864d.webp",
+    "name": "Starry Witch Ghost",
+    "title": "Starry Witch Ghost Scented candle",
+    "url": "product-lnv-hlw-b266970f.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "sandalwood-cashmere"
+    ],
+    "primaryScent": "sandalwood-cashmere",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-72B814D6",
+    "category": "halloween",
+    "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
+    "name": "Pumpkin Stripe Ghost",
+    "title": "Pumpkin Stripe Ghost Scented candle",
+    "url": "product-lnv-hlw-72b814d6.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-52751D33",
+    "category": "halloween",
+    "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
+    "name": "Golden Stripe Ghost",
+    "title": "Golden Stripe Ghost Scented candle",
+    "url": "product-lnv-hlw-52751d33.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "amber-vanilla"
+    ],
+    "primaryScent": "amber-vanilla",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-5F322144",
+    "category": "halloween",
+    "image": "assets/halloween/paired/ade34691bae75dc195d0.webp",
+    "name": "Trick or Treat Spirits",
+    "title": "Trick or Treat Spirits Scented candle",
+    "url": "product-lnv-hlw-5f322144.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-3A1F4410",
+    "category": "halloween",
+    "image": "assets/halloween/paired/91b6a130b289d9dc7858.webp",
+    "name": "Boo After Dark",
+    "title": "Boo After Dark Scented candle",
+    "url": "product-lnv-hlw-3a1f4410.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-27CEDD24",
+    "category": "halloween",
+    "image": "assets/candles/standalone/dde508f3788aea3c327f.png",
+    "name": "Little Pumpkin Ghost",
+    "title": "Little Pumpkin Ghost Scented candle",
+    "url": "product-lnv-hlw-27cedd24.html",
+    "series": "Little Dreamers",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-6AEA9B57",
+    "category": "halloween",
+    "image": "assets/halloween/paired/e27109d911843e795479.webp",
+    "name": "Pumpkin Parade",
+    "title": "Pumpkin Parade Scented candle",
+    "url": "product-lnv-hlw-6aea9b57.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-EEF9A665",
+    "category": "halloween",
+    "image": "assets/halloween/paired/4e45c3407e608cb00894.webp",
+    "name": "Candy Corn Moon",
+    "title": "Candy Corn Moon Scented candle",
+    "url": "product-lnv-hlw-eef9a665.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "caramel-cream"
+    ],
+    "primaryScent": "caramel-cream",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-BB440122",
+    "category": "halloween",
+    "image": "assets/halloween/paired/cf6a3670f65fee915bdd.webp",
+    "name": "Floating Ghost",
+    "title": "Floating Ghost Scented candle",
+    "url": "product-lnv-hlw-bb440122.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "soft-linen"
+    ],
+    "primaryScent": "soft-linen",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-76C9E194",
+    "category": "halloween",
+    "image": "assets/halloween/paired/99b536cb2505055ecc72.webp",
+    "name": "Midnight Shy Ghost",
+    "title": "Midnight Shy Ghost Scented candle",
+    "url": "product-lnv-hlw-76c9e194.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-08FBFC3D",
+    "category": "halloween",
+    "image": "assets/halloween/paired/0cfecc0d4f3c7f864059.webp",
+    "name": "Batwing Pumpkin",
+    "title": "Batwing Pumpkin Scented candle",
+    "url": "product-lnv-hlw-08fbfc3d.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "orange-clove"
+    ],
+    "primaryScent": "orange-clove",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-3D53B81A",
+    "category": "halloween",
+    "image": "assets/halloween/paired/7b2df3b52827ebdca98e.webp",
+    "name": "Pumpkin Party Glow",
+    "title": "Pumpkin Party Glow Scented candle",
+    "url": "product-lnv-hlw-3d53b81a.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pumpkin-spice"
+    ],
+    "primaryScent": "pumpkin-spice",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-5A80E367",
+    "category": "halloween",
+    "image": "assets/halloween/paired/476a41a394810eb5a0be.webp",
+    "name": "Candy Stripe Boo",
+    "title": "Candy Stripe Boo Scented candle",
+    "url": "product-lnv-hlw-5a80e367.html",
+    "series": "Pastel Spells",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "caramel-cream"
+    ],
+    "primaryScent": "caramel-cream",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-0085BD09",
+    "category": "halloween",
+    "image": "assets/halloween/paired/24810435e341aec553f5.webp",
+    "name": "Midnight Witch Hat",
+    "title": "Midnight Witch Hat Scented candle",
+    "url": "product-lnv-hlw-0085bd09.html",
+    "series": "Midnight Mischief",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "mugwort-incense"
+    ],
+    "primaryScent": "mugwort-incense",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-26A34FE1",
+    "category": "halloween",
+    "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
+    "name": "Lilac Bat Spell",
+    "title": "Lilac Bat Spell Scented candle",
+    "url": "product-lnv-hlw-26a34fe1.html",
+    "series": "Enchanted Halloween",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "blackcurrant-rose"
+    ],
+    "primaryScent": "blackcurrant-rose",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-BB10EA8A",
+    "category": "halloween",
+    "image": "assets/halloween/paired/003a42a079b8d10549b8.webp",
+    "name": "Magenta Bat",
+    "title": "Magenta Bat Scented candle",
+    "url": "product-lnv-hlw-bb10ea8a.html",
+    "series": "Pastel Spells",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "pomegranate-amber"
+    ],
+    "primaryScent": "pomegranate-amber",
     "specifications": {},
     "documents": []
   },
@@ -9992,6 +9975,23 @@
       "rose-green-leaves"
     ],
     "primaryScent": "rose-green-leaves",
+    "specifications": {},
+    "documents": []
+  },
+  {
+    "itemNo": "LNV-HLW-26CB487B",
+    "category": "halloween",
+    "image": "assets/halloween/paired/e1b8ab23fd58f8dff942.webp",
+    "name": "Boo & Cream Pumpkin",
+    "title": "Boo & Cream Pumpkin Scented candle",
+    "url": "product-lnv-hlw-26cb487b.html",
+    "series": "Ghost Parade",
+    "collection": "Halloween",
+    "collectionHref": "halloween-collection.html",
+    "suggestedScents": [
+      "vanilla-tonka"
+    ],
+    "primaryScent": "vanilla-tonka",
     "specifications": {},
     "documents": []
   },
