@@ -2390,5 +2390,33 @@
   "LNV-XMS-FB24255A": {
     "scent": "gingerbread-vanilla",
     "basis": "Suggested pairing based on the reviewed Christmas design and seasonal atmosphere"
+  },
+  "LNV-HLW-C8E35BB0": {
+    "scent": "pomegranate-amber",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-B10BA206": {
+    "scent": "rose-green-leaves",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-146B0E61": {
+    "scent": "lavender-cedarwood",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-9DFB1A8A": {
+    "scent": "black-tea-cedarwood",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-71FD09E7": {
+    "scent": "green-tea-cedarwood",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-79280CA1": {
+    "scent": "pumpkin-spice",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
+  },
+  "LNV-HLW-090395D1": {
+    "scent": "blackcurrant-rose",
+    "basis": "Suggested pairing based on the reviewed Halloween packaging, colour and seasonal atmosphere"
   }
 }

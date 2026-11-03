@@ -216,6 +216,20 @@
     "designDescription": "A cheerful ghost glows among pumpkins in a dark teal enchanted forest. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
+    "name": "Sage Witch Diffuser",
+    "series": "Midnight Navy & Charcoal",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+      "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp"
+    ],
+    "assignedScent": "green-tea-cedarwood",
+    "designDescription": "A faceted sage vessel and tiny witch motif give Halloween a calm botanical mood. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-2026-91b6a130b289d9dc7858",
     "name": "Boo After Dark",
     "series": "Ghost Parade",
@@ -356,6 +370,34 @@
     "designDescription": "White ghosts drift through a violet woodland filled with pumpkins and moonlight. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-reed-2026-a3ad69bca366b38626bd",
+    "name": "Berry Bat Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+      "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp"
+    ],
+    "assignedScent": "pomegranate-amber",
+    "designDescription": "A jewel-toned berry diffuser with black bats and tiny gold stars. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-9108f12b57071771c62c",
+    "name": "Lavender Castle Diffuser",
+    "series": "Purple Moonlight",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+      "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp"
+    ],
+    "assignedScent": "lavender-cedarwood",
+    "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-2026-0cfecc0d4f3c7f864059",
     "name": "Batwing Pumpkin",
     "series": "Midnight Mischief",
@@ -452,6 +494,20 @@
     ],
     "assignedScent": "fig-green-leaves",
     "designDescription": "A sculpted woodland mushroom lid brings an enchanted-forest note to the season. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-c58562216fb0915f7085",
+    "name": "Pumpkin Bat Diffuser",
+    "series": "Pumpkin & Amber",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+      "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp"
+    ],
+    "assignedScent": "pumpkin-spice",
+    "designDescription": "A jack-o’-lantern in a witch hat spreads black bat wings across vivid pumpkin orange. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
     "id": "halloween-2026-24810435e341aec553f5",
@@ -639,6 +695,20 @@
     "designDescription": "A tiny ghost, heirloom pumpkin and black cat create an understated autumn vignette. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   },
   {
+    "id": "halloween-reed-2026-588c155aa46ea418d73e",
+    "name": "Reading Ghost Diffuser",
+    "series": "Ivory Ghost Stories",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+      "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp"
+    ],
+    "assignedScent": "black-tea-cedarwood",
+    "designDescription": "A bespectacled reading ghost brings a quiet storybook note to warm ivory glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
     "id": "halloween-2026-2ba024d15ae7f9fa0ff9",
     "name": "Pastel Spooky",
     "series": "Pastel Spells",
@@ -665,5 +735,33 @@
     ],
     "assignedScent": "rose-green-leaves",
     "designDescription": "A softly embossed haunted house and bat sit on blush ceramic. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-4a142233f840d8321eb7",
+    "name": "Pink Haunted House Diffuser",
+    "series": "Pastel Magic",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+      "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp"
+    ],
+    "assignedScent": "rose-green-leaves",
+    "designDescription": "A pale pink haunted house with a tiny bat and warm gold details. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+  },
+  {
+    "id": "halloween-reed-2026-fb0c003420f8cf28eda6",
+    "name": "Pastel Spooky Bat Diffuser",
+    "series": "Pastel Magic",
+    "productType": "Reed diffuser",
+    "image": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+    "packagingImage": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp",
+    "images": [
+      "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+      "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp"
+    ],
+    "assignedScent": "blackcurrant-rose",
+    "designDescription": "Pastel SPOOKY lettering and a winged bat turn Halloween bright and playful. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
   }
 ]

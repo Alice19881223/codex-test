@@ -23484,5 +23484,327 @@
         "bytes": 113874
       }
     ]
+  },
+  "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 60886,
+    "src": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd-480.webp",
+        "width": 480,
+        "bytes": 12918
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd-960.webp",
+        "width": 960,
+        "bytes": 36870
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+        "width": 1254,
+        "bytes": 60886
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 195168,
+    "src": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda-480.webp",
+        "width": 480,
+        "bytes": 24458
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda-960.webp",
+        "width": 960,
+        "bytes": 107574
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+        "width": 1254,
+        "bytes": 195168
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 37170,
+    "src": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/4a142233f840d8321eb7-480.webp",
+        "width": 480,
+        "bytes": 8344
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/4a142233f840d8321eb7-960.webp",
+        "width": 960,
+        "bytes": 21326
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+        "width": 1254,
+        "bytes": 37170
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 81624,
+    "src": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8-480.webp",
+        "width": 480,
+        "bytes": 10892
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8-960.webp",
+        "width": 960,
+        "bytes": 43540
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp",
+        "width": 1254,
+        "bytes": 81624
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 39542,
+    "src": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/9108f12b57071771c62c-480.webp",
+        "width": 480,
+        "bytes": 10022
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/9108f12b57071771c62c-960.webp",
+        "width": 960,
+        "bytes": 24570
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+        "width": 1254,
+        "bytes": 39542
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 88620,
+    "src": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368-480.webp",
+        "width": 480,
+        "bytes": 13590
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368-960.webp",
+        "width": 960,
+        "bytes": 50354
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+        "width": 1254,
+        "bytes": 88620
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 48906,
+    "src": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/588c155aa46ea418d73e-480.webp",
+        "width": 480,
+        "bytes": 11224
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/588c155aa46ea418d73e-960.webp",
+        "width": 960,
+        "bytes": 29920
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+        "width": 1254,
+        "bytes": 48906
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 91460,
+    "src": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/b274e6fa44434de33871-480.webp",
+        "width": 480,
+        "bytes": 15838
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/b274e6fa44434de33871-960.webp",
+        "width": 960,
+        "bytes": 52270
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+        "width": 1254,
+        "bytes": 91460
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 36200,
+    "src": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea-480.webp",
+        "width": 480,
+        "bytes": 8900
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea-960.webp",
+        "width": 960,
+        "bytes": 21804
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+        "width": 1254,
+        "bytes": 36200
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 122288,
+    "src": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0-480.webp",
+        "width": 480,
+        "bytes": 14534
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0-960.webp",
+        "width": 960,
+        "bytes": 66176
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+        "width": 1254,
+        "bytes": 122288
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 70486,
+    "src": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/c58562216fb0915f7085-480.webp",
+        "width": 480,
+        "bytes": 14478
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/c58562216fb0915f7085-960.webp",
+        "width": 960,
+        "bytes": 43702
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+        "width": 1254,
+        "bytes": 70486
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 182160,
+    "src": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/03dfed64901c11dc89da-480.webp",
+        "width": 480,
+        "bytes": 25828
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/03dfed64901c11dc89da-960.webp",
+        "width": 960,
+        "bytes": 106254
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+        "width": 1254,
+        "bytes": 182160
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 54198,
+    "src": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6-480.webp",
+        "width": 480,
+        "bytes": 11608
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6-960.webp",
+        "width": 960,
+        "bytes": 32668
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+        "width": 1254,
+        "bytes": 54198
+      }
+    ]
+  },
+  "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp": {
+    "width": 1254,
+    "height": 1254,
+    "sourceBytes": 152450,
+    "src": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp",
+    "variants": [
+      {
+        "src": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7-480.webp",
+        "width": 480,
+        "bytes": 18272
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7-960.webp",
+        "width": 960,
+        "bytes": 84264
+      },
+      {
+        "src": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp",
+        "width": 1254,
+        "bytes": 152450
+      }
+    ]
   }
 }

@@ -17,7 +17,8 @@
         "Midnight Ballet Candle",
         "Pumpkin Cottage Night",
         "Moonlit Witch Ghost",
-        "Deep Teal Ghost Night"
+        "Deep Teal Ghost Night",
+        "Sage Witch Diffuser"
       ]
     },
     {
@@ -32,7 +33,9 @@
         "Magenta Bat",
         "Purple Bat Mischief",
         "Purple Witch Ghost",
-        "Purple Ghost Forest"
+        "Purple Ghost Forest",
+        "Berry Bat Diffuser",
+        "Lavender Castle Diffuser"
       ]
     },
     {
@@ -44,7 +47,8 @@
         "Pumpkin Party Glow",
         "Candy Stripe Boo",
         "Little Pumpkin Ghost",
-        "Woodland Toadstool"
+        "Woodland Toadstool",
+        "Pumpkin Bat Diffuser"
       ]
     },
     {
@@ -62,14 +66,17 @@
         "Book of Spells Ghost",
         "Ghost Reading Club",
         "Wise Little Ghost",
-        "Pumpkin & Black Cat"
+        "Pumpkin & Black Cat",
+        "Reading Ghost Diffuser"
       ]
     },
     {
       "name": "Pastel Magic",
       "products": [
         "Pastel Spooky",
-        "Blush Haunted House"
+        "Blush Haunted House",
+        "Pink Haunted House Diffuser",
+        "Pastel Spooky Bat Diffuser"
       ]
     }
   ],
@@ -78,6 +85,7 @@
     12,
     12,
     12,
-    11
+    12,
+    6
   ]
 }

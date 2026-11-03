@@ -1,0 +1,223 @@
+{
+  "sourceArchives": [
+    "打包1.zip",
+    "万圣节香薰.zip"
+  ],
+  "productCount": 7,
+  "imageCount": 14,
+  "products": [
+    {
+      "id": "halloween-reed-2026-a3ad69bca366b38626bd",
+      "name": "Berry Bat Diffuser",
+      "series": "Purple Moonlight",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+        "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp"
+      ],
+      "assignedScent": "pomegranate-amber",
+      "designDescription": "A jewel-toned berry diffuser with black bats and tiny gold stars. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-4a142233f840d8321eb7",
+      "name": "Pink Haunted House Diffuser",
+      "series": "Pastel Magic",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+        "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp"
+      ],
+      "assignedScent": "rose-green-leaves",
+      "designDescription": "A pale pink haunted house with a tiny bat and warm gold details. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-9108f12b57071771c62c",
+      "name": "Lavender Castle Diffuser",
+      "series": "Purple Moonlight",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+        "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp"
+      ],
+      "assignedScent": "lavender-cedarwood",
+      "designDescription": "A softly glowing lavender castle, ghost and bats create a refined moonlit scene. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-588c155aa46ea418d73e",
+      "name": "Reading Ghost Diffuser",
+      "series": "Ivory Ghost Stories",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+        "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp"
+      ],
+      "assignedScent": "black-tea-cedarwood",
+      "designDescription": "A bespectacled reading ghost brings a quiet storybook note to warm ivory glass. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-61ae5fcbe7df0c627eea",
+      "name": "Sage Witch Diffuser",
+      "series": "Midnight Navy & Charcoal",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+        "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp"
+      ],
+      "assignedScent": "green-tea-cedarwood",
+      "designDescription": "A faceted sage vessel and tiny witch motif give Halloween a calm botanical mood. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-c58562216fb0915f7085",
+      "name": "Pumpkin Bat Diffuser",
+      "series": "Pumpkin & Amber",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+        "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp"
+      ],
+      "assignedScent": "pumpkin-spice",
+      "designDescription": "A jack-o’-lantern in a witch hat spreads black bat wings across vivid pumpkin orange. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    },
+    {
+      "id": "halloween-reed-2026-fb0c003420f8cf28eda6",
+      "name": "Pastel Spooky Bat Diffuser",
+      "series": "Pastel Magic",
+      "productType": "Reed diffuser",
+      "image": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+      "packagingImage": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp",
+      "images": [
+        "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+        "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp"
+      ],
+      "assignedScent": "blackcurrant-rose",
+      "designDescription": "Pastel SPOOKY lettering and a winged bat turn Halloween bright and playful. Suggested Halloween fragrance pairing; final formulation and availability are confirmed with your sample."
+    }
+  ],
+  "images": [
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "Lanarve莓紫蝙蝠扩香瓶-1.png",
+      "sha256": "a3ad69bca366b38626bdc3fde490304c66d9be4b723309efe237315fc4c3e557",
+      "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "拉纳维蝙蝠香薰礼盒-2.png",
+      "sha256": "db0e4b5387aa09045dda4579f2e4942bb987c72fa007da0fdf9b3f3027cfa329",
+      "image": "assets/halloween/reed-diffusers/db0e4b5387aa09045dda.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "粉色童话屋香薰扩香瓶.png",
+      "sha256": "4a142233f840d8321eb77255d6bfb35b7687a60b07396bbf8011fa36118e9c40",
+      "image": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "粉色鬼屋香薰与高挑礼盒.png",
+      "sha256": "c2c0a026b2da340178a842b36e0a65563bf36a67feff4a483f69fc478d2cb257",
+      "image": "assets/halloween/reed-diffusers/c2c0a026b2da340178a8.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "薰衣草紫五枝香薰瓶.png",
+      "sha256": "9108f12b57071771c62c559b493003bd41935233700830541a1cd849ef627100",
+      "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "淡紫城堡香薰礼盒.png",
+      "sha256": "34dd0df2a5d7ced5c368f44b8b94daab25de3e0cf6cba4e493bd2a1770307f6c",
+      "image": "assets/halloween/reed-diffusers/34dd0df2a5d7ced5c368.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "读书幽灵香氛扩香瓶-1.png",
+      "sha256": "588c155aa46ea418d73e8d1a0ded5f6ae89990c0e3ca390cf6c3222ebe17d35b",
+      "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "阅读幽灵香薰礼盒-2.png",
+      "sha256": "b274e6fa44434de33871cafacc0968233dcbd53e44d8b6dea4e439d547eb9483",
+      "image": "assets/halloween/reed-diffusers/b274e6fa44434de33871.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "淡鼠尾草绿巫女香薰瓶-1.png",
+      "sha256": "61ae5fcbe7df0c627eea324303dc9bea247adbe5c7c55c30c6b86deed03bf96b",
+      "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "打包1.zip",
+      "source": "鼠尾草绿藤条香薰礼盒-2.png",
+      "sha256": "7850c48b44dfe68a7cd086158e65ebeee31b0500b20b0db5176bc0d06a5f5b02",
+      "image": "assets/halloween/reed-diffusers/7850c48b44dfe68a7cd0.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "Lanarve橙色南瓜蝙蝠扩香瓶-3.png",
+      "sha256": "c58562216fb0915f70850328355636ef7469c1458833890b23ae1bdbca0d01f1",
+      "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "橙色南瓜女巫香薰礼盒-4.png",
+      "sha256": "03dfed64901c11dc89da9572c3ef1e7965eb866198f0905c24f197b8d9d5a8ec",
+      "image": "assets/halloween/reed-diffusers/03dfed64901c11dc89da.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "粉色蝙蝠主题香薰扩香瓶-1.png",
+      "sha256": "fb0c003420f8cf28eda6e93a9f941a27422ddb4617217a9c95a9c752c2aedbf5",
+      "image": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "archive": "万圣节香薰.zip",
+      "source": "SPOOKY粉色蝙蝠香薰礼盒-2.png",
+      "sha256": "92f5aa9247e411d701b75cd5408a5b1cbb8c8b0edaaf484cac075def8c5cf466",
+      "image": "assets/halloween/reed-diffusers/92f5aa9247e411d701b7.webp",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "placement": "Integrated into the existing premium tone groups by vessel and packaging colour."
+}

@@ -18,7 +18,8 @@ The Witch Is In
 Midnight Ballet Candle
 Pumpkin Cottage Night
 Moonlit Witch Ghost
-Deep Teal Ghost Night'''),
+Deep Teal Ghost Night
+Sage Witch Diffuser'''),
  ('Purple Moonlight','''Boo After Dark
 Trick or Treat Spirits
 Moonlit Magic Pumpkin
@@ -28,14 +29,17 @@ Lavender Haunted Manor
 Magenta Bat
 Purple Bat Mischief
 Purple Witch Ghost
-Purple Ghost Forest'''),
+Purple Ghost Forest
+Berry Bat Diffuser
+Lavender Castle Diffuser'''),
  ('Pumpkin & Amber','''Batwing Pumpkin
 Haunted Pumpkin Night
 Jack-O’-Lantern Carnival
 Pumpkin Party Glow
 Candy Stripe Boo
 Little Pumpkin Ghost
-Woodland Toadstool'''),
+Woodland Toadstool
+Pumpkin Bat Diffuser'''),
  ('Ivory Ghost Stories','''Midnight Witch Hat
 Starry Witch Ghost
 Pumpkin Stripe Ghost
@@ -48,9 +52,12 @@ Mummy Goose
 Book of Spells Ghost
 Ghost Reading Club
 Wise Little Ghost
-Pumpkin & Black Cat'''),
+Pumpkin & Black Cat
+Reading Ghost Diffuser'''),
  ('Pastel Magic','''Pastel Spooky
-Blush Haunted House'''),
+Blush Haunted House
+Pink Haunted House Diffuser
+Pastel Spooky Bat Diffuser'''),
 ]
 products=json.loads((ROOT/'assets/halloween-products.json').read_text());lookup={p['name']:p for p in products};groups=[{'name':name,'products':items.splitlines()} for name,items in GROUPS];flat=[name for g in groups for name in g['products']]
 assert len(flat)==len(set(flat))==len(products) and set(flat)==set(lookup),'Tone groups must contain every Halloween product exactly once'

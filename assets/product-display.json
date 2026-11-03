@@ -2149,5 +2149,26 @@
   },
   "assets/christmas/storybook-finale/b7f2a2a22c40030784eb.webp": {
     "palette": "ivory"
+  },
+  "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp": {
+    "palette": "burgundy"
+  },
+  "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp": {
+    "palette": "blush"
+  },
+  "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp": {
+    "palette": "lavender"
+  },
+  "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp": {
+    "palette": "ivory"
+  },
+  "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp": {
+    "palette": "sage"
+  },
+  "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp": {
+    "palette": "amber"
+  },
+  "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp": {
+    "palette": "blush"
   }
 }

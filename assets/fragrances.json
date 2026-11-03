@@ -404,7 +404,7 @@
         "image": "assets/halloween/paired/df1d10703fd51b47cdda.webp",
         "name": "Blush Haunted House",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-ffa5cfdd.html?scent=rose-green-leaves"
       },
       {
@@ -438,6 +438,14 @@
         "series": "Pastel Christmas Magic",
         "catalogueHref": "christmas-collection-11.html",
         "href": "product-lnv-xms-89f66d3d.html?scent=rose-green-leaves"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/4a142233f840d8321eb7.webp",
+        "name": "Pink Haunted House Diffuser",
+        "series": "Pastel Magic",
+        "catalogueHref": "halloween-collection-5.html",
+        "href": "product-lnv-hlw-b10ba206.html?scent=rose-green-leaves"
       },
       {
         "category": "candle",
@@ -759,7 +767,7 @@
         "image": "assets/halloween/paired/2ba024d15ae7f9fa0ff9.webp",
         "name": "Pastel Spooky",
         "series": "Pastel Spells",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-6e407194.html?scent=peony-lychee"
       },
       {
@@ -1938,6 +1946,14 @@
       },
       {
         "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/fb0c003420f8cf28eda6.webp",
+        "name": "Pastel Spooky Bat Diffuser",
+        "series": "Pastel Magic",
+        "catalogueHref": "halloween-collection-5.html",
+        "href": "product-lnv-hlw-090395d1.html?scent=blackcurrant-rose"
+      },
+      {
+        "category": "halloween",
         "image": "assets/halloween/paired/5f771cdde3615e5376de.webp",
         "name": "Lilac Bat Spell",
         "series": "Enchanted Halloween",
@@ -2078,6 +2094,14 @@
         "series": "Mahjong Stories",
         "catalogueHref": "candles-chinese-style.html",
         "href": "product-lnv-cnd-5b8353fd.html?scent=pomegranate-amber"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/a3ad69bca366b38626bd.webp",
+        "name": "Berry Bat Diffuser",
+        "series": "Purple Moonlight",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-c8e35bb0.html?scent=pomegranate-amber"
       },
       {
         "category": "halloween",
@@ -2282,7 +2306,7 @@
         "image": "assets/halloween/elegant-night/bc33b74de831236e3f4b.webp",
         "name": "Purple Witch Ghost",
         "series": "Purple Moonlight",
-        "catalogueHref": "halloween-collection-2.html",
+        "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-6d14575d.html?scent=lavender-cedarwood"
       },
       {
@@ -2292,6 +2316,14 @@
         "series": "Purple Moonlight",
         "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-f2946f06.html?scent=lavender-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/9108f12b57071771c62c.webp",
+        "name": "Lavender Castle Diffuser",
+        "series": "Purple Moonlight",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-146b0e61.html?scent=lavender-cedarwood"
       },
       {
         "category": "candle",
@@ -3048,6 +3080,14 @@
         "series": "Ivory Ghost Stories",
         "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-5a9c7404.html?scent=black-tea-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/588c155aa46ea418d73e.webp",
+        "name": "Reading Ghost Diffuser",
+        "series": "Ivory Ghost Stories",
+        "catalogueHref": "halloween-collection-5.html",
+        "href": "product-lnv-hlw-9dfb1a8a.html?scent=black-tea-cedarwood"
       },
       {
         "category": "reed",
@@ -3913,7 +3953,7 @@
         "image": "assets/halloween/paired/499d7733d304051d864d.webp",
         "name": "Starry Witch Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-b266970f.html?scent=sandalwood-cashmere"
       },
       {
@@ -4603,7 +4643,7 @@
         "image": "assets/halloween/paired/4dd5a01cd767291e09d0.webp",
         "name": "Golden Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-52751d33.html?scent=amber-vanilla"
       },
       {
@@ -5236,6 +5276,14 @@
         "series": "Ghost Parade",
         "catalogueHref": "halloween-collection-3.html",
         "href": "product-lnv-hlw-3d53b81a.html?scent=pumpkin-spice"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/c58562216fb0915f7085.webp",
+        "name": "Pumpkin Bat Diffuser",
+        "series": "Pumpkin & Amber",
+        "catalogueHref": "halloween-collection-3.html",
+        "href": "product-lnv-hlw-79280ca1.html?scent=pumpkin-spice"
       },
       {
         "category": "halloween",
@@ -5982,7 +6030,7 @@
         "image": "assets/halloween/paired/687694e6aa7fd69f1f33.webp",
         "name": "Pumpkin Stripe Ghost",
         "series": "Ghost Parade",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-72b814d6.html?scent=orange-clove"
       },
       {
@@ -6484,7 +6532,7 @@
         "image": "assets/halloween/paired/24810435e341aec553f5.webp",
         "name": "Midnight Witch Hat",
         "series": "Midnight Mischief",
-        "catalogueHref": "halloween-collection-3.html",
+        "catalogueHref": "halloween-collection-4.html",
         "href": "product-lnv-hlw-0085bd09.html?scent=mugwort-incense"
       },
       {
@@ -6500,7 +6548,7 @@
         "image": "assets/halloween/elegant-night/afea8bea99107dac9065.webp",
         "name": "Pumpkin & Black Cat",
         "series": "Ivory Ghost Stories",
-        "catalogueHref": "halloween-collection-4.html",
+        "catalogueHref": "halloween-collection-5.html",
         "href": "product-lnv-hlw-3050b75c.html?scent=mugwort-incense"
       },
       {
@@ -6700,6 +6748,14 @@
         "series": "Easter Little Joys",
         "catalogueHref": "candles-little-joys-2.html",
         "href": "product-lnv-cnd-14be914a.html?scent=green-tea-cedarwood"
+      },
+      {
+        "category": "halloween",
+        "image": "assets/halloween/reed-diffusers/61ae5fcbe7df0c627eea.webp",
+        "name": "Sage Witch Diffuser",
+        "series": "Midnight Navy & Charcoal",
+        "catalogueHref": "halloween-collection-2.html",
+        "href": "product-lnv-hlw-71fd09e7.html?scent=green-tea-cedarwood"
       }
     ],
     "family": "Oriental Mystery",
