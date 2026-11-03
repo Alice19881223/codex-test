@@ -23,6 +23,8 @@ for path in stage.glob('*.html'):
  text=path.read_text()
  category=re.search(r'data-category="([^"]+)"',text)
  if category:
+  assert '<script src="catalog.js"' not in text,'Catalogue pages must use an immutable catalogue asset'
+  assert re.search(r'<script\b[^>]*src="catalog-[a-f0-9]{12}\.js"',text),'Versioned catalogue asset missing'
   rows=catalogues[category[1]];page=int(re.search(r'data-page="(\d+)"',text)[1]);indexes=[int(x) for x in re.findall(r'data-photo="(\d+)"',text)]
   collection=re.search(r'data-collection="([^"]+)"',text)
   if collection:

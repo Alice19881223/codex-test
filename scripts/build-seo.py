@@ -6,6 +6,7 @@ from pathlib import Path
 from urllib.parse import urljoin,urlsplit,parse_qsl,urlencode,urlunsplit
 import csv,html,json,re,collections,hashlib
 ROOT=Path(__file__).resolve().parents[1]
+CATALOG_ASSET='catalog-'+hashlib.sha256((ROOT/'catalog.js').read_bytes()).hexdigest()[:12]+'.js'
 CHRISTMAS_VERSION=hashlib.sha256((ROOT/'assets/catalogue-order.json').read_bytes()).hexdigest()[:12]
 CANDLE_VERSION=hashlib.sha256((ROOT/'assets/candle-collections.json').read_bytes()+(ROOT/'assets/candle-products.json').read_bytes()).hexdigest()[:12]
 LISTING_VERSION=hashlib.sha256(
@@ -230,7 +231,7 @@ def build():
    # Restore the data needed by legacy query redirects on actual catalogue grids.
    if 'id="catalogue-grid"' in text:
     text=re.sub(r'<script\b[^>]*src="catalog(?:-[a-f0-9]{12})?\.js"[^>]*></script>','',text)
-    text=re.sub(r'(<script\b[^>]*src="app(?:-[a-f0-9]{12})?\.js"[^>]*></script>)',r'<script src="catalog.js" defer></script>\1',text,count=1)
+    text=re.sub(r'(<script\b[^>]*src="app(?:-[a-f0-9]{12})?\.js"[^>]*></script>)',lambda m:f'<script src="{CATALOG_ASSET}" defer></script>'+m[1],text,count=1)
    # Shared navigation no longer requires the 283 KB catalogue on informational pages.
    if name not in BY_URL and 'id="catalogue-grid"' not in text:text=re.sub(r'<script\b[^>]*src="catalog(?:-[a-f0-9]{12})?\.js"[^>]*></script>','',text)
    # A useful no-script path to enquire, alongside the enhanced WhatsApp form.
